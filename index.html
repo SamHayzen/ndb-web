@@ -10904,7 +10904,7 @@
 			}
 			#theMainBox {
 				width: 100% !important;
-				height: 100% !important;
+				height: 87% !important;
 			}
 			#webOutput {
 				height: 75% !important;
@@ -10919,18 +10919,18 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	</head>
 	<body id="Body">
-		<div id="theMainBox">
-			<div id="overBox" style="max-width: 800px; margin-right:auto; margin-left:auto;">
+		<div id="overBox" style="max-width: 800px; margin-right:auto; 	margin-left:auto;">
+			<div id="theMainBox">
 				<p class="redText"> <a id="backButton"> [<- Back] </a> <a id="cdDownButton"> [cd ..] </a></p>
 				<pre style="white-space: pre-wrap"><code id="webOutput" class="css">
 	Loading...
 				</code></pre>
-				 <p class="redText"> <input type="text" placeholder="Type Commands Here" style="width: 80%;" id="inCommand"> <a id="helpButton"> [Click me for Info!] </a></p>
+				 <p class="redText"> <input type="text" placeholder="Type Commands Here" style="width: 75%;" id="inCommand"> <a id="helpButton"> [Click me for Info!] </a></p>
 				 <p class="redText"> <a style="color: #859900"> Shortcuts</a><a style="color: #839496"> --</a><a id="tutorialButton"> [Tutorial] </a><a id="wikiButton"> [The Wiki -- Netpedia] </a><a id="searchButton"> [Wiki Search] </a><a style="color: #839496"></p>
 				 <p class="redText"></a><a style="color: #859900" id="entryNum"> current wiki entries </a><a id="randomButton">[Take me to a random entry!]</a></p>
-				 <div  style="position: fixed; bottom: 0;">
-					<p class="redText"> <a style="color: #859900"> This wiki image was last pushed 12/8/19.  If severely out of date, ask @Sam Hayzen </a><a id="discordButton">[On our Discord!] </a></p>
-				 </div>
+			 </div>
+		     <div style="">
+				<p class="redText" style="padding-top: 5%"> <a style="color: #859900"> This wiki image was last pushed 12/8/19.  If severely out of date, ask @Sam Hayzen </a><a id="discordButton">[On our Discord!] </a></p>
 			 </div>
 		</div>
 		<script>
@@ -12730,7 +12730,7 @@
 						}
 					} while(loopover);
 				}
-				$("#entryNum").html(getNumWikiEntries()+$("#entryNum").html());
+				$("#entryNum").html(getNumWikiEntries()+$("#entryNum").html()); //display num entries
 				runCommand("");
 			});
 		</script>
