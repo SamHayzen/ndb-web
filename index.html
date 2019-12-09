@@ -10920,7 +10920,7 @@
 Loading...
 			</code></pre>
 			 <p class="redText"> <input type="text" placeholder="Type Commands Here" style="width: 70%;" id="inCommand"> <a id="helpButton"> [Click me for Info!] </a></p>
-			 <p class="redText"> <a style="color: #859900"> Shortcuts</a><a style="color: #839496"> --</a><a id="tutorialButton"> [Tutorial] </a><a id="wikiButton"> [The Wiki -- Netpedia] </a><a id="searchButton"> [Wiki Search] </a></p>
+			 <p class="redText"> <a style="color: #859900"> Shortcuts</a><a style="color: #839496"> --</a><a id="tutorialButton"> [Tutorial] </a><a id="wikiButton"> [The Wiki -- Netpedia] </a><a id="searchButton"> [Wiki Search] </a><a style="color: #839496"> -- </a><a style="color: #859900" id="entryNum"> current wiki entries </a><a id="randomButton">[Take me to a random entry!]</a></p>
 			 <div  style="position: fixed; bottom: 0; right: 0;">
 				<p class="redText"> <a style="color: #859900"> This wiki image was last pushed 12/8/19.  If severely out of date, ask @Sam Hayzen </a><a id="discordButton">[On our Discord!] </a></p>
 			 </div>
@@ -10949,6 +10949,7 @@ Loading...
 				$("#inCommand").focusout(function() {
 					commandInIsBeingTypedIn = false;
 				});
+				
 				
 				$(document).keypress(function(e) {
 					if(commandInIsBeingTypedIn) return;
@@ -10993,6 +10994,17 @@ Loading...
 						win.focus();
 					} else {
 						alert('Please allow popups for this website');
+					}
+				});
+				$("#randomButton").on("click",function(){
+					var holdsite = getSite("EQ.NETPEDIA");
+					while(true){
+						var randPageNum = Math.floor(Math.random()*web[holdsite].pages.length);
+						var hold = web[holdsite].pages[randPageNum].data.indexOf("[!1]");
+						if(hold>16||hold==-1&&web[holdsite].pages[randPageNum].data.length>16){
+							runCommand("cd EQ.NETPEDIA:"+web[holdsite].pages[randPageNum].path);
+							break;
+						}
 					}
 				});
 				$("#helpButton").on("click",function(){
@@ -11243,6 +11255,18 @@ Loading...
 					}
 					return say;
 				}
+				
+				function getNumWikiEntries(){
+					var say = 0, hold, holdsite = getSite("EQ.NETPEDIA");
+					for(var q = 0; q<web[holdsite].pages.length; q++){
+						hold = web[holdsite].pages[q].data.indexOf("[!1]");
+						if(hold>16||hold==-1&&web[holdsite].pages[q].data.length>16){
+							say++;
+						}
+					}
+					return say;
+				}
+				
 				function runCommand(comm){
 					if(typeof comm !== 'string') comm=comm+"";
 					var args = comm.split(" "); 
@@ -12698,6 +12722,7 @@ Loading...
 						}
 					} while(loopover);
 				}
+				$("#entryNum").html(getNumWikiEntries()+$("#entryNum").html());
 				runCommand("");
 			});
 		</script>
