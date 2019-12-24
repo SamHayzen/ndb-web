@@ -13049,6 +13049,7 @@
 				}
 				$("#entryNum").html(getNumWikiEntries()+$("#entryNum").html()); //display num entries
 				var holdURL = window.location.href;
+				console.log(holdURL);
 				if(holdURL.indexOf("?")!==-1){
 					holdURL = holdURL.split("?")[1];
 					runCommand(atob(holdURL));
