@@ -10,6 +10,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 		<script>
 			var domain = "https://samhayzen.github.io/ndb-web/";
+			var pushDate = "1/9/2020";
 			var web;
 			$.ajax({
 			  type: "GET",
@@ -54,7 +55,7 @@
 				 <p class="redText"></a><a style="color: #859900" id="entryNum"> current wiki entries </a><a id="randomButton">[Take me to a random entry!]</a></p>
 			 </div>
 		     <div style="">
-				<p class="redText" style="padding-top: 5%"> <a style="color: #859900"> This wiki image was last pushed 1/8/2020.  If severely out of date, ask @Sam Hayzen </a><a id="discordButton">[On our Discord!] </a></p>
+				<p class="redText" style="padding-top: 5%"> <a id="dateInput" style="color: #859900"></a><a id="discordButton">[On our Discord!] </a></p>
 			 </div>
 		</div>
 		<script>
@@ -62,6 +63,8 @@
 				var commandInIsBeingTypedIn = false;
 				var currentExtension = "";
 				const months = ["CopperFlame","Crystone","Deriz","Bloom","Lereai","HarvestCrest","Karmil","SteelFell","Lunakin","SiltCrest","TinBell","Etherglide","Crimson","Apofel"];
+				
+				$("#dateInput").html(" This wiki image was last pushed "+pushDate+".  If severely out of date, ask @Sam Hayzen ");
 				
 				function copy(text) {
 					var input = document.createElement('input');
