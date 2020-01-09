@@ -7843,20 +7843,21 @@
         "name": "Illnesses",
         "path": "/ROOT/MEDICINE/ILLNESSES",
         "isUp": true,
-        "data": "css\n    [!1] >Viral Diseases\n    [!2] >Bacterial Diseases\n    [!3] >Mental Syndromes\n    [!4] >Genetic Syndromes\n    [!5] >Nutritional Illnesses\n    [!6] >Injury-Related Illnesses",
+        "data": "css\n    [!1] >Viral Diseases\n    [!2] >Bacterial Diseases\n    [!3] >Mental Syndromes\n    [!4] >Genetic Syndromes\n    [!5] >Nutritional Illnesses\n    [!6] >Injury-Related Illnesses\n    [!7] >Physical Illnesses",
         "links": [
           "/ROOT/MEDICINE/ILLNESSES/VIRAL",
           "/ROOT/MEDICINE/ILLNESSES/BACTERIAL",
           "/ROOT/MEDICINE/ILLNESSES/MENTAL",
           "/ROOT/MEDICINE/ILLNESSES/GENETIC",
           "/ROOT/MEDICINE/ILLNESSES/NUTRITIONAL",
-          "/ROOT/MEDICINE/ILLNESSES/INJURY-RELATED"
+          "/ROOT/MEDICINE/ILLNESSES/INJURY-RELATED",
+          "/ROOT/MEDICINE/ILLNESSES/PHYSICAL"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/30 01:47:52",
-          "editTime": "2019/10/30 01:52:06"
+          "editTime": "2020/01/09 11:00:42"
         },
         "extension": ""
       },
@@ -10103,7 +10104,14 @@
         "path": "/ROOT/TECHNOLOGY/PHYSICS/KINETICS/APPLICATION/QMRP",
         "isUp": true,
         "data": "css\n    Qi-Mediated Remote Pressure, abbreviated as \"QMRP\" (and sometimes pronounced as \"Chirp\"), is a method of pushing an object or material from an extended distance without making physical contact.  Most notably, QMRP technology is used in [!1 Drifsam Diversion Cannons].\n    \n    Specifically, Qi-Mediated Remote Pressure is a technology used to apply pressure to objects over an extended distance without direct physical contact.  At its most basic, a QMRP applicator can be pointed at any object or material, given power, and the object or material will be pushed away from the QMRP device in the direction its pointing.\n    \n    A QMRP applicator can be imagined as beam emitter, emitting a line in the direction it is pointing.  Any matter this beam hits, including scattered materials, normal objects, or even air, will be pushed away in the exact direction of the beam, regardless of distance.  Of course, the applicator is also pushed in the opposite direction with an amount of force equal to that applied to the target.\n    \n    QMRP applicators are made through [!2 Qi-Induced Microstructuring] of Potassium Dichromate Crystals, with the microstructured crystal having a Structure Layer Count of eleven.  This means that QMRP applicators are usually very thin, less than a centimeter in width.  The majority of QMRP applicators are made to be circular.\n    \n    The amount of force a QMRP applicator is capable of applying is directly proportional to its area.  This means that the wider an applicator is, the harder its able to push.  Due to this, different sizes of applicators have garnered different names.  An applicator less than a centimeter in diameter is referred to as a \"die\"; one greater than a centimeter, but lesser than six centimeters, in diameter is called a \"chip\"; one greater than six centimeters in diameter is called a \"plate\".\u0000css\n    Qi-Mediated Remote Pressure was first discovered on [!3 Deoria] in the -50s through [!2 microstructuring] discoveries.  Among these discoveries were [!5 Flow Crystals], whole, natural crystals constructed out of QMRP-applying microstructures.  Though, these crystals were used only as inefficient fans, and their full utility wouldn't be realized for decades.\n    \n    In the 30s, through [!2 microstructuring] advancements, Flow Crystals were being studied and refined.  At this point, Flow Crystals were being cut into Microstructure wafers with Structure Layer Counts of just one.  This low layer count made the applicators very weak, meaning that they could not push very hard.  At the time, the technology was called \"Flow Wafer\" technology, and dismissed as being nothing more than another technology to make fans.\n    \n    Through the 70s to the 80s the [!4 Vectorate company] performed further research and development on Flow Wafers.  They had realized the potential applications of QMRP technology in space.  They managed to evolve a breed of microstructured Potassium Dichromate Crystal to allow eleven layers of QMRP microstructure to \"shoot\" through each other, effectively making QMRP devices eleven times stronger.\n    This breakthrough made QMRP technology viable for use in [!1 Drifsam Diversion Cannons].  Shortly after its invention, the technology was licensed to the [!5 Itascan Government] for cleaning up the aftermath of the [!6 Apocalypse Collision Incident].",
-        "links": [],
+        "links": [
+          "/ROOT/TRAVEL/SPACE/DEBRIS/DDC",
+          "/ROOT/TECHNOLOGY/MATERIALS/MICROSTRUCTURES/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
+          "/ROOT/COMPANIES/RESEARCH/PHYSICS/VECTORATE",
+          "/ROOT/NATIONS/ITASCUS/MAIN",
+          "/ROOT/CALENDAR/DISASTERS/APOCALYPSE_COLLISION_INCIDENT"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
@@ -10134,7 +10142,9 @@
         "path": "/ROOT/COMPANIES/RESEARCH/PHYSICS",
         "isUp": true,
         "data": "css\n    [!1] +Vectorate",
-        "links": [],
+        "links": [
+          "/ROOT/COMPANIES/RESEARCH/PHYSICS/VECTORATE"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
@@ -10142,6 +10152,43 @@
           "editTime": "2020/01/08 10:18:33"
         },
         "extension": ""
+      },
+      {
+        "name": "Physical Illnesses",
+        "path": "/ROOT/MEDICINE/ILLNESSES/PHYSICAL",
+        "isUp": true,
+        "data": "css\n    [!1] +Qi Overheating [unwritten]\n    [!2] +Invasive Microstructured Bio-Crystal Growth",
+        "links": [
+          "/ROOT/MEDICINE/ILLNESSES/PHYSICAL/QI_OVERHEATING",
+          "/ROOT/MEDICINE/ILLNESSES/PHYSICAL/IMBCG"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/01/09 11:01:00",
+          "editTime": "2020/01/09 11:13:47"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Invasive Microstructured Bio-Crystal Growth",
+        "path": "/ROOT/MEDICINE/ILLNESSES/PHYSICAL/IMBCG",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────────────┐\n│Disease Type........: Other           │\n│Transmission Type...: N/A             │\n│Contraction Chance..: 1 in 3,750,000  │\n│Pan-Special?........: Yes             │\n│Onset Time..........: 72 Hrs - 10 Yrs │\n│Risk Factors........: Environmental Qi│\n│                      Density,        │\n│                      Chronic Dehydra-│\n│                      tion,           │\n│                      High-Sodium Diet│\n│Symptom & Effects...: Variable        │\n│Illness Duration....: Indefinite      │\n│Fatality Rate.......: 98 in 100       │\n│Fatality Onset......: 72 - 240 Hrs    │\n│Fatality Cause......: Variable        │\n└──────────────────────────────────────┘\n\n    Invasive Microstructured Bio-Crystal Growth (IMBCG) is the result of a [!1 Microstructured] Bio-Crystal forming within an organism’s body. This tends to occur over an extended period of time, and generally in locations with high Qi concentration. Somehow, a Structure Seed or something similar had found its way into an organism’s internal ecosystem. Over a period of time, the bio-crystal gathers material and absorbs Qi energy, thus growing larger and larger, potentially replacing whole organs during its crystallogenesis. \n\n    IMBCG, for much of its development, will only cause everpresent, but slowly increasing, food cravings and mineral deficiencyies as the crystal draws from the materials the patient consumes.  IMBCG crystals also absorb the ambient [!2 Qi energy] of the infected in order to grow.  Normally, this would impair an infected person’s ability to maintain homeostasis.  But, it ultimately has limited effects on an individual's homeostasis.\u0000css\n    Most commonly, individuals contract the disease by living in an area with high concentrations of [!3 uncharged Qi Particles].  Environments such as these supplement their own levels of charged Qi, and subsequently that of the bio-crystal.  If the infected were to relocate to a less uncharged-qi-dense location, they may notice weakness across their body, as the IMBCG crystal within them would be taking a larger proportion of their body's energy.\n\n    Notably, some individuals have found themselves healthier (in some respects) after a few years of being infected, as some breeds of bio-crystals can prove beneficial as storage for Qi energy.  This means they can act as batteries, or sorts, and making the body's level of Qi saturation more stable.  Though the effect is limited, as accessing this storage for purposes other than that of their natural biology is not inherent to individuals.\n\n    Aside from the side effects of the process of growth itself, the structure that the bio-crystal grows into also has its own symptoms, due to the crystal's random formation creating random breeds of [!1 microstructure] crystals.  Often, the bio-crystals grow into and replace biological matter, taking up the shape, size, and location of an organ. Some tissue samples from IMBCG amputees have found the area around the amputated limb taking on a near lattice-like protein construction similar to Microstructured Crystals.  The exact symptoms vary depending on where the crystal manifests, but often, they are not apparent until days before death, or if the bio-crystal had grown into a visible body part.\u0000css\n    Another common symptom of IMBCG is [!4 Qi overheating].  The patient's body will have the same amount of Qi energy saturation as a healthy individual.  But, since many microstructured crystals have a higher level of Qi capacity than their component materials, the crystalls usually greatly increase a patient's Qi capacity, which subsequently raises the body's amount of resting charged Qi.  As a result or raised ambient Qi levels, higher amounts of energy in a patient's body is converted to heat, which can cause a variety of issues related to heat exposure.\n\n    If the bio-crystal forms somewhere deep in the body, IMBCG can be difficult to detect until it is too late to treat.  Despite the crystalline structure often replacing many vital organs, it has more limited effects on the skeletal and nervous system.  The bio-crystal can replace bones rather easily.  Whereas, while their replacement of the nervous system and parts of the brain has negative side effects, they noticeably reduced (as compared to manifestation in other organs).  The disease's effects are a result of crystal often replacing biological matter, as opposed to just building into it.\n    An autopsy of one victim, performed on [!5 Gallea] in the year 63, had revealed that their parietal lobe was somehow nearly-entirely replaced by IMBCG bio-crystals.  In spite of that, until days before their death, they had most of their pain, visual, and tactile sensory input still intact.  Another individual, in 89, had to have their hand amputated after they had discovered that they had a massive, aggressive, invasive IMBCG bio-crystal in their palm through recieving a cut.\u0000css\n    The only way to treat IMBCG, assuming that it was uncovered while it could still be treated, is to remove the growing bio-crystal.  This usually involves invasive surgery, or even amputations.\n\n    Interestingly, there has been research undertaken in third-world nations and backwater worlds to enhance Qi conjuration through principles related to IMBCG.  Essentially, people have made rudimentary attempts to graft Microstructured Crystals to individuals to enhance their bodies' Qi energy storage.",
+        "links": [
+          "/ROOT/TECHNOLOGY/MATERIALS/MICROSTRUCTURES/MAIN",
+          "/ROOT/TECHNOLOGY/ENERGY/TYPES/QI",
+          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/QI",
+          "/ROOT/MEDICINE/ILLNESSES/PHYSICAL/QI_OVERHEATING",
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN"
+        ],
+        "meta": {
+          "author": "<@!353748411318796299>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/01/09 11:03:42",
+          "editTime": "2020/01/09 11:06:47"
+        },
+        "extension": "TEXT"
       }
     ],
     "owners": []
