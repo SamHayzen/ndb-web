@@ -2152,9 +2152,10 @@
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   [!1] +Info\n   [!2] +Aphoterra Continent [Stub]\n   ----\n   [!3] +Itascus City\n   ----\n   [!4] +Excelsior",
+        "data": "css\n   [!1] +Info\n   [!2] +Aphoterra Continent [Stub]\n   ----\n   [!3] >Planetary Culture\n   ----\n   [!4] +Itascus City\n   ----\n   [!5] +Excelsior",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/CULTURE",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/APHOTERRA",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/ITASCUS_CITY",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/EXCELSIOR"
@@ -2163,7 +2164,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/05/05 03:26:08"
+          "editTime": "2020/07/11 19:58:47"
         },
         "extension": ""
       },
@@ -2715,20 +2716,21 @@
         "path": "/ROOT/COMBAT/PERSONAL_WEAPONS",
         "isUp": true,
         "backpath": "",
-        "data": "css\n[!1] +Main [Unwritten]\n[!2] >Ballistic Weapons\n[!3] >Energy Weapons\n[!4] >Melee Weapons\n[!5] >Weapon Modifications\n[!6] >Other",
+        "data": "css\n    [!1] +Main [Unwritten]\n    [!2] >Ballistic Weapons\n    [!3] >Energy Weapons\n    [!4] >Melee Weapons\n    [!5] >Weapon Modifications\n    [!6] >Weapon Accessories\n    [!7] >Other",
         "links": [
           "/ROOT/COMBAT/PERSONAL_WEAPONS/MAIN",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/ENERGY",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/MELEE",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/MODS",
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/ACCESSORIES",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/OTHER"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/09/21 16:03:20"
+          "editTime": "2020/07/11 00:53:15"
         },
         "extension": ""
       },
@@ -7202,16 +7204,17 @@
         "name": "Products and Common Consumables",
         "path": "/ROOT/MARKET/PRODUCTS",
         "isUp": true,
-        "data": "css\n   [Todo - add more kinds of products]\n   [!1] >Computers\n   [!2] >Substances and Medicine",
+        "data": "css\n   [Todo - add more kinds of products]\n   [!1] >Computers\n   [!2] >Substances and Medicine\n   [!3] ~Personal Weaponry",
         "links": [
           "/ROOT/MARKET/PRODUCTS/COMPUTERS",
-          "/ROOT/MARKET/PRODUCTS/SUBSTANCES"
+          "/ROOT/MARKET/PRODUCTS/SUBSTANCES",
+          "/ROOT/COMBAT/PERSONAL_WEAPONS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/23 12:42:52",
-          "editTime": "2019/10/23 12:44:32"
+          "editTime": "2020/07/11 00:55:35"
         },
         "extension": ""
       },
@@ -10819,6 +10822,125 @@
           "editTime": "2020/06/20 23:10:21"
         },
         "extension": ""
+      },
+      {
+        "name": "Weapon Accessories",
+        "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/ACCESSORIES",
+        "isUp": true,
+        "data": "css\n    [!1] +Atlas Universal Charger",
+        "links": [
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/ACCESSORIES/ATLAS_CHARGER"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/11 00:53:57",
+          "editTime": "2020/07/11 00:54:36"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Atlas Universal Charger",
+        "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/ACCESSORIES/ATLAS_CHARGER",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────────────┐\n│Common Use Period...: 92 - Present    │\n│Unit Cost...........: $90/unit        │\n│Manufacturer........: [!1 Atlas Corp] │\n└──────────────────────────────────────┘\n\n    The Atlas Universal Charger is an essential accessory for any product manufactured by [!1 Atlas Corp] that utilizes a capacitor bank or battery.  The plug itself is cylindrically-shaped and 4cm in diameter, with 5 metal prongs sticking out of the end.  This end, in turn, gets inserted into the charging port of any Atlas capacitor or battery (the other end is connected to a power source).  Once inserted, the plug is locked in place so it cannot fall out.  The charging port locks in place via a spring-loaded latch.\n\n    When purchased from a registered vendor, the Atlas Universal Charger comes with a replacement warranty lasting until one (1) [!2 Galactic Year] after purchase.  While under warranty, if the charger breaks through normal use, the consumer may ship the broken charger back to Atlas headquarters -- based on [!3 Itascus] -- and a replacement will be shipped back to them.  Shipping rates may apply.",
+        "links": [
+          "/ROOT/COMPANIES/MILITARY/ATLAS",
+          "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN"
+        ],
+        "meta": {
+          "author": "<@!383849171331055616>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/11 00:55:56",
+          "editTime": "2020/07/11 01:01:24"
+        },
+        "extension": ""
+      },
+      {
+        "name": "National Itascan Culture",
+        "path": "/ROOT/CULTURE/NATIONAL/ITASCAN",
+        "isUp": true,
+        "data": "css\n    [!1] +Itascan Work & Meal Schedule",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/DAILY_SCHEDULE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/11 19:52:08",
+          "editTime": "2020/07/11 19:55:04"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Itascan Work & Meal Schedule",
+        "path": "/ROOT/CULTURE/NATIONAL/ITASCAN/DAILY_SCHEDULE",
+        "isUp": true,
+        "data": "css\n    The daily life of a common [!1 Planetary Itascan], any many [!2 Itascan Nationals], starts as any day does for most denizens of Asmodea: Waking up to breakfast.  However, the breakfast of a common Itascan is unique -- it is typically their largest meal of the day, consuming between 3,600 and 4,200 joules of energy in just one sitting!  Breakfasts this large became commonplace in ancient times, designed to give workers the extra calories need to comfortably make it through the cold days on Itascus.  Some breakfast specialties observed across the planet include domesticated lizard eggs, Reptile sausage, or Itascan Grizzly Steaks, complimented by a side of greens, such as Itascian Sourgrass.\n    \n    After eating breakfast, the common Itascan heads to work for the day.  Come lunchtime -- defined by local noon -- employees pause their work and head to a designated room eat their packed lunch.  If one's place of work has a proper mess hall, they will order food from the in-house kitchen (as opposed to packing their own).  And Itascan lunch is the smallest meal of the day, usually just being a sandwich or seed roll.  Within Itascan companies, lunchtime typically ushers in a 30 to 45 minute lunch break.  After which work resumes until the end of the work day, which is typically in the mid-afternoon, though sometimes later.\u0000css\n    For most Itascans, from this point on in the day is leisure time, just doing things like going home, partying at a public venue, spending time with their friends, and whatever else they feel like they want to do.  Dinnertime can happen either in the home or at a public resturaunt.  An Itascan dinner is typically protein-heavy; usually, dinner has some type of meat as its main course, with small sides of greens or grains.\n    \n    At bedtime, a common Itascan will put their children to rest and climb into bed with their spouse, resting themself up for the next day.  The Itascan work cycle is 10 days in total (akin to [!3 Standard Galactic Time]), and is 7 days on, 3 days off, and is equal to exactly 10 orbits of Itascus around [!4 Skoth].",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/NATIONS/ITASCUS/MAIN",
+          "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/MAIN"
+        ],
+        "meta": {
+          "author": "<@!333050075951661058>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/11 19:55:27",
+          "editTime": "2020/07/11 19:56:05"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Itascan Planetary Culture",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/CULTURE",
+        "isUp": true,
+        "data": "css\n    [!1] ~Common Work & Meal Schedule",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/DAILY_SCHEDULE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/11 19:59:11",
+          "editTime": "2020/07/11 19:59:40"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Energy Rifles",
+        "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/ENERGY/RIFLES",
+        "isUp": true,
+        "data": "css\n    [!1] +ACLR-X \"Warden\"",
+        "links": [
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/ENERGY/RIFLES/WARDEN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/12 01:08:24",
+          "editTime": "2020/07/12 01:17:25"
+        },
+        "extension": ""
+      },
+      {
+        "name": "ACLR-X \"Warden\"",
+        "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/ENERGY/RIFLES/WARDEN",
+        "isUp": true,
+        "data": "css\n┌────────────────────────────┐\n│Use Period......: 98-Present│\n│Weight..........: 4.5 Kg    │\n│Ammunition......: ACLR Bank │\n│Clip Capacity...: 8 Rounds  │\n│Shots/3 seconds.: 3         │\n│Loading Type....: Semi-auto │\n│Reload Time.....: 3s        │\n│Accuracy Rating.: 8         │\n│Precision Rating: 4         │\n│AP Rating.......: 4         │\n│Damage Type.....: Thermal   │ \n│Manufacturer....: [!1 Altas]│ \n└────────────────────────────┘\n\n    The ACLR-X “Warden” sports an ambidextrous grip, and utilizes Atlas Corp’s first ever 8-charge rotating capacitor bank.  As this is a pulse laser rifle, it is best used for anti-personnel applications.  Although the Warden makes built with a new capacitor bank, it is still charged with an [!2 Atlas Universal Charger].\n\n    Built into the upper receiver is eight LEDs which act as a charge counter.  This counter starts with all eight LEDs lit, and one LED dims for each shot fired.  The addition of this counter is so the user can focus more on firing the weapon, not having to keep count of the ammunition in their head, as the counter will do it for them.\n    The barrel of the rifle does not extend past the front handguard, making the weapon rather compact and easily transportable when the capacitor is ejected.  The eight charge-capacitor can be inserted and ejected from what would be considered the upper receiver of the rifle, and extends out from the sides of the weapon.  Once chambered, a pin holds the capacitor in place while allowing it to rotate.  The pin extends beyond the back of the chambered, ending with a small pull handle.  To eject the capacitor, the user must disengage the pin by pulling its handle (spent capacitor banks can be recharged).\u0000css\n    As per standard of Atlas, the rifle features universal tactical rail mounts on the upper receiver, and on all four sides of the handguard.  As this is a rifle that will be intended for use on extended operations as well as short-term engagements, extensive research went into making sure the rifle is built as light as possible, using similar methods of manufacturing and materials that went into the [!3 Vega].\n\n    This is the second weapon produced by Atlas Corp., with the company's vision still being set on producing laser weaponry.  Purchase of rifle will run a buyer around $750, including one capacitor bank.  Individual 8-round capacitor banks for the ACLR-X are sold at $80 dollars per unit.  Atlas also manufactures 6-round banks, which are sold at a cheaper $60.\n\n    It was documented multiple times during product testing that many who fired the Warden mentioned that it \"gives off a satisfying smell of ozone\".",
+        "links": [
+          "/ROOT/COMPANIES/MILITARY/ATLAS",
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/ACCESSORIES/ATLAS_CHARGER",
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/ENERGY/HANDGUNS/REVOLVERS/VEGA"
+        ],
+        "meta": {
+          "author": "<@!383849171331055616>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/12 01:19:04",
+          "editTime": "2020/07/12 01:26:35"
+        },
+        "extension": "TEXT"
       }
     ],
     "owners": [],
