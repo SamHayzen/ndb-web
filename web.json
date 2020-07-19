@@ -2152,11 +2152,12 @@
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   [!1] +Info\n   [!2] +Aphoterra Continent [Stub]\n   ----\n   [!3] >Planetary Culture\n   ----\n   [!4] +Itascus City\n   ----\n   [!5] +Excelsior",
+        "data": "css\n   [!1] +Info\n   [!2] +Aphoterra Continent [Stub]\n   ----\n   [!3] >Planetary Culture\n   [!4] +Old Nations of Itascus\n   ----\n   [!5] +Itascus City\n   ----\n   [!6] +Excelsior",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
-          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/CULTURE",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/APHOTERRA",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/CULTURE",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/OLD_NATIONS",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/ITASCUS_CITY",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/EXCELSIOR"
         ],
@@ -2164,7 +2165,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/07/11 19:58:47"
+          "editTime": "2020/07/19 18:13:26"
         },
         "extension": ""
       },
@@ -2389,7 +2390,7 @@
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n┌──────────────────────────┐\n│Radius.........: 4,823km  │\n│Atm. Rating....: B+       │\n│Atm. Height....: 121km    │\n│Atm. Pressure..: 2.23atm  │\n│Surf. Gravity..: 0.78G    │\n│Hydrosphere....: Water,83%│\n│Precipitation..: 121cm/y  │\n│Obliquity......: 23.2°    │\n│Average Temp...: 289°k    │\n│Rotation Period: 1.5 Days │\n│Orbital Period.: 1.5 Days │\n│Population.....: 3.9B     │\n│Majority Race..: Itascan  │\n│Allegiance.....: Itascus  │\n└──────────────────────────┘\n\n    Itascus (\"it-ass-cuss\") is the blue marble mother of the [!1 Itascan species], and holds a living population of almost 4 Billion people.  Itascus is a lunar world, coated with oceans populated by a few specs and swaths of land, scattered along the surface like dust in the wind.  Since Itascus's fauna is of the [!2 Itaus] vivotype, the plant life covering the planet's land masses is light green in color, contrasting well with the world's light blue oceans.\n    Unlike most other lunar worlds, Itascus still has a very active geology.\n     \n    From a distance, the planet has a blue sheen around it due to its tall atmosphere.  From the surface, the sky appears to be a light cyan-blue, with deep red sunrises and sunsets.  The Itascan atmosphere is even thick enough that nighttime views of the cosmos appear slightly hazed. \n\n    Due to its proximity to its orbital parent, Itascus is tidally locked to [!3 Skoth], meaning that one side of Itascus is always facing the gas giant. On this side, the temperature is lower than the average for the planet, the middle most part of it being in a state of eternal winter.  Sometimes, this part of the ocean can become cold enough that its surface freezes over, creating a \"third ice cap\" on Itascus.  The area in which this temporal icecap manifests is known as \"Umbrea\".\u0000css\n    Itascus' [!4 Time Table String] is \"N-10:00T ZT 1Y/12L/18D/20T/40d\".  The point on Itascus's surface which always faces Skoth marks the [!5 Longitudinal Origin] in the [!5 STP System] for this planet.\n    \n    Itascus has three primary landmasses over its surface, each of which being an [!6 Itascan Governmental Province].  These are the Ferika Continent/[!7 Capital Province], the Aphoterra Continent/[!8 Far Province], and the Kullmia Continent/[!9 Kullmi Province].\n    Ferika is located 90° east of the Umbrea ice cap, and takes up 14% of the surface of the planet.  Throughout Ferika are many mountain ranges, with various plains, valleys, and deserts strewn between them.\n    Cutting through the northern half of Ferika is the Nerona River.  Fed by hundreds of smaller streams and creeks throughout the northern half of the continent.  The Nerona River large enough that it's easily visible from space, being a distinct part of the continent's outline.\u0000css\n    Aphoterra and Kullmia are opposite of Ferika, 90° to the West of the Umbrea ice cap.  These two continents are adjacent to one another, with Aphoterra being due north of Kullmia.  On the east-most side of the pair of continents is the Aphokull Land Bridge, which is 322km long and 108km wide.\n    Apoterra's edges are made up of plateaus, plains, and sheer coastal cliffs.  More inland, on the west side of Apoterra, are great plains on shallow, treeless soil, thought to be caused by the movement of long-gone glaciers.  On the Eastern half of Apoterra's inland is home to hilly woods and thick forests covering medium-height mountain ranges.  Apoterra exists over 9% for the planet's total surface.\n    The Kullmian continent is much more rugged than its northern neighbor.  On the eastern and western faces of Kullmia are extensive mountain ranges, spanning from the northern to southern shores.  In the middle of these mountains is the vast Kullmian Desert, which sees virtually no rainfall throughout the year.  Kullmia takes up 11% of the planet's surface by area.\n    The ocean area separating these continents, called the Aphoterra Bay or Kullmian Bay (name varies by location), divides them by 429 kilometers at its thinnest and 728 kilometers at its widest.\n     \n    A common sight on Itascus is [!10 airships], being a popular mode of travel both between and within cities. Many skyscrapers in densely populated areas have [!10 skydocks] for airships on their higher stories. For urban travel, it's not uncommon to see civilians riding and driving [!11 cars].",
+        "data": "css\n┌──────────────────────────┐\n│Radius.........: 4,823km  │\n│Atm. Rating....: B+       │\n│Atm. Height....: 121km    │\n│Atm. Pressure..: 2.23atm  │\n│Surf. Gravity..: 0.78G    │\n│Hydrosphere....: Water,83%│\n│Precipitation..: 121cm/y  │\n│Obliquity......: 23.2°    │\n│Average Temp...: 289°k    │\n│Rotation Period: 1.5 Days │\n│Orbital Period.: 1.5 Days │\n│Population.....: 3.9B     │\n│Majority Race..: Itascan  │\n│Allegiance.....: Itascus  │\n└──────────────────────────┘\n\n    Itascus (\"it-ass-cuss\") is the blue marble mother of the [!1 Itascan species], and holds a living population of almost 4 Billion people.  Itascus is a lunar world, coated with oceans populated by a few specs and swaths of land, scattered along the surface like dust in the wind.  Since Itascus's fauna is of the [!2 Itaus] vivotype, the plant life covering the planet's land masses is light green in color, contrasting well with the world's light blue oceans.\n    Unlike most other lunar worlds, Itascus still has a very active geology.\n     \n    From a distance, the planet has a blue sheen around it due to its tall atmosphere.  From the surface, the sky appears to be a light cyan-blue, with deep red sunrises and sunsets.  The Itascan atmosphere is even thick enough that nighttime views of the cosmos appear slightly hazed. \n\n    Due to its proximity to its orbital parent, Itascus is tidally locked to [!3 Skoth], meaning that one side of Itascus is always facing the gas giant. On this side, the temperature is lower than the average for the planet, the middle most part of it being in a state of eternal winter.  Sometimes, this part of the ocean can become cold enough that its surface freezes over, creating a \"third ice cap\" on Itascus.  The area in which this temporal icecap manifests is known as \"Umbrea\".\u0000css\n    Itascus' [!4 Time Table String] is \"N-10:00T ZT 1Y/12L/18D/20T/40d\".  The point on Itascus's surface which always faces Skoth marks the [!5 Longitudinal Origin] in the [!5 STP System] for this planet.\n\n    Itascus has three primary landmasses over its surface, each of which being an [!6 Itascan Governmental Province].  These are the Ferika Continent/[!7 Capital Province], the Aphoterra Continent/[!8 Far Province], and the Kullmia Continent/[!9 Kullmi Province].\n    Ferika is located 90° east of the Umbrea ice cap, and takes up 14% of the surface of the planet.  Throughout Ferika are many mountain ranges, with various plains, valleys, and deserts strewn between them.  Along the east coast of Ferika is an extensive, deep geological fault line.  Tectonic shift along this fault line over millions of years has caused the southern half of Ferika to be long and strait-like, almost reaching Itascus' South Pole.\n    Cutting through the northern half of Ferika is the Nerona River.  Fed by hundreds of smaller streams and creeks throughout the northern half of the continent.  The Nerona River is large enough that it's easily visible from space, being a distinct part of the continent's outline.\u0000css\n    Aphoterra and Kullmia are opposite of Ferika, 90° to the West of the Umbrea ice cap.  These two continents are adjacent to one another, with Aphoterra being due north of Kullmia.  On the east-most side of the pair of continents is the Aphokull Land Bridge, which is 322km long and 108km wide.\n    Apoterra's edges are made up of plateaus, plains, and sheer coastal cliffs.  More inland, on the west side of Apoterra, are great plains on shallow, treeless soil, thought to be caused by the movement of long-gone glaciers.  On the Eastern half of Apoterra's inland is home to hilly woods and thick forests covering medium-height mountain ranges.  Apoterra exists over 9% for the planet's total surface.\n    The Kullmian continent is much more rugged than its northern neighbor.  On the eastern and western faces of Kullmia are extensive mountain ranges, spanning from the northern to southern shores.  In the middle of these mountains is the vast Kullmian Desert, which sees virtually no rainfall throughout the year.  Kullmia takes up 11% of the planet's surface by area.\n    The ocean area separating these continents, called the Aphoterra Bay or Kullmian Bay (name varies by location), divides them by 429 kilometers at its thinnest and 728 kilometers at its widest.\n     \n    A common sight on Itascus is [!10 airships], being a popular mode of travel both between and within cities. Many skyscrapers in densely populated areas have [!10 skydocks] for airships on their higher stories. For urban travel, it's not uncommon to see civilians riding and driving [!11 cars].",
         "links": [
           "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_GENERAL",
           "/ROOT/BIOLOGY/VIVOTYPES/ITAUS",
@@ -2407,7 +2408,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/05/05 03:24:33"
+          "editTime": "2020/07/17 21:11:04"
         },
         "extension": "TEXT"
       },
@@ -2695,19 +2696,19 @@
         "path": "/ROOT/COMBAT",
         "isUp": true,
         "backpath": "",
-        "data": "css\n[!1] >Personal Weaponry\n[!2] >Vehicular Weaponry\n[!3] >Personal Armor\n[!4] >Vehicular Armor\n[!5] >Other",
+        "data": "css\n    [!1] >Personal Weaponry\n    [!2] >Vehicular Weaponry\n    [!3] >Personal Armor\n    [!4] >Vehicular Armor\n    [!5] >Weapon Technologies",
         "links": [
           "/ROOT/COMBAT/PERSONAL_WEAPONS",
           "/ROOT/COMBAT/VEHICLE_WEAPONS",
           "/ROOT/COMBAT/PERSONAL_ARMOR",
           "/ROOT/COMBAT/VEHICLE_ARMOR",
-          "/ROOT/COMBAT/OTHER"
+          "/ROOT/COMBAT/TECHNOLOGIES"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/08/21 19:38:26"
+          "editTime": "2020/07/19 18:23:47"
         },
         "extension": ""
       },
@@ -3550,9 +3551,10 @@
         "path": "/ROOT/COMPANIES/MILITARY",
         "isUp": true,
         "backpath": "",
-        "data": "css\n  [!1] +Atlas Corp.\n  [!2] +Outerweapon Conglomerate\n  [!3] >Minor",
+        "data": "css\n  [!1] +Atlas Corp.\n  [!2] +Itascan Dynamics [Unwritten]\n  [!3] +Outerweapon Conglomerate\n  [!4] >Minor",
         "links": [
           "/ROOT/COMPANIES/MILITARY/ATLAS",
+          "/ROOT/COMPANIES/MILITARY/ITASCAN_DYNAMICS",
           "/ROOT/COMPANIES/MILITARY/OUTERWEAPON",
           "/ROOT/COMPANIES/MILITARY/MINOR"
         ],
@@ -3560,7 +3562,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/02/13 13:52:22",
-          "editTime": "2019/11/03 23:36:34"
+          "editTime": "2020/07/19 20:08:20"
         },
         "extension": ""
       },
@@ -6734,16 +6736,17 @@
         "name": "Itascan History",
         "path": "/ROOT/NATIONS/ITASCUS/HISTORY",
         "isUp": true,
-        "data": "css\n  [!1] +National History Summary\n  [!2] +Itascan World War",
+        "data": "css\n    [!1] +National History Summary\n    [!2] +Itascan World War\n    [!3] +Finnia Accords",
         "links": [
           "/ROOT/NATIONS/ITASCUS/HISTORY/SUMMARY",
-          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR"
+          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR",
+          "/ROOT/NATIONS/ITASCUS/HISTORY/FINNIA_ACCORDS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/06 18:45:01",
-          "editTime": "2019/10/06 18:45:36"
+          "editTime": "2020/07/19 18:18:39"
         },
         "extension": ""
       },
@@ -9320,16 +9323,17 @@
         "name": "Research & Development Companies",
         "path": "/ROOT/COMPANIES/RESEARCH",
         "isUp": true,
-        "data": "css\n   [!1] +Genetics Companies\n   [!2] +Physics Comapnies",
+        "data": "css\n   [!1] +Genetics Research Companies\n   [!2] +Physics Research Comapnies\n   [!3] +Arms Research Companies",
         "links": [
           "/ROOT/COMPANIES/RESEARCH/GENETICS",
-          "/ROOT/COMPANIES/RESEARCH/PHYSICS"
+          "/ROOT/COMPANIES/RESEARCH/PHYSICS",
+          "/ROOT/COMPANIES/RESEARCH/ARMS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/12/02 18:48:19",
-          "editTime": "2020/01/08 10:18:20"
+          "editTime": "2020/07/19 20:09:16"
         },
         "extension": ""
       },
@@ -10939,6 +10943,120 @@
           "editor": "<@220352318510596096>",
           "madeTime": "2020/07/12 01:19:04",
           "editTime": "2020/07/12 01:26:35"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Weapon Technologies",
+        "path": "/ROOT/COMBAT/TECHNOLOGIES",
+        "isUp": true,
+        "data": "css\n   [!1] +Kinetic Bombardment Weapons\n   [!2] +Railgun Propulsion [Unwritten]\n   [!3] +Point Defense Weaponry [Unwritten]",
+        "links": [
+          "/ROOT/COMBAT/TECHNOLOGIES/KBW",
+          "/ROOT/COMBAT/TECHNOLOGIES/RAILGUNS",
+          "/ROOT/COMBAT/TECHNOLOGIES/POINT_DEFENSE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/18 19:25:27",
+          "editTime": "2020/07/19 18:26:58"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Kinetic Bombardment Weapons",
+        "path": "/ROOT/COMBAT/TECHNOLOGIES/KBW",
+        "isUp": true,
+        "data": "css\n    Kinetic Bombardment Weapons (KBW) are weapons which utilize an intert, heavy payload moving at incredible speeds to bombard a target.  KBW payloads weigh between 50 kilograms to 100 tons, and, at their top speeds, move at over two kilometers per second.  Modern KBWs are cheaper than explosive ordinace, as raw heavy metals, in most territories, are cheaper than high-yield explosives per joule of destructive power.\n    \n    Most [!1 nations] which maintain an arsenal of KBW construct payloads in orbit, with material mined from space objects (such as asteroids).  This is because raw materials used in KBWs are very heavy, and present a considerable cost when trying to bring them to space from the surface of a planet.\n    \n    Since the early 20s, KBWs have been dropped from orbit when used (as opposed to being dropped from any lower altitudes), with devistating results.  For optimal effectiveness, KBWs dropped from orbit are built with basic flight computers controlling actuated fins to allow the projectiles to make course adjustments mid-flight, after the projectiles have entered an atmosphere.\n    \n    Kinetic Bombardment Weapons were invented on [!2 Itascus], and refined through the [!3 Itacan Great War], in which it became an impactful, history-changing weapon.  Originally, KBW were dropped from aircraft, but they were found to be much more effective when dropped from orbit.",
+        "links": [
+          "/ROOT/COMBAT/TECHNOLOGIES/KBW/ROOT\\NATIONS",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/19 18:08:02",
+          "editTime": "2020/07/19 18:09:41"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Old Nations of Itascus",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/OLD_NATIONS",
+        "isUp": true,
+        "data": "css\n    Prior to the [!1 Itascan World War] in 17 P.W., there were eight major independent powers on the surface of Itascus.  These powers were:\n        Saryllia, with a population of 300 Million; \n        Amenira, with a population of 270 Million; \n        Corrum, with a population of 240 Million;  \n        Amora, with a population of 210 Million; \n        Carria, with a population of 200 Million; \n        Borone, with a population of 170; \n        Queensland, with a population of 120 Million; and \n        Finnia, with a population of 23 Million; \n\n    Saryllia, Amenira, Carria, Queensland, and Finnia existed on the [!2 Ferika Continent].  Saryllia occupied the Northwest of Ferika, bordering Amenira, which occupied the Northeast.  Both shared a southern border with Queensland, which took up the northern half of the [!2 Ferikan Southern Strait].  On the southern border of Queensland was Carria, which took up the lower half of the strait.  Finally, Finna, the smallest Ferikan nation, was a small, land-locked nation on the border between Saryllia and Amenira.\n    \n    On the other half of the planet, on the Kullmi and Aphoterra continents, were Borone, Corrum, and Amora.  Borone occupied the entirety of Aphoterra, bordering Amora to the south over the [!2 Aphokull Land Bridge].  Amora, in turn, took up the eastern half of [!2 Kullmia], with Borone occupying the western half.",
+        "links": [
+          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/19 18:14:46",
+          "editTime": "2020/07/19 18:15:42"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Finnia Accords",
+        "path": "/ROOT/NATIONS/ITASCUS/HISTORY/FINNIA_ACCORDS",
+        "isUp": true,
+        "data": "css\n    On 8/14/23, the member nations of Social Pact called a ceasefire in the [!1 Itascan Great War], with victory firmly in their grasp.  The national leaders realized this was an unparalleled opportunity to change the future of Itascus as a whole, and promptly took it.\n\n    The Social Pact agreed that Itascan Unification was essential their maintaining of power, and perhaps even survival of their species.  Aware that they had the planet in their grasp for the time being, they realized that now was the time to take action and make Itascus one.  The Finnia Accords continued for two months, and the ceasefire was extended indefinitely.  Though, nonetheless, the Great War was technically still raging.  In this time, Social Pact member nations gathered their most accomplished social scientists and experienced political figures to draft a structure for a world government.\u0000css\n    The Finnia Accords took one and a half [!2 galactic months] to draft a proposal for a world government, with routes being added to the proposed structure to allow for ammendments to be made immediately after being instated.\n    On 9/35/23, the Social Pact requested delegates from all other nations of Itascus to meet in Saryllia for peace talks.  Though, more than peace was to be discussed.  These talks would soon be known as the Unity Summit.  The non-Social-Pact delegates of Itascus's nations were told in, no uncertain terms, that nations of the Social Pact offered complete ceasation of conflict toward any nationstate which agreed to be annexed into a planetary Itascan government.\n    \n    Each delegate was sent back to their respective nation to relay the proposal to their leaders.  The deal itself is now known as \"The Unity Deal\".  The nations Borone, Queensland, and Carria agreed to the deal, while Amora's leadership refused.  They justified their refusal stating such a government would not be in the best interest of the people of Amora, or the people of Itascus abroad.  Historians agree, if Amora had agreed to the deal, the [!1 Itascan Unification War] would have ended then and there.",
+        "links": [
+          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR",
+          "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/19 18:19:00",
+          "editTime": "2020/07/19 18:20:23"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Arms Research Companies",
+        "path": "/ROOT/COMPANIES/RESEARCH/ARMS",
+        "isUp": true,
+        "data": "css\n    [!1] ~Itascan Dynamics",
+        "links": [
+          "/ROOT/COMPANIES/MILITARY/ITASCAN_DYNAMICS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/19 20:09:29",
+          "editTime": "2020/07/19 20:09:43"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/COMPANIES/MILITARY/ITASCAN_DYNAMICS",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/19 20:10:00",
+          "editTime": "2020/07/19 20:10:00"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Itascan World War",
+        "path": "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR",
+        "isUp": true,
+        "data": "css\n    The Itascan Great War (A.K.A. the Itascan Unification War) was a war between the [!1 eight major nations of Itascus]: Corrum, Amenira, Saryllia, and Finnia formed a collective called the Social Pact, while Amora, Borone, Queensland, and Carria formed the South Itascan Treaty Organization, or SITO.\n    The Social Pact nations were bound by their common interest in their nations' economic structure, then called \"Socio-Capitalisim\", which was a form of socialist economy that provided necessities to its people through considerable taxes, while still respecting personal capital.  Meanwhile, the nations of SITO saw Socio-Capitalisim as an infectious, volatile, and unfruitful economic system which hindered a nation's growth, threatening the economies of their own states, and that of Itascus at large.\n    \n    The war had sparked the attention of those all across the [!2 Silver Stream], leading some galactic powers to intervene.  Alien [!3 Deorian] forces supported the Social Pact, whilst [!4 Tuine] forces supported SITO, partially making the Itascan Great War a proxy war these two galactic powers.  The war was started over SITO nations passing the Ameniran Exclusion Act (AEA), which prevented all Amenirans entering SITO territory, banning trade with Amenira, and threatening to neutralize all Ameniran spacecraft that orbit over SITO lands, which threatened to greatly hinder, or even end, Amineran space exploration.\n\n    A year after the AEA was instated, Amenira gathered leaders of the other member nations of the Social Pact and rallied them for war, explaining that SITO only wanted to slow the progress of Socialized Capitalisim, and that their own nations could very well be next.  This meeting would come to be known as the Social Summit.  After that meeting, the nations of the Social Pact formally declared war on the nations of SITO.  This officially started the Itascan Great War on 5/12/17.\u0000css\n    Queensland, which shared their northern border with Amenira, fell to their invasion before foriegn forces could aid them, as their capital was firebombed to the ground amongst many other of their cities.  During the ensuing peace talks, there were accounts of the Ameniran president slapping the king of Queensland.  With the Silver Stream sitting in the wake of First Contact, it didn't take long for news of Itascus' war to spread to other nearby worlds.  Specifically, denizens of [!5 Deoria] sympathized with the Social Pact, while Bius Tu saw a potential ally in the powers of SITO.\n    \n    Three years into the conflict, as battles were being fought on multiple fronts, foreign military aid from Deoria, backing the SP; and Bius Tu, backing SITO, had arrived.  The majority of Deorian Aid was in the form of laser weapons and military ordinance with only a few hundred Deorian soldiers, while Bius Tu sent many dozen versatile military transport vehicles and almost two-thousand Tuine infantry members.\n\n    After the arrival of foriegn military aid, the nations of the Social Pact pushed South in a deadly campaign known as the 6 Month Charge, where it is said \"they did not take one step back\".  Eventually, Carria had to move their capital south, and in a desperate attempt at survival, unleashed their \"Death Machines\" -- mechanized, weaponized, quadrapedal walking armored vehicles, which were the precursor to modern [!6 Power Armor].  The advent of mechanized warfare caught the Social Pact off gaurd, and the Great Retreat over Carria began as Carrian Death Machines, accompanied by [!4 Tuine] tanks and APCs, pushed the Social Pact's forces back.\u0000css\n    While they were retreating, Amenira resorted to more desprate measures as the Social Pact's combined forces fled.  Amenira soon found that ultra-heavy guided [!7 kinetic projectiles] dropped from aircraft were remarkably effective at taking out the Carrian Death Machines.  Within a week, the 100 death machines of Carria fell to Ameniran Air Superiority Division bombers, marking the end of the Great Retreat over Carria.  At this time, Amenira launched their Hammerfall Orbital Strike sattelites -- which utilized the same technology as the [!7 kinetic projectiles] used against the Death Machines -- to execute their ultimate warplan.  As the Social Pact retook the front, they comandeered any remaining working War Machines, with each member nation's military taking any intact specimens to reverse-engineer.\n\n    Deorians brought in their [!8 laser rifles], adding the smell of seared flesh and ozone to the many scents of the great Itascan battlefield.  The tables turned back in the favor of the Social Pact, and another offensive began.  On the oceans of Itascus, the Social Pact and SITO waged war with metal beasts called warships, manned by legions of crewmen.  These warships were endowed with the largest guns ever concieved by Itascan scientists at that time, shielded by armor once considered to be impossibly thick.\u0000css\n    During the later years of the Great War, years 20 to 23 [!9 Post Warp], the massive guns of warships were replaced with [!10 hypersonic railguns], capable of shooting targets at 50 kilometers away.  The railgun design was invented by Ameniran Dynamics -- now known as [!11 Itascan Dynamics], the premier kinetic weapons manufacturer of the [!12 Itascian Military].  SITO warships soon carried planes, where pilots would attack Social Pact ships with bombs and guided rockets.  Social Pact nations responded by fielding defensive aircraft carriers of their own, and attatching laser [!13 point defense] grids to their seacraft.  As Social pact warships pushed south, they launched missiles and railgun shells to support ground troops near the coast.  As they aproached the southern parts of the Patrician Ocean, into the Boronian Sea, Borone surrendured under threat of nuclear fire.\n    \n    In the last year of the war, Amenira made conservative use of their Hammerfall Orbital Strike system, bombarding some opposing cities with monolithic projectiles of pure tungsten, devistating structrues and causing general chaos in SITO population centers.  But the nation Amora, outside of the knowledge of the Social Pact and without informing any other SITO nation, had also constructed their own, smaller, kinetic bombardment station in Itascan orbit, copying the Amenirans.  Secretly, they targeted the Ameniran capital, a large city on the east coast of the [!14 Ferika Continent].  Off the east shore of Ferika is a deep geological fault line, which, at the time, was primed to shift.  The Amoran military dropped two rods of pure tungsten 11 kilometers off the coast of the Ameniran capital.  The rods were to be dropped one after another, with the second rod acting as redundancy if the first rod failed to trigger the fault line.\u0000css\n    On 1/38/23, an 11-ton rod of tungsten struck the ocean just off the Amineran coast, triggering a wave over 50 meters tall to strike the Ameniran capital.  The force of the wave, as well as the ensuing flood, decimated the city by toppling buildings and leveling neighborhoods in an artificial disaster which killed tens of thousands.  The capital, which previously had a population of over one million, was crippled in under an hour.  In the aftermath, almost a fifth of the city's population had perished from the flood, or being unable to escape through the crumbled infrastructure of what was once a metropolis.\n    The Itascan president survived the flood thanks to the Presidential Bunker he had commissioned at the beginning of the war.  Immediately, in under a day, the Itascan president ordered a large Ameniran city to the west, further inland on the slope of a mountain, to be adopted as a temporary military headquarters and capital.  This city, after the war, would come to be the official capital city of the planet.\n    \n    Shortly after the fall of the Ameniran capital, Deoria sent an order to withdraw their forces from Itascus, leaving their military hardware, but returning Deorian soldiers to their homeworld.  The withdrawl was a bad sign for citizens of Social Pact nations, and re-sparked civil discussions regarding the ethics of stronger extrastellar powers meddling in Itascan affairs.\u0000css\n    On [!15 Erii], as the Great War waged on, Ameniran and Carrian colonies openly harassed eachother, stealing supplies, damaging hardware, and even attempting to occupy opposing colonies in decentralized acts of hostility.  At the time, Erii's atmosphere wasn't yet breathable, as it still had too high a concentration of Carbon Dioxide.  Subsequently, this meant colonies required a constant flow of supplies and functioning machinery to keep their occupants alive.  Through the skirmishes, entire colonies suffocated and starved due to supply shortages, giving the phenomenon the name of \"General Eriian Famine\".  Eventually, Carrian colonies submitted to the Ameniran attacks, effectively winning the war on Erii.  Though, with conflict in the air, ideas of Eriian Sepratism (from Itascus) spread among Eriian reactionaries.\n    \n    At the stage of the war, SITO was on the backfoot, and national leaderss considered surrendering to the waves of Social Pact fighters and war machines.  The Carrian Death Machines had been reverse-engineered by Social Pact militaries into an archaic form of Power Armor which was being eagerly deployed onto the battlefield.  Much of Itascus had been devistated by the war, and the public cry for peace had grown exponentially louder as casualties rose.\n    With SITO nearly at its knees, and the Social Pact strained and beaten by the conflict, the world collectively agreed it was time for change.  SITO had been beaten, and the Social Pact controlled the terms of surrender.  In many Social Pact cultures, the idea of a unified Itascus being essential to survival in the emerging interstellar stage had become very popular.  This is partially accredited to opposing Tuine forces remaining active on Itascus this far in the war; [!16 Tuines] had even become demonized in some circles.\u0000css\n    On 8/14/23, the leaders of the Social Pact conviened and announced a month-long ceasefire, which the remaining active members of SITO -- Amora and Borone -- agreed to.  The Social Pact held a summit of their own, with the Pact's national leaders meeting in the capital of Finnia.  This summit would come to be known as the [!17 Finnia Accords].  In these accords, a government structure for a unified Itascus was drafted and vetted, with the Social Pact offering to stop hostilities towards each nation that agreed to be annexed into the new Itascan nation.\n    The only nation to refuse was Amora, whose leaders cited such a plan would forsake individual nations' powers and rights.  Shortly after their refusal, the Great War resumed, though only on Amoran fronts.  \n    \n    Only a day into the resumed conflict, the Amoran capital was relentlessly bombarded from orbit by Ameniran military spacecraft in what would become a devistating, intimidating show of space-based weaponry and Ameniran power.  Amoran ground troops were quickly overrun by the combined infantry of every Social Pact nation within an [!18 Itascan Week].  The nation of Amora surrendered on 10/2/23, agreeing to be annexed into an Itascan planetary Nation and officially ending the Itascan World War.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/07/19 20:10:45",
+          "editTime": "2020/07/19 20:12:31"
         },
         "extension": "TEXT"
       }
