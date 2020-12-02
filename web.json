@@ -239,7 +239,7 @@
         "backpath": "/MAIN",
         "data": "css\n   [!1] >Deorians\n   [!2] >Galleates\n   [!3] >Itascans\n   [!4] ~La'foyans\n   [!5] >Tuines\n   [!6] >Tyvants\n   [!7] +Foreign Races",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
           "/ROOT/BIOLOGY/RACES/GALLEATE",
           "/ROOT/BIOLOGY/RACES/ITASCAN",
           "/ROOT/BIOLOGY/VIVOTYPES/FEIRAUS/HUMANOID/LAFOYAN",
@@ -257,15 +257,15 @@
       },
       {
         "name": "Deorian",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
         "backpath": "/MAIN",
         "data": "css\n    [!1] +Deorian Race\n    [!2] +Deorian Deorians\n    [!3] +Ceiraz Deorians [Unwritten]\n    [!4] +Ghillymedic Deorians\n    [!5] >Servuses",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_GENERAL",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_DEORIAN",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/CEIRAZ_DEORIAN",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/GHILLYMEDIC_DEORIAN",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES"
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_DEORIAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/CEIRAZ_DEORIAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/GHILLYMEDIC_DEORIAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES"
         ],
         "meta": {
           "author": "<@220352318510596096>",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Deorian",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_GENERAL",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
         "backpath": "/MAIN",
         "data": "css\n┌─────────────────────────────────┐\n│Group Name.........:Party        │\n│Youngling Name.....:Bet          │\n│Status.............:Safe         │ \n│Vivotype...........:Daerus       │\n│Archetype..........:Humanoid     │\n│Domestication......:N/A          │\n│Intelligence Class.:Sentient     │\n│Lifespan...........:31±10.3 Years│\n│Time to Maturity...:9±1.73 Years │\n│# Physical Sexes...:2            │\n│Sexual Polymorphism:Moderate     │\n│Procreation Method.:Interactive  │ \n│Diet/Resource Input:Biovorus     │\n│Respiratory Gas....:Oxygen       │\n│Weight.............:79±11Kg      │\n│Height.............:161±21cm     │\n│Thermal Range......:304±22°k     │\n│Blood Volume.......:6L           │\n│Min Conscious Blood:5L           │\n│Top Speed..........:18m/s        │\n└─────────────────────────────────┘\n\n    The Deorians are a notable, numerous species, spanning many planets and star systems.  The Deorian specimen is bipedal, with B-Type bodies.  Deorians are covered in body fur, with colors ranging from crimson to cyan (fur color is determined by genetic factors).  In addition to their body fur, Deorians have longer hairs growing from their heads and tailbones, giving the appearance of common hair and tails.  The color of these longer hairs are typically a darker shade of their body fur tone.  These hairs are thicker and longer than the hairs of their body fur.  Deorian tails consist of no flesh or bone, simply being a long bundle of hairs stemming from their lowermost parts of their backs.\u0000css\n    Like all known species of human, Deorians heavily rely on unique facial structures to identify others.  Compared to other species, the face of a Deorian is notably unique.  Like other life of the [!1 Daerus] vivotype, the eyes of the Deorian face are notably large.  While the average diameter of other humans' eyes is two to three centimeters, the adult Deorian eye is five to six centimeters.  Regardless its size, the Deorian eye has a unique appearance.  The Sclera of a Deorian's eyes are light grey, but gradually turn dark brown as age.  The iris color of of the eye can come in about a dozen different, shimmering colors, mostly determined by the ethnicity of the subject.  Most notably, a Deorian's pupil is shaped like a rounded triangle.  The rotation of each eye (meaning the rotation of the triangular pupil) is apparently completely random, determined at conception; even genetically-identical twins are born with different pupil orientations.\n    As for the rest of the face, the mouth and nose are built into a short snout, which is about half the height and width of the face as a whole.  The snout extends four to six centimeters out from the rest of the face, making a sort of muzzle.\u0000css\n    In terms of their overall bodies, Deorians have typical B-Type frames.  Deorians' limbs are of average width and girth, but the muscle bundles are more defined under the skin.  Some scientists think that this detail is due to Deorians coming from a world of moderately-high gravity (1.62 G).  Being of B-Type bodies, their legs have two major joints (as opposed to one); the first one is the forward-facing upper knee, which is just \"the knee\" in F-Type bodies, and the backward-facing lower knee, which is a variant of \"the ankle\" seen in F-Type bodies.  Overall, this divides the leg into three, equal-height sections.  From a side view, the upper-most third of the leg is quite wide, spanning 35 to 43 centimeters front to back (as it's full of muscle), while the lower-most third (right above the foot) is comparatively thin, only about 10 centimeters in diameter.\n\n    Deorians' hands and feet are hoof-like, being made of hard, enamel-like bone.  Deorian hands consist of four free-moving cloves, all of which being opposable, functionally making them relatively undexterous, though unusually powerful, fingers.  All four fingers of an adult Deorian are seven to nine centimeters long.  On average, a Deorian has 600 to 700 newtons of grip strength in each hand.\n    Deorians' feet are structured similarly to their hands.In the foot, three of the cloves extend forward from the \"ankle\" by about 20 centimeters, while the fourth faces backwards to act as a heel.  The clove of the foot which acts as the heel is much wider than the three in front.  Unlike those of the hand, the three cloves making up the fronts of the feet are fused together at the bases.  This makes the foot much stronger, though less dexterous.\u0000css\n    On the tops of their heads, each Deorian has a pair of natural antlers. At birth, these antlers are little more than nubs.  Though these antlers start to grow beginning in adolescence (five to ten [!2 Galactic Years]), and thereafter grow continually until death.  The patterns and shapes of the antlers vary from person to person, predetermined by one's sex, age, and ethnicity.  Tests show that Deorians are genetically coded to connect human identities to antler patterns in the same way they perceive hair.  The antlers of Deorian males can grow to rise between 15 to 50 centimeters above their head, while females' can grow up to 70.  Many Deorians shave down or even shear off their antlers for cultural reasons, convenience, personal choice, or aesthetics.\n    \n    The Deorian species has only moderate sexual polymorphism.  Most notably, female Deorians are, on average, 18 centimeters shorter than males of the same species, 145 to 154 centimeters on average, while males stand at 168 to 177 centimeters.  Conversely, the antlers of a common female Deorian tend to be about 20 centimeters taller than that of a common male.\n    For reproductive reasons, females' waists are slightly wider.  This difference is mostly imperceptible to other human species, but Deorian brains are built to be better at recognizing the difference.  While Deorian males have a shoulders-to-waist ratio of about 7:6, females have a ratio closer to 1:1.  Finally, male snouts extend six centimeters out from the rest of the face, while female snouts only extend four centimeters out on average.\n\n    The Deorians, as a species, have been quite successful.  They are the dominant species on their homeworld of [!3 Deoria], and have traversed endless space to propagate their kind across the stars.",
         "links": [
@@ -295,7 +295,7 @@
       },
       {
         "name": "Deorian Deorian",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_DEORIAN",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_DEORIAN",
         "backpath": "/MAIN",
         "data": "css\nBOT<The Internet>:\n   Deorians who are native to the home planet [!1 Deoria] are 190cm (6.2 feet) tall on average. Native Deorians are known to be rather muscular, and tend to come in vibrant, yet complimentary, colors.\nDeorians have a reputation for being intelligent and taking control. These opinions are likely due to the nation's advancements in genetic engineering, and its current place as the leader of the [!2 Galactic Confederation of Planets].",
         "links": [
@@ -312,7 +312,7 @@
       },
       {
         "name": "Ghillymedic Deorian",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/GHILLYMEDIC_DEORIAN",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/GHILLYMEDIC_DEORIAN",
         "backpath": "/MAIN",
         "data": "css\n   Ghillymedic Deorians, born to the lunar nation of [!1 Ghillymede], are typically 180cm (5.8 feet) of height. Ghillymedic Deorians are much more faded in color compared to their native counterparts(though more agile), as well as slightly less muscular(Due to the lower gravity of the territories.)\nGhillymedics are seen as small, and to some even insignifigant, due to the nation's mininscule size. Ghillymedic individuals are commonly very self-driven, but they occasionally overestimate their abilities.",
         "links": [
@@ -329,14 +329,14 @@
       },
       {
         "name": "Servuses",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES",
         "backpath": "/MAIN",
         "data": "css\n [!1] +Servus Race\n [!2] +Laborer Servus\n [!3] +Shiner Servus\n [!4] +Steward Servus",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/SERVUS_GENERAL",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/LABORER_SERVUS",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/SHINER_SERVUS",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/STEWARD_SERVUS"
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/SERVUS_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/LABORER_SERVUS",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/SHINER_SERVUS",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/STEWARD_SERVUS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
@@ -348,11 +348,11 @@
       },
       {
         "name": "Servuses",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/SERVUS_GENERAL",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/SERVUS_GENERAL",
         "backpath": "/MAIN",
         "data": "css\n   Servuses are selectively-bred, genetically-modified [!1 Deorians], standing at exactly 155cm (5.1 feet) tall. Servuses were designed in the year 55 by the company [!2 Transition Genetics] for the purpose of creating general use automation. Servuses are genetically predisposed to be willingly compliant and obedient. Many people and most policies treat servuses as a type of property as above anything else due to their nature. Despite this, the Galactic Confederation of Planets has passed legislation granting citizenship to any Servus that wishes to be independent, no matter how rare that may be.\n\n   In around the year 65, Servuses had fallen out of style, leaving their numbers today a fraction of what they once were due to low production. This is attribited to a gradual increase of machines in industry, leaving Laborer Servuses (Which cost more in food than the average machine takes in energy) out of favor with large industries that would previously use them. Servuses are now almost exclusively seen as Shiner Servuses in low-effort thought-power positions at some companies, and as Steward Servuses kept and cared for by enthusiasts and the wealthy.",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN/DEORIAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN/DEORIAN_GENERAL",
           "/ROOT/COMPANIES/RESEARCH/GENETICS/TRANSITION_GENETICS"
         ],
         "meta": {
@@ -365,7 +365,7 @@
       },
       {
         "name": "Laborer Servuses",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/LABORER_SERVUS",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/LABORER_SERVUS",
         "backpath": "/MAIN",
         "data": "css\n   Laborer Servuses were the first design of the Servus race, endowed great strength, causing them to look very bulky in appearance.\nLaborer Servuses' primary purpose, being manual labor or factory work, gives them the reputation of being quite strong, but lacking in intelligence.",
         "links": [],
@@ -379,11 +379,11 @@
       },
       {
         "name": "Shiner Servuses",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/SHINER_SERVUS",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/SHINER_SERVUS",
         "backpath": "/MAIN",
         "data": "css\n   Shiner Servuses were the second model of Servus ever produced, revealed in late spring of 68. They are very light-framed, and usually come in very faded colors, similar to those of a [!1] Ghillymedic Deorian. Shiner Servuses are typically seen wearing eyeglasses, though though it's not uncommon that they're fake, as they're mainly just an article of clothing their operators apply for aesthetic purposes.\nShiner Servuses were designed to be accountants, mathematicians, Servus supervisors, or in similar intelectual positions.",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/GHILLYMEDIC_DEORIAN"
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/GHILLYMEDIC_DEORIAN"
         ],
         "meta": {
           "author": "<@220352318510596096>",
@@ -395,7 +395,7 @@
       },
       {
         "name": "Steward Servuses",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/SERVUSES/STEWARD_SERVUS",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/STEWARD_SERVUS",
         "backpath": "/MAIN",
         "data": "css\n   Steward Servuses were the third, and final official model of the Servus to be revealed, making its debut in winter of 75. These Servuses are of a normal build for an Deorian, but typically only come in shades of grey.\nSteward Servuses were initially designed for first class customers, essentially being butlers to their owners. But, as sales prooved poor, they were generalized to be home assistants, receptionists, waiters, and in many other positions thought of as \"sophisticated\".",
         "links": [],
@@ -1485,7 +1485,7 @@
         "backpath": "",
         "data": "css\n     Simia is a large, pale blue, main-sequence star. Simia is the homestar of the [!1 Deorian] people, harboring all planets under control of the [!2 Deorian State].",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
           "/ROOT/NATIONS/DEORIA"
         ],
         "meta": {
@@ -3430,7 +3430,7 @@
         "backpath": "",
         "data": "css\n┌──────────────────────────┐\n│Radius.........: 8,221km  │\n│Atm. Rating....: B+       │\n│Atm. Height....: 89km     │\n│Atm. Pressure..: 2.23atm  │\n│Surf. Gravity..: 1.62G    │\n│Hydrosphere....: Water,30%│\n│Precipitation..: 62cm/y   │\n│Obliquity......: 3.2°     │\n│Average Temp...: 295°k    │\n│Rotation Period: 25.2hrs  │\n│Orbital Period.: 0.72yr   │\n│Population.....: 4.7B     │\n│Majority Race..: Deorian  │\n│Allegiance.....: Deoria   │\n└──────────────────────────┘\n\n     Deoria, homeworld of the [!1 Deorian] race, is a large, bright world covered in cyan prairies and light blue grasslands. Deoria is covered in uniformly textured, light-grey mountain ranges spanning and coiling around the planet along every faultline on the surface. Where there aren't long mountain ranges, there are deep blue trenches full of liquid water separating the planet's continents.\n\n     The planet's surface consists of four notable continents, with a few smaller continental areas nestled between them. The four large continents are Milland, Ricefield, Lumbersweep, and Roothome. The four mega continents are arranged in a sort of spherical tetrahedron, each making contact with the other. \n\n     Deoria is now controlled under a single governmental entity, the [!2 Deorian Government]. In ancient Deorian history (before the year 22), there were three global factions. These factions were Polensend, a nation of 532 Million people inhabiting the Milland continent; the UTR, United Townships of Ricefield, a nation of 685 Million people; and Knollstead, a large nation of 1.26 Billion people inhabiting the continents of Lumbersweep and Roothome. These nations have since unified into the Deoria we know today.\u0000css\n    Deoria's surface is about 30% water and consists of a few continents seperated by seas and mountain ranges.  The most prevalent (habitable) environments on Deoria are forests, plains, mountains (most mountain dwellers live in a region known as Tierra Fría), deserts, and savannas.  These habitats can be classified from one another into three main groups with unique cultures.  Many isolated cultures on Deoria share traits with one another based on the biome/environment they live in, regardless of state, ethnicity, overarching culture, etc.\n    \n    Even though Deoria has its own [!3 local time] system, many Deorian citizens have been observed to use local time and [!4 Galactic Time] interchangeably in daily life. Deoria's Time Table String is \"N-8:00T ZW 1Y/16L/22D/4W/4T/24d/24p\"\n\n    Deoria, as a planet, has notably seen no conflicts with more than 500,000 combatants. The largest conflict on the planet was the [!5 Battle of Jinsed].",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
           "/ROOT/NATIONS/DEORIA",
           "/ROOT/CALENDAR/TIME_SYSTEMS/LOCAL",
           "",
@@ -5572,16 +5572,22 @@
         "name": "Holidays and Important Dates",
         "path": "/ROOT/CALENDAR/EVENTS",
         "isUp": true,
-        "data": "css\n   [!1] >International Holidays and Events\n   [!2] >Important Historic Events",
+        "data": "css\n   [!1] >International Holidays and Events\n   [!2] >Important Historic Events\n   [!3] >Itascan Holidays\n   [!4] >La'foyan Holidays\n   [!5] >Tuine Holidays\n   [!6] >Gallean Holidays\n   [!7] >Tyventian Holidays\n   [!8] >Deorian Holidays",
         "links": [
           "/ROOT/CALENDAR/EVENTS/INTERNATIONAL",
-          "/ROOT/CALENDAR/EVENTS/HISTORIC"
+          "/ROOT/CALENDAR/EVENTS/HISTORIC",
+          "/ROOT/CALENDAR/EVENTS/ITASCAN",
+          "/ROOT/CALENDAR/EVENTS/LAFOYAN",
+          "/ROOT/CALENDAR/EVENTS/TUINE",
+          "/ROOT/CALENDAR/EVENTS/GALLEAN",
+          "/ROOT/CALENDAR/EVENTS/TYVENTIAN",
+          "/ROOT/CALENDAR/EVENTS/DEORIAN"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/08/14 17:16:08",
-          "editTime": "2020/02/04 10:28:40"
+          "editTime": "2020/11/11 18:24:09"
         },
         "extension": ""
       },
@@ -10673,7 +10679,7 @@
         "name": "Daerus Vivotype",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS",
         "isUp": true,
-        "data": "css\n    [!2] >Humanoid\n    [!1] >Rodenoid",
+        "data": "css\n    [!1] >Humanoid\n    [!2] >Rodenoid",
         "links": [
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID"
@@ -10682,7 +10688,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/03/07 23:26:03",
-          "editTime": "2020/11/01 17:25:47"
+          "editTime": "2020/11/30 23:11:05"
         },
         "extension": ""
       },
@@ -11404,7 +11410,7 @@
           "/ROOT/BIOLOGY/VIVOTYPES/BEIUS",
           "/ROOT/NATIONS/DEORIA",
           "/ROOT/NATIONS/GHILLYMEDE",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
           "/ROOT/NATIONS/GALLEA",
           "/ROOT/CULTURE/LANGUAGE/GALLEAN/MAIN"
         ],
@@ -11487,7 +11493,7 @@
       },
       {
         "name": "Deorian",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
         "isUp": true,
         "data": "[Unwritten]",
         "links": [],
@@ -11501,7 +11507,7 @@
       },
       {
         "name": "Ceiraz Deorian",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/CEIRAZ_DEORIAN",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/CEIRAZ_DEORIAN",
         "isUp": true,
         "data": "[Unwritten]",
         "links": [],
@@ -11534,12 +11540,67 @@
         "path": "/ROOT/CULTURE/RELIGION/NONTHEISTIC/PACEMISM/MAIN",
         "isUp": true,
         "data": "css\n    Pacemism is a belief system founded by the Ceiraz [!1 Deorians].  Historically, the [!2 Ceiraz], as a people, have been seen as more philosophically-oriented than other Deorian peoples of their time.  This led them to pave the way for Pacemism, the traditional Ceiraz religion and belief system, based off of ideas concieved by Ceiraz philosophers through meditation and speculation regarding how to live better lives during [!3 Deoria’s] Bronze to Iron Age.  Several aspects of the religion, however, culminated in the times before and after that of its initial founding.\n\n    The primary focus of Pacemism is to improve its followers’ lives by providing guidelines for living peacefully, knowledgeably, and wisely.  This is to be achieved through frequent nightly meditation; having a desire for nonviolence, peace, and prosperity; being good-willed towards fellow life (especially other sapients and concious beings); maintaining balance in nature; and striving for \"enlightenment\", a term whose ultimate definition is considered different for each individual follower based off of what they wish to achieve through following the religion’s teachings.\n    Typically, Pacemism imposes dietary restrictions; Pacemists are not to consume any immature animal, nor are they allowed to domesticate animals nor eat any animals that have been domesticated.  On a side note, cannibalism (or consuming any sapient) is also strictly prohibited.  In summary, Pacemists should not consume farmed animal products, animal products from immature animals, eggs, or people.  Also, Pacemists are to practice reserving the night for meditation and sleep only, thus, all food must be prepared and eaten in the day.\u0000css\n    Pacemists also practice a burial ritual involving dressing the recently deceased in fine clothing, seating them in a calm, quiet place, as though the corpse were meditating.  Those performing the ritual are expected to meditate into the night with the body.  The corpse is then left alone to \"meditate\" peacefully, only being visited occasionally during the night to be meditated with again as an act of mourning, if one wishes to do so.  Once the body begins to show signs of decay, the body is taken to a resting place.  In these resting places, small, upright, above-ground coffin-tombs are constructed.  These coffins are 1^3 to 2^3 cubic meters in size, being relatively spacious for a corpse.  The body is placed sitting upright in a wooden coffin, again as if it were meditate.  The coffin is then surrounded in earthen clay then treated with fire to make it more resilient, as the resting places are meant to stay standing indefinitely.  Many wealthy Pacemists have ornate altars constructed in or outside of their tombs, while commoner Pacemists simply have their coffin-tombs, usually placed in large graveyards containing vast fields of other coffins.",
-        "links": [],
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/CEIRAZ_DEORIAN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN"
+        ],
         "meta": {
           "author": "<@!366044218742800385>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/11/01 17:53:39",
           "editTime": "2020/11/01 18:04:16"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Itascan Holidays",
+        "path": "/ROOT/CALENDAR/EVENTS/ITASCAN",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/11/11 18:29:39",
+          "editTime": "2020/11/11 18:29:44"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Humanoids",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
+        "isUp": true,
+        "data": "css\n    [!1] >Deorian Humans\n    [!2] +Niprabe",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIPABRE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/11/30 23:12:29",
+          "editTime": "2020/11/30 23:13:05"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Niprabe",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIPABRE",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────────┐\n│Group Name.........:Tribe         │\n│Youngling Name.....:Calf          │\n│Status.............:Safe          │ \n│Vivotype...........:Daerus        │ \n│Archetype..........:Humanoid      │\n│Domestication......:Undomesticated│\n│Intelligence Class.:General       │\n│Lifespan...........:4±1.3  Years  │\n│Time to Maturity...:0.8±0.3 Years │\n│# Physical Sexes...:2             │\n│Sexual Polymorphism:Low           │ \n│Procreation Method.:Interactive   │ \n│Diet/Resource Input:Herbivorous   │\n│Respiratory Gas....:Oxygen        │\n│Weight.............:47±4Kg        │\n│Height.............:149±6cm       │\n│Thermal Range......:295±3K        │ \n│Blood Volume.......:4+(0 to 1)L   │ \n│Min Conscious Blood:3L            │\n│Top Speed..........:21±2m/s       │\n└──────────────────────────────────┘\n\n    The Deorian Tribal Deer, called the \"Niprabe\" in [!1 Deorian], or just the \"Deer\", is a common life form found natively on [!2 Deoria].  It is a herbivorous mammal that partially resembles a [!3 Ceiraz Deorian] in appearance and structure, with the addition of long, silky, wool which it grows out completely before cold seasons approach their area of habitation (as opposed to a [!3 Ceiraz Deorian]’s thicker, poofier coat of fur), allowing it to stay warm in the mountains and forest highlands from which it originated.  The wool begins to shed upon the end of the cold season, and is usually completely gone by mid-Spring.\u0000css\n    Even though the Niprabe normally sprints quadrupedally (on all fours) to maneuver quickly, the Tribal Deer also has the interesting ability to slowly waddle on its hind legs whilst being able to grab objects with its front appendages (making them act as primitive arms).  The creature is genetically similar to the sapient Deorian races, and similarly displays intriguing levels of intelligence, even sometimes found manipulating items with its \"hands\" and utilizing them as tools or giving them to other creatures, even Deorians, as gifts.  A few common examples of this would be the usage of sticks as weapons to fend off predators and the occasional occurrence of a Tribal Deer plucking wild berries from bushes and handing them to nearby Deorians.\n\n    The Deorian Niprabe displays a high level of sociability in general, and they are typically seen in large groups of around ten to fifty, resembling tribes.  When two tribes of Deer meet in nature, they typically merge into one larger tribe if there are no major barriers between them.  These tribes of Niprabe live together in a seemingly-unmoving section of a forest, performing their daily activities together, such as gathering edible vegetation, defending themselves and eachother from predators or hostiles (such as the [!4 Deorian Savage Isfetra], which sometimes compete with the Tribal Deer for territory), mating, and sometimes even more complex activities such as trading food and items with one other (and sometimes even with local Deorians).\u0000css\n    It is believed that Deer tribes, over time, develop their own simple, distinct “languages” composed of a collection of sounds ranging from grunts to screeches to barks.  The simplest of these languages are only utilized for informing other Deer of the locations of things such as food, other animals, and danger, along with communicating pain, hunger, lust, anger, fear, etc., but more developed Niprabe languages may even be used for communicating more complex ideas such as ideas and non-primal feelings, and can thus be used more conversationally.  No two Niprabe from different tribes can understand one another, except through more primitive forms of communication, such as body language and similarly-primal signs.  They cannot vocalize human speech, but some Deorian researchers have made attempts to record, learn, and master major Tribal Deer languages, spoken by the largest of Deer tribes which occupy vast forested territories.\n    Most of Tribal Deer territories are protected by local law and cannot be deforested, hunted in, or otherwise disrupted.  Many researchers believe that if we could learn how Tribal Deer language is created and evolves, we could understand more about the definite origins of Deorian speech. Deorian Tribal Deer, despite lacking the capability to speak human languages, can learn and understand human sign language (to an extent).  On a side note, Tribal Deer can also laugh; this trait is normally exhibited when a Deer is doing something entertaining, being tickled, or told an amusing story (a story simple enough to be understood; they typically enjoy short stories about Niprabe interacting with local wildlife.  Stories lasting more than a few sentences are typically lost on them.  Researchers have noted that Niprabe seem to have a \"very peculiar\" sense of humor, judging by what makes them laugh).\u0000css\n    Typically, male Deer are built slightly larger and stronger than female Deer. Male Deer also tend to bear more colorful wool than females, as it is a method for members of the species to attract mates, similar to some species of birds.  A male’s coat can be some shade of crimson, gold, cream, or silver, but is often a combination of said colors, occasionally with the addition of other common colors such as brown. Females, on the other hand, bear coats of muted grey, brown, cream, and/or black, and are consequently harder to spot amidst the trees of an especially dark forest (when compared to their male counterparts).  Interestingly, despite the males being physically stronger than the females, the sexes behaviorally diverge very little, as though there was no difference whatsoever.  However, this trait is cultural, in the sense that it depends on the tribe from which the subjects originated; in some Tribal Deer cultures, male and female activities are homogenous, while in others, gender roles take on more specialized common activities.\n\n    It is believed that the Deorian Niprabe and Deorian Human both evolved from a recent common ancestor, which may explain the numerous similarities between the two species, though some prefer to claim the similarities as a coincidence.  Regardless of any recent common ancestor, the Niprabe’s origins have been narrowed down to the forested mountain regions somewhere around the homeland of the [!3 Ceiraz Deorians], further providing evidence for the relationship between the Tribal Deer and common Deorian.  The Deer, as a species, appear to have migrated from forest to forest over a long period of time until they eventually settled and populated a large number of forests around Deoria, forming numerous, distinct tribes as they did.\u0000css\n    As mentioned previously, whenever the territory of two tribes meet, the tribes typically merge into a singular, larger tribe.  Due to this, many smaller forests with large populations of Tribal Deer tend to house one large, unitary tribe as opposed to multiple smaller, scattered ones.  These large, unified tribes speak what is considered a “creole” of all the languages used by each federated tribe.  Many linguists have been making attempts to record and learn these creoles, and there has been enough progress to allow some basic communication between the Deorian field researchers and the inhabitants of aforementioned large tribes, though most of the tribes’ creoles are still unknown.\n    Deorian Niprabe appear many times in classical and even ancient Deorian writings and literature.  They have been recorded to have been historical allies to the Deorian species, doing deeds from providing protection and excess food to lost travellers to assisting Deorian farmers in harvesting their crops in exchange for a small portion of the farmer’s yield.  [!5 Pacemists] classify the Niprabe as “human”, and thus are not permitted to hunt and/or eat them.  Indeed, the Deorian government has passed several laws and regulations to protect the Deorian Tribal Deer and their habitats, including a ban against hunting the creature and regulations and guidelines for harvesting wool from Tribal Deer.  One section of the guidelines recommends the harvester should always repay the Niprabe they shear with food, or other reward in return for their wool.  Otherwise, the Niprabe is likely to feel mistreated and make itself problematic in protest.",
+        "links": [
+          "/ROOT/CULTURE/LANGUAGE/DEORIAN/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/CEIRAZ_DEORIAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFETRA",
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/PACEMISM/MAIN"
+        ],
+        "meta": {
+          "author": "<@!366044218742800385>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/11/30 23:13:24",
+          "editTime": "2020/11/30 23:30:05"
         },
         "extension": "TEXT"
       }
