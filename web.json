@@ -216,7 +216,7 @@
         "name": "Biology",
         "path": "/ROOT/BIOLOGY",
         "backpath": "/MAIN",
-        "data": "css\n   [!1] >Classifications\n   [!2] >Species of Human\n   [!3] >Vivotypes\n   [!4] >Lifeform Archetypes\n   [!5] >Biopsychology\n   [!6] +Origin Theories",
+        "data": "css\n   [!1] >Classifications\n   [!2] >Species of Human\n   [!3] >Vivotypes\n   [!4] +Lifeform Archetypes\n   [!5] >Biopsychology\n   [!6] +Origin Theories",
         "links": [
           "/ROOT/BIOLOGY/CLASSIFICATIONS",
           "/ROOT/BIOLOGY/RACES",
@@ -229,7 +229,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/06/20 22:34:51"
+          "editTime": "2020/12/09 03:35:42"
         },
         "extension": ""
       },
@@ -3030,19 +3030,15 @@
         "path": "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE",
         "isUp": true,
         "backpath": "",
-        "data": "css\n[!1] +Info and Table of Elementary Particles\n[!2] +Fermionic matter\n[!3] +Qi Particles\n[!4] +Supermatter\n[!5] +Photons",
+        "data": "css\n    [!1] +Info and Table of Elementary Particles",
         "links": [
-          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN",
-          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MATTER",
-          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/QI",
-          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/SUPERMATTER",
-          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/PHOTONS"
+          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/05/13 18:51:53"
+          "editTime": "2020/12/22 23:52:04"
         },
         "extension": ""
       },
@@ -3051,22 +3047,7 @@
         "path": "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n┌─┬─┐\n│N│P│\n├─┼─┤\n│e│μ│  ┌─┐\n├─┼─┤  │y│\n│q│Q│  └─┘\n├─┼─┤\n│v│A│\n└─┴─┘\n\n     The Universe, as we know it, consists entirely of nine distinct types of particles. Every observable action and property of nature can be described through interactions between these particles.\n\n     There are four classes of particles; Fermionic Matter, which define Protons (P), Neutrons (N), Electrons (e) and Muons (μ); Etherial Matter, which is charged and Uncharged Qi (q & Q); Supermatter, which is Neutrinos and Aptha; and the raw energy Carrier of the Photon (y).",
-        "links": [],
-        "meta": {
-          "author": "<@220352318510596096>",
-          "editor": "<@220352318510596096>",
-          "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
-        },
-        "extension": ""
-      },
-      {
-        "name": "Fermionic Matter",
-        "path": "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MATTER",
-        "isUp": true,
-        "backpath": "",
-        "data": "css\nN: Neutrons, the heaviest neutrally-charged particle. Originally discovered in -8P.W. during experiments with nuclear fission. They are a primary component in the nuclei of atoms.\n\nP: Protons, the heaviest positively-charged particle. Protons were discovered in 26P.W. through Atomic Composition Experiments.\n\ne: Electron, the negatively-charged component of an atom. Electrons orbit around the nuclei of atoms, forming a sort of shell which allows atoms to form bonds. Electrons were discovered by most all primitive civilizations in the time between -200 and -10P.W.\n\nμ: Muon, the larger sibling to the Electron. Muons have the same negative charge as an electron, meaning that they can take an electron's place in the atomic shell. But, since Muons are over two-hundred-times as massive as electrons, meaning that any the shell around a muon-bound atom will be several magnitudes smaller. If two Hydrogen atoms bind together via a shell consisting of a muon, the resulting proximity will eventually result in nuclear fusion. But, a muon currently costs about three times as much energy to create than it produces via fusion. Muons were discovered in 83P.W. in fusion experiments on [!1 Bius Tu].",
+        "data": "css\n┌─┬─┐\n│N│P│\n├─┼─┤\n│e│μ│  ┌─┐\n├─┼─┤  │y│\n│q│Q│  └─┘\n├─┼─┤\n│v│A│\n└─┴─┘\n\n     The Universe, as we know it, consists entirely of nine distinct types of particles. Every observable action and property of nature can be described through interactions between these particles.\n\n     There are four classes of particles; Fermionic Matter, which define Protons (P), Neutrons (N), Electrons (e) and Muons (μ); Etherial Matter, which is charged and Uncharged Qi (q & Q); Supermatter, which is Neutrinos and Aptha; and the raw energy Carrier of the Photon (y).\u0000css\nN: Neutrons, the heaviest neutrally-charged particle. Originally discovered in -8P.W. during experiments with nuclear fission. They are a primary component in the nuclei of atoms.\n\nP: Protons, the heaviest positively-charged particle. Protons were discovered in 26P.W. through Atomic Composition Experiments.\n\ne: Electron, the negatively-charged component of an atom. Electrons orbit around the nuclei of atoms, forming a sort of shell which allows atoms to form bonds. Electrons were discovered by most all primitive civilizations in the time between -200 and -10P.W.\n\nμ: Muon, the larger sibling to the Electron. Muons have the same negative charge as an electron, meaning that they can take an electron's place in the atomic shell. But, since Muons are over two-hundred-times as massive as electrons, meaning that any the shell around a muon-bound atom will be several magnitudes smaller. If two Hydrogen atoms bind together via a shell consisting of a muon, the resulting proximity will eventually result in nuclear fusion. But, a muon currently costs about three times as much energy to create than it produces via fusion. Muons were discovered in 83P.W. in fusion experiments on [!1 Bius Tu].\u0000css\nq: Uncharged Qi, the neutral, almost massless variant of the Qi particle. Uncharged Qi does not commonly interact with normal matter, save for scattering through material. Uncharged Qi may have a negligible mass, but it's not massless, meaning it travels at less-than-lightspeed. Uncharged Qi tends to stay within the closed system of a planet's atmosphere. (Though it's also found in solar wind.) The higher the concentration of Qi in an area, the easier Qi-charging reactions can occur.\n\nQ: Charged Qi, is the charged, energy-packed variant of the Qi particle. Charged Qi particles are selectively charged, being able to be positive or negative. The a “half-life” of charged particles changing state is about 8 hours in air, 50 hours in a liquid, and hundreds of years in a solid. Due to this duality, charged Qi can create pseudo-atomic structures that can be applied in many ways. Charged Qi is made by adding energy to Uncharged Qi via certain physical, chemical, and even nuclear reactions. The energy in Charged qi can be applied to make, heat, light, or even motion.\u0000css\nv: Neutrinos are nearly interaction-less particles with negligible mass. They are created in the centers of stars and shoot outward in all directions. Neutrinos pass through normal matter with little interaction.\n\nA: Aptha is a visible, grey particle that interacts with normal matter. Aptha has immense surface tension, meaning that, even on the ground, aptha with gather into a perfect or oblate sphere. Aptha is produced by mixing powdered Qi-conductive materials in a slurry with Tritium Dioxide, and left out in the sun. On the rare occasion a Neutrino from the sun strikes a Neutrino emitted from the decaying Tritium while also in the proximity of a Charged Qi particle, a single Aptha particle is produced out of the two Neutrinos, also discharging the energy in the Qi particle.\u0000css\nY: Photons are the purest form of energy in the known universe. Photons have a sort of wave/particle duality, meaning that they demonstrate properties of both waves and particles. Photons are the prime component of EM radiation, the force that is Visible Light, Radio Waves, Microwaves, and even hazardous Gamma Rays.",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/MAIN"
         ],
@@ -3074,54 +3055,9 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
+          "editTime": "2020/12/22 22:10:50"
         },
-        "extension": ""
-      },
-      {
-        "name": "Qi Particles",
-        "path": "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/QI",
-        "isUp": true,
-        "backpath": "",
-        "data": "css\nq: Uncharged Qi, the neutral, almost massless variant of the Qi particle. Uncharged Qi does not commonly interact with normal matter, save for scattering through material. Uncharged Qi may have a negligible mass, but it's not massless, meaning it travels at less-than-lightspeed. Uncharged Qi tends to stay within the closed system of a planet's atmosphere. (Though it's also found in solar wind.) The higher the concentration of Qi in an area, the easier Qi-charging reactions can occur.\n\nQ: Charged Qi, is the charged, energy-packed variant of the Qi particle. Charged Qi particles are selectively charged, being able to be positive or negative. The a “half-life” of charged particles changing state is about 8 hours in air, 50 hours in a liquid, and hundreds of years in a solid. Due to this duality, charged Qi can create pseudo-atomic structures that can be applied in many ways. Charged Qi is made by adding energy to Uncharged Qi via certain physical, chemical, and even nuclear reactions. The energy in Charged qi can be applied to make, heat, light, or even motion.",
-        "links": [],
-        "meta": {
-          "author": "<@220352318510596096>",
-          "editor": "<@220352318510596096>",
-          "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/10/26 07:16:33"
-        },
-        "extension": ""
-      },
-      {
-        "name": "Supermatter",
-        "path": "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/SUPERMATTER",
-        "isUp": true,
-        "backpath": "",
-        "data": "css\nv: Neutrinos are nearly interaction-less particles with negligible mass. They are created in the centers of stars and shoot outward in all directions. Neutrinos pass through normal matter with little interaction.\n\nA: Aptha is a visible, grey particle that interacts with normal matter. Aptha has immense surface tension, meaning that, even on the ground, aptha with gather into a perfect or oblate sphere. Aptha is produced by mixing powdered Qi-conductive materials in a slurry with Tritium Dioxide, and left out in the sun. On the rare occasion a Neutrino from the sun strikes a Neutrino emitted from the decaying Tritium while also in the proximity of a Charged Qi particle, a single Aptha particle is produced out of the two Neutrinos, also discharging the energy in the Qi particle.",
-        "links": [],
-        "meta": {
-          "author": "<@220352318510596096>",
-          "editor": "<@220352318510596096>",
-          "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
-        },
-        "extension": ""
-      },
-      {
-        "name": "Photons",
-        "path": "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/PHOTONS",
-        "isUp": true,
-        "backpath": "",
-        "data": "css\nY: Photons are the purest form of energy in the known universe. Photons have a sort of wave/particle duality, meaning that they demonstrate properties of both waves and particles. Photons are the prime component of EM radiation, the force that is Visible Light, Radio Waves, Microwaves, and even hazardous Gamma Rays.",
-        "links": [],
-        "meta": {
-          "author": "<@220352318510596096>",
-          "editor": "<@220352318510596096>",
-          "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
-        },
-        "extension": ""
+        "extension": "TEXT"
       },
       {
         "name": "Bius Tu",
@@ -6134,15 +6070,18 @@
         "name": "Lifefrom Archetypes",
         "path": "/ROOT/BIOLOGY/ARCHETYPES",
         "isUp": true,
-        "data": "css\n   [!] +Humanoid\n   [!] +Canifelinoid\n   [!] +Avioid\n   [!] +Rodenoid",
-        "links": [],
+        "data": "css\n    A Lifeform Archetype is something used to classify a living thing's Body Layout (or, in common terms, a life form's shape).  There are three classes of Lifeform Archetype, which are Anima, Flora, and Micra.  The Anima class includes all visible, mobile living things, such as [!1 Humans] or other animals.  The Flora class of life forms broadly describes plants, and other non-motile living things.  The Micra class of body layouts generally describe microscopic (usually unicellular) life.   \n    \n    Lifeform Archetypes, as descriptors, are not exhaustive, and simply act as a mnemonic, or to quickly, generally describe a life, regardless of its [!2 vivotype].\u0000css\nThe specific lifeform archetypes are described, class by class, as follows:\n    Anima:\n        Humanoid -- Humanoids are bipedal creatures that stand upright on feet or hindlegs.  They usually have forward-facing heads on the tops of their torso, and (at least) two appendages designed for manipulating their environment (arms).\n        Canifelinoid -- Canifelinoid are Quadrapedal (or Nai'chujious, meaning using all legs to walk) creatures with bodies optimized for hunting, with a common trait being longer muzzles to fit more teeth.  Canifelinoids are typically carnivorous or biovorous.\n        Bovoid -- Bovoids, like Canifelinoids, are quadrapedal or naichujious.  Unlike Canifelinoids, however, Bovoids are typically herbivorous, commonly boasting defensive body features (such as horns, antlers, bone plates, etc.) for defending against predators.\n        Avioid -- Creatures with Avioid body archetypes are creatures built for flight.  These creatures almost exclusively have wings, and other organs for facilitating flight if not.  Most Aviods can be recognized as birds.\n        Insectoids -- Insectoids are typically small, simple creatures, with few individual internal organs.  Many Insectoids are parasites, and few paracites are not of Insectoid archetypes.\n        Tineoid -- This category of archetypes describes worms, or other smooth, (usually long,) creatures with reduced, few, or no exterior bodily features.\n        Pisceoid -- Most commonly fish.  These creatures have short, flat appendages (fins) to maneuver around in fluids.  Their bodies are usually more rounded and sleek.\n        Radioid -- Radioids are creatures which have bodies that have more than two degrees of radial symmetry.  This symmetry does not have to be perfect.\u0000css\n    Flora:\n        Votoid -- Votoids are stationary lifeforms (plants) that consist of many blades stemming from the soil (or from whatever the plant is growing in).\n        Arboid -- Arboids are typically large, sturdy plants.  They commonly have stalks made out of a strong material.  Arboid's are typically common trees, and vice versa.\n        Ambuloid -- Ambuloids are simple plants usually composed of one main body and little else.  Common mushrooms are a good example of Ambuloids, as they have a single main body (the cap and stem) with some roots under it.  These life forms do not rely a lot on photosynthesis, and subsequently don't require a plumage.\n        Permioid -- Permioids are stationary life forms that have parts permiating (extending into and filling) some of the area around them.  For example, bushes are Permioids since their branches extend outward to maximize the bush's cross-sectional area (in order to maximize sunlight exposure).\n        Vineaoid -- Vineaoids are life forms that hang off another structure, and rely on the other structure for support.\n        Algeoid -- Nebulous, homogenous life forms of coordinated cells.  The most common form of Algeoid is algae, or some mold colonies.\n        \n    Micra:\n        Viroid -- Viroids are microscopic entities, typically smaller than most cells, which rely on cells for reproduction.  Viroids are usually only some enzymes, a vessel, and some rogue DNA.  Because of their simplicity, some scholars argue that Viroids should not be considered \"alive\".\n        Bacterioid -- Bacterioids are simple, solitary, single-celled creatures.\n        Amoeboid -- Ambuloids are single cells with malleable, prehensile membranes.  Amoeboids typically maneuver using pseudopods, and are predatory in nature, meaning they devour other cells.",
+        "links": [
+          "/ROOT/BIOLOGY/RACES",
+          "/ROOT/BIOLOGY/VIVOTYPES"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/08/27 13:15:03",
-          "editTime": "2019/08/27 15:18:43"
+          "editTime": "2020/12/09 03:35:12"
         },
-        "extension": ""
+        "extension": "TEXT"
       },
       {
         "name": "Itascan Politicians and Civil Servants",
@@ -7661,7 +7600,7 @@
         "name": "Tuine National Government",
         "path": "/ROOT/NATIONS/BIUS_TU/GOVERNMENT/MAIN",
         "isUp": true,
-        "data": "css\n    The governing body of Tuine State consists of 3 tiers: Head Minister, Ministry Council and Advisory Council.\n\n    Head Minister:\n        The Head Minister position is considered the most important position in the Tuine government.  They are in charge of overseeing the activities of all the individuals on the ministry council.  The Head Minister overseeing the other ministers means that they have the ability to set an inquiry of indictment if they feel a minister is underperforming.  Head ministers serve lifelong terms, but are not obligated to.  Despite this, many Head Ministers serve until death.  Before a Head Minister dies or steps down from their position, they nominate one of the ministers under them as their successor. Most frequently, the successor is either Minister of Defence or Minister of Homeworld Security.\n\n    Ministry Council:\n        This collection of positions oversees every aspect of the state.  Individual ministers serve life-long terms.  Before a minister dies or steps down, they nominate a new minister to fill their place.  Often, the nominee is a current or past member of the minister's advisory council.  If a ministry member is assigned as Head Minister, they required to select someone to fill the position they leave behind.  The seats of the Ministry Council are as follows:\n        1. Minister of Defense\n            The Minister of Defense is considered one of the most important ministers, as they handle everything to do with the [!1 military of Bius Tu]; they handle the troops and are in command of the military when a war or conflict breaks out, and they handle drafting and military recruitment.  The advisory council underneath this minister is the only advisory council not elected, but choosen by the Minister of Defense from a pool of high-ranking generals.\u0000css\n        2. Minister of Interplanetary Affairs\n            The Minister of Interplanetary Affairs handles interactions between the governments of other planets.  They assign and distribute diplomates between planets and manage their whereabouts.  This is the minister that picks and sends out diplomats for [!2 GCP summits] and other activities that require diplomatic personnel.\n        3. Minister of Public Safety \n            The Minister of Public Safety deals with the implementation and enforcement of TWSR ([!3 Tuine Worker Safety Regulations]).  They set the standards for jobs across the Tuine nation, standards such as workers' compensation, maternity leave, and so on.  This minister works in conjunction with the minister of labor. \n        4. Minister of Public Affairs\n            The Minister of Public Affairs handles the interests and concerns of the Tuine public.  They hold power over the mayoral leaders on a city-by-city basis, as well as city governments.  This minister works in conjunction with the minister of Homeworld Security to manage Police, EMT, and Firefighter forces for major cities. \n        5. Minister of Interplanetary Commerce, Resource Management, and Development\n            This minister handles the industrial facets of planetary [!4 Bius Tu] and [!5 Osirja].  They finalize trade agreements between planets and the distribution of resources to the public.  They also allocate resources to other ministers, such as the Minister of Technological innovations.\n        6. Minister of Treasury\n            The Minister of Treasury handles the currency that goes into the Tuine state and are responsible for properly allocating it.  They draft the budget and distribute funding to each of the other Ministers, as well as managing revenue generated by the state.\u0000css\n        7. Minister of Labor\n            The Minister of Labor handles the government influence in employment on Bius Tu.  They set the standards for working conditions such as workers' compensation, maternity leave, minimum wage, and so on.  This minister works closely with the Minister of Public Safety.  They're also responsible for keeping tables over the job and financial markets across the states. \n        8. Minister of Health and Human Services\n            The Minister of Health and Human Services oversees the standards of all the hospitals and medical facilities in the state.  This includes managing psychological facilities and pharmaceutical industries.  This minister works closely with the Department of Medical Innovation to improve methods of treatment and cures for a number of illnesses. \n        9. Minister of Urban Development\n            The Minister of Urban Development handles the development of intra-city infrastructure as well as the planning of new cities.  Because of this, the Minister of Urban Development works closely with city-level governments.\n        10. Minister of Public and Interplanetary Transportation\n            This minister manages the vast [!6 railway] and highway systems that transport both goods and people between cities.  Primarily, they handle the management of transporting people and goods between planets.  Because of the nature of their work, the Minister of Urban Development commonly cooperates with the Minister of Urban Development.\n        11. Minister of Energy\n            The Minister of Energy oversees and advises the [!7 energy] consumption and production of the planet as a whole.  This task involves promoting energy preservation as well as the planning and design of new energy plants.  Due to the innovative nature of this minister's responsibilities, they frequently work with the Department of Industrial Innovation.\u0000css\n        12. Minister of Education\n            The Minister of Education deals with the planets many educational facets.  They set up the basis for funding and management of education on Bius Tu and Osirja.  This minister position collaborates with the ministers of Labor, Technological Innovation and Defence.  They work with so many other ministers in order to better design programs for other Ministers, such as the [!8 Early Bird Espionage Program], which was establised upon request from the Minister of Homeworld Security.\n        13. Minister of Media Affairs\n            The Minister of Media Affairs manages media consumption and portrayal of Bius Tu across the state. Their department monitors media outlets and enforces quality standards.  As well as internal media sources, the Minister of Media Affairs monitors media representations for Bius Tu from other nations.\n        14. Minister of Homeworld Security\n            The Minister of Homeworld Security manages the Deparment of Counter-Intellegence, the Department of Espinoge, and the Deparment of Counter-Terrorism.  This minister sits as the head of all three of these departments, as well as overseeing planetary police forces.  They work closely with the Minister of Defence in the orchestration of military advances during wartime.\n        15. Minister of Technological Innovation\n            The Minister of Technological Innovation holds supervision over the three departments of Innovation on Bius Tu: The Department of Military Innovation, the Departments of Medical Innovation and the Department of Industrial Innovation.  They are tasked with promoting recruitment of scientists and inventors for each of the three departments.  This minister's department is the one in charge of managing patents and trademarks within the state.\u0000css\n    Advisory Councils:\n        An Advisory Council is a small council of two or three people, with one Advisors Council assigned to every minister on the Ministry Council.  The purpose of an Advisory Council is to help advise the ministers they are assigned to.  However, the ministers are not required to listen to their assigned advisors.  Though ministers not required to listen to their advisors, they are allowed to offload their responsibilities to their advisors.  The Advisory Councils are the only position within the greater Tuine government that are elected by the people of Bius Tu, with exception to the Minister of Defence.  Advisors serve 5-year terms with no term limit.",
+        "data": "css\n    The governing body of Bius Tu State consists of 3 tiers: Head Minister, Ministry Council and Advisory Council.\n\n    Head Minister:\n        The Head Minister position is considered the most important position in the Tuine government.  They are in charge of overseeing the activities of all the individuals on the ministry council.  The Head Minister overseeing the other ministers means that they have the ability to set an inquiry of indictment if they feel a minister is underperforming.  Head ministers serve lifelong terms, but are not obligated to.  Despite this, many Head Ministers serve until death.  Before a Head Minister dies or steps down from their position, they nominate one of the ministers under them as their successor. Most frequently, the successor is either Minister of Defence or Minister of Homeworld Security.\n\n    Ministry Council:\n        This collection of positions oversees every aspect of the state.  Individual ministers serve life-long terms.  Before a minister dies or steps down, they nominate a new minister to fill their place.  Often, the nominee is a current or past member of the minister's advisory council.  If a ministry member is assigned as Head Minister, they required to select someone to fill the position they leave behind.  The seats of the Ministry Council are as follows:\n        1. Minister of Defense\n            The Minister of Defense is considered one of the most important ministers, as they handle everything to do with the [!1 military of Bius Tu]; they handle the troops and are in command of the military when a war or conflict breaks out, and they handle drafting and military recruitment.  The advisory council underneath this minister is the only advisory council not elected, but choosen by the Minister of Defense from a pool of high-ranking generals.\u0000css\n        2. Minister of Interplanetary Affairs\n            The Minister of Interplanetary Affairs handles interactions between the governments of other planets.  They assign and distribute diplomates between planets and manage their whereabouts.  This is the minister that picks and sends out diplomats for [!2 GCP summits] and other activities that require diplomatic personnel.\n        3. Minister of Public Safety \n            The Minister of Public Safety deals with the implementation and enforcement of TWSR ([!3 Tuine Worker Safety Regulations]).  They set the standards for jobs across the Tuine nation, standards such as workers' compensation, maternity leave, and so on.  This minister works in conjunction with the minister of labor. \n        4. Minister of Public Affairs\n            The Minister of Public Affairs handles the interests and concerns of the Tuine public.  They hold power over the mayoral leaders on a city-by-city basis, as well as city governments.  This minister works in conjunction with the minister of Homeworld Security to manage Police, EMT, and Firefighter forces for major cities. \n        5. Minister of Interplanetary Commerce, Resource Management, and Development\n            This minister handles the industrial facets of planetary [!4 Bius Tu] and [!5 Osirja].  They finalize trade agreements between planets and the distribution of resources to the public.  They also allocate resources to other ministers, such as the Minister of Technological innovations.\n        6. Minister of Treasury\n            The Minister of Treasury handles the currency that goes into the Tuine state and are responsible for properly allocating it.  They draft the budget and distribute funding to each of the other Ministers, as well as managing revenue generated by the state.\u0000css\n        7. Minister of Labor\n            The Minister of Labor handles the government influence in employment on Bius Tu.  They set the standards for working conditions such as workers' compensation, maternity leave, minimum wage, and so on.  This minister works closely with the Minister of Public Safety.  They're also responsible for keeping tables over the job and financial markets across the states. \n        8. Minister of Health and Human Services\n            The Minister of Health and Human Services oversees the standards of all the hospitals and medical facilities in the state.  This includes managing psychological facilities and pharmaceutical industries.  This minister works closely with the Department of Medical Innovation to improve methods of treatment and cures for a number of illnesses. \n        9. Minister of Urban Development\n            The Minister of Urban Development handles the development of intra-city infrastructure as well as the planning of new cities.  Because of this, the Minister of Urban Development works closely with city-level governments.\n        10. Minister of Public and Interplanetary Transportation\n            This minister manages the vast [!6 railway] and highway systems that transport both goods and people between cities.  Primarily, they handle the management of transporting people and goods between planets.  Because of the nature of their work, the Minister of Urban Development commonly cooperates with the Minister of Urban Development.\n        11. Minister of Energy\n            The Minister of Energy oversees and advises the [!7 energy] consumption and production of the planet as a whole.  This task involves promoting energy preservation as well as the planning and design of new energy plants.  Due to the innovative nature of this minister's responsibilities, they frequently work with the Department of Industrial Innovation.\u0000css\n        12. Minister of Education\n            The Minister of Education deals with the planets many educational facets.  They set up the basis for funding and management of education on Bius Tu and Osirja.  This minister position collaborates with the ministers of Labor, Technological Innovation and Defence.  They work with so many other ministers in order to better design programs for other Ministers, such as the [!8 Early Bird Espionage Program], which was establised upon request from the Minister of Homeworld Security.\n        13. Minister of Media Affairs\n            The Minister of Media Affairs manages media consumption and portrayal of Bius Tu across the state. Their department monitors media outlets and enforces quality standards.  As well as internal media sources, the Minister of Media Affairs monitors media representations for Bius Tu from other nations.\n        14. Minister of Homeworld Security\n            The Minister of Homeworld Security manages the Deparment of Counter-Intellegence, the Department of Espinoge, and the Deparment of Counter-Terrorism.  This minister sits as the head of all three of these departments, as well as overseeing planetary police forces.  They work closely with the Minister of Defence in the orchestration of military advances during wartime.\n        15. Minister of Technological Innovation\n            The Minister of Technological Innovation holds supervision over the three departments of Innovation on Bius Tu: The Department of Military Innovation, the Departments of Medical Innovation and the Department of Industrial Innovation.  They are tasked with promoting recruitment of scientists and inventors for each of the three departments.  This minister's department is the one in charge of managing patents and trademarks within the state.\u0000css\n    Advisory Councils:\n        An Advisory Council is a small council of two or three people, with one Advisors Council assigned to every minister on the Ministry Council.  The purpose of an Advisory Council is to help advise the ministers they are assigned to.  However, the ministers are not required to listen to their assigned advisors.  Though ministers not required to listen to their advisors, they are allowed to offload their responsibilities to their advisors.  The Advisory Councils are the only position within the greater Tuine government that are elected by the people of Bius Tu, with exception to the Minister of Defence.  Advisors serve 5-year terms with no term limit.",
         "links": [
           "/ROOT/NATIONS/BIUS_TU/MILITARY",
           "/ROOT/NATIONS/GCP/MEETINGS",
@@ -7676,7 +7615,7 @@
           "author": "<@!572239941581537290>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/27 13:23:01",
-          "editTime": "2019/10/29 03:46:00"
+          "editTime": "2021/01/13 17:05:04"
         },
         "extension": "TEXT"
       },
@@ -9367,16 +9306,16 @@
         "extension": ""
       },
       {
-        "name": "Untitled",
+        "name": "Transition Genetics",
         "path": "/ROOT/COMPANIES/RESEARCH/GENETICS/TRANSITION_GENETICS",
         "isUp": true,
-        "data": "[Unwritten]",
+        "data": "css\n    [unwritten]",
         "links": [],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/12/02 19:20:30",
-          "editTime": "2019/12/02 19:20:30"
+          "editTime": "2020/12/05 21:16:11"
         },
         "extension": ""
       },
@@ -9514,17 +9453,18 @@
         "name": "Proto Ruitai Culture",
         "path": "/ROOT/CULTURE/ANCIENT/PROTO_RUITAI",
         "isUp": true,
-        "data": "css\n    The Proto Ruitai, or \"Feruitai\", culture was the first regimented culture to appear on planetary [!1 La'Foy] around the year -3,600.  They originated in the great plains of La'Foy, and were the most complicated culture of their time.  Because if this, they played a large part in [!2 La'Foyan History].\n    \n    Based on recovered records from that era etched in stone, it is believed that Proto Ruitai had a very poor understanding of disease.  By noticing that larger villages were more likely to be wiped out by disease, they erroneously concluded that sufficiently-large collections of people were cursed, and doomed to die mysteriously.  This number was decided to be exactly 81; they believed that a population of this number or greater in a village would cause the population to die suddenly and mysteriously.  In fact, the ancient Nunwei word for plague, \"Sabisa\", directly translates to '81' in [!3 Nunwei].\n    \n    Village-wiping diseases were seen as curses of pure evil, and something to be avoided at all costs. Because of this, sufficiently-large villages would split in two, with one half staying and the other leaving to create a new village, likely never seeing their original village again.  Because of this phenomenon, complex La'Foyan culture was able to more-easily spread across the planet.\u0000css\n     As the Proto Ruitai encountered outsiders as they spread, they would commonly observe that the outsiders' villages had populations exceeding 81.  In these cases, the Proto Ruitai tribe would avoid the outsider tribe altogether, or attempt to fix the population of offending village themselves.  In the case of the latter, the Proto Ruitai tribe may attempt to communicate with the foreign village.  Though, this approach rarely worked, as the other tribe would have either a vastly-different language, or no proper language at all.\n    In other cases, special warriors known as Sabisari would raid the offending village, killing members of the tribe at random to decrease the population to a suitable level.  These warrior would wield axe-like weapons called [!4 Sifaku] on these raids.  Written records from that era indicate that they had thought that this act helped the villages, while in reality, this likely only crippled the communities.",
+        "data": "css\n    The Proto Ruitai, or \"Feruitai\", culture was the first regimented culture to appear on planetary [!1 La`Foy] around the year -3,600.  They originated in the great plains of La`Foy, and were the most complicated culture of their time.  Because if this, they played a large part in [!2 La`Foyan History].\n    \n    Based on recovered records from that era etched in stone, it is believed that Proto Ruitai had a very poor understanding of disease.  By noticing that larger villages were more likely to be wiped out by disease, they erroneously concluded that sufficiently-large collections of people were cursed, and doomed to die mysteriously.  This number was decided to be exactly 81; they believed that a population of this number or greater in a village would cause the population to die suddenly and mysteriously.  In fact, the ancient Nunwei word for plague, \"Sabisa\", directly translates to '81' in [!3 Nunwei].\n    \n    Village-wiping diseases were seen as curses of pure evil, and something to be avoided at all costs. Because of this, sufficiently-large villages would split in two, with one half staying and the other leaving to create a new village, likely never seeing their original village again.  Because of this phenomenon, complex La`Foyan culture was able to more-easily spread across the planet.\u0000css\n     As the Proto Ruitai encountered outsiders as they spread, they would commonly observe that the outsiders' villages had populations exceeding 81.  In these cases, the Proto Ruitai tribe would avoid the outsider tribe altogether, or attempt to fix the population of offending village themselves.  In the case of the latter, the Proto Ruitai tribe may attempt to communicate with the foreign village.  Though, this approach rarely worked, as the other tribe would have either a vastly-different language, or no proper language at all.\n    In other cases, special warriors known as Sabisari would raid the offending village, killing members of the tribe at random to decrease the population to a suitable level.  These warrior would wield axe-like weapons called [!4 Sifaku] on these raids.  Written records from that era indicate that they had thought that this act helped the villages, while in reality, this likely only crippled the communities.",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/MAIN",
           "/ROOT/NATIONS/LAFOY/HISTORY/SUMMARY",
+          "/ROOT/CULTURE/LANGUAGE/NUNWEI/MAIN",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/MELEE/LIGHT/SIFAKU"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/12/04 22:59:17",
-          "editTime": "2019/12/05 04:43:47"
+          "editTime": "2020/12/02 21:33:04"
         },
         "extension": "TEXT"
       },
@@ -11509,13 +11449,13 @@
         "name": "Ceiraz Deorian",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/CEIRAZ_DEORIAN",
         "isUp": true,
-        "data": "[Unwritten]",
+        "data": "css\n    The Ceiraz are a race of Deorian originating from the Ricefield continent of Deoria.\n\n    [This article is a stub, you can help by expanding it]",
         "links": [],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/11/01 17:28:43",
-          "editTime": "2020/11/01 17:28:51"
+          "editTime": "2020/12/05 21:11:28"
         },
         "extension": ""
       },
@@ -11588,7 +11528,7 @@
         "name": "Niprabe",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIPABRE",
         "isUp": true,
-        "data": "css\n┌──────────────────────────────────┐\n│Group Name.........:Tribe         │\n│Youngling Name.....:Calf          │\n│Status.............:Safe          │ \n│Vivotype...........:Daerus        │ \n│Archetype..........:Humanoid      │\n│Domestication......:Undomesticated│\n│Intelligence Class.:General       │\n│Lifespan...........:4±1.3  Years  │\n│Time to Maturity...:0.8±0.3 Years │\n│# Physical Sexes...:2             │\n│Sexual Polymorphism:Low           │ \n│Procreation Method.:Interactive   │ \n│Diet/Resource Input:Herbivorous   │\n│Respiratory Gas....:Oxygen        │\n│Weight.............:47±4Kg        │\n│Height.............:149±6cm       │\n│Thermal Range......:295±3K        │ \n│Blood Volume.......:4+(0 to 1)L   │ \n│Min Conscious Blood:3L            │\n│Top Speed..........:21±2m/s       │\n└──────────────────────────────────┘\n\n    The Deorian Tribal Deer, called the \"Niprabe\" in [!1 Deorian], or just the \"Deer\", is a common life form found natively on [!2 Deoria].  It is a herbivorous mammal that partially resembles a [!3 Ceiraz Deorian] in appearance and structure, with the addition of long, silky, wool which it grows out completely before cold seasons approach their area of habitation (as opposed to a [!3 Ceiraz Deorian]’s thicker, poofier coat of fur), allowing it to stay warm in the mountains and forest highlands from which it originated.  The wool begins to shed upon the end of the cold season, and is usually completely gone by mid-Spring.\u0000css\n    Even though the Niprabe normally sprints quadrupedally (on all fours) to maneuver quickly, the Tribal Deer also has the interesting ability to slowly waddle on its hind legs whilst being able to grab objects with its front appendages (making them act as primitive arms).  The creature is genetically similar to the sapient Deorian races, and similarly displays intriguing levels of intelligence, even sometimes found manipulating items with its \"hands\" and utilizing them as tools or giving them to other creatures, even Deorians, as gifts.  A few common examples of this would be the usage of sticks as weapons to fend off predators and the occasional occurrence of a Tribal Deer plucking wild berries from bushes and handing them to nearby Deorians.\n\n    The Deorian Niprabe displays a high level of sociability in general, and they are typically seen in large groups of around ten to fifty, resembling tribes.  When two tribes of Deer meet in nature, they typically merge into one larger tribe if there are no major barriers between them.  These tribes of Niprabe live together in a seemingly-unmoving section of a forest, performing their daily activities together, such as gathering edible vegetation, defending themselves and eachother from predators or hostiles (such as the [!4 Deorian Savage Isfetra], which sometimes compete with the Tribal Deer for territory), mating, and sometimes even more complex activities such as trading food and items with one other (and sometimes even with local Deorians).\u0000css\n    It is believed that Deer tribes, over time, develop their own simple, distinct “languages” composed of a collection of sounds ranging from grunts to screeches to barks.  The simplest of these languages are only utilized for informing other Deer of the locations of things such as food, other animals, and danger, along with communicating pain, hunger, lust, anger, fear, etc., but more developed Niprabe languages may even be used for communicating more complex ideas such as ideas and non-primal feelings, and can thus be used more conversationally.  No two Niprabe from different tribes can understand one another, except through more primitive forms of communication, such as body language and similarly-primal signs.  They cannot vocalize human speech, but some Deorian researchers have made attempts to record, learn, and master major Tribal Deer languages, spoken by the largest of Deer tribes which occupy vast forested territories.\n    Most of Tribal Deer territories are protected by local law and cannot be deforested, hunted in, or otherwise disrupted.  Many researchers believe that if we could learn how Tribal Deer language is created and evolves, we could understand more about the definite origins of Deorian speech. Deorian Tribal Deer, despite lacking the capability to speak human languages, can learn and understand human sign language (to an extent).  On a side note, Tribal Deer can also laugh; this trait is normally exhibited when a Deer is doing something entertaining, being tickled, or told an amusing story (a story simple enough to be understood; they typically enjoy short stories about Niprabe interacting with local wildlife.  Stories lasting more than a few sentences are typically lost on them.  Researchers have noted that Niprabe seem to have a \"very peculiar\" sense of humor, judging by what makes them laugh).\u0000css\n    Typically, male Deer are built slightly larger and stronger than female Deer. Male Deer also tend to bear more colorful wool than females, as it is a method for members of the species to attract mates, similar to some species of birds.  A male’s coat can be some shade of crimson, gold, cream, or silver, but is often a combination of said colors, occasionally with the addition of other common colors such as brown. Females, on the other hand, bear coats of muted grey, brown, cream, and/or black, and are consequently harder to spot amidst the trees of an especially dark forest (when compared to their male counterparts).  Interestingly, despite the males being physically stronger than the females, the sexes behaviorally diverge very little, as though there was no difference whatsoever.  However, this trait is cultural, in the sense that it depends on the tribe from which the subjects originated; in some Tribal Deer cultures, male and female activities are homogenous, while in others, gender roles take on more specialized common activities.\n\n    It is believed that the Deorian Niprabe and Deorian Human both evolved from a recent common ancestor, which may explain the numerous similarities between the two species, though some prefer to claim the similarities as a coincidence.  Regardless of any recent common ancestor, the Niprabe’s origins have been narrowed down to the forested mountain regions somewhere around the homeland of the [!3 Ceiraz Deorians], further providing evidence for the relationship between the Tribal Deer and common Deorian.  The Deer, as a species, appear to have migrated from forest to forest over a long period of time until they eventually settled and populated a large number of forests around Deoria, forming numerous, distinct tribes as they did.\u0000css\n    As mentioned previously, whenever the territory of two tribes meet, the tribes typically merge into a singular, larger tribe.  Due to this, many smaller forests with large populations of Tribal Deer tend to house one large, unitary tribe as opposed to multiple smaller, scattered ones.  These large, unified tribes speak what is considered a “creole” of all the languages used by each federated tribe.  Many linguists have been making attempts to record and learn these creoles, and there has been enough progress to allow some basic communication between the Deorian field researchers and the inhabitants of aforementioned large tribes, though most of the tribes’ creoles are still unknown.\n    Deorian Niprabe appear many times in classical and even ancient Deorian writings and literature.  They have been recorded to have been historical allies to the Deorian species, doing deeds from providing protection and excess food to lost travellers to assisting Deorian farmers in harvesting their crops in exchange for a small portion of the farmer’s yield.  [!5 Pacemists] classify the Niprabe as “human”, and thus are not permitted to hunt and/or eat them.  Indeed, the Deorian government has passed several laws and regulations to protect the Deorian Tribal Deer and their habitats, including a ban against hunting the creature and regulations and guidelines for harvesting wool from Tribal Deer.  One section of the guidelines recommends the harvester should always repay the Niprabe they shear with food, or other reward in return for their wool.  Otherwise, the Niprabe is likely to feel mistreated and make itself problematic in protest.",
+        "data": "css\n┌──────────────────────────────────┐\n│Group Name.........:Tribe         │\n│Youngling Name.....:Calf          │\n│Status.............:Safe          │ \n│Vivotype...........:Daerus        │ \n│Archetype..........:Humanoid      │\n│Domestication......:Undomesticated│\n│Intelligence Class.:General       │\n│Lifespan...........:16±3.2 Years  │\n│Time to Maturity...:4.2±0.5 Years │\n│# Physical Sexes...:2             │\n│Sexual Polymorphism:Low           │ \n│Procreation Method.:Interactive   │ \n│Diet/Resource Input:Herbivorous   │\n│Respiratory Gas....:Oxygen        │\n│Weight.............:47±4Kg        │\n│Height.............:149±6cm       │\n│Thermal Range......:295±3K        │ \n│Blood Volume.......:4+(0 to 1)L   │ \n│Min Conscious Blood:3L            │\n│Top Speed..........:21±2m/s       │\n└──────────────────────────────────┘\n\n    The Deorian Tribal Deer, called the \"Niprabe\" in [!1 Deorian], or just the \"Deer\", is a common life form found natively on [!2 Deoria].  It is a herbivorous mammal that partially resembles a [!3 Ceiraz Deorian] in appearance and structure, with the addition of long, silky, wool which it grows out completely before cold seasons approach their area of habitation (as opposed to a [!3 Ceiraz Deorian]’s thicker, poofier coat of fur), allowing it to stay warm in the mountains and forest highlands from which it originated.  The wool begins to shed upon the end of the cold season, and is usually completely gone by mid-Spring.\u0000css\n    Even though the Niprabe normally sprints quadrupedally (on all fours) to maneuver quickly, the Tribal Deer also has the interesting ability to slowly waddle on its hind legs whilst being able to grab objects with its front appendages (making them act as primitive arms).  The creature is genetically similar to the sapient Deorian races, and similarly displays intriguing levels of intelligence, even sometimes found manipulating items with its \"hands\" and utilizing them as tools or giving them to other creatures, even Deorians, as gifts.  A few common examples of this would be the usage of sticks as weapons to fend off predators and the occasional occurrence of a Tribal Deer plucking wild berries from bushes and handing them to nearby Deorians.\n\n    The Deorian Niprabe displays a high level of sociability in general, and they are typically seen in large groups of around ten to fifty, resembling tribes.  When two tribes of Deer meet in nature, they typically merge into one larger tribe if there are no major barriers between them.  These tribes of Niprabe live together in a seemingly-unmoving section of a forest, performing their daily activities together, such as gathering edible vegetation, defending themselves and eachother from predators or hostiles (such as the [!4 Deorian Savage Isfetra], which sometimes compete with the Tribal Deer for territory), mating, and sometimes even more complex activities such as trading food and items with one other (and sometimes even with local Deorians).\u0000css\n    It is believed that Deer tribes, over time, develop their own simple, distinct “languages” composed of a collection of sounds ranging from grunts to screeches to barks.  The simplest of these languages are only utilized for informing other Deer of the locations of things such as food, other animals, and danger, along with communicating pain, hunger, lust, anger, fear, etc., but more developed Niprabe languages may even be used for communicating more complex ideas such as ideas and non-primal feelings, and can thus be used more conversationally.  No two Niprabe from different tribes can understand one another, except through more primitive forms of communication, such as body language and similarly-primal signs.  They cannot vocalize human speech, but some Deorian researchers have made attempts to record, learn, and master major Tribal Deer languages, spoken by the largest of Deer tribes which occupy vast forested territories.\n    Most of Tribal Deer territories are protected by local law and cannot be deforested, hunted in, or otherwise disrupted.  Many researchers believe that if we could learn how Tribal Deer language is created and evolves, we could understand more about the definite origins of Deorian speech. Deorian Tribal Deer, despite lacking the capability to speak human languages, can learn and understand human sign language (to an extent).  On a side note, Tribal Deer can also laugh; this trait is normally exhibited when a Deer is doing something entertaining, being tickled, or told an amusing story (a story simple enough to be understood; they typically enjoy short stories about Niprabe interacting with local wildlife.  Stories lasting more than a few sentences are typically lost on them.  Researchers have noted that Niprabe seem to have a \"very peculiar\" sense of humor, judging by what makes them laugh).\u0000css\n    Typically, male Deer are built slightly larger and stronger than female Deer. Male Deer also tend to bear more colorful wool than females, as it is a method for members of the species to attract mates, similar to some species of birds.  A male’s coat can be some shade of crimson, gold, cream, or silver, but is often a combination of said colors, occasionally with the addition of other common colors such as brown. Females, on the other hand, bear coats of muted grey, brown, cream, and/or black, and are consequently harder to spot amidst the trees of an especially dark forest (when compared to their male counterparts).  Interestingly, despite the males being physically stronger than the females, the sexes behaviorally diverge very little, as though there was no difference whatsoever.  However, this trait is cultural, in the sense that it depends on the tribe from which the subjects originated; in some Tribal Deer cultures, male and female activities are homogenous, while in others, gender roles take on more specialized common activities.\n\n    It is believed that the Deorian Niprabe and Deorian Human both evolved from a recent common ancestor, which may explain the numerous similarities between the two species, though some prefer to claim the similarities as a coincidence.  Regardless of any recent common ancestor, the Niprabe’s origins have been narrowed down to the forested mountain regions somewhere around the homeland of the [!3 Ceiraz Deorians], further providing evidence for the relationship between the Tribal Deer and common Deorian.  The Deer, as a species, appear to have migrated from forest to forest over a long period of time until they eventually settled and populated a large number of forests around Deoria, forming numerous, distinct tribes as they did.\u0000css\n    As mentioned previously, whenever the territory of two tribes meet, the tribes typically merge into a singular, larger tribe.  Due to this, many smaller forests with large populations of Tribal Deer tend to house one large, unitary tribe as opposed to multiple smaller, scattered ones.  These large, unified tribes speak what is considered a “creole” of all the languages used by each federated tribe.  Many linguists have been making attempts to record and learn these creoles, and there has been enough progress to allow some basic communication between the Deorian field researchers and the inhabitants of aforementioned large tribes, though most of the tribes’ creoles are still unknown.\n    Deorian Niprabe appear many times in classical and even ancient Deorian writings and literature.  They have been recorded to have been historical allies to the Deorian species, doing deeds from providing protection and excess food to lost travellers to assisting Deorian farmers in harvesting their crops in exchange for a small portion of the farmer’s yield.  [!5 Pacemists] classify the Niprabe as “human”, and thus are not permitted to hunt and/or eat them.  Indeed, the Deorian government has passed several laws and regulations to protect the Deorian Tribal Deer and their habitats, including a ban against hunting the creature and regulations and guidelines for harvesting wool from Tribal Deer.  One section of the guidelines recommends the harvester should always repay the Niprabe they shear with food, or other reward in return for their wool.  Otherwise, the Niprabe is likely to feel mistreated and make itself problematic in protest.",
         "links": [
           "/ROOT/CULTURE/LANGUAGE/DEORIAN/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
@@ -11600,9 +11540,117 @@
           "author": "<@!366044218742800385>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/11/30 23:13:24",
-          "editTime": "2020/11/30 23:30:05"
+          "editTime": "2020/12/02 18:10:30"
         },
         "extension": "TEXT"
+      },
+      {
+        "name": "Qi Energy",
+        "path": "/ROOT/TECHNOLOGY/ENERGY/TYPES/QI",
+        "isUp": true,
+        "data": "css\n    Qi Energy is energy in the form of [!1 Charged Qi particles].  Qi Energy is a type of potential energy, which can easily be transformed into light, thermal, electric, chemical, or kinetic energy as the Charged Qi Particles discharge.  Qi Energy can be produced by certain chemical reactions, electrical means, and interacting with light (meaning chemical, electrical, or light energy can be converted to Qi Energy).  Qi Energy is measures in \"Chella\", often abbreviated as \"Chells\" or \"Cs\".  One Chella is equal to 32 kibijoules, or 32,768 joules, of stored Qi Energy.\n\n    Qi Energy is an essential part of [!2 Biology], as most all living creatures use Qi Energy to store energy and maintain homeostasis (primarily as a potential source of heat).  It is similarly used in most types of batteries across the [!3 GCP], with the Qi Energy being used to store power.\n\n    Qi Energy can \"manifest\" in and propagate through material in an almost identical manner to Heat Energy.  Qi Energy spreads through contact, from high concentration to low concentration, until the Qi Energy in an area has reached equilibrium.  Though, Qi Energy generally propagates through substances and materials many times faster than Heat Energy (not always, as a material's Qi Conductivity is often not proportional to its Heat Conductivity).\n    All materials have a \"Qi Conductivity\", which determines the rate at which Qi Energy flows within it.  Substances such as Chellinsuphin (proteins that keep Qi Energy from escaping from a creature's skin) have a low Qi Conductivity, and are considered Qi Insulators.  Substances such as many metals and many forms of crystals have a high Qi Conductivity, and are considered Qi Conductors.",
+        "links": [
+          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN",
+          "/ROOT/BIOLOGY",
+          "/ROOT/NATIONS/GCP/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2020/12/23 00:48:20",
+          "editTime": "2021/01/08 23:35:48"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Flavors of Qi Entity",
+        "path": "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS",
+        "isUp": true,
+        "data": "css\n    [!1] +Classes of Qi Entities\n    [!2] >Structum\n    [!3] >Actuatum\n    [!4] >Sentium\n    [!5] >Logicum",
+        "links": [
+          "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/MAIN",
+          "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/STRUCTUM",
+          "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/ACTUATUM",
+          "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/SENTIUM",
+          "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/LOGICUM"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/01/12 21:31:13",
+          "editTime": "2021/01/13 02:19:24"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/ACTUATUM",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/01/12 21:33:55",
+          "editTime": "2021/01/12 21:33:55"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/SENTIUM",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/01/12 21:34:00",
+          "editTime": "2021/01/12 21:34:00"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/LOGICUM",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/01/12 21:34:06",
+          "editTime": "2021/01/12 21:34:06"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Classes of Qi Entity Functions",
+        "path": "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/MAIN",
+        "isUp": true,
+        "data": "css\n    There are four classes of Qi Entity flavors, those being \"Structum\", \"Actuatum\", \"Sentium\", and \"Logicum\".\n    The Structum class of qi entities mainly deal with the flow of energy throughout spells.\n    The Actuatum class covers ei entities that create a force or effect in their environment, such as creating heat, light, force, or pressure.\n    Sentium are qi entities that can \"sense\" properties of their local environment, and can be seen as the opposite of Actuatum.  Sentium entity flavors include detecting heat, EM radiation (which includes visible light), density, and other things.\n    Logicum is used for logic within qi entities, such as enabling/disabling other qi entities, and is usually used for wiring from Sentium entities to Actuatum entities which allows for the creation of very complex spells.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/01/12 21:35:41",
+          "editTime": "2021/01/13 00:41:46"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/TECHNOLOGY/QI_INVOCATION/FUNCTIONS/STRUCTUM",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/01/13 02:19:43",
+          "editTime": "2021/01/13 02:19:43"
+        },
+        "extension": ""
       }
     ],
     "owners": [],
