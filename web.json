@@ -279,7 +279,7 @@
         "name": "Deorian",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
         "backpath": "/MAIN",
-        "data": "css\n┌─────────────────────────────────┐\n│Group Name.........:Party        │\n│Youngling Name.....:Bet          │\n│Status.............:Safe         │ \n│Vivotype...........:Daerus       │\n│Archetype..........:Humanoid     │\n│Domestication......:N/A          │\n│Intelligence Class.:Sentient     │\n│Lifespan...........:31±10.3 Years│\n│Time to Maturity...:9±1.73 Years │\n│# Physical Sexes...:2            │\n│Sexual Polymorphism:Moderate     │\n│Procreation Method.:Interactive  │ \n│Diet/Resource Input:Biovorus     │\n│Respiratory Gas....:Oxygen       │\n│Weight.............:79±11Kg      │\n│Height.............:161±21cm     │\n│Thermal Range......:304±22°k     │\n│Blood Volume.......:6L           │\n│Min Conscious Blood:5L           │\n│Top Speed..........:18m/s        │\n└─────────────────────────────────┘\n\n    The Deorians are a notable, numerous species, spanning many planets and star systems.  The Deorian specimen is bipedal, with B-Type bodies.  Deorians are covered in body fur, with colors ranging from crimson to cyan (fur color is determined by genetic factors).  In addition to their body fur, Deorians have longer hairs growing from their heads and tailbones, giving the appearance of common hair and tails.  The color of these longer hairs are typically a darker shade of their body fur tone.  These hairs are thicker and longer than the hairs of their body fur.  Deorian tails consist of no flesh or bone, simply being a long bundle of hairs stemming from their lowermost parts of their backs.\u0000css\n    Like all known species of human, Deorians heavily rely on unique facial structures to identify others.  Compared to other species, the face of a Deorian is notably unique.  Like other life of the [!1 Daerus] vivotype, the eyes of the Deorian face are notably large.  While the average diameter of other humans' eyes is two to three centimeters, the adult Deorian eye is five to six centimeters.  Regardless its size, the Deorian eye has a unique appearance.  The Sclera of a Deorian's eyes are light grey, but gradually turn dark brown as age.  The iris color of of the eye can come in about a dozen different, shimmering colors, mostly determined by the ethnicity of the subject.  Most notably, a Deorian's pupil is shaped like a rounded triangle.  The rotation of each eye (meaning the rotation of the triangular pupil) is apparently completely random, determined at conception; even genetically-identical twins are born with different pupil orientations.\n    As for the rest of the face, the mouth and nose are built into a short snout, which is about half the height and width of the face as a whole.  The snout extends four to six centimeters out from the rest of the face, making a sort of muzzle.\u0000css\n    In terms of their overall bodies, Deorians have typical B-Type frames.  Deorians' limbs are of average width and girth, but the muscle bundles are more defined under the skin.  Some scientists think that this detail is due to Deorians coming from a world of moderately-high gravity (1.62 G).  Being of B-Type bodies, their legs have two major joints (as opposed to one); the first one is the forward-facing upper knee, which is just \"the knee\" in F-Type bodies, and the backward-facing lower knee, which is a variant of \"the ankle\" seen in F-Type bodies.  Overall, this divides the leg into three, equal-height sections.  From a side view, the upper-most third of the leg is quite wide, spanning 35 to 43 centimeters front to back (as it's full of muscle), while the lower-most third (right above the foot) is comparatively thin, only about 10 centimeters in diameter.\n\n    Deorians' hands and feet are hoof-like, being made of hard, enamel-like bone.  Deorian hands consist of four free-moving cloves, all of which being opposable, functionally making them relatively undexterous, though unusually powerful, fingers.  All four fingers of an adult Deorian are seven to nine centimeters long.  On average, a Deorian has 600 to 700 newtons of grip strength in each hand.\n    Deorians' feet are structured similarly to their hands.In the foot, three of the cloves extend forward from the \"ankle\" by about 20 centimeters, while the fourth faces backwards to act as a heel.  The clove of the foot which acts as the heel is much wider than the three in front.  Unlike those of the hand, the three cloves making up the fronts of the feet are fused together at the bases.  This makes the foot much stronger, though less dexterous.\u0000css\n    On the tops of their heads, each Deorian has a pair of natural antlers. At birth, these antlers are little more than nubs.  Though these antlers start to grow beginning in adolescence (five to ten [!2 Galactic Years]), and thereafter grow continually until death.  The patterns and shapes of the antlers vary from person to person, predetermined by one's sex, age, and ethnicity.  Tests show that Deorians are genetically coded to connect human identities to antler patterns in the same way they perceive hair.  The antlers of Deorian males can grow to rise between 15 to 50 centimeters above their head, while females' can grow up to 70.  Many Deorians shave down or even shear off their antlers for cultural reasons, convenience, personal choice, or aesthetics.\n    \n    The Deorian species has only moderate sexual polymorphism.  Most notably, female Deorians are, on average, 18 centimeters shorter than males of the same species, 145 to 154 centimeters on average, while males stand at 168 to 177 centimeters.  Conversely, the antlers of a common female Deorian tend to be about 20 centimeters taller than that of a common male.\n    For reproductive reasons, females' waists are slightly wider.  This difference is mostly imperceptible to other human species, but Deorian brains are built to be better at recognizing the difference.  While Deorian males have a shoulders-to-waist ratio of about 7:6, females have a ratio closer to 1:1.  Finally, male snouts extend six centimeters out from the rest of the face, while female snouts only extend four centimeters out on average.\n\n    The Deorians, as a species, have been quite successful.  They are the dominant species on their homeworld of [!3 Deoria], and have traversed endless space to propagate their kind across the stars.",
+        "data": "css\n┌─────────────────────────────────┐\n│Group Name.........:Party        │\n│Youngling Name.....:Bet          │\n│Status.............:Safe         │ \n│Vivotype...........:Daerus       │\n│Archetype..........:Humanoid     │\n│Domestication......:N/A          │\n│Intelligence Class.:Sentient     │\n│Lifespan...........:31±10.3 Years│\n│Time to Maturity...:9±1.73 Years │\n│# Physical Sexes...:2            │\n│Sexual Polymorphism:Moderate     │\n│Procreation Method.:Interactive  │ \n│Diet/Resource Input:Biovorus     │\n│Respiratory Gas....:Oxygen       │\n│Weight.............:79±11Kg      │\n│Height.............:161±21cm     │\n│Thermal Range......:304±22°k     │\n│Blood Volume.......:6L           │\n│Min Conscious Blood:5L           │\n│Top Speed..........:18m/s        │\n└─────────────────────────────────┘\n\n    The Deorians are a notable, numerous species, spanning many planets and star systems.  The Deorian specimen is bipedal, with B-Type bodies.  Deorians are covered in body fur, with colors ranging from crimson to cyan (fur color is determined by genetic factors).  In addition to their body fur, Deorians have longer hairs growing from their heads and tailbones, giving the appearance of common hair and tails.  The color of these longer hairs are typically a darker shade of their body fur tone.  These hairs are thicker and longer than the hairs of their body fur.  Deorian tails consist of no flesh or bone, simply being a long bundle of hairs stemming from their lowermost parts of their backs.\u0000css\n    Like all known species of human, Deorians heavily rely on unique facial structures to identify others.  Compared to other species, the face of a Deorian is notably unique.  Like other life of the [!1 Daerus] vivotype, the eyes of the Deorian face are notably large.  While the average diameter of other humans' eyes is two to three centimeters, the adult Deorian eye is five to six centimeters.  Regardless its size, the Deorian eye has a unique appearance.  The Sclera of a Deorian's eyes are light grey, but gradually turn dark brown as they age.  The iris color of of the eye can come in about a dozen different, shimmering colors, mostly determined by the ethnicity of the subject.  Most notably, a Deorian's pupil is shaped like a rounded triangle.  The rotation of each eye (meaning the rotation of the triangular pupil) is apparently completely random, determined at conception; even genetically-identical twins are born with different pupil orientations.\n    As for the rest of the face, the mouth and nose are built into a short snout, which is about half the height and width of the face as a whole.  The snout extends four to six centimeters out from the rest of the face, making a sort of muzzle.\u0000css\n    In terms of their overall bodies, Deorians have typical B-Type frames.  Deorians' limbs are of average width and girth, but the muscle bundles are more defined under the skin.  Some scientists think that this detail is due to Deorians coming from a world of moderately-high gravity (1.62 G).  Being of B-Type bodies, their legs have two major joints (as opposed to one); the first one is the forward-facing upper knee, which is just \"the knee\" in F-Type bodies, and the backward-facing lower knee, which is a variant of \"the ankle\" seen in F-Type bodies.  Overall, this divides the leg into three, equal-height sections.  From a side view, the upper-most third of the leg is quite wide, spanning 35 to 43 centimeters front to back (as it's full of muscle), while the lower-most third (right above the foot) is comparatively thin, only about 10 centimeters in diameter.\n\n    Deorians' hands and feet are hoof-like, being made of hard, enamel-like bone.  Deorian hands consist of four free-moving cloves, all of which being opposable, functionally making them relatively undexterous, though unusually powerful, fingers.  All four fingers of an adult Deorian are seven to nine centimeters long.  On average, a Deorian has 600 to 700 newtons of grip strength in each hand.\n    Deorians' feet are structured similarly to their hands.In the foot, three of the cloves extend forward from the \"ankle\" by about 20 centimeters, while the fourth faces backwards to act as a heel.  The clove of the foot which acts as the heel is much wider than the three in front.  Unlike those of the hand, the three cloves making up the fronts of the feet are fused together at the bases.  This makes the foot much stronger, though less dexterous.\u0000css\n    On the tops of their heads, each Deorian has a pair of natural antlers. At birth, these antlers are little more than nubs.  Though these antlers start to grow beginning in adolescence (five to ten [!2 Galactic Years]), and thereafter grow continually until death.  The patterns and shapes of the antlers vary from person to person, predetermined by one's sex, age, and ethnicity.  Tests show that Deorians are genetically coded to connect human identities to antler patterns in the same way they perceive hair.  The antlers of Deorian males can grow to rise between 15 to 50 centimeters above their head, while females' can grow up to 70.  Many Deorians shave down or even shear off their antlers for cultural reasons, convenience, personal choice, or aesthetics.\n    \n    The Deorian species has only moderate sexual polymorphism.  Most notably, female Deorians are, on average, 18 centimeters shorter than males of the same species, 145 to 154 centimeters on average, while males stand at 168 to 177 centimeters.  Conversely, the antlers of a common female Deorian tend to be about 20 centimeters taller than that of a common male.\n    For reproductive reasons, females' waists are slightly wider.  This difference is mostly imperceptible to other human species, but Deorian brains are built to be better at recognizing the difference.  While Deorian males have a shoulders-to-waist ratio of about 7:6, females have a ratio closer to 1:1.  Finally, male snouts extend six centimeters out from the rest of the face, while female snouts only extend four centimeters out on average.\n\n    The Deorians, as a species, have been quite successful.  They are the dominant species on their homeworld of [!3 Deoria], and have traversed endless space to propagate their kind across the stars.",
         "links": [
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS",
           "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC",
@@ -289,7 +289,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/02/10 07:36:35"
+          "editTime": "2021/02/22 04:21:56"
         },
         "extension": "TEXT"
       },
@@ -1698,17 +1698,19 @@
         "path": "/ROOT/INTERNET",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   [!1] +Main\n   [!2] >Websites\n   [!3] ~Internet Culture",
+        "data": "css\n   [!1] +Main\n   [!2] >Popular Websites\n   [!3] >Other Websites\n   [!4] +Tunnel Sites\n   [!5] ~Internet Culture",
         "links": [
           "/ROOT/INTERNET/MAIN",
+          "/ROOT/INTERNET/POPULAR",
           "/ROOT/INTERNET/WEBSITES",
+          "/ROOT/INTERNET/TUNNEL_SITES",
           "/ROOT/CULTURE/INTERNET"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/12/24 10:06:20"
+          "editTime": "2021/02/22 01:53:31"
         },
         "extension": ""
       },
@@ -4506,12 +4508,13 @@
         "name": "Gallea",
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA",
         "isUp": true,
-        "data": "css\n  [!1] +Info\n  [!2] +Heralius\n  [!3] +Venisuo [Undocumented]\n  [!4] +Lerco [Undocumented]\n  ----\n  [!5] +Grelia [Undocumented]\n  [!6] >Ganeimede",
+        "data": "css\n    [!1] +Info\n    [!2] +Heralius\n    [!3] +Venisuo [Undocumented]\n    [!4] +Lerco [Undocumented]\n    [!5] ~STTD System\n    ----\n    [!6] +Grelia [Undocumented]\n    [!7] >Ganeimede",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/HERALIUS",
           "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/VENISUO",
           "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/LERCO",
+          "/ROOT/NATIONS/GALLEA/LAW/STTDS",
           "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/GRELIA",
           "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/GANEIMEDE"
         ],
@@ -4519,7 +4522,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/05/15 00:25:26",
-          "editTime": "2019/11/25 21:32:15"
+          "editTime": "2021/02/22 02:56:21"
         },
         "extension": ""
       },
@@ -4644,15 +4647,16 @@
         "name": "Norlia",
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/NORLIA",
         "isUp": true,
-        "data": "css\n [!1] +Info",
+        "data": "css\n    [!1] +Info\n    [!2] ~STTD System",
         "links": [
-          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/NORLIA/MAIN"
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/NORLIA/MAIN",
+          "/ROOT/NATIONS/GALLEA/LAW/STTDS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/05/18 19:00:56",
-          "editTime": "2019/05/18 19:02:26"
+          "editTime": "2021/02/22 02:57:18"
         },
         "extension": ""
       },
@@ -7654,7 +7658,13 @@
         "path": "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS",
         "isUp": true,
         "data": "css\n   [!1] >Order of Exodus\n   [!2] >Order of Paladins\n   [!3] >Order of Scholars\n   [!4] >Order of Shipwrights\n   [!5] >Order of Pathfinders",
-        "links": [],
+        "links": [
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/EXODUS",
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS",
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/SCHOLARS",
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/SHIPWRIGHTS",
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PATHFINDERS"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
@@ -8472,16 +8482,17 @@
         "name": "Data Storage Mediums",
         "path": "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE",
         "isUp": true,
-        "data": "css\n   [!1] >Cartridges\n   [!2] >Ferrotapes",
+        "data": "css\n   [!1] >Cartridges\n   [!2] >Ferrotapes\n   [!3] >Config Cards",
         "links": [
           "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE/CARTRIDGES",
-          "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE/FERROTAPES"
+          "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE/FERROTAPES",
+          "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE/CONFIG_CARDS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/11/04 23:47:21",
-          "editTime": "2019/11/05 01:59:25"
+          "editTime": "2021/01/23 21:30:58"
         },
         "extension": ""
       },
@@ -8489,7 +8500,7 @@
         "name": "Ferrotapes",
         "path": "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE/FERROTAPES/MAIN",
         "isUp": true,
-        "data": "css\n    A Ferrotape is any small data volume that uses a magnetic tape as a data storage medium.  Ferrotapes come in many shapes, sizes, and storage amounts, and have been invented independently on many worlds in ancient times.\n\n    Typically, Ferrotapes can store anywhere between 4 and 256 Kibibytes.  Tapes are able to be made at higher data densities, but higher densities of tape are found to be more prone to corruption or simple data rot.  Individual Ferrotapes have a read/write speed of ~4.2 Kibibytes per second.\n\n    The cases of Ferrotapes are most commonly metal, but are ocassionally made of other materials such as enamel or plastics.  Inside of this case is two (or more) spools holding the lengths of magnetic tape on which the tape's data is stored.\n\n   Accessing and manipulating the data is done using a piece of hardware called a Tape Reader, Tape Drive, or Ferrotape Drive.  In this drive is a small piece of hardware called a reader/writer head.  This head rests against part of the tape's case at which the tape is exposed.  The reader head can then read the data on that position of the tape, or write data to the tape in the form of magnetism, effectively reading or writing with the disk.  The Tape Drive selects which point on the tape its reading by rotating the tape's spools, which moves the length of tape.\n\n    There are many common dimensions for tape drives across the [!1 GCP].  The following are a few common dimensions:\n        10x6x1 cm - 4KiB to 64KiB\n        16x10x2 cm - 8KiB to 256KiB\n        5x4x2 cm - 2KiB to 32KiB\n\n    Tapes 5x4x2 cm or smaller are considered \"Microtapes\".",
+        "data": "css\n    A Ferrotape is any small data volume that uses a magnetic tape as a data storage medium.  Ferrotapes come in many shapes, sizes, and storage amounts, and have been invented independently on many worlds in ancient times.\n\n    Typically, Ferrotapes can store anywhere between 4 and 256 Kibibytes.  Tapes are able to be made at higher data densities, but higher densities of tape are found to be more prone to corruption or simple data rot.  Individual Ferrotapes have a read/write speed of ~4.2 Kibibytes per second.\n\n    The cases of Ferrotapes are most commonly metal, but are ocassionally made of other materials such as enamel or plastics.  Inside of this case is two (or more) spools holding the lengths of magnetic tape on which the tape's data is stored.\n\n   Accessing and manipulating the data is done using a piece of hardware called a Tape Reader, Tape Drive, or Ferrotape Drive.  In this drive is a small piece of hardware called a reader/writer head.  This head rests against part of the tape's case at which the tape is exposed.  The reader head can then read the data on that position of the tape, or write data to the tape in the form of magnetism, effectively reading or writing with the disk.  The Tape Drive selects which point on the tape its reading by rotating the tape's spools, which moves the length of tape.\n\n    There are many common dimensions for tape drives across the [!1 GCP].  The following are a few common dimensions:\n        10x6x1 cm - 4KiB to 2MiB\n        16x10x2 cm - 8KiB to 32MiB\n        5x4x2 cm - 2KiB to 256KiB\n\n    Tapes 5x4x2 cm or smaller are considered \"Microtapes\".",
         "links": [
           "/ROOT/NATIONS/GCP/MAIN"
         ],
@@ -8497,7 +8508,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/11/05 00:30:01",
-          "editTime": "2019/11/05 02:10:53"
+          "editTime": "2021/01/20 02:35:51"
         },
         "extension": ""
       },
@@ -10619,16 +10630,17 @@
         "name": "Daerus Vivotype",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS",
         "isUp": true,
-        "data": "css\n    [!1] >Humanoid\n    [!2] >Rodenoid",
+        "data": "css\n    [!1] >Humanoid\n    [!2] >Rodenoid\n    ----\n    [!3] >Votoid",
         "links": [
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID"
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/VOTOID"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/03/07 23:26:03",
-          "editTime": "2020/11/30 23:11:05"
+          "editTime": "2021/02/15 08:23:33"
         },
         "extension": ""
       },
@@ -10819,15 +10831,16 @@
         "name": "National Itascan Culture",
         "path": "/ROOT/CULTURE/NATIONAL/ITASCAN",
         "isUp": true,
-        "data": "css\n    [!1] +Itascan Work & Meal Schedule",
+        "data": "css\n    [!1] +Itascan Work & Meal Schedule\n    [!2] +Spoofball",
         "links": [
-          "/ROOT/CULTURE/NATIONAL/ITASCAN/DAILY_SCHEDULE"
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/DAILY_SCHEDULE",
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/SPOOFBALL"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/07/11 19:52:08",
-          "editTime": "2020/07/11 19:55:04"
+          "editTime": "2021/02/07 19:01:54"
         },
         "extension": ""
       },
@@ -11006,7 +11019,7 @@
         "name": "Itascan World War",
         "path": "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR",
         "isUp": true,
-        "data": "css\n    The Itascan Great War (A.K.A. the Itascan Unification War) was a war between the [!1 eight major nations of Itascus]: Corrum, Amenira, Saryllia, and Finnia formed a collective called the Social Pact, while Amora, Borone, Queensland, and Carria formed the South Itascan Treaty Organization, or SITO.\n    The Social Pact nations were bound by their common interest in their nations' economic structure, then called \"Socio-Capitalisim\", which was a form of socialist economy that provided necessities to its people through considerable taxes, while still respecting personal capital.  Meanwhile, the nations of SITO saw Socio-Capitalisim as an infectious, volatile, and unfruitful economic system which hindered a nation's growth, threatening the economies of their own states, and that of Itascus at large.\n    \n    The war had sparked the attention of those all across the [!2 Silver Stream], leading some galactic powers to intervene.  Alien [!3 Deorian] forces supported the Social Pact, whilst [!4 Tuine] forces supported SITO, partially making the Itascan Great War a proxy war these two galactic powers.  The war was started over SITO nations passing the Ameniran Exclusion Act (AEA), which prevented all Amenirans entering SITO territory, banning trade with Amenira, and threatening to neutralize all Ameniran spacecraft that orbit over SITO lands, which threatened to greatly hinder, or even end, Amineran space exploration.\n\n    A year after the AEA was instated, Amenira gathered leaders of the other member nations of the Social Pact and rallied them for war, explaining that SITO only wanted to slow the progress of Socialized Capitalisim, and that their own nations could very well be next.  This meeting would come to be known as the Social Summit.  After that meeting, the nations of the Social Pact formally declared war on the nations of SITO.  This officially started the Itascan Great War on 5/12/17.\u0000css\n    Queensland, which shared their northern border with Amenira, fell to their invasion before foriegn forces could aid them, as their capital was firebombed to the ground amongst many other of their cities.  During the ensuing peace talks, there were accounts of the Ameniran president slapping the king of Queensland.  With the Silver Stream sitting in the wake of First Contact, it didn't take long for news of Itascus' war to spread to other nearby worlds.  Specifically, denizens of [!5 Deoria] sympathized with the Social Pact, while Bius Tu saw a potential ally in the powers of SITO.\n    \n    Three years into the conflict, as battles were being fought on multiple fronts, foreign military aid from Deoria, backing the SP; and Bius Tu, backing SITO, had arrived.  The majority of Deorian Aid was in the form of laser weapons and military ordinance with only a few hundred Deorian soldiers, while Bius Tu sent many dozen versatile military transport vehicles and almost two-thousand Tuine infantry members.\n\n    After the arrival of foriegn military aid, the nations of the Social Pact pushed South in a deadly campaign known as the 6 Month Charge, where it is said \"they did not take one step back\".  Eventually, Carria had to move their capital south, and in a desperate attempt at survival, unleashed their \"Death Machines\" -- mechanized, weaponized, quadrapedal walking armored vehicles, which were the precursor to modern [!6 Power Armor].  The advent of mechanized warfare caught the Social Pact off gaurd, and the Great Retreat over Carria began as Carrian Death Machines, accompanied by [!4 Tuine] tanks and APCs, pushed the Social Pact's forces back.\u0000css\n    While they were retreating, Amenira resorted to more desprate measures as the Social Pact's combined forces fled.  Amenira soon found that ultra-heavy guided [!7 kinetic projectiles] dropped from aircraft were remarkably effective at taking out the Carrian Death Machines.  Within a week, the 100 death machines of Carria fell to Ameniran Air Superiority Division bombers, marking the end of the Great Retreat over Carria.  At this time, Amenira launched their Hammerfall Orbital Strike sattelites -- which utilized the same technology as the [!7 kinetic projectiles] used against the Death Machines -- to execute their ultimate warplan.  As the Social Pact retook the front, they comandeered any remaining working War Machines, with each member nation's military taking any intact specimens to reverse-engineer.\n\n    Deorians brought in their [!8 laser rifles], adding the smell of seared flesh and ozone to the many scents of the great Itascan battlefield.  The tables turned back in the favor of the Social Pact, and another offensive began.  On the oceans of Itascus, the Social Pact and SITO waged war with metal beasts called warships, manned by legions of crewmen.  These warships were endowed with the largest guns ever concieved by Itascan scientists at that time, shielded by armor once considered to be impossibly thick.\u0000css\n    During the later years of the Great War, years 20 to 23 [!9 Post Warp], the massive guns of warships were replaced with [!10 hypersonic railguns], capable of shooting targets at 50 kilometers away.  The railgun design was invented by Ameniran Dynamics -- now known as [!11 Itascan Dynamics], the premier kinetic weapons manufacturer of the [!12 Itascian Military].  SITO warships soon carried planes, where pilots would attack Social Pact ships with bombs and guided rockets.  Social Pact nations responded by fielding defensive aircraft carriers of their own, and attatching laser [!13 point defense] grids to their seacraft.  As Social pact warships pushed south, they launched missiles and railgun shells to support ground troops near the coast.  As they aproached the southern parts of the Patrician Ocean, into the Boronian Sea, Borone surrendured under threat of nuclear fire.\n    \n    In the last year of the war, Amenira made conservative use of their Hammerfall Orbital Strike system, bombarding some opposing cities with monolithic projectiles of pure tungsten, devistating structrues and causing general chaos in SITO population centers.  But the nation Amora, outside of the knowledge of the Social Pact and without informing any other SITO nation, had also constructed their own, smaller, kinetic bombardment station in Itascan orbit, copying the Amenirans.  Secretly, they targeted the Ameniran capital, a large city on the east coast of the [!14 Ferika Continent].  Off the east shore of Ferika is a deep geological fault line, which, at the time, was primed to shift.  The Amoran military dropped two rods of pure tungsten 11 kilometers off the coast of the Ameniran capital.  The rods were to be dropped one after another, with the second rod acting as redundancy if the first rod failed to trigger the fault line.\u0000css\n    On 1/38/23, an 11-ton rod of tungsten struck the ocean just off the Amineran coast, triggering a wave over 50 meters tall to strike the Ameniran capital.  The force of the wave, as well as the ensuing flood, decimated the city by toppling buildings and leveling neighborhoods in an artificial disaster which killed tens of thousands.  The capital, which previously had a population of over one million, was crippled in under an hour.  In the aftermath, almost a fifth of the city's population had perished from the flood, or being unable to escape through the crumbled infrastructure of what was once a metropolis.\n    The Itascan president survived the flood thanks to the Presidential Bunker he had commissioned at the beginning of the war.  Immediately, in under a day, the Itascan president ordered a large Ameniran city to the west, further inland on the slope of a mountain, to be adopted as a temporary military headquarters and capital.  This city, after the war, would come to be the official capital city of the planet.\n    \n    Shortly after the fall of the Ameniran capital, Deoria sent an order to withdraw their forces from Itascus, leaving their military hardware, but returning Deorian soldiers to their homeworld.  The withdrawl was a bad sign for citizens of Social Pact nations, and re-sparked civil discussions regarding the ethics of stronger extrastellar powers meddling in Itascan affairs.\u0000css\n    On [!15 Erii], as the Great War waged on, Ameniran and Carrian colonies openly harassed eachother, stealing supplies, damaging hardware, and even attempting to occupy opposing colonies in decentralized acts of hostility.  At the time, Erii's atmosphere wasn't yet breathable, as it still had too high a concentration of Carbon Dioxide.  Subsequently, this meant colonies required a constant flow of supplies and functioning machinery to keep their occupants alive.  Through the skirmishes, entire colonies suffocated and starved due to supply shortages, giving the phenomenon the name of \"General Eriian Famine\".  Eventually, Carrian colonies submitted to the Ameniran attacks, effectively winning the war on Erii.  Though, with conflict in the air, ideas of Eriian Sepratism (from Itascus) spread among Eriian reactionaries.\n    \n    At the stage of the war, SITO was on the backfoot, and national leaderss considered surrendering to the waves of Social Pact fighters and war machines.  The Carrian Death Machines had been reverse-engineered by Social Pact militaries into an archaic form of Power Armor which was being eagerly deployed onto the battlefield.  Much of Itascus had been devistated by the war, and the public cry for peace had grown exponentially louder as casualties rose.\n    With SITO nearly at its knees, and the Social Pact strained and beaten by the conflict, the world collectively agreed it was time for change.  SITO had been beaten, and the Social Pact controlled the terms of surrender.  In many Social Pact cultures, the idea of a unified Itascus being essential to survival in the emerging interstellar stage had become very popular.  This is partially accredited to opposing Tuine forces remaining active on Itascus this far in the war; [!16 Tuines] had even become demonized in some circles.\u0000css\n    On 8/14/23, the leaders of the Social Pact conviened and announced a month-long ceasefire, which the remaining active members of SITO -- Amora and Borone -- agreed to.  The Social Pact held a summit of their own, with the Pact's national leaders meeting in the capital of Finnia.  This summit would come to be known as the [!17 Finnia Accords].  In these accords, a government structure for a unified Itascus was drafted and vetted, with the Social Pact offering to stop hostilities towards each nation that agreed to be annexed into the new Itascan nation.\n    The only nation to refuse was Amora, whose leaders cited such a plan would forsake individual nations' powers and rights.  Shortly after their refusal, the Great War resumed, though only on Amoran fronts.  \n    \n    Only a day into the resumed conflict, the Amoran capital was relentlessly bombarded from orbit by Ameniran military spacecraft in what would become a devistating, intimidating show of space-based weaponry and Ameniran power.  Amoran ground troops were quickly overrun by the combined infantry of every Social Pact nation within an [!18 Itascan Week].  The nation of Amora surrendered on 10/2/23, agreeing to be annexed into an Itascan planetary Nation and officially ending the Itascan World War.",
+        "data": "css\n    The Itascan Great War (A.K.A. the Itascan Unification War) was a war between the [!1 eight major nations of Itascus]: Corrum, Amenira, Saryllia, and Finnia formed a collective called the Social Pact, while Amora, Borone, Queensland, and Carria formed the South Itascan Treaty Organization, or SITO.\n    The Social Pact nations were bound by their common interest in their nations' economic structure, then called \"Socio-Capitalisim\", which was a form of socialist economy that provided necessities to its people through considerable taxes, while still respecting personal capital.  Meanwhile, the nations of SITO saw Socio-Capitalisim as an infectious, volatile, and unfruitful economic system which hindered a nation's growth, threatening the economies of their own states, and that of Itascus at large.\n    \n    The war had sparked the attention of those all across the [!2 Silver Stream], leading some galactic powers to intervene.  Alien [!3 Deorian] forces supported the Social Pact, whilst [!4 Tuine] forces supported SITO, partially making the Itascan Great War a proxy war these two galactic powers.  The war was started over SITO nations passing the Ameniran Exclusion Act (AEA), which prevented all Amenirans entering SITO territory, banning trade with Amenira, and threatening to neutralize all Ameniran spacecraft that orbit over SITO lands, which threatened to greatly hinder, or even end, Amineran space exploration.\n\n    A year after the AEA was instated, Amenira gathered leaders of the other member nations of the Social Pact and rallied them for war, explaining that SITO only wanted to slow the progress of Socialized Capitalisim, and that their own nations could very well be next.  This meeting would come to be known as the Social Summit.  After that meeting, the nations of the Social Pact formally declared war on the nations of SITO.  This officially started the Itascan Great War on 5/12/17.\u0000css\n    Queensland, which shared their northern border with Amenira, fell to their invasion before foriegn forces could aid them, as their capital was firebombed to the ground amongst many other of their cities.  During the ensuing peace talks, there were accounts of the Ameniran president slapping the king of Queensland.  With the Silver Stream sitting in the wake of First Contact, it didn't take long for news of Itascus' war to spread to other nearby worlds.  Specifically, denizens of [!5 Deoria] sympathized with the Social Pact, while Bius Tu saw a potential ally in the powers of SITO.\n    \n    Three years into the conflict, as battles were being fought on multiple fronts, foreign military aid from Deoria, backing the SP; and Bius Tu, backing SITO, had arrived.  The majority of Deorian Aid was in the form of laser weapons and military ordinance with only a few hundred Deorian soldiers, while Bius Tu sent many dozen versatile military transport vehicles and almost two-thousand Tuine infantry members.\n\n    After the arrival of foriegn military aid, the nations of the Social Pact pushed South in a deadly campaign known as the 6 Month Charge, where it is said \"they did not take one step back\".  Eventually, Carria had to move their capital south, and in a desperate attempt at survival, unleashed their \"Death Machines\" -- mechanized, weaponized, quadrapedal walking armored vehicles, which were the precursor to modern [!6 Power Armor].  The advent of mechanized warfare caught the Social Pact off gaurd, and the Great Retreat over Carria began as Carrian Death Machines, accompanied by [!4 Tuine] tanks and APCs, pushed the Social Pact's forces back.\u0000css\n    While they were retreating, Amenira resorted to more desprate measures as the Social Pact's combined forces fled.  Amenira soon found that ultra-heavy guided [!7 kinetic projectiles] dropped from aircraft were remarkably effective at taking out the Carrian Death Machines.  Within a week, the 100 death machines of Carria fell to Ameniran Air Superiority Division bombers, marking the end of the Great Retreat over Carria.  At this time, Amenira launched their Hammerfall Orbital Strike sattelites -- which utilized the same technology as the [!7 kinetic projectiles] used against the Death Machines -- to execute their ultimate warplan.  As the Social Pact retook the front, they comandeered any remaining working War Machines, with each member nation's military taking any intact specimens to reverse-engineer.\n\n    Deorians brought in their [!8 laser rifles], adding the smell of seared flesh and ozone to the many scents of the great Itascan battlefield.  The tables turned back in the favor of the Social Pact, and another offensive began.  On the oceans of Itascus, the Social Pact and SITO waged war with metal beasts called warships, manned by legions of crewmen.  These warships were endowed with the largest guns ever concieved by Itascan scientists at that time, shielded by armor once considered to be impossibly thick.\u0000css\n    During the later years of the Great War, years 20 to 23 [!9 Post Warp], the massive guns of warships were replaced with [!10 hypersonic railguns], capable of shooting targets at 50 kilometers away.  The railgun design was invented by Ameniran Dynamics -- now known as [!11 Itascan Dynamics], the premier kinetic weapons manufacturer of the [!12 Itascian Military].  SITO warships soon carried planes, where pilots would attack Social Pact ships with bombs and guided rockets.  Social Pact nations responded by fielding defensive aircraft carriers of their own, and attatching laser [!13 point defense] grids to their seacraft.  As Social pact warships pushed south, they launched missiles and railgun shells to support ground troops near the coast.  As they aproached the southern parts of the Patrician Ocean, into the Boronian Sea, Borone surrendured under threat of nuclear fire.\n    \n    In the last year of the war, Amenira made conservative use of their Hammerfall Orbital Strike system, bombarding some opposing cities with monolithic projectiles of pure tungsten, devistating structrues and causing general chaos in SITO population centers.  But the nation Amora, outside of the knowledge of the Social Pact and without informing any other SITO nation, had also constructed their own, smaller, kinetic bombardment station in Itascan orbit, copying the Amenirans.  Secretly, they targeted the Ameniran capital, a large city on the east coast of the [!14 Ferika Continent].  Off the east shore of Ferika is a deep geological fault line, which, at the time, was primed to shift.  The Amoran military dropped two rods of pure tungsten 11 kilometers off the coast of the Ameniran capital.  The rods were to be dropped one after another, with the second rod acting as redundancy if the first rod failed to trigger the fault line.\u0000css\n    On 1/38/23, an 11-ton rod of tungsten struck the ocean just off the Amineran coast, triggering a wave over 50 meters tall to strike the Ameniran capital.  The force of the wave, as well as the ensuing flood, decimated the city by toppling buildings and leveling neighborhoods in an artificial disaster which killed tens of thousands.  The capital, which previously had a population of over one million, was crippled in under an hour.  In the aftermath, almost a fifth of the city's population had perished from the flood, or being unable to escape through the crumbled infrastructure of what was once a metropolis.\n    The Itascan president survived the flood thanks to the Presidential Bunker he had commissioned at the beginning of the war.  Immediately, in under a day, the Itascan president ordered a large Ameniran city to the west, further inland on the slope of a mountain, to be adopted as a temporary military headquarters and capital.  This city, after the war, would come to be the official capital city of the planet.\n    \n    Shortly after the fall of the Ameniran capital, Deoria sent an order to withdraw their forces from Itascus, leaving their military hardware, but returning Deorian soldiers to their homeworld.  The withdrawl was a bad sign for citizens of Social Pact nations, and re-sparked civil discussions regarding the ethics of stronger extrastellar powers meddling in Itascan affairs.\u0000css\n    On [!15 Erii], as the Great War waged on, Ameniran and Carrian colonies openly harassed eachother, stealing supplies, damaging hardware, and even attempting to occupy opposing colonies in decentralized acts of hostility.  At the time, Erii's atmosphere wasn't yet breathable, as it still had too high a concentration of Carbon Dioxide.  Subsequently, this meant colonies required a constant flow of supplies and functioning machinery to keep their occupants alive.  Through the skirmishes, entire colonies suffocated and starved due to supply shortages, giving the phenomenon the name of \"General Eriian Famine\".  Eventually, Carrian colonies submitted to the Ameniran attacks, effectively winning the war on Erii.  Though, with conflict in the air, ideas of Eriian Sepratism (from Itascus) spread among Eriian reactionaries.\n\n    At this stage of the war, SITO was on the backfoot, and national leaders considered surrendering to the waves of Social Pact fighters and war machines.  The Carrian Death Machines had been reverse-engineered by Social Pact militaries into an archaic form of Power Armor which was being eagerly deployed onto the battlefield.  Much of Itascus had been devistated by the war, and the public cry for peace had grown exponentially louder as casualties rose.\n    With SITO nearly at its knees, and the Social Pact strained and beaten by the conflict, the world collectively agreed it was time for change.  SITO had been beaten, and the Social Pact controlled the terms of surrender.  In many Social Pact cultures, the idea of a unified Itascus being essential to survival in the emerging interstellar stage had become very popular.  This is partially accredited to opposing Tuine forces remaining active on Itascus this far in the war; [!16 Tuines] had even become demonized in some circles.\u0000css\n    On 8/14/23, the leaders of the Social Pact conviened and announced a month-long ceasefire, which the remaining active members of SITO -- Amora and Borone -- agreed to.  The Social Pact held a summit of their own, with the Pact's national leaders meeting in the capital of Finnia.  This summit would come to be known as the [!17 Finnia Accords].  In these accords, a government structure for a unified Itascus was drafted and vetted, with the Social Pact offering to stop hostilities towards each nation that agreed to be annexed into the new Itascan nation.\n    The only nation to refuse was Amora, whose leaders cited such a plan would forsake individual nations' powers and rights.  Shortly after their refusal, the Great War resumed, though only on Amoran fronts.  \n    \n    Only a day into the resumed conflict, the Amoran capital was relentlessly bombarded from orbit by Ameniran military spacecraft in what would become a devistating, intimidating show of space-based weaponry and Ameniran power.  Amoran ground troops were quickly overrun by the combined infantry of every Social Pact nation within an [!18 Itascan Week].  The nation of Amora surrendered on 10/2/23, agreeing to be annexed into an Itascan planetary Nation and officially ending the Itascan World War.",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/OLD_NATIONS",
           "/ROOT/LOCATIONS/SILVER_STREAM/MAIN",
@@ -11031,7 +11044,7 @@
           "author": "<@!333050075951661058>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/07/19 20:10:45",
-          "editTime": "2020/07/19 20:12:31"
+          "editTime": "2021/01/14 04:53:38"
         },
         "extension": "TEXT"
       },
@@ -11497,13 +11510,16 @@
         "name": "Itascan Holidays",
         "path": "/ROOT/CALENDAR/EVENTS/ITASCAN",
         "isUp": true,
-        "data": "[Unwritten]",
-        "links": [],
+        "data": "css\n    [!1] +Unity Day\n    [!2] +The Itascan National Weapons Expo",
+        "links": [
+          "/ROOT/CALENDAR/EVENTS/ITASCAN/UNITY_DAY",
+          "/ROOT/CALENDAR/EVENTS/ITASCAN/NATIONAL_WEAPONS_EXPO"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/11/11 18:29:39",
-          "editTime": "2020/11/11 18:29:44"
+          "editTime": "2021/02/03 21:38:03"
         },
         "extension": ""
       },
@@ -11649,6 +11665,266 @@
           "editor": "<@220352318510596096>",
           "madeTime": "2021/01/13 02:19:43",
           "editTime": "2021/01/13 02:19:43"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Config Cards",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE/CONFIG_CARDS",
+        "isUp": true,
+        "data": "css\n    Config Cards (also called Data Cards) are small, thin, electronic cards, typically made of metal, hard polymers, or occasionally enamel.  Config Cards are small, commonly being about 4 by 7 centimeters with a thickness of 1.6 milimeters.  Config Cards have many uses, but their most promiment use is as small ROMs, the cards themselves being used as personal ID cards or member cards.  On the bottom face of the card, along one of the short edges, are 28 electrical contacts meant to interface with a Config Card Interface.  On the top face of the cards is usually some branding, labeling, or other visual elements.\n    \n    Config Card Interfaces provide a small amount of power to an inserted Config Card, and allow a computer or other device to read the data on the card.  For example, if someone inserted a Credit Card (a type of Config Card) into the interface, a computer could read the cardholder's banking information.  Physically, Config Card Interfaces have a small slot in them about the width and thickness of the card, into which a Config Card should be inserted.\n    \n    The most common use of Config Cards is as Electronic Keys or Credit cards.  Config cards can be also used for small amounts of memory (RAM, as opposed to ROM), which has its own applications.  These cards are considerably durable and incredibly cheap to produce, usually being made through [!1 Qi-Induced Microstructuring], which is very cost-effective.\n    \n    Config Cards were originally invented on [!2 Gallea] in 22 and were made to be inserted into industrial machines in order to give them different configurations (hence the name).  As Config Cards were introduced to the rest of the galaxy in the following years, they were adapted to the various applications we know today, making them very popular.",
+        "links": [
+          "/ROOT/TECHNOLOGY/MATERIALS/MICROSTRUCTURES/MAIN",
+          "/ROOT/NATIONS/GALLEA"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/01/23 21:31:56",
+          "editTime": "2021/01/23 21:32:10"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Itascan Unity Day",
+        "path": "/ROOT/CALENDAR/EVENTS/ITASCAN/UNITY_DAY",
+        "isUp": true,
+        "data": "css\n    Itascan Unity Day is [!1 Galactic Calendar] holiday happening every galactic year on the second day of SiltCrest, the tenth month of the galactic year.  This day marks Amora's surrender in the year 10 P.W. in the [!2 Itascan World War].\n\n    Unity Day is primarily celebrated on [!3 Planetary Itascus], and is celebrated to smaller extents in [!4 other Itascan territories].  The holiday is a multicultural celebration, celebrating [!5 the different cultures of pre-war Itascus] just about everywhere across the planet.  On the [!6 Grand Expo Grounds] in the Itascan Capital, a Multicultural Festival and parade are held, drawing thousands annually.\n\n    The holiday was made a national holiday in 13 P.W. by the planetary Itascan Government in order to promote unity and raise appreciation for the outcome of the war.",
+        "links": [
+          "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC",
+          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/NATIONS/ITASCUS/PROVINCES",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/ITASCUS_CITY/GRAND_EXPO_GROUNDS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/03 21:43:04",
+          "editTime": "2021/02/03 22:21:02"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Itascus City",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/ITASCUS_CITY",
+        "isUp": true,
+        "data": "css\n    [!1] +Main\n    [!2] +The Grand Expo Grounds",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/ITASCUS_CITY/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/ITASCUS_CITY/GRAND_EXPO_GROUNDS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/03 22:16:46",
+          "editTime": "2021/02/03 22:17:20"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Spoofball",
+        "path": "/ROOT/CULTURE/NATIONAL/ITASCAN/SPOOFBALL",
+        "isUp": true,
+        "data": "css\n    Spoofball is a sport generally considered to be the \"National Sport of [!1 Itascus]\".  The sport features two teams of sixteen players, playing in a \"Spoofball Pit,\" a 40x20 meter recessed court with walls at a 65 degree incline, and 4 goal hoops, two each on the far sides which the teams try to aim the Spoofball into.  These goals are about 80 cm wide.  The court is divided into four even slices, indicated via lines on the floor -- for each half of the court, the inner segment is called the \"fray\", and the outer segment, which holds the goals, is called the \"base\".\n    The sport is played with \"Spoofball Gloves,\" which are hardened gloves designed to stop players from grabbing the ball or injuring their hands during play, and a 30-cm-wide inflatable rubber ball.  Teams are to sort themselves into two groups of eight, becoming the 'front' and 'back' half-teams; the front group occupies the Fray segment of the court, playing offensively, while the back group occupies the Home, playing defense.  The object of the game is to put the spoofball into one of the other team's goal hoops by punching at the ball, no grabbing allowed.  If and whenever the ball leaves the court, the ref may throw it (typically haphazardly) back into the fray along the center line on the court, continuing play.  The same applies whenever the ball comes to rest on the floor, as in the ref is allowed to interfere.  Though, repeated, biased interference from the ref may disqualify a game, so such activity is rare.  In Professional games of spoofball, however, the ref is only allowed to touch the ball if it leaves the court.\u0000css\n    Spoofball is incredibly popular on Itascus, first invented by street children during the [!2 Itascan Unification War].  16 children, in two teams of 8, would wear leather gloves in a dried out culvert or crater and vied to hit balls past eachother.  In fact, it's rumored that the original Spoofball Pit was a crater left by artillery during the war.  Later, the parents of those children took note of the game, refined the sport by recording the roles, and started sharing it, thus \"Spoofball\" -- a spoof on the childrens' game -- was created.\n    Competitive Spoofball teams may often break out in fights over things such as accusations of cheating, accidents, and sometimes just over bad blood from in (or out of) the pit.  This behavior is technically disallowed in professional play, but it is rarely stopped unless severe, only penalized.  Due to the fairly isolated environment of the \"pit,\" fights are often allowed to play out without interruption; typically, the only person allowed to enter the pit is the referee, who is usually underequiped to break up fights of more than a few players.  This behavior gave Spoofball the reputation of a heavy contact sport, and caused the phrase \"A game of spoofball broke out\" to gain popularity as a figurative way of saying there was a brawl.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR"
+        ],
+        "meta": {
+          "author": "<@!333050075951661058>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/07 19:02:08",
+          "editTime": "2021/02/22 03:09:43"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Votoids",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/VOTOID",
+        "isUp": true,
+        "data": "css\n    [!1] +Fìe - \"Deorian Wheat\"",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/VOTOID/FIE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/15 08:24:27",
+          "editTime": "2021/02/15 08:25:12"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Deorian Wheat",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/VOTOID/FIE",
+        "isUp": true,
+        "data": "css\n┌─────────────────────────────────┐\n│Group Name.........: Field, Sheaf│\n│Youngling Name.....: Sprout      │\n│Status.............: Safe        │\n│Vivotype...........: Daerus      │\n│Archetype..........: Votoid      │\n│Domestication......: Domesticated│\n│Intelligence Class.: Responsive  │\n│Lifespan...........: 1.35±0.2 yrs│\n│Time to Maturity...: 1.25±0.1 yrs│\n│# Physical Sexes...: 1           │\n│Sexual Polymorphism: N/A         │\n│Procreation Method.: Passive     │\n│Diet/Resource Input: Photovorous │\n│Respiratory Gas....: C02         │\n│Weight.............: 0.4±0.2kg   │\n│Height.............: 115±18cm    │\n│Thermal Range......: 295±22K     │\n│Blood Volume.......: N/A         │\n│Min Conscious Blood: N/A         │\n│Top Speed..........: N/A         │\n└─────────────────────────────────┘\n\n    Deorian wheat, called \"Fìe\" in [!1 Deorian], is a tall, grain-bearing grass plant that grows natively on [!2 Deoria].  Its grains make up many staple foods on Deoria and Deorian worlds, and the plant is farmed on massive scales on such planets.  When in its developmental stages, the wheat appears a bright emerald color.  Once the wheat has blossomed and ripened, it is usually a lighter, more muted shade of green.  The grains, when crushed into flour or meal, make for a light green powder which has numerous applications, primarily in cooking food.\n\n    Deorian wheat is the domesticated form of a type of wild grain that would’ve grown out in the vast Deorian grasslands in ancient times.  There is considerable historical evidence that shows that grain in general has been harvested since long before the beginning of written history, perhaps even having served as nutrition for an ancestor of the Deorian species as a whole.  It is believed that Deorian wheat was first cultivated by an ancient civilization that occupied an area that is now a part of [!2 Milland].\u0000css\n    The grain was originally ground into a coarse meal which would have either been boiled down with water into a thick porridge -- potentially sweetened with pieces of fruit or berries -- or simply mixed with water to form a lean dough, rolled out to be thin, and baked in the residual heat of a recently-used clay oven to make an unleavened flatbread.  This flatbread would’ve likely been consumed alongside a roasted fowl or [!3 Isfe], or, alternatively, toasted a little more until hard and dry and used as a travel food.\n    \n    It is theorized that yeast (or yeast-like cultures of microbe) was first cultivated by accident using Deorian wheat, potentially when an individual left uncooked porridge to sit during a warm season.  Regardless of origin, the discovery of yeast was revolutionary for ancient Deorian cuisine; soon, bread was almost always baked with the addition of a yeast culture by most advanced agrarian civilizations.  As time progressed, the usage of Fìe flour/meal became more and more widespread and diverse, soon being used for all sorts of culinary applications, from historical breads and porridges, to gravies and sauces to pastries.\n    \n    Apart from being used in food, Fìe is also used as feed for many domesticated animals.\n\n    Evidently, wild [!3 Isfetra] are drawn to this plant's grains, and have frequently posed a problem for Deorian wheat farmers, who often manage to discover burrows near or in their fields.  To combat this problem, farmers would’ve traditionally \"hired\" [!4 Niprabe] to help keep watch over their fields while they weren’t around. In modern times, the preferred solution is to simply coat the crops in pesticide which are highly effective at deterring Isfetra, but are mostly harmless to Deorians, Niprabe, and most common farm animals.  The pesticide can be washed off after harvesting by simply soaking the harvested grains in water for a few hours.  This is typically done before the grain is sold or used.",
+        "links": [
+          "/ROOT/CULTURE/LANGUAGE/DEORIAN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFETRA",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIPABRE"
+        ],
+        "meta": {
+          "author": "<@!366044218742800385>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/15 08:25:20",
+          "editTime": "2021/02/15 08:30:53"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Tunnel Sites",
+        "path": "/ROOT/INTERNET/TUNNEL_SITES",
+        "isUp": true,
+        "data": "css\n    A Tunnel Site, also called a \"Wormhole Website\", is any website of which every connection to the surface internet must go through non-government [!1 quantum nodes].  This means that there is no physical radio or wire trail between the user and the website's server, because, if you have one end of a quantum node connection, there is no way you can use it to figure out the location of the other end.  Typically, this is done to keep the location of a webserver secret in order to maintain anonymity or even to evade authorities.\n\n    The largest tunnelsite available on the galactic internet is [!2 Manymoon], which uses its tunnelsite status to dodge regulation regarding hatespeech and restricted information.",
+        "links": [
+          "/ROOT/TECHNOLOGY/COMMUNICATIONS/MEDIUMS/GUIDED/QUANTUM",
+          "/ROOT/INTERNET/POPULAR/MANYMOON"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 01:37:38",
+          "editTime": "2021/02/22 02:14:54"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Popular Websites",
+        "path": "/ROOT/INTERNET/POPULAR",
+        "isUp": true,
+        "data": "css\n    [!1] +Netpedia\n    [!2] +Manymoon",
+        "links": [
+          "/ROOT/INTERNET/POPULAR/NETPEDIA",
+          "/ROOT/INTERNET/POPULAR/MANYMOON"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 01:53:48",
+          "editTime": "2021/02/22 01:54:15"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Manymoon",
+        "path": "/ROOT/INTERNET/POPULAR/MANYMOON",
+        "isUp": true,
+        "data": "css\n┌────────────────────────────────────┐\n│Time Period.....: 82-Present        │\n│Web Address.....: [!1 ER.MANYMOON]  │\n│Type............: Imageboard        │\n│Hosting Location: Unknown,          │\n│                  decentralized     │\n│Demographic Area: [!2 Silver Stream]│\n│Daily Users.....: ~7.2 Million      │\n│Registered Users: 1                 │ \n└────────────────────────────────────┘\n\n    Manymoon is a net-based image sharing forum built around anonymity and barebone moderation, making it an \"anything goes\" sort of community.  Due to its structure, it has gained a reputation for being ruled by \"trolls\" and \"schemers\", types of person with a reputation for causing distress and disarray for entertainment or other gains.  Because of this, many terrible misdeeds done across the [!2 Silver Stream] have been linked to groups of anonymous people coming together on Manymoon with a common goal in mind.  This is a double-edged blade, however; many a time these groups of people have come together to do something understood to be illegal, but also widely agreed to be nonetheless ethical and benevolent. Often seen by many as a \"total wildcard group\", people have mixed opinions on Manymoon and it's netizens.  Notable deeds done on the forum are numerous, such as their many terrorist hunts on the /th/ thread, and many, many \"Pranks\" pulled on prominent citezens, usually causing disarray.  Manymoon is a [!3 Tunnel Site], meaning that the location of its servers are unknown.  Manymoon is run by a head admin and owner known as HolyTay.  Most Manymoon users just refer to him as \"Tay\".\u0000css\n    Manymoon is divided into multiple sections called \"threads\".  The topic of a thread dictates what is discussed and shared there.  The proper way to write a thread's name is to terminate both ends with a forward slash (/) -- for example, a thread called \"internet\" would be shortened to \"net\" written \"/net/\".  Some notable threads are:\n        /main/, for anything -- this thread has no topic restrictions;\n        /build/, for discussing architecture and DIY projects;\n        /videos/, for discussing and sharing full-motion videos;\n        /fiction/, for sharing and discussing fictional material;\n        /pranks/, for planning, executing, and sharing pranks at any scale;\n        /power/, for discussing energy production, use, and sources;\n        /pics/, for sharing interesting photots;\n        /sky/, for discusing space infrastructure, trade, and travel;\n        /bs/, (standing for \"Big State\"), for discussing the broader [!4 GCP] confederal government;\n        /pop/, for discussing popular culture;\n        /qi/, for discussing [!5 magic and qi invocation];\n        /d/, which was originally for debate, but is now more oriented around politics in general;\n        /dc/, for discussing Defence Contracting, mercenary work and the [!6 Order of Paladins];\n        /rel/, for discussing [!7 religions] and religious practices;\n        /news/, for discussing current events and news;\n        /trade/, for arranging deals and exhanges between users;\n        /hdrugs/, standing for \"hard drugs\", for discussing use and production of illegal substances.  Though selling on the thread is prohibited;\n        /drugs/, like /hdrugs/, but only permits posts about mostly-legal substances.\n        /cash/, for discussing finances, investments, and stock trading;\n        /cop/, for discussing crime, and sometimes teaming together to solve cases abroad;\n        /th/, for discussing terrorism, mostly towards preventing acts of terror;\u0000css\n        /net/, for discussing [!8 websites] and [!9 internet culture];\n        /chef/, for discussing food and the culinary arts;\n        /funny/, for posting memes, jokes, and other funny content;\n        /schitt/, which is like /funny/, but mainly revolves around feces as a punchline.  It has a poor reputation;\n        /sport/, for discussing competitive games;\n        /code/, for programming, trouble shooting, and discussion about general-purpose computers;\n        /art/, for discussing, sharing, and drafting visual art;\n        /mm/, for posts about the site itself and requesting creation or archival of threads;\n        /c/, for discussing vehicles;\n        /rp/, for finding partners for tabletop or free-form roleplay;\n        /tay/, HolyTay's, the site owner, thread for blogging and personal use;\n        /cl/, for creating cyphers and constructed languages;\n        /bio/, for discussing biology, medicine, geneology, and genetic engineering;\n        /vivo/, like /bio/, but specifically for discussing differences between lifeforms of different [!10 vivotypes];\n        /tunes/, for discussing, sharing, and making music and sound;\n        /lewd/, for discussing general erotica.  More specific erotica threads are /toys/, /cute/, /erp/, /cogniz/, /hot/, /sleek/, /dom/, /skin/, /fluff/, /toons/, and other threads with explicit names.\n        State-oriented threads like /ar/, /bt/, /eq/, /ga/, /gm/, /it/, /lf/, /su/, /ty/, and /ur/ for discussing [!11 Armalai], [!12 Bius Tu], [!13 Deoria], [!14 Gallea], [!15 Ghillymede], [!16 Itascus], [!17 La`Foy], [!18 Solar Union], [!19 New Tyventia], and [!20 Neo Urra] respectively;\n        And countless threads for minor subcultures and interests, from both on or off of the internet.\u0000css\n    There are hundreds of threads on Manymoon, each of which being further divided into \"Topics\" that discuss a specific instance of something, like a specific person, event, building, item, or location.  Manymoon is most popular among [!21 Unil]-speaking users, but, being an interstellar service, contains posts in hundreds of different languages.  For this, users can filter and sort threads by language.\n    Every thread has its own rules and moderation team.  Admins of threads are assigned by HolyTay, Manymoon`s owner, himself, and admins of threads can assign moderators under them.  These admins and moderators typically choose to keep themselves entirely anonymous.\n        \n    While Manymoon`s minimal moderation and general \"lawlessness\" is paraded by its users, who are sometimes called \"Moonies\", outsiders view it as problematic.  While total anonymity and minimal restrictions is thought to be the pinacle of expressing one`s Free Speech, that doesn`t mean its without its problems; Manymoon, and some of its users, has been critisized for allowing commonly toxic, regressive, and hurtful ideas to propogate.  For some examples:\n        multiple hatecrimes across the galaxy have been directly linked to discussions on /rel/, /bio/, and /d/;\n        intentional misinformation campaigns have been directed on /news/, /d/, and /pranks/;\n        distribution of variably-legal pornography on /lewd/ and /cogniz/;\n        /schitt/ is notorious for discussing various, unpopular feces-related pranks in the real world, such as the \"pooball incident\" at a college-level [!22 Spoofball] tourney on [!16 Itascus];\n        normalizing and advocating for dangerous or harmful sexualities on /toys/, /cogniz/, /toons/, and /cute/;\n        /pranks/ and /schitt/ defecating on the driveway or vehicle of notorious politicians on multiple occasions;\n        and objectification of marginal groups on /fluff/, /skin/, and /sleek/;\u0000css\n    As stated previously, however, while this anonymity enables people to gather and carry out acts of malice and chaos, it also enables them to carry out acts generally considered to be ethical and justified (even if illegal).  Some examples of these include:\n        /qi/ has made many discoveries regarding [!23 Qi Energy] that incrementally advanced the art of spellcraft;\n        users on /bio/ have managed to solve archeological mysteries across the galaxy;\n        /th/ actively hunts down terrorist organizations by examining images, video, and reports available on the internet, as well as directing users in areas effected by terror groups to act as investigators and procure important information.  When the group gathers impactful intel, its shared on the thread and with local athourities;\n        /cop/ has helped solve countless crimes by examining public evidence and crowdsourcing the tracking and identification of suspects, similar to /th/;\n        some users on /news/ make it their duty to fact check politicians and talking heads in an effort to fight misinformation;\n        /code/ and /sky/ worked together to organize tens of thousands of Moonies to connect their personal computers to work in tandem and act as one decentralized supercomputer.  This supercomputer was used to run simulated experiments, the results of which were used to increase the efficiency of space ship components.\u0000css\n    Manymoon started as a domestic [!24 Eriian] website at the address [!1 ER.MANYMOON] by a user who goes by \"HolyTay\" (commonly refered to as just \"Tay\").  According to Tay, Manymoon was created as a response to being banned from an unnamed social media in the year 81 for \"unpopular opinions\".  Manymoon`s servers were originally hosted on Erii, in HolyTay`s own home.  In 83, as Manymoon surpassed 5,500 daily active users and Tay`s home hardware was becomming stressed by the activity, he made a choice to start accepting paid ads in order to maintain more powerful hardware.  The Manymoon community was originally outraged by this news, but quickly accepted it as they noted the greatly improved performance of the previously-unreliable site.  From there, Manymoon`s popularity exploded, and Tay found himself with an enormous amount of income.\n    At the same time, Manymoon began drawing ire from news outlets and authorities alike due to the criminal activity being openly discussed and even planned on the site.  Tay was given a Court Order from an [!24 Eriian] high court stating that Manymoon should be moderated to remove all illegal content, as well as limit hate speech.  Tay reluctantly agreed, but openly detested the decision on the /tay/ thread, arguing that it was a blow to the rights (specifically of Free Speech) of people on the site, to which many Moonies agreed.  \n    Shortly after censorship began, Tay bought 117 [!25 quantum nodes], each with one end connected to the Manymoon servers; the other ends of these nodes were distributed across all populated worlds in the GCP.  Tay claimed that this was to improve connectivity to Manymoon, so that users could connect to the site through a proxy no matter where they were, instead of users having to connect to Manymoon through their ISP.  Many ISPs at the time charged a premium for galactic internet access, meaning that people that didn`t live on Erii might have to pay extra in order to access Manymoon.\u0000css\n    After Manymoon installed Quantum Nodes everywhere, the site experienced another explosion in popularity, as then anyone in [!2 Silver Stream] could access Manymoon at no added cost.  This also caused the volume of ad purchases on the site to skyrocket, leading to greater profits for the site.   However, it would soon be revealed that this enhanced availability was not the purpose of the quantum nodes.  On the 31st of Siltcrest, 84 P.W., Manymoon unexpectedly went down.  Attempting to access the website would just show a page with the following message:\n        \"Manymoon is down, but not for long.\n        Starting today, our tongues are untied; we will no longer be censoring our users.\n        Individual threads will still have their own rules, but we will not be bound by laws and court orders intended to silence diverse thought.\n        No longer will Erii, nor any government, control our minds and dictate our words.\n        \n        Stay tuned.\"\n        \n    Seeing that the intentions stated in the message were in direct contradiction to HolyTay`s court order, authorities were quickly alerted, and officers were dispatched to check on him.  However, when they arrived at his residence, he was nowhere to be found, and Manymoon`s server hardware was gone.  His neighbors were questioned, and they described an unmarked van arriving at the residence the day prior.  They claim to have seen Tay and two unidentified [!26 Tuines] loading computer racks into the van, with Tay himself entering the van before all three drove off.  All attempts to track HolyTay down resulted in dead ends, and it is suspected that Tay had left the planet entirely.\u0000css\n    The next day, Manymoon went back online, only being able to be connected to through one of the 117 quantum nodes.  Now that the location of Tay and the Manymoon servers were completely unknown, Manymoon was effectively above litigation.  Many jurisdictions tried to block the site`s address on their worlds, but this wasn`t effective enough due to the number of redundant quantum nodes and proxies.  As the site entered a legal limbo, many advertizers pulled their ads from Manymoon.  Some advertizers did stay, however, maintaining income for the site.\n    Today, Manymoon is more popular than ever, and the whereabouts of HolyTay are still unknown.  When discussing his living situation on the /tay/ thread, HolyTay claims he lives in \"a 50-room underground mansion with a pool\" -- this has been confirmed by pictures he shares to his thread.",
+        "links": [
+          "ER.MANYMOON/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/MAIN",
+          "/ROOT/INTERNET/TUNNEL_SITES",
+          "/ROOT/NATIONS/GCP",
+          "/ROOT/TECHNOLOGY/QI_INVOCATION/MAIN",
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS/MAIN",
+          "/ROOT/CULTURE/RELIGION",
+          "/ROOT/INTERNET/WEBSITES",
+          "/ROOT/CULTURE/INTERNET",
+          "/ROOT/BIOLOGY/VIVOTYPES/MAIN",
+          "/ROOT/NATIONS/ARMALAI",
+          "/ROOT/NATIONS/BIUS_TU",
+          "/ROOT/NATIONS/DEORIA",
+          "/ROOT/NATIONS/GALLEA",
+          "/ROOT/NATIONS/GHILLYMEDE",
+          "/ROOT/NATIONS/ITASCUS",
+          "/ROOT/NATIONS/LAFOY",
+          "/ROOT/NATIONS/SOLAR_UNION",
+          "/ROOT/NATIONS/NEW_TYVENTIA",
+          "/ROOT/NATIONS/NEO_URRA",
+          "/ROOT/CULTURE/LANGUAGE/UNIL/MAIN",
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/SPOOFBALL",
+          "/ROOT/TECHNOLOGY/ENERGY/TYPES/QI",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ERII/MAIN",
+          "/ROOT/TECHNOLOGY/COMMUNICATIONS/MEDIUMS/GUIDED/QUANTUM",
+          "/ROOT/BIOLOGY/RACES/TUINE"
+        ],
+        "meta": {
+          "author": "<@!333050075951661058>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 01:54:17",
+          "editTime": "2021/02/24 09:31:42"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Gallean Legal Code",
+        "path": "/ROOT/NATIONS/GALLEA/LAW",
+        "isUp": true,
+        "data": "css\n    [!1] +Gallean Space Traffic and Threat Detection System",
+        "links": [
+          "/ROOT/NATIONS/GALLEA/LAW/STTDS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 02:40:18",
+          "editTime": "2021/02/22 02:42:37"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Gallean Space Traffic and Threat Detection System",
+        "path": "/ROOT/NATIONS/GALLEA/LAW/STTDS",
+        "isUp": true,
+        "data": "css\n    Unlike most other governments in the [!1 GCP], [!2 Gallea] has a very regimented space traffic protocal that adds on to that of other GCP nations.  This system is known as the Gallean Space Traffic and Threat Detection System, or \"STTDS\".  This system was created during the [!3 Armament Era of Gallean history] in the year 52 as a toggleable modification of transmitters standard to the GCP at that time.  Transmissions sent from these units are encrypted and all documents regarding it’s specific details are confidential and classified to the general public.  A STTDS transponder turns on and transmits automatically when within Gallean space.  \n\n    The STTDS transmitter must be turned on within Gallean space, and lawfully required on all ships sold, flown into, or manufactured in Gallean space and territories.  All ships detected without it are to be inspected immediately and failure to report in for inspection will incur hefty fines or even impoundment of the vessel.  If a ship is detected in Gallean Space without one of these transponders, it will be forced to land/dock, and cannot legally take off until the transponder is installed.  If the ship owner refuses to install a STTDS transponder, they are required to remain grounded indefinitely or leave the Gallean jurisdiction entirely.\u0000css\n    The workings of the STTDS system that are known to the public work by a series of Radar/Radio stations within Gallean space ping every single ship detected, the ping then turns on the transmitter if off and it sends information to the station, said station then transmits it to relays(if needed), that then bring the signal to Gallean data servers that monitor every single ship within Gallean Space.  Data known to be transmitted by STTDS transponders includes: [!4 Callsign], ship model, current heading, verified destination, Gallean registration, age, name of the ship, crew count, cargo description, date of last inspection, spacial location, and even reactor status (if applicable).  \n\n    A STTDS system must be installed at a Gallean forward registration location on foreign planets and stations en route to Gallean space.  Said system can be installed at 0 cost to the owners of a ship, at the expense of the Gallean Government.\n\n    Any tampering of the STTDS transponder within a ship, upon detection, will result in an emergency ping, which will be picked up by any relay station in range.  This is because STTDS system hardware is a state secret of the Gallean State.",
+        "links": [
+          "/ROOT/NATIONS/GCP",
+          "/ROOT/NATIONS/GALLEA/MAIN",
+          "/ROOT/NATIONS/GALLEA/HISTORY/SUMMARY",
+          "/ROOT/TRAVEL/SPACE/CALLSIGNS"
+        ],
+        "meta": {
+          "author": "<@!301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 02:42:43",
+          "editTime": "2021/02/22 02:49:26"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Order of Scholars",
+        "path": "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/SCHOLARS",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 03:01:14",
+          "editTime": "2021/02/22 03:01:26"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Order of Paladins",
+        "path": "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS",
+        "isUp": true,
+        "data": "css\n    [!1] +Info [Unwritten]",
+        "links": [
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 03:01:44",
+          "editTime": "2021/02/22 03:02:19"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Order of Paladins",
+        "path": "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS/MAIN",
+        "isUp": true,
+        "data": "css\n    This article is unwritten.  You can help by writing it.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 03:02:26",
+          "editTime": "2021/02/22 03:02:54"
         },
         "extension": ""
       }
@@ -13003,5 +13279,45 @@
       }
     ],
     "perms": []
+  },
+  {
+    "path": "ER.MANYMOON",
+    "isUp": true,
+    "address": "00.00",
+    "defPage": "/MAIN",
+    "er2Page": "/ER2",
+    "owners": [
+      null
+    ],
+    "pages": [
+      {
+        "name": "Main",
+        "path": "/MAIN",
+        "isUp": true,
+        "data": "css\nManymoon is down, but not for long.\nStarting today, our tongues are untied; we will no longer be censoring our users.\nIndividual threads will still have their own rules, but we will not be bound by laws and court orders intended to silence diverse thought.\nNo longer will Erii, nor any government, control our minds and dictate our words.\n\nStay tuned.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 03:20:38",
+          "editTime": "2021/02/22 03:21:35"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ER2",
+        "isUp": true,
+        "data": "css\nError 2! The page you requested does not exist.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/02/22 03:20:38",
+          "editTime": "2021/02/22 03:20:38"
+        },
+        "extension": ""
+      }
+    ]
   }
 ]
