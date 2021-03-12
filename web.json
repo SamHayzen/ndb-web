@@ -594,7 +594,7 @@
         "name": "La'foyan",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/FEIRAUS/HUMANOID/LAFOYAN/LAFOYAN_GENERAL",
         "backpath": "/MAIN",
-        "data": "css\n┌───────────────────────────────┐\n│Group Name.........:Party      │\n│Youngling Name.....:Kit        │\n│Status.............:Safe       │\n│Vivotype...........:Feiraus    │\n│Archetype..........:Humanoid   │\n│Domestication......:N/A        │\n│Intelligence Class.:Sentient   │\n│Lifespan...........:33±8.3 Yrs │\n│Time to Maturity...:7±3.29 Yrs │\n│# Physical Sexes...:2          │\n│Sexual Polymorphism:Low        │\n│Procreation Method.:Interactive│\n│Diet/Resource Input:Biovorus   │\n│Respiratory Gas....:Oxygen     │\n│Weight.............:57±10Kg    │\n│Height.............:150±25cm   │\n│Thermal Range......:302±19°k   │\n│Blood Volume.......:6L         │\n│Min Conscious Blood:5L         │\n│Top Speed..........:18m/s      │\n└───────────────────────────────┘\n\n    The La'Foyans, also refered to as \"La'Foyrui\" or \"La'rui\", are a common species of human, originating from the planet [!1 La'Foy], that can be found in many civilized places across the stars.  Like most humans, the La'Foyan is bipedal, with a B-Type body.  La'Foyans are covered in full coat of body fur of variable thickness and color (dependant on the subject's environment/genetics).  These coats can be brown, orange, red, black, or white.  La'Foyans have short snouts, meaning their noses and jaws extend forward from their faces by 7-9 cm.  On the upper rears of their heads are large, concave, front-facing, orientable ears.\n    \n    Since La'Foyans are a properly-sentient human species, they are capable of dynamic problem solving, long-term memory retention, and other factors which qualify them as having a general intelligence.  Like other humans, the La'Foyan is a social, communicative creature.  The most common form of communication in modern, civilized La'Foyans is spoken/written [!2 language].  The oral structure of a La'Foyan mouth is adequate for speaking most human languages.  The most commonly spoken language among vivologically-La'Foyan individuals is some dialect of [!3 Nunwei].\u0000css\n    Regarding their anatomy, La'Foyans have mostly-typical B-Type bodies (B-Type meaning the primary joint in each of their legs is backwards-facing).  Specifically, La'foyan legs have two joints and three main segments -- the first segment, the upper leg (in an adult specimen) is approximately 30cm long and connects to the person's hip; the second segment, the mid leg, is also around 30cm long and connects to the upper leg with a bending, front-facing joint (knee); and the lower leg (which is analogous to the midsection of the foot in F-Type bodies), 20cm long, connected to the mid leg at the top with a backwards-facing joint, and connected to the specimen's foot at the bottom.\n    La'Foyan feet are digitigrade, meaning they walk on their digits (toes) as opposed to their heels.  Compared to other human species, La'Foyan feet are small, being only about five centimeters wide and seven centimeters long.  La'Foyans have four primary toes at the front of the foot -- each terminated by a claw -- and one rear toe that has evolved to adopt a shape, position, and functionality more similar to a heel.  The La'Foyan heel boasts a small, wide, hooked claw, typically concealed under the foot.  La'Foyans instinctively use this claw for climbing.\n    Similar to their feet, a La'Foyan hand has four primary digits, and a smaller, opposable digit further back.  La'Foyan hands are furred all over, with exception to their fingertips, which each have a small patch of darker, firmer skin.  This is likely to help with precision grips, as skin has considerably higher traction that fur.  Even though they had evolved from paws, La'Foyan hands are still just about as dexterous as any common human manipulative appendage.\u0000css\n    Like most large mammals of the [!4 Feiraus] vivotype, La'Foyan humans exhibit only subtle traits of sexual polymorphism (meaning different sexes bearing divergent outward traits).  La'Foyan humans are [!5 Caudadimorphic], meaning the only outwardly detectable sign of their physical sex is in their tail.  The La'Foyan tail, on both males and females, has a 60-centimeter flesh-and-bone core.  In males, the tail's fur is emaciated and downy, conforming more to the general shape of the tail's core.  In females, however, the tail's hair is much more volumous and buoyant, creating a large, round, bulbous tail with a pointed end.\n    \n    Not unlike other humans, La'Foyans are [!6 Faciocentric], meaning they instinctively use others' facial features and expressions for identification and nonverbal communication.  The La'Foyan face is formally defined as the full-width (~21cm) front side of the head.  A common La'Foyan has two small eyes (~2.5cm in diameter) just above their muzzle.  Encircling each eye is a patch of dark fur (darker than their pelt, or even black).  The patch is circular (or at least rounded) with the inner side (the side closer to the middle of the face) starting encircling the eye, and extending outward (away from the middle of the face), away by 4 to 8 centimeters.  The sizes, shapes, and colors of these symmetrical eye patches, combined with general facial structure, are instinctively used by La'Foyans for visual identification of other individuals.\u0000css\n    Disregarding the projected muzzle, the La'Foyan face is relatively standard for a human species.  The mouth of any (healthy) adult La'Foyan has 24 teeth.  The four frontmost teeth (top and bottom) are incisors, while all but the rearmost eight teeth are cuspids.  The eight teeth in the back of the mouth are molars.  La'Foyans infants are born with only their cuspid teeth, the incisors being absent to allow for feeding.  At around one [!7 galactic year] of age, the incisors of a juvenile La'Foyan will grow in, followed by their rear molars at around eight years of age.\n    \n    For its size, the La'Foyan body can be remarkably agile.  Due to having low body fat, a strong grip, thin limbs, and an instinct for climbing, it's relatively easy for a La'Foyan to hone their skills in agility.  These predispositions can be linked back to when the La'Foyan species diverged from the [!8 Kori] species -- a species of small, tree-inhabiting, low-intelligence humanoids.\n\n    A majority of the La'Foyan species of human exists on only four bodies, two of them being the planet [!1 La'foy] and its moon [!9 Armalai], among other [!10 La'Foyan State] territories.  Most races of La'Foyan thrive in warm, humid climates.",
+        "data": "css\n┌───────────────────────────────┐\n│Group Name.........:Party      │\n│Youngling Name.....:Kit        │\n│Status.............:Safe       │\n│Vivotype...........:Feiraus    │\n│Archetype..........:Humanoid   │\n│Domestication......:N/A        │\n│Intelligence Class.:Sentient   │\n│Lifespan...........:33±8.3 Yrs │\n│Time to Maturity...:4±1.29 Yrs │\n│# Physical Sexes...:2          │\n│Sexual Polymorphism:Low        │\n│Procreation Method.:Interactive│\n│Diet/Resource Input:Biovorus   │\n│Respiratory Gas....:Oxygen     │\n│Weight.............:57±10Kg    │\n│Height.............:150±25cm   │\n│Thermal Range......:302±19°k   │\n│Blood Volume.......:6L         │\n│Min Conscious Blood:5L         │\n│Top Speed..........:18m/s      │\n└───────────────────────────────┘\n\n    The La`Foyans, also refered to as \"La`Foyrui\" or \"La`rui\", are a common species of human, originating from the planet [!1 La`Foy], that can be found in many civilized places across the stars.  Like most humans, the La`Foyan is bipedal, with a B-Type body.  La`Foyans are covered in full coat of body fur of variable thickness and color (dependant on the subject`s environment/genetics).  These coats can be brown, orange, red, black, or white.  La`Foyans have short snouts, meaning their noses and jaws extend forward from their faces by 7-9 cm.  On the upper rears of their heads are large, concave, front-facing, orientable ears.\n    \n    Since La`Foyans are a properly-sentient human species, they are capable of dynamic problem solving, long-term memory retention, and other factors which qualify them as having a general intelligence.  Like other humans, the La`Foyan is a social, communicative creature.  The most common form of communication in modern, civilized La`Foyans is spoken/written [!2 language].  The oral structure of a La`Foyan mouth is adequate for speaking most human languages.  The most commonly spoken language among vivologically-La`Foyan individuals is some dialect of [!3 Nunwei].\u0000css\n    Regarding their anatomy, La'Foyans have mostly-typical B-Type bodies (B-Type meaning the primary joint in each of their legs is backwards-facing).  Specifically, La'foyan legs have two joints and three main segments -- the first segment, the upper leg (in an adult specimen) is approximately 30cm long and connects to the person's hip; the second segment, the mid leg, is also around 30cm long and connects to the upper leg with a bending, front-facing joint (knee); and the lower leg (which is analogous to the midsection of the foot in F-Type bodies), 20cm long, connected to the mid leg at the top with a backwards-facing joint, and connected to the specimen's foot at the bottom.\n    La'Foyan feet are digitigrade, meaning they walk on their digits (toes) as opposed to their heels.  Compared to other human species, La'Foyan feet are small, being only about five centimeters wide and seven centimeters long.  La'Foyans have four primary toes at the front of the foot -- each terminated by a claw -- and one rear toe that has evolved to adopt a shape, position, and functionality more similar to a heel.  The La'Foyan heel boasts a small, wide, hooked claw, typically concealed under the foot.  La'Foyans instinctively use this claw for climbing.\n    Similar to their feet, a La'Foyan hand has four primary digits, and a smaller, opposable digit further back.  La'Foyan hands are furred all over, with exception to their fingertips, which each have a small patch of darker, firmer skin.  This is likely to help with precision grips, as skin has considerably higher traction that fur.  Even though they had evolved from paws, La'Foyan hands are still just about as dexterous as any common human manipulative appendage.\u0000css\n    Like most large mammals of the [!4 Feiraus] vivotype, La'Foyan humans exhibit only subtle traits of sexual polymorphism (meaning different sexes bearing divergent outward traits).  La'Foyan humans are [!5 Caudadimorphic], meaning the only outwardly detectable sign of their physical sex is in their tail.  The La'Foyan tail, on both males and females, has a 60-centimeter flesh-and-bone core.  In males, the tail's fur is emaciated and downy, conforming more to the general shape of the tail's core.  In females, however, the tail's hair is much more volumous and buoyant, creating a large, round, bulbous tail with a pointed end.\n    \n    Not unlike other humans, La'Foyans are [!6 Faciocentric], meaning they instinctively use others' facial features and expressions for identification and nonverbal communication.  The La'Foyan face is formally defined as the full-width (~21cm) front side of the head.  A common La'Foyan has two small eyes (~2.5cm in diameter) just above their muzzle.  Encircling each eye is a patch of dark fur (darker than their pelt, or even black).  The patch is circular (or at least rounded) with the inner side (the side closer to the middle of the face) starting encircling the eye, and extending outward (away from the middle of the face), away by 4 to 8 centimeters.  The sizes, shapes, and colors of these symmetrical eye patches, combined with general facial structure, are instinctively used by La'Foyans for visual identification of other individuals.\u0000css\n    Disregarding the projected muzzle, the La'Foyan face is relatively standard for a human species.  The mouth of any (healthy) adult La'Foyan has 24 teeth.  The four frontmost teeth (top and bottom) are incisors, while all but the rearmost eight teeth are cuspids.  The eight teeth in the back of the mouth are molars.  La'Foyans infants are born with only their cuspid teeth, the incisors being absent to allow for feeding.  At around one [!7 galactic year] of age, the incisors of a juvenile La'Foyan will grow in, followed by their rear molars at around eight years of age.\n    \n    For its size, the La'Foyan body can be remarkably agile.  Due to having low body fat, a strong grip, thin limbs, and an instinct for climbing, it's relatively easy for a La'Foyan to hone their skills in agility.  These predispositions can be linked back to when the La'Foyan species diverged from the [!8 Kori] species -- a species of small, tree-inhabiting, low-intelligence humanoids.\n\n    A majority of the La'Foyan species of human exists on only four bodies, two of them being the planet [!1 La'foy] and its moon [!9 Armalai], among other [!10 La'Foyan State] territories.  Most races of La'Foyan thrive in warm, humid climates.",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/MAIN",
           "/ROOT/CULTURE/LANGUAGE",
@@ -611,7 +611,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2021/03/01 21:55:52"
+          "editTime": "2021/03/11 20:19:47"
         },
         "extension": "TEXT"
       },
@@ -1343,7 +1343,7 @@
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/TYVENTIA_PRIME/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   Tyventia Prime is a large, yellow star at about 0.82 Astro Units in size. The star rotates at its equator every 28 days.\n\n   Tyventia Prime's original name was Quaen, but was renamed in 289 once the [!1] Tyventian capital was moved from planet Nastimye in the Celesse system (which was then named Tyventia Prime) to Prelin in the Quaen system (which is now named Tyventia Prime.)",
+        "data": "css\n   Tyventia Prime is a large, yellow star at about 0.82 Astro Units in size. The star rotates at its equator every 28 days.\n\n   Tyventia Prime's original name was Quaen, but was renamed in 84 once the [!1 Tyventian] capital was moved from planet Nastimye in the Celesse system (which was then named Tyventia Prime) to Prelin in the Quaen system (which is now named Tyventia Prime.)",
         "links": [
           "/ROOT/NATIONS/NEW_TYVENTIA/HISTORY"
         ],
@@ -1351,7 +1351,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
+          "editTime": "2021/03/07 20:51:00"
         },
         "extension": ""
       },
@@ -2256,7 +2256,7 @@
         "links": [
           "/ROOT/TECHNOLOGY/SPACE/WARP_DRIVE/WARP_BUBBLE",
           "/ROOT/TRAVEL/SPACE/WARP_FERRIES",
-          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/SUPERMATTER",
+          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN",
           "/ROOT/TECHNOLOGY/ENERGY/TYPES/QI"
         ],
         "meta": {
@@ -2521,11 +2521,12 @@
         "path": "/ROOT/TECHNOLOGY/COMPUTERS",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   [!1] +Main\n   [!2] >Computer Structure\n   [!3] >Data Storage Mediums\n   [!4] >Components & Computer Resources\n   [!5] >Operating Systems\n   [!6] >Computer Models\n   [!7] >Software\n   [!8] >Programming Languages\n   [!9] >Computer Standards",
+        "data": "css\n    [!1]  +Main\n    [!2]  >Computer Structure\n    [!3]  >Data Storage Mediums\n    [!4]  >Artificial Intelligence\n    [!5]  >Components & Computer Resources\n    [!6]  >Operating Systems\n    [!7]  >Computer Models\n    [!8]  >Software\n    [!9]  >Programming Languages\n    [!10] >Computer Standards",
         "links": [
           "/ROOT/TECHNOLOGY/COMPUTERS/MAIN",
           "/ROOT/TECHNOLOGY/COMPUTERS/STRUCTURE",
           "/ROOT/TECHNOLOGY/COMPUTERS/STORAGE",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI",
           "/ROOT/TECHNOLOGY/COMPUTERS/COMPONENTS",
           "/ROOT/TECHNOLOGY/COMPUTERS/OPERATING_SYSTEMS",
           "/ROOT/TECHNOLOGY/COMPUTERS/MODELS",
@@ -2535,9 +2536,9 @@
         ],
         "meta": {
           "author": "<@220352318510596096>",
-          "editor": "<@652028898111913985>",
+          "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/12/29 09:55:03"
+          "editTime": "2021/03/08 19:27:34"
         },
         "extension": ""
       },
@@ -9976,17 +9977,18 @@
         "name": "Energy Generation",
         "path": "/ROOT/TECHNOLOGY/ENERGY/GENERATION",
         "isUp": true,
-        "data": "css\n   [!1] >Kinetic Energy Generation\n   [!2] >Chemical Energy Generation\n   [!3] >Photo Energy Generation",
+        "data": "css\n    [!1] >Kinetic Energy Generation\n    [!2] >Chemical Energy Generation\n    [!3] >Photo Energy Generation\n    [!4] >Qi Energy Generation",
         "links": [
           "/ROOT/TECHNOLOGY/ENERGY/GENERATION/KINETIC",
           "/ROOT/TECHNOLOGY/ENERGY/GENERATION/CHEMICAL",
-          "/ROOT/TECHNOLOGY/ENERGY/GENERATION/PHOTO"
+          "/ROOT/TECHNOLOGY/ENERGY/GENERATION/PHOTO",
+          "/ROOT/TECHNOLOGY/ENERGY/GENERATION/QI"
         ],
         "meta": {
           "author": "<@652028898111913985>",
-          "editor": "<@652028898111913985>",
+          "editor": "<@220352318510596096>",
           "madeTime": "2019/12/28 22:16:12",
-          "editTime": "2019/12/28 22:20:42"
+          "editTime": "2021/03/03 08:04:48"
         },
         "extension": ""
       },
@@ -10333,7 +10335,7 @@
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/TRANSIT/MAIN",
           "/ROOT/MEDICINE/AFFLICTIONS/PSYCHOLOGICAL/ARTEMECIA",
           "/ROOT/NATIONS/ITASCUS/GOVERNMENT_PROGRAMS/ISA",
-          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/SUPERMATTER",
+          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN",
           "/ROOT/CALENDAR/EVENTS/HISTORIC/WARP_ENDOWMENT_CAMPAIGN",
           "/ROOT/LOCATIONS/SILVER_STREAM/MAIN"
         ],
@@ -11948,15 +11950,124 @@
         "name": "Gallean Fleet Command",
         "path": "/ROOT/NATIONS/GALLEA/MILITARY/GFC",
         "isUp": true,
-        "data": "css\n    The Gallean Fleet Command (domestically referred to as the Grand Fleet Command) is the main arm of the military and enforces the rule of law in Gallean space.  This branch fills three roles in space: policing, defense, and offense.  The sub branches of the Galactic Fleet Command are as follows:  The Law Enforcement Armada, Planetary Guard, Astroport Defense Guard, and The Strategic Armada.\n\n    The Law Enforcement Armada is the policing arm of the GFC and performs day-to-day partols of every [!1 trade circuit] and the enforcement of the [!2 TTDS] system.  The exact structure of enforcers in each sector of Gallean space is different, but most sector patrols keep a similar structure.  Each Sector has multiple patrol subsections, a patrol contains a corvette and multiple gunships, often accompanied by squadrons of interceptors.\n    The Planetary Guard act as the defense garrison of a given Gallean planet.  They provide assistance to ships in trouble within the sphere of influence of the planet they serve, as well as protecting against smuggling and piracy, which is their primary responsibility during peacetime.  Each planet within the Gallean jurisdiction has 15-40 active Patrol Ships in orbit at any given moment.  Patrol groups usually consist of a single destoyer, with a docked fighter-interceptor as an escort or boarding ship.\n    The Astroport Defense Guard is the GFC contingent in charge of the protection of public and government [!3 Astroports].  There are currently about 20 Galleat Garrisons footsoldiers, dedicated to defending Astroports, with each heavily-trafficed Astroport housing a contingent of 1-6 fighters for protection.  Little is publicly known about this sub-branch.\u0000css\n    The Strategic Armada is the largest of all sub-branches in the GFC and has a \"quality over quantity\" approach when it comes to capital ships, but a \"quantity over quality\" approach when it comes to smaller fighters.  The Strategic Armada branch has 3 publicly-disclosed fleets.  In each fleet there are: 1-7 fighters carriers, 1-2 dreadnaughts, 1-3 Battle Cruisers, 1-2 Heavy Cruisers, and 1-4 Light Cruisers.  Each fleet has a complement of 40-100 small fighter craft and/or atmospheric bombers (primarily concentrated within the fleet`s carriers), capable of swarming enemy fleets.   Strike craft and bombers dropped into the atmosphere from spacecraft follow the same protocols as the Air Guard of the [!4 Gallean Land Command].  These three fleets are named \"Fleet Shadow\", \"Fleet Obsidian\", and \"Fleet Magma\".  The Strategic Armada follows a doctrine of strategic carrier supremacy, each carrier can split its carried fleet into organized, offensive strike groups.  The reason for the Strategic Armada’s size is due to the [!5 Armament Era] in which the shipyards of Gallea were in full throttle and it expanded the navy that was barely able to keep ganeimede into a titan of space.",
+        "data": "css\n    The Gallean Fleet Command (domestically referred to as the Grand Fleet Command) is the main arm of the military and enforces the rule of law in Gallean space.  This branch fills three roles in space: policing, defense, and offense.  The sub branches of the Galactic Fleet Command are as follows:  The Law Enforcement Armada, Planetary Guard, Astroport Defense Guard, and The Strategic Armada.\n\n    The Law Enforcement Armada is the policing arm of the GFC and performs day-to-day patrols of every [!1 trade circuit] and the enforcement of the [!2 TTDS] system.  The exact structure of enforcers in each sector of Gallean space is different, but most sector patrols keep a similar structure.  Each Sector has multiple patrol subsections, a patrol contains a corvette and multiple gunships, often accompanied by squadrons of interceptors.\n    The Planetary Guard act as the defense garrison of a given Gallean planet.  They provide assistance to ships in trouble within the sphere of influence of the planet they serve, as well as protecting against smuggling and piracy, which is their primary responsibility during peacetime.  Each planet within the Gallean jurisdiction has 15-40 active Patrol Ships in orbit at any given moment.  Patrol groups usually consist of a single destroyer, with a docked fighter-interceptor as an escort or boarding ship.\n    The Astroport Defense Guard is the GFC contingent in charge of the protection of public and government [!3 Astroports].  There are currently about 20 Galleat Garrisons footsoldiers, dedicated to defending Astroports, with each heavily-trafficked Astroport housing a contingent of 1-6 fighters for protection.  Little is publicly known about this sub-branch.\u0000css\n    The Strategic Armada is the largest of all sub-branches in the GFC and has a \"quality over quantity\" approach when it comes to capital ships, but a \"quantity over quality\" approach when it comes to smaller fighters.  The Strategic Armada branch has 3 publicly-disclosed fleets.  In each fleet there are: 1-7 fighters carriers, 1-2 dreadnoughts, 1-3 Battle Cruisers, 1-2 Heavy Cruisers, and 1-4 Light Cruisers.  Each fleet has a complement of 40-100 small fighter craft and/or atmospheric bombers (primarily concentrated within the fleet`s carriers), capable of swarming enemy fleets.   Strike craft and bombers dropped into the atmosphere from spacecraft follow the same protocols as the Air Guard of the [!4 Gallean Land Command].  These three fleets are named \"Fleet Shadow\", \"Fleet Obsidian\", and \"Fleet Magma\".  The Strategic Armada follows a doctrine of strategic carrier supremacy, each carrier can split its carried fleet into organized, offensive strike groups.  The reason for the Strategic Armada’s size is due to the [!5 Armament Era] in which the shipyards of Gallea were in full throttle and it expanded the navy that was barely able to keep ganeimede into a titan of space.",
+        "links": [
+          "/ROOT/TRAVEL/SPACE/CIRCUITS/SUPPLY",
+          "/ROOT/NATIONS/GALLEA/LAW/STTDS",
+          "/ROOT/TRAVEL/SPACE/ASTROPORTS",
+          "/ROOT/NATIONS/GALLEA/MILITARY/GLC",
+          "/ROOT/NATIONS/GALLEA/HISTORY/SUMMARY"
+        ],
+        "meta": {
+          "author": "<@!301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/02 03:25:59",
+          "editTime": "2021/03/09 22:26:51"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Vehicle Weapons",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS",
+        "isUp": true,
+        "data": "css\n    [!1] >Ballistic Weapons\n    [!2] >Laser Weapons\n    [!3] >Point-Defense Weapons\n    [!4] >Terrestrial Bombardment Weapons\n    [!5] >Tactical Weapons",
+        "links": [
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/LASER",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/PD",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BOMBARDMENT",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/TACTICAL"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/03 07:49:13",
+          "editTime": "2021/03/03 07:52:47"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Craft Laser Weapons",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/LASER",
+        "isUp": true,
+        "data": "css\n    [!1] +Info [Unwritten]",
+        "links": [
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/LASER/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/03 07:53:12",
+          "editTime": "2021/03/03 07:53:42"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Craft Laser Weapons",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/LASER/MAIN",
+        "isUp": true,
+        "data": "[Unwritten]",
         "links": [],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
-          "madeTime": "2021/03/02 03:25:59",
-          "editTime": "2021/03/02 03:28:50"
+          "madeTime": "2021/03/03 07:54:16",
+          "editTime": "2021/03/03 07:54:43"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Qi Energy Generation",
+        "path": "/ROOT/TECHNOLOGY/ENERGY/GENERATION/QI",
+        "isUp": true,
+        "data": "css\n    [!1] +Ichor",
+        "links": [
+          "/ROOT/TECHNOLOGY/ENERGY/GENERATION/QI/ICHOR"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/03 08:06:43",
+          "editTime": "2021/03/03 08:07:18"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Ichor",
+        "path": "/ROOT/TECHNOLOGY/ENERGY/GENERATION/QI/ICHOR",
+        "isUp": true,
+        "data": "css\n    Ichor is an energy-dense, artificial fluid invented as a high-power fuel source.  Ichor is primarily used in large spacecraft, especially in those which make use of [!1 heavy laser weaponry] or large [!2 warp drives].  This is because Ichor can be used to generate a large amount of power in a small amount of time.\n    \n    Ichor is a compound Consisting of, listed from highest to lowest concentration, Silicon, Oxygen, Iodine, Cesium, Bismuth, and [!3 Aptha].  Ichor typically comes in a fluid form, but can be manufactured as a solid when additional Silicon and small amounts of Carbon are added to the formative mixture.  Ichor's energy density is about 344 kilojoules per gram (which is about 10.489 [!4 chells] per gram), which is the highest out of any known non-nuclear energy source.  It has a density of 6.832 grams per cubic centimeter, a viscosity of 3,520 centipoise (if in liquid form), a hardness close to that of chalk (in in solid form), and a very dark-green coloration.  At standard market value, Ichor sells for $30 [!5 ITC] per kilogram.\n    \n    Ichor can be burned/oxygenated, but this only releases about 30% of its energy.  Ichor burns violently and at high tempuratures, making open flames near Ichor containers a serious risk for explosions or meltdowns.  Burning Ichor leaves behind \"Ichor Ash\", a pale, blue-green coarse powder; and \"Ichor Soot\", a dark, fine powder.  The Ichor Ash contains the remaining 70% of the Ichor's energy, but accessing it is difficult, and melting Ichor Ash back down into Raw Ichor is a hazardous, expensive process, so Ichor Ash is usually Discarded.  Ichor Soot is entirely inert, and can be recycled back into the Ichor production process.\u0000css\n    Ichor is produced by heating the constituent materials to about 1,900 degrees, mixing until the material is homogenous, and then cooling it.  In this form, it's called \"Raw Ichor\".  Raw Ichor is a lime-green, thin fluid, and is mostly inert and slightly flammable.  Raw Ichor is then \"baked\" in a low-tempurature \"oven\" with a very high concentration of [!4 Qi-Energy].  Baked Ichor, just called \"Ichor\", is its useful form, and is a dark-green, thick liquid.  Ichor takes a large amount of energy to be baked.\n\n    Ichor is stable, having a half-life of about 54 [!6 Galactic Years] (at room tempurature).  As Ichor decays, it releases 76.9% of its energy in the form of [!3 charged qi particles], about 0.54% in the form of high-wavelength EM radiation, and the other 22.56% in the form of heat.  Normally, decay does not cause a chain reaction.  However, Ichor's stability decreases dramatically as its tempurature and pressure increases.  At 1,100 degrees celsius or above, Ichor becomes unstable enough that the heat caused by its decay is enough to maintain a self-sustaining decay reaction.  This tempurature is called the \"Critical Point\".  At or above this point, the tempurature of the decaying ichor must be regulated, otherwise a meltdown is imminent.  As Ichor reacts and decays, it turns into 83% Ichor Soot, 15% Ichor Ash, and 2% Raw Ichor by mass.  These biproducts are usually discarded, but are sometimes sold back to Ichor manufacturers to be refined and recycled back into Ichor.\u0000css\n    Ichor is used in Ichor Reactors to produce an immense amount of energy in a small amount of time.  A small Ichor Reactor, taking up usually appoximately 4 cubic meters, is able to produce up to 6 megawatts, while a large Ichor Reactor, fitting in up to 30 cubic meters, can produce 400 megawatts of power.  Ichor Reactors generate energy by placing a small amount of Ichor in a small, hardened, qi-conductive, pressure-resistant chamber.  This chamber is then heated up to cause the Ichor to decay.  As the Ichor decays and gives off Qi Energy, that Qi Energy is picked up by the chamber walls and can then be used.  The waste heat produced by the reactor chamber can also be used to boil water and spin turbines to generate [!7 electrical energy], similar to traditional power generators.  Standard Ichor reactors take 40 to 70 seconds to heat up the reactor chamber to approprate tempuratures.\n    There are two kinds of Ichor Reactor, \"Cold Ichor Reactors\" and \"Hot Ichor Reactors\".  \"Cold\" Ichor Reactors keep the tempurature of the Ichor in the reactor chamber high, but under the Critical Point.  While this produces less power per gram of Ichor per second, the risk of meltdown is very low, and the reactor only requires a moderate amount of cooling.  \"Hot\" Ichor Reactors, however, heat the Ichor in the reactor chamber beyond the critical point, which kicks off the dangerous, but highly-efficient chain reaction.  Since the Ichor in a Hot Ichor Reactor chamber is beyond its critical point, it will continue to get hotter and hotter as it releases more and more energy, meaning that Hot Ichor Reactors must actively cool the chamber to keep the tempurature of the reacting Ichor from surpassing that of the melting point of the Chamber's material.\u0000css\n    Many Modern Hot Ichor Reactors are able to detect an imminent meltdown, and are built to automatically jettison the contents of the reactor chamber once the Ichor inside reaches a certain tempurature.  Usually, the reactor chamber opens a value to a pipe which leads outside of the structure housing the reactor.  As the Ichor is vented, its pressure sharply decreases to the ambient pressure of the environment, which quickly decreases its tempurature.  After this, the jettisoned Ichor will either continue to react in open air (or space), or have been cooled down enough by the pressure change to dip below the critical point and stop the chain reaction.\n    \n    Ichor was originally invented in 36 P.W. on the planet [!8 Bius Tu] as a high-density fuel source.  The full name of Ichor is \"Ichor-38\", as the modern mixture of Ichor was the 38th draft of the formula made by the Tuine science team that invented it.  Because of this, for abbreviation, Ichor is sometimes referred to as just \"38\".",
+        "links": [
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/LASER/MAIN",
+          "/ROOT/TECHNOLOGY/SPACE/WARP_DRIVE/WARP_CORES",
+          "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN",
+          "/ROOT/TECHNOLOGY/ENERGY/TYPES/QI",
+          "/ROOT/MARKET/CURRENCY/GCP",
+          "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC",
+          "/ROOT/TECHNOLOGY/ENERGY/TYPES/ELECTRIC",
+          "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/03 08:07:29",
+          "editTime": "2021/03/03 08:08:52"
         },
         "extension": "TEXT"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/08 19:28:03",
+          "editTime": "2021/03/08 19:28:09"
+        },
+        "extension": ""
       }
     ],
     "owners": [],
