@@ -1719,7 +1719,7 @@
         "path": "/ROOT/PEOPLE",
         "isUp": true,
         "backpath": "",
-        "data": "css\n [!1] >Artists & Pop Culture Figures\n [!2] >Corporate\n [!3] >Civil Servants & Politicians\n [!4] >Humanitarians\n [!5] >Inventors & Innovators\n [!6] >Media Figures\n [!7] >Pioneers & Explorers\n [!8] >Spiritual figures\n [!9] >Sportspeople",
+        "data": "css\n    [!1] >Artists & Pop Culture Figures\n    [!2] >Corporate\n    [!3] >Civil Servants, Politicians, & Leaders\n    [!4] >Humanitarians\n    [!5] >Inventors & Innovators\n    [!6] >Media Figures\n    [!7] >Pioneers & Explorers\n    [!8] >Spiritual figures\n    [!9] >Sportspeople",
         "links": [
           "/ROOT/PEOPLE/ARTISTS",
           "/ROOT/PEOPLE/CORPORATE",
@@ -1735,7 +1735,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/08/28 12:10:58"
+          "editTime": "2021/03/23 03:55:45"
         },
         "extension": ""
       },
@@ -3050,7 +3050,7 @@
         "path": "/ROOT/TECHNOLOGY/PHYSICS/PARTICLE/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n┌─┬─┐\n│N│P│\n├─┼─┤\n│e│μ│  ┌─┐\n├─┼─┤  │y│\n│q│Q│  └─┘\n├─┼─┤\n│v│A│\n└─┴─┘\n\n     The Universe, as we know it, consists entirely of nine distinct types of particles. Every observable action and property of nature can be described through interactions between these particles.\n\n     There are four classes of particles; Fermionic Matter, which define Protons (P), Neutrons (N), Electrons (e) and Muons (μ); Etherial Matter, which is charged and Uncharged Qi (q & Q); Supermatter, which is Neutrinos and Aptha; and the raw energy Carrier of the Photon (y).\u0000css\nN: Neutrons, the heaviest neutrally-charged particle. Originally discovered in -8P.W. during experiments with nuclear fission. They are a primary component in the nuclei of atoms.\n\nP: Protons, the heaviest positively-charged particle. Protons were discovered in 26P.W. through Atomic Composition Experiments.\n\ne: Electron, the negatively-charged component of an atom. Electrons orbit around the nuclei of atoms, forming a sort of shell which allows atoms to form bonds. Electrons were discovered by most all primitive civilizations in the time between -200 and -10P.W.\n\nμ: Muon, the larger sibling to the Electron. Muons have the same negative charge as an electron, meaning that they can take an electron's place in the atomic shell. But, since Muons are over two-hundred-times as massive as electrons, meaning that any the shell around a muon-bound atom will be several magnitudes smaller. If two Hydrogen atoms bind together via a shell consisting of a muon, the resulting proximity will eventually result in nuclear fusion. But, a muon currently costs about three times as much energy to create than it produces via fusion. Muons were discovered in 83P.W. in fusion experiments on [!1 Bius Tu].\u0000css\nq: Uncharged Qi, the neutral, almost massless variant of the Qi particle. Uncharged Qi does not commonly interact with normal matter, save for scattering through material. Uncharged Qi may have a negligible mass, but it's not massless, meaning it travels at less-than-lightspeed. Uncharged Qi tends to stay within the closed system of a planet's atmosphere. (Though it's also found in solar wind.) The higher the concentration of Qi in an area, the easier Qi-charging reactions can occur.\n\nQ: Charged Qi, is the charged, energy-packed variant of the Qi particle. Charged Qi particles are selectively charged, being able to be positive or negative. The a “half-life” of charged particles changing state is about 8 hours in air, 50 hours in a liquid, and hundreds of years in a solid. Due to this duality, charged Qi can create pseudo-atomic structures that can be applied in many ways. Charged Qi is made by adding energy to Uncharged Qi via certain physical, chemical, and even nuclear reactions. The energy in Charged qi can be applied to make, heat, light, or even motion.\u0000css\nv: Neutrinos are nearly interaction-less particles with negligible mass. They are created in the centers of stars and shoot outward in all directions. Neutrinos pass through normal matter with little interaction.\n\nA: Aptha is a visible, grey particle that interacts with normal matter. Aptha has immense surface tension, meaning that, even on the ground, aptha with gather into a perfect or oblate sphere. Aptha is produced by mixing powdered Qi-conductive materials in a slurry with Tritium Dioxide, and left out in the sun. On the rare occasion a Neutrino from the sun strikes a Neutrino emitted from the decaying Tritium while also in the proximity of a Charged Qi particle, a single Aptha particle is produced out of the two Neutrinos, also discharging the energy in the Qi particle.\u0000css\nY: Photons are the purest form of energy in the known universe. Photons have a sort of wave/particle duality, meaning that they demonstrate properties of both waves and particles. Photons are the prime component of EM radiation, the force that is Visible Light, Radio Waves, Microwaves, and even hazardous Gamma Rays.",
+        "data": "css\n┌─┬─┐\n│N│P│\n├─┼─┤\n│e│μ│  ┌─┐\n├─┼─┤  │y│\n│q│Q│  └─┘\n├─┼─┤\n│v│A│\n└─┴─┘\n\n     The Universe, as we know it, consists entirely of nine distinct types of particles. Every observable action and property of nature can be described through interactions between these particles.\n\n     There are four classes of particles; Fermionic Matter, which define Protons (P), Neutrons (N), Electrons (e) and Muons (μ); Etherial Matter, which is charged and Uncharged Qi (q & Q); Supermatter, which is Neutrinos and Aptha; and the raw energy Carrier of the Photon (y).\u0000css\nN: Neutrons, the heaviest neutrally-charged particle. Originally discovered in -8 P.W. during experiments with nuclear fission. They are a primary component in the nuclei of atoms.\n\nP: Protons, the heaviest positively-charged particle. Protons were discovered in -16 P.W. through Atomic Composition Experiments.\n\ne: Electron, the negatively-charged component of an atom. Electrons orbit around the nuclei of atoms, forming a sort of shell which allows atoms to form bonds. Electrons were discovered by most all primitive civilizations in the time between -200 and -10P.W.\n\nμ: Muon, the larger sibling to the Electron. Muons have the same negative charge as an electron, meaning that they can take an electron`s place in the atomic shell. But, since Muons are over two-hundred-times as massive as electrons, meaning that any the shell around a muon-bound atom will be several magnitudes smaller. If two Hydrogen atoms bind together via a shell consisting of a muon, the resulting proximity will eventually result in nuclear fusion. But, a muon currently costs about three times as much energy to create than it produces via fusion.  Muons were discovered in 83 P.W. in fusion experiments on [!1 Bius Tu].\u0000css\nq: Uncharged Qi, the neutral, almost massless variant of the Qi particle. Uncharged Qi does not commonly interact with normal matter, save for scattering through material. Uncharged Qi may have a negligible mass, but it's not massless, meaning it travels at less-than-lightspeed. Uncharged Qi tends to stay within the closed system of a planet's atmosphere. (Though it's also found in solar wind.) The higher the concentration of Qi in an area, the easier Qi-charging reactions can occur.\n\nQ: Charged Qi, is the charged, energy-packed variant of the Qi particle. Charged Qi particles are selectively charged, being able to be positive or negative. The a “half-life” of charged particles changing state is about 8 hours in air, 50 hours in a liquid, and hundreds of years in a solid. Due to this duality, charged Qi can create pseudo-atomic structures that can be applied in many ways. Charged Qi is made by adding energy to Uncharged Qi via certain physical, chemical, and even nuclear reactions. The energy in Charged qi can be applied to make, heat, light, or even motion.\u0000css\nv: Neutrinos are nearly interaction-less particles with negligible mass. They are created in the centers of stars and shoot outward in all directions. Neutrinos pass through normal matter with little interaction.\n\nA: Aptha is a visible, grey particle that interacts with normal matter. Aptha has immense surface tension, meaning that, even on the ground, aptha with gather into a perfect or oblate sphere. Aptha is produced by mixing powdered Qi-conductive materials in a slurry with Tritium Dioxide, and left out in the sun. On the rare occasion a Neutrino from the sun strikes a Neutrino emitted from the decaying Tritium while also in the proximity of a Charged Qi particle, a single Aptha particle is produced out of the two Neutrinos, also discharging the energy in the Qi particle.\u0000css\nY: Photons are the purest form of energy in the known universe. Photons have a sort of wave/particle duality, meaning that they demonstrate properties of both waves and particles. Photons are the prime component of EM radiation, the force that is Visible Light, Radio Waves, Microwaves, and even hazardous Gamma Rays.",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/MAIN"
         ],
@@ -3058,7 +3058,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/12/22 22:10:50"
+          "editTime": "2021/04/03 18:07:05"
         },
         "extension": "TEXT"
       },
@@ -3311,13 +3311,18 @@
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE",
         "isUp": true,
         "backpath": "",
-        "data": "css\n[!1] +Info\n---\n[!2] >[Unnamed]\n[!3] >[Unnamed]\n[!4] >[Unnamed]\n[!5] >[Unnamed]\n[!6] >[Unnamed]\n[!7] >[Unnamed]",
-        "links": [],
+        "data": "css\n    [!1] +Info\n    ---\n    [!2] >[Unnamed]\n    [!3] >Kayan\n    [!4] >Kosh\n    [!5] >[Unnamed]\n    [!6] >[Unnamed]\n    [!7] >[Unnamed]",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/MAIN",
+          "",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KOSH"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/01/05 15:39:29",
-          "editTime": "2019/01/05 15:40:52"
+          "editTime": "2021/04/02 17:58:05"
         },
         "extension": ""
       },
@@ -3491,18 +3496,19 @@
         "path": "/ROOT/COMPANIES/MILITARY",
         "isUp": true,
         "backpath": "",
-        "data": "css\n  [!1] +Atlas Corp.\n  [!2] +Itascan Dynamics [Unwritten]\n  [!3] +Outerweapon Conglomerate\n  [!4] >Minor",
+        "data": "css\n    [!1] +Atlas Corp.\n    [!2] +Itascan Dynamics [Unwritten]\n    [!3] +Outerweapon Conglomerate\n    [!4] +Kinetyx [Unwritten]\n    [!5] >Minor",
         "links": [
           "/ROOT/COMPANIES/MILITARY/ATLAS",
           "/ROOT/COMPANIES/MILITARY/ITASCAN_DYNAMICS",
           "/ROOT/COMPANIES/MILITARY/OUTERWEAPON",
+          "/ROOT/COMPANIES/MILITARY/KINETYX",
           "/ROOT/COMPANIES/MILITARY/MINOR"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/02/13 13:52:22",
-          "editTime": "2020/07/19 20:08:20"
+          "editTime": "2021/04/03 21:30:14"
         },
         "extension": ""
       },
@@ -3528,10 +3534,11 @@
         "name": "Craft Classes",
         "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES",
         "isUp": true,
-        "data": "css\n  [!1]  >Amalgamate\n  [!2]  >Carrier\n  [!3]  >Courier\n  [!4]  >Drone\n  [!5]  >Drop Pod\n  [!6]  >Freighter\n  [!7]  >Frigate\n  [!8]  >Fighter\n  [!9]  >Harvester\n  [!10] >Hopper\n  [!11] >Capital\n  [!12] >Probe\n  [!13] >Station\n  [!14] >Striker\n  [!15] >Transit",
+        "data": "css\n  [!1]  >Amalgamate\n  [!2]  >Carrier\n  [!3]  >Corvette\n  [!4]  >Courier\n  [!5]  >Drone\n  [!6]  >Drop Pod\n  [!7]  >Freighter\n  [!8]  >Frigate\n  [!9]  >Fighter\n  [!10] >Harvester\n  [!11] >Hopper\n  [!12] >Capital\n  [!13] >Probe\n  [!14] >Station\n  [!15] >Striker\n  [!16] >Transit",
         "links": [
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/AMALGAMATE",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CARRIER",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/COURIER",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/DRONE",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/DROPPOD",
@@ -3550,7 +3557,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/02/13 19:33:15",
-          "editTime": "2020/01/31 04:21:28"
+          "editTime": "2021/04/03 20:12:27"
         },
         "extension": ""
       },
@@ -5987,7 +5994,7 @@
         "name": "Civil Servants and Politicians",
         "path": "/ROOT/PEOPLE/POLITICIANS",
         "isUp": true,
-        "data": "css\n   [!1]  >GCP Officials [Unwritten]\n   [!2]  >Armalite Politicians [Unwritten]\n   [!3]  >Tuine Politicians [Stub]\n   [!4]  >Deorian Politicians [Unwritten]\n   [!5]  >Gallean Politicians [Unwritten]\n   [!6]  >Ghillymedic Politicians [Unwritten]\n   [!7]  >Itascan Politicians [Stub]\n   [!8]  >La'Foyan Politicians [Unwritten]\n   [!9]  >Neo Urran Politicians [Unwritten]\n   [!10] >New Tyventian Politicians [Unwritten]\n   [!11] >Solar Union Politicians [Unwritten]\n   [!12] >International Politicians [Unwritten]\n   [!13] >Other [Unwritten]",
+        "data": "css\n   [!1]  >GCP Officials [Unwritten]\n   [!2]  >Armalite Officials [Unwritten]\n   [!3]  >Tuine Officials [Stub]\n   [!4]  >Deorian Officials [Unwritten]\n   [!5]  >Gallean Officials [Unwritten]\n   [!6]  >Ghillymedic Officials [Unwritten]\n   [!7]  >Itascan Officials [Stub]\n   [!8]  >La'Foyan Officials [Unwritten]\n   [!9]  >Neo Urran Officials [Unwritten]\n   [!10] >New Tyventian Officials [Unwritten]\n   [!11] >Solar Union Officials [Unwritten]\n   [!12] >International Officials [Unwritten]\n   [!13] >Other [Unwritten]",
         "links": [
           "/ROOT/PEOPLE/POLITICIANS/GCP",
           "/ROOT/PEOPLE/POLITICIANS/ARMALITE",
@@ -6007,7 +6014,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/08/26 14:36:24",
-          "editTime": "2019/10/29 03:27:58"
+          "editTime": "2021/03/23 03:56:37"
         },
         "extension": ""
       },
@@ -12066,6 +12073,298 @@
           "editor": "<@220352318510596096>",
           "madeTime": "2021/03/08 19:28:03",
           "editTime": "2021/03/08 19:28:09"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN",
+        "isUp": true,
+        "data": "css\n    [!1] >Leaders [Stub]\n    [!2] >Government Officials [Unwritten]\n    [!3] >State Officials [Unwritten]",
+        "links": [
+          "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS",
+          "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/GOVERNMENT",
+          "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/STATE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/24 02:00:39",
+          "editTime": "2021/03/24 02:05:35"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Neo-Urran National Leaders",
+        "path": "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS",
+        "isUp": true,
+        "data": "css\n    [!1] +Karmine Jacobs [Unwritten]",
+        "links": [
+          "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/24 02:05:43",
+          "editTime": "2021/03/24 02:06:52"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Karmine Jacobs",
+        "path": "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS",
+        "isUp": true,
+        "data": "css\n    [This article is unwritten.  You can help by writing it.]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/03/24 02:06:57",
+          "editTime": "2021/04/02 17:42:46"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Kayan",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN",
+        "isUp": true,
+        "data": "css\n    [!1] +Info\n    [!2] +Antaria\n    ----\n    [!3] +[Unnamed Spaceport]\n    [!4] >Vella",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/ANTARIA",
+          "",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/VELLA"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/02 17:59:56",
+          "editTime": "2021/04/02 18:05:55"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Antaria",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/ANTARIA",
+        "isUp": true,
+        "data": "css\n┌────────────────────────────────────┐\n│Population............: 1.12M       │\n│City Limits Area......: 2827km^2    │\n│Year Founded..........: 102         │\n│Gross Domestic Product: $324B       │\n│Demonym...............: Antarian    │\n└────────────────────────────────────┘\n\n    Antaria, the capital of Kayan, it is a planned city founded in 92 by the planetary governor in honor of the tenth anniversary of Urran Coup by [!1 Karmine Jacobs].  Both domestically, and abroad, it is one of the poster children of Urran Brutalism; a minimalist architectural style where the building materials and structural elements of the buildings are left bare.  As such, the city makes heavy use of concrete, glass and timber in its structures.\n\n    The city is organised in concentric circles, the largest being 30km in diameter, with a 1km arcology at the center, housing the administrative district of the planet.  This Arcology is made from steel-reinforced concrete, with a wooden spire constructed on top.  It has a volume of 531,000 cubic meters and is a hive of administrative activity, with thousands of workers coming every day to the tower.  The skyline of the city forms forms a bell shape when seen from afar, with the administrative center in the middle, and buildings getting progressively smaller as they get further from the city center.\u0000css\n    A [!2 skyrail] system link the center to the periphery in a cross pattern and six circles around the center.  But these skyrails have failed commercially due to the high cost of the tickets and expensive maintenance, which was exacerbated by the low population.  The denizens of Antaria mostly use the roads, by car, bus, bike, or just on foot.\n    \n    The city was originally planned to house 6 million inhabitants, but most Kayanites found the \"raw\" look of the city unappealing, leading to a cascading effect where the low appeal of the city would cause a lowered population, which, in turn, would have a harder time supporting the large number of commercial services present in the city, which would further lower the appeal of Antaria even more.\n    Today, the city is disproportionately inhabited by government officials managing the planet and [!3 Neo-Urran] state programs; large sections of the city are left uninhabited for years at a time, as residents tend to bunch together.",
+        "links": [
+          "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS",
+          "/ROOT/TRAVEL/TERRESTRIAL/MASS_TRANSIT/RAIL/SKYRAIL",
+          "/ROOT/NATIONS/NEO_URRA/MAIN"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/02 18:06:25",
+          "editTime": "2021/04/02 18:43:16"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Kayan",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────┐\n│Radius.........: 4,271km  │\n│Atm. Rating....: A        │\n│Atm. Height....: 151km    │\n│Atm. Pressure..: 0.9 atm  │\n│Surf. Gravity..: 0.71G    │\n│Hydrosphere....: Water,78%│\n│Precipitation..: 325cm/y  │\n│Obliquity......: 1.15°    │\n│Average Temp...: 312K     │\n│Rotation Period: 23Hrs    │\n│Orbital Period.: 0.78Yr   │\n│Population.....: 12.4B    │\n│Majority Race..: Tyvent   │\n│Allegiance.....: Neo-Urra │\n└──────────────────────────┘\n\n    Kayan, formerly \"Nastimye\", is a hot and humid planet in the Celesse system.  As the Homeworld of the [!1 Tyvant race], it had been colonised and civilized since ancient times, and was the capital world of [!2 Tyventia] until this status was transferred to [!3 Quaen] in 82.  The Planet does not experience differing seasons due to its very low Obliquity.  The planet’s land mass is divided into six major continents which represent 19% of the surface area of the planet.  An additional 3% of the surface consists of small islands and scattered landmasses, meaning a total 22% of the planet`s surface is land, with the other 78% being water.\n    \n    Due to the absence of seasons and weak marine currents, the temperature across the planet is mostly constant, which the average temperature of any point on the surface being almost entirely determined by its latitude; most of the landmasses near the equator are desert or savannah, while extreme (near-polar) latitudes are tundras and ice deserts.  One peculiarity of the planet is its coastlines -- while most its coasts are irregular, some other parts form a warped yet quasi-perfect arc.  Simulations of the continental drift have led to the theory that all of the landmasses of kayan were arranged in an almost-perfect circle two supercontinents ago.\u0000css\n    The planet is densely-populated due to being a homeworld for the [!1 Tyvant species], and is at the center of the trade routes in the Tyventian sector.  It was for this very reason that after the loss of Urra, the Neo Urran empire has chosen Nastimye as its new capital, this was at this time that The name was changed, in order to help the transition, from its old tyventian identity to its new Neo Urran one.     The planet has a thriving mining industry due to abundant concentrations of iron oxide, titanium, gold, aphta, aluminium and other ores in a geological layer dating from approximately 620 million year ago, which is present almost everywhere on the planet.\n\n    Under Tyventan rule, Nastimye was the capital of the very-centralised Tyventian empire, and as such hosted a vibrant economy.  The heavy concentration of useful materials in the planet's soil helped fuel the expansion of the empire, which, was the largest single nation in the [!4 Silver Stream] by territory (number of planets).  After the invasion of 82, the planet was the economic barycenter of the [!5 Urran Empire] due to the amount of infrastructure already in place.  After 5 years of recession caused by the annexation, the planetary economy restarted its growth.  And finally, after the battle of Armalai and the empire's loss of [!6 Planetary Urra], the planet became the capital of an empire again and large efforts have been undertaken to get the administrative infrastructures of the planet to work as a capitol again.",
+        "links": [
+          "/ROOT/BIOLOGY/RACES/TYVANT/TYVANT_GENERAL",
+          "/ROOT/NATIONS/TYVENTIA/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/TYVENTIA_PRIME/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/MAIN",
+          "/ROOT/NATIONS/NEO_URRA",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/URRA/MAIN"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/02 21:08:42",
+          "editTime": "2021/04/02 21:24:11"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Mining Companies",
+        "path": "/ROOT/COMPANIES/MATERIALS/MINING",
+        "isUp": true,
+        "data": "css\n    [!1] +Kastrataco",
+        "links": [
+          "/ROOT/COMPANIES/MATERIALS/MINING/KASTRATACO"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/02 22:09:18",
+          "editTime": "2021/04/02 22:10:15"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Kayanese Strata Company",
+        "path": "/ROOT/COMPANIES/MATERIALS/MINING/KASTRATACO",
+        "isUp": true,
+        "data": "css\n┌───────────────────────────┐\n│Active Period.: 84-Present │\n│Field.........: Mining     │\n│Open Stocks?..: No         │\n│Base..........: [!1 Kayan] │\n│Net Worth.....: $5 Trillion│\n└───────────────────────────┘\n\n    The Kayanese Strata Company, shortened to \"Kastrataco\", is a mining corporation charged by the [!2 Imperial Urran] (later Neo Urran) government with the extraction and export of the Kayanese ore from underground.  Its main sectors of activity are Gold, Titanium, Iron, Aluminium, and small amounts of Natural Aptha.\n\n    The company owns numerous mining facilities all over Kayan, and makes a sizable profit on exports from them, all of which being located in a 1-meter thick geological layer, present across almost all land on the planet.  When a mining site is expended, the company restores the site for other use (such as residential or commercial developments) and sells it to help fund purchasing new zones to mine in elsewhere on the surface.\n\n    Kastrataco was incorporated shortly after the conquest of [!1 Kayan] by the [!2 Urran Empire] in order to control the valuable market of Kayanese mining products.  Kastrataco was originally formed in 84 as a conglomerate of all Kayanese mining companies, forcibly nationalized by the occupying Urran Empire.  Despite being a company, Kastrataco is owned by the local Neo-Urran government, which receives dividends from the mining activities.  After the Urran Empire dissolved, Neo-Urra was more than happy to keep the deal with Kastrataco in place, and the company continued its operations unimpeded.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN",
+          "/ROOT/NATIONS/NEO_URRA"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/02 22:10:24",
+          "editTime": "2021/04/02 22:13:09"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Media Companies",
+        "path": "/ROOT/COMPANIES/MEDIA",
+        "isUp": true,
+        "data": "css\n    [!1] +Urran Broadcasting Corporation",
+        "links": [
+          "/ROOT/COMPANIES/MEDIA/UBC"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 19:27:05",
+          "editTime": "2021/04/03 19:27:20"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Urran Broadcasting Corporation",
+        "path": "/ROOT/COMPANIES/MEDIA/UBC",
+        "isUp": true,
+        "data": "css\n┌─────────────────────────────┐\n│Active Period.: 82-Present   │\n│Field.........: Media        │\n│Open Stocks?..: No           │\n│Base..........: [!1 Neo-Urra]│\n│Net Worth.....: $12 Billion  │\n└─────────────────────────────┘\n\n    The Urran Broadcasting Corporation (UBC) is a media group founded in 82, weeks after the coup of [!2 Karmine Jacobs]. At this time, it was the main tool used by the regime to distribute its propaganda.  The group currently own several radio stations and two television channels.  These television channels are Urra One, available across the broader [!3 GCP] for free; and Urra Two (previously \"Urra Four\"), a channel available across [!1 Neo-Urran] worlds.  On Urra Two, roughly 1/3 of daily content is for and about the planet where it is aired, while the rest is broader national, or galactic news.  While being intentionally made available to the rest of the GCP, UBC programming is banned in many jurisdictions, including [!4 Deoria], [!5 Bius Tu], and [!6 Gallea].\n    \n    An Urra Two station was present on Itascan-Controlled Planetary Urra at two different instances.  Each time, the station was destroyed by civilian activists, with the first being the wood-frame Urra Two station being burnt down in 102, and the second being knocked down by a civilian bulldozer truck in 106.  In both of these instances, there were no fatalities, and the civilian activists were not prosecuted beyond disorderly conduct charges.\u0000css\n    During the [!2 Jacob] years, the title of CEO of the UBC was a very prestigious one, due to the importance of propaganda in the [!1 Urran Empire], and most CEOs of the group either had been or were going to be Urran Ministers of Information.\n\n    The group peaked in 102, just before the [!7 battle of Armalai], being the only TV group in the Empire and owning five channels.  But, after the disappearance of [!2 Karmine Jacobs] and the secession of [!8 New Tyventia], the UBC had entered a slow decline, only drawing a significant audience in [!1 Neo Urra] and even there having lost the monopoly. Two years after the Battle, The UBC has announced the end of their second, third and fifth television channels because of their dwindling audience.\n    The group is allegedly in deep financial trouble according to internal sources, due to the lack of revenue from its channels and the high production value of their content, which was previously subsidised by the government.  The company also has a public relation problem, often being seen as the “voice of the dictatorship” and it is rumored that a rebranding may be on the way.",
+        "links": [
+          "/ROOT/NATIONS/NEO_URRA",
+          "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS",
+          "/ROOT/NATIONS/GCP",
+          "/ROOT/NATIONS/DEORIA",
+          "/ROOT/NATIONS/BIUS_TU",
+          "/ROOT/NATIONS/GALLEA",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
+          "/ROOT/NATIONS/NEW_TYVENTIA"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 19:27:28",
+          "editTime": "2021/04/03 19:29:02"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Corvette Class Ships",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE",
+        "isUp": true,
+        "data": "css\n    [!1] +Armalai Model",
+        "links": [
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/ARMALAI"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 20:12:56",
+          "editTime": "2021/04/03 20:13:40"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Armalai Model Corvette",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/ARMALAI",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 20:13:49",
+          "editTime": "2021/04/03 20:14:00"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Ballistic Vehicle Weaponry",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC",
+        "isUp": true,
+        "data": "css\n    [!1] >C61 Ballistic Weaponry",
+        "links": [
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 20:16:07",
+          "editTime": "2021/04/03 20:16:49"
+        },
+        "extension": ""
+      },
+      {
+        "name": "C61 Ballistic Weapon",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61",
+        "isUp": true,
+        "data": "css\n    [!1] +Info [Unwritten]\n    [!2] +C61 Type VII Chemical Cannon",
+        "links": [
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61/MAIN",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61/VII_CHEMICAL_CANNON"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 20:18:04",
+          "editTime": "2021/04/03 20:19:00"
+        },
+        "extension": ""
+      },
+      {
+        "name": "C61 Ballistic Weapon",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61/MAIN",
+        "isUp": true,
+        "data": "css\n┌─────────────────────────────────────┐\n│Use Period.........: 107-Present     │\n│Weight.............: 1800Kg          │\n│Unit Cost..........: $75,000 [!1 ITC]│\n│Caliber............: 300mm           │\n│Projectile Velocity: 4km/s           │\n│Guided.............: Yes             │\n│Explosive Yield....: N/A             │\n│Manufacturer.......: [!2 Kinetyx]    │\n└─────────────────────────────────────┘\n\n    The C61 Cluster Kinetic Impactor is an ammunition used by the [!3 Neo-Urran] military in the [!4 Type VII chemical cannon].  The ammunition was developed during the post armalai fleet modernisation program by Kinetyx as an anti-armor weapon.  The rods themselves are optimised for penetration, with a length of 50 cm and a diameter of 2 cm, they can penetrate over one meter of steel armor, while most ships only have around 30 cm of protective plating.\n\n    When the ammunition is fired, the target is acquired and the shell starts correcting its trajectory.  When it arrives at a predefined distance from the target, a small charge inside the shell explodes and the 61 tungsten rods separate from the main body and hit the target with dozens of unique entry points, almost guaranteed to hit at least one vital system on the target.\n\n    The shell corrects its trajectory using a hybrid-fuel engine using a nitrous oxide oxidizer and a rubber fuel.  With the oxidizer being a liquid and the rubber a solid, this system allows for a higher engine efficiency and finer control than a solid-fuel rocket, while also being cheaper than a liquid-fuel engine.  The expected total burn time is about ten seconds, allowing continuous guidance for targets up to 40 kms away.\n\n    The spread of the rods can be controlled by timing the detonation of the internal charge, the radius of dispersion evolving linearly with the distance to the target when the shell is detonated, which this distance usually being between 1 and 10 kilometers.",
+        "links": [
+          "/ROOT/MARKET/CURRENCY/GCP",
+          "/ROOT/COMPANIES/MILITARY/KINETYX",
+          "/ROOT/NATIONS/NEO_URRA",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61/VII_CHEMICAL_CANNON"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 20:19:38",
+          "editTime": "2021/04/03 21:28:25"
+        },
+        "extension": ""
+      },
+      {
+        "name": "C61 Type VII Chemical Cannon",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61/VII_CHEMICAL_CANNON",
+        "isUp": true,
+        "data": "css\n┌────────────────────────────────────┐\n│Use Period........: 107-Present     │\n│Weight............: ~500,000Kg      │\n│Caliber...........: 300mm           │\n│Shots/15 Seconds..: 2               │\n│Dispersion at 1km.: 2m (0.1°)       │\n│Muzzle Energy.....: 13680MJ         │\n│Ammunition........: [!1 C61 Shells] │\n│Damage Type.......: Ballistic       │\n│Unit Cost.........: $4M [!2 ITC]    │\n│Manufacturer......: Kinetyx         │\n└────────────────────────────────────┘\n\n    The Type VII Chemical cannon is the main offensive weapon of the [!3 Armalai Model] Neo-Urran corvettes.  It`s optimised for the use of [!1 C61 guided shells]. It uses a mix of methane and liquid oxygen to propel guided shells at 4km/s, but is capable of firing other ammunition of the same make and caliber.\n    The barrel is 15 meters long and 30 cm in diameter.  When a shell is to be fired, it is introduced into the barrel and the combustion chamber is filled with methalox behind the shell.  The mixture is then ignited.  When the pressure buildup from the propellant becomes great enough (within less than a second of ignition), soft metal bars on the sides of the shell bend out of the way and the projectile is released.\n    The gun is turreted on [!3 Armalai-Model] ships, and can rotate on one axis with a freedom of movement of around 270 degrees, but other configurations are possible, either with the gun integrated into the hull or with added elevation controls.\u0000css\n    A gas recuperation system has been implemented in order to complement the stealth of the Armalai model, at the end of the barrel, in order to decrease the muzzle flash, two pipes collect most of the gazes propelling the shell (because they can't exit the barrel until the shell has left), the gases are then chilled by passing through the liquid methane and oxygen tanks before being expelled at the back of the turret\n    The cost of the gun alone is estimated at $3 millions [!2 ITC], the modifications needed to house it on a one axis turret add $1 million, and adding an elevation axis would add $2 million to the price.",
+        "links": [
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61/MAIN",
+          "/ROOT/MARKET/CURRENCY/GCP",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/ARMALAI"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 20:19:45",
+          "editTime": "2021/04/03 20:21:11"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Kinetyx",
+        "path": "/ROOT/COMPANIES/MILITARY/KINETYX",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 21:32:50",
+          "editTime": "2021/04/03 21:32:53"
         },
         "extension": ""
       }
