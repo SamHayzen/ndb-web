@@ -1935,19 +1935,20 @@
         "path": "/ROOT/NATIONS/NEO_URRA",
         "isUp": true,
         "backpath": "",
-        "data": "css\n[!1] +Info\n[!2] +Military\n[!3] +Military History\n[!4] +Military Culture\n[!5] +Food",
+        "data": "css\n    [!1] +Info\n    [!2] +Military\n    [!3] +Military History\n    [!4] +Military Culture\n    [!5] +Food\n    [!6] +Modernization Program",
         "links": [
           "/ROOT/NATIONS/NEO_URRA/MAIN",
           "/ROOT/NATIONS/NEO_URRA/MILITARY",
           "/ROOT/NATIONS/NEO_URRA/HISTORY",
           "/ROOT/NATIONS/NEO_URRA/CULTURE",
-          "/ROOT/NATIONS/NEO_URRA/FOOD"
+          "/ROOT/NATIONS/NEO_URRA/FOOD",
+          "/ROOT/NATIONS/NEO_URRA/MODERNIZATION_PROGRAM"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
+          "editTime": "2021/04/09 04:01:36"
         },
         "extension": ""
       },
@@ -3496,7 +3497,7 @@
         "path": "/ROOT/COMPANIES/MILITARY",
         "isUp": true,
         "backpath": "",
-        "data": "css\n    [!1] +Atlas Corp.\n    [!2] +Itascan Dynamics [Unwritten]\n    [!3] +Outerweapon Conglomerate\n    [!4] +Kinetyx [Unwritten]\n    [!5] >Minor",
+        "data": "css\n    [!1] +Atlas Corp.\n    [!2] +Itascan Dynamics [Unwritten]\n    [!3] +Outerweapon Conglomerate\n    [!4] +Kinetyx\n    [!5] >Minor",
         "links": [
           "/ROOT/COMPANIES/MILITARY/ATLAS",
           "/ROOT/COMPANIES/MILITARY/ITASCAN_DYNAMICS",
@@ -3508,7 +3509,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/02/13 13:52:22",
-          "editTime": "2021/04/03 21:30:14"
+          "editTime": "2021/04/07 03:46:55"
         },
         "extension": ""
       },
@@ -3534,10 +3535,11 @@
         "name": "Craft Classes",
         "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES",
         "isUp": true,
-        "data": "css\n  [!1]  >Amalgamate\n  [!2]  >Carrier\n  [!3]  >Corvette\n  [!4]  >Courier\n  [!5]  >Drone\n  [!6]  >Drop Pod\n  [!7]  >Freighter\n  [!8]  >Frigate\n  [!9]  >Fighter\n  [!10] >Harvester\n  [!11] >Hopper\n  [!12] >Capital\n  [!13] >Probe\n  [!14] >Station\n  [!15] >Striker\n  [!16] >Transit",
+        "data": "css\n    [!1]  >Amalgamate\n    [!2]  >Carrier\n    [!3]  >Capitol\n    [!4]  >Corvette\n    [!5]  >Courier\n    [!6]  >Drone\n    [!7]  >Drop Pod\n    [!8]  >Freighter\n    [!9]  >Frigate\n    [!10] >Fighter\n    [!11] >Harvester\n    [!12] >Hopper\n    [!13] >Probe\n    [!14] >Station\n    [!15] >Striker\n    [!16] >Transit",
         "links": [
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/AMALGAMATE",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CARRIER",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/COURIER",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/DRONE",
@@ -3547,7 +3549,6 @@
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/HARVESTER",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/HOPPER",
-          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITAL",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/PROBE",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/STATION",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/STRIKER",
@@ -3557,7 +3558,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/02/13 19:33:15",
-          "editTime": "2021/04/03 20:12:27"
+          "editTime": "2021/04/07 01:05:06"
         },
         "extension": ""
       },
@@ -10184,7 +10185,7 @@
         "name": "Invasive Microstructured Bio-Crystal Growth",
         "path": "/ROOT/MEDICINE/AFFLICTIONS/PHYSICAL/IMBCG",
         "isUp": true,
-        "data": "css\n┌──────────────────────────────────────┐\n│Disease Type........: Other           │\n│Transmission Type...: N/A             │\n│Contraction Chance..: 1 in 37,500     │\n│Pan-Special?........: Yes             │\n│Onset Time..........: 72 Hrs - 10 Yrs │\n│Risk Factors........: Environmental Qi│\n│                      Density,        │\n│                      Chronic Dehydra-│\n│                      tion,           │\n│                      High-Sodium Diet│\n│Symptom & Effects...: Variable        │\n│Illness Duration....: Indefinite      │\n│Fatality Rate.......: 57 in 100       │\n│Fatality Onset......: 72 - 240 Hrs    │\n│Fatality Cause......: Variable        │\n└──────────────────────────────────────┘\n\n    Invasive Microstructured Bio-Crystal Growth (IMBCG) is the result of a [!1 Microstructured] Bio-Crystal forming within an organism’s body. This tends to occur over an extended period of time, and generally in locations with high Qi concentration. Somehow, a Structure Seed or something similar had found its way into an organism’s internal ecosystem. Over a period of time, the bio-crystal gathers material and absorbs Qi energy, thus growing larger and larger, potentially replacing whole organs during its crystallogenesis. \n\n    IMBCG, for much of its development, will only cause everpresent, but slowly increasing, food cravings and mineral deficiencyies as the crystal draws from the materials the patient consumes.  IMBCG crystals also absorb the ambient [!2 Qi energy] of the infected in order to grow.  Normally, this would impair an infected person’s ability to maintain homeostasis.  But, it ultimately has limited effects on an individual's homeostasis.\u0000css\n    Most commonly, individuals contract the disease by living in an area with high concentrations of [!3 uncharged Qi Particles].  Environments such as these supplement their own levels of charged Qi, and subsequently that of the bio-crystal.  If the infected were to relocate to a less uncharged-qi-dense location, they may notice weakness across their body, as the IMBCG crystal within them would be taking a larger proportion of their body's energy.\n\n    Notably, some individuals have found themselves healthier (in some respects) after a few years of being infected, as some breeds of bio-crystals can prove beneficial as storage for Qi energy.  This means they can act as batteries, or sorts, and making the body's level of Qi saturation more stable.  Though the effect is limited, as accessing this storage for purposes other than that of their natural biology is not inherent to individuals.\n\n    Aside from the side effects of the process of growth itself, the structure that the bio-crystal grows into also has its own symptoms, due to the crystal's random formation creating random breeds of [!1 microstructure] crystals.  Often, the bio-crystals grow into and replace biological matter, taking up the shape, size, and location of an organ. Some tissue samples from IMBCG amputees have found the area around the amputated limb taking on a near lattice-like protein construction similar to Microstructured Crystals.  The exact symptoms vary depending on where the crystal manifests, but often, they are not apparent until days before death, or if the bio-crystal had grown into a visible body part.\u0000css\n    Another common symptom of IMBCG is [!4 Qi overheating].  The patient's body will have the same amount of Qi energy saturation as a healthy individual.  But, since many microstructured crystals have a higher level of Qi capacity than their component materials, the crystalls usually greatly increase a patient's Qi capacity, which subsequently raises the body's amount of resting charged Qi.  As a result or raised ambient Qi levels, higher amounts of energy in a patient's body is converted to heat, which can cause a variety of issues related to heat exposure.\n\n    If the bio-crystal forms somewhere deep in the body, IMBCG can be difficult to detect until it is too late to treat.  Despite the crystalline structure often replacing many vital organs, it has more limited effects on the skeletal and nervous system.  The bio-crystal can replace bones rather easily.  Whereas, while their replacement of the nervous system and parts of the brain has negative side effects, they noticeably reduced (as compared to manifestation in other organs).  The disease's effects are a result of crystal often replacing biological matter, as opposed to just building into it.\n    An autopsy of one victim, performed on [!5 Gallea] in the year 63, had revealed that their parietal lobe was somehow nearly-entirely replaced by IMBCG bio-crystals.  In spite of that, until days before their death, they had most of their pain, visual, and tactile sensory input still intact.  Another individual, in 89, had to have their hand amputated after they had discovered that they had a massive, aggressive, invasive IMBCG bio-crystal in their palm through recieving a cut.\u0000css\n    The only way to treat IMBCG, assuming that it was uncovered while it could still be treated, is to remove the growing bio-crystal.  This usually involves invasive surgery, or even amputations.\n\n    Interestingly, there has been research undertaken in third-world nations and backwater worlds to enhance Qi conjuration through principles related to IMBCG.  Essentially, people have made rudimentary attempts to graft Microstructured Crystals to individuals to enhance their bodies' Qi energy storage.",
+        "data": "css\n┌──────────────────────────────────────┐\n│Disease Type........: Other           │\n│Transmission Type...: N/A             │\n│Contraction Chance..: 1 in 37,500     │\n│Pan-Special?........: Yes             │\n│Onset Time..........: 72 Hrs - 10 Yrs │\n│Risk Factors........: Environmental Qi│\n│                      Density,        │\n│                      Chronic Dehydra-│\n│                      tion,           │\n│                      High-Sodium Diet│\n│Symptom & Effects...: Variable        │\n│Illness Duration....: Indefinite      │\n│Fatality Rate.......: 57 in 100       │\n│Fatality Onset......: 72 - 240 Hrs    │\n│Fatality Cause......: Variable        │\n└──────────────────────────────────────┘\n\n    Invasive Microstructured Bio-Crystal Growth (IMBCG) is the result of a [!1 Microstructured] Bio-Crystal forming within an organism’s body. This tends to occur over an extended period of time, and generally in locations with high Qi concentration. Somehow, a Structure Seed or something similar had found its way into an organism’s internal ecosystem. Over a period of time, the bio-crystal gathers material and absorbs Qi energy, thus growing larger and larger, potentially replacing whole organs during its crystallogenesis. \n\n    IMBCG, for much of its development, will only cause everpresent, but slowly increasing, food cravings and mineral deficiencyies as the crystal draws from the materials the patient consumes.  IMBCG crystals also absorb the ambient [!2 Qi energy] of the infected in order to grow.  Normally, this would impair an infected person’s ability to maintain homeostasis.  But, it ultimately has limited effects on an individual's homeostasis.\u0000css\n    Most commonly, individuals contract the disease by living in an area with high concentrations of [!3 uncharged Qi Particles].  Environments such as these supplement their own levels of charged Qi, and subsequently that of the bio-crystal.  If the infected were to relocate to a less uncharged-qi-dense location, they may notice weakness across their body, as the IMBCG crystal within them would be taking a larger proportion of their body's energy.\n\n    Notably, some individuals have found themselves healthier (in some respects) after a few years of being infected, as some breeds of bio-crystals can prove beneficial as storage for Qi energy.  This means they can act as batteries, or sorts, and making the body's level of Qi saturation more stable.  Though the effect is limited, as accessing this storage for purposes other than that of their natural biology is not inherent to individuals.\n\n    Aside from the side effects of the process of growth itself, the structure that the bio-crystal grows into also has its own symptoms, due to the crystal's random formation creating random breeds of [!1 microstructure] crystals.  Often, the bio-crystals grow into and replace biological matter, taking up the shape, size, and location of an organ. Some tissue samples from IMBCG amputees have found the area around the amputated limb taking on a near lattice-like protein construction similar to Microstructured Crystals.  The exact symptoms vary depending on where the crystal manifests, but often, they are not apparent until days before death, or if the bio-crystal had grown into a visible body part.\u0000css\n    Another common symptom of IMBCG is [!4 Qi overheating].  The patient's body will have the same amount of Qi energy saturation as a healthy individual.  But, since many microstructured crystals have a higher level of Qi capacity than their component materials, the crystals usually greatly increase a patient's Qi capacity, which subsequently raises the body's amount of resting charged Qi.  As a result of raised ambient Qi levels, higher amounts of energy in a patient's body is converted to heat, which can cause a variety of issues related to heat exposure.\n\n    If the bio-crystal forms somewhere deep in the body, IMBCG can be difficult to detect until it is too late to treat.  Despite the crystalline structure often replacing many vital organs, it has more limited effects on the skeletal and nervous system.  The bio-crystal can replace bones rather easily.  Whereas, while their replacement of the nervous system and parts of the brain has negative side effects, they are noticeably reduced (as compared to manifestation in other organs).  The disease's effects are a result of crystal often replacing biological matter, as opposed to just building into it.\n    An autopsy of one victim, performed on [!5 Gallea] in the year 63, had revealed that their parietal lobe was somehow nearly-entirely replaced by IMBCG bio-crystals.  In spite of that, until days before their death, they had most of their pain, visual, and tactile sensory input still intact.  Another individual, in 89, had to have their hand amputated after they had discovered that they had a massive, aggressive, invasive IMBCG bio-crystal in their palm through receiving a cut.\u0000css\n    The only way to treat IMBCG, assuming that it was uncovered while it could still be treated, is to remove the growing bio-crystal.  This usually involves invasive surgery, or even amputations.\n\n    Interestingly, there has been research undertaken in third-world nations and backwater worlds to enhance Qi conjuration through principles related to IMBCG.  Essentially, people have made rudimentary attempts to graft Microstructured Crystals to individuals to enhance their bodies' Qi energy storage.",
         "links": [
           "/ROOT/TECHNOLOGY/MATERIALS/MICROSTRUCTURES/MAIN",
           "/ROOT/TECHNOLOGY/ENERGY/TYPES/QI",
@@ -10196,7 +10197,7 @@
           "author": "<@!353748411318796299>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/01/09 11:03:42",
-          "editTime": "2020/01/09 11:31:00"
+          "editTime": "2021/04/07 15:58:50"
         },
         "extension": "TEXT"
       },
@@ -11197,16 +11198,17 @@
         "name": "Computer Science Companies",
         "path": "/ROOT/COMPANIES/COMPUTERS",
         "isUp": true,
-        "data": "css\n    [!1] +Tesla Corp [Unwritten]\n    [!2] +Datec [Stub]",
+        "data": "css\n    [!1] +Tesla Corp [Unwritten]\n    [!2] +Datec [Stub]\n    [!3] +Ganoder",
         "links": [
           "/ROOT/COMPANIES/COMPUTERS/TESLA",
-          "/ROOT/COMPANIES/COMPUTERS/DATEC"
+          "/ROOT/COMPANIES/COMPUTERS/DATEC",
+          "/ROOT/COMPANIES/COMPUTERS/GANODER"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/07/31 20:33:08",
-          "editTime": "2020/07/31 20:34:18"
+          "editTime": "2021/04/07 03:44:16"
         },
         "extension": ""
       },
@@ -12066,13 +12068,15 @@
         "name": "Artificial Intelligence",
         "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI",
         "isUp": true,
-        "data": "[Unwritten]",
-        "links": [],
+        "data": "css\n    [!1] +Coefficient Node Matrixes",
+        "links": [
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/CNM"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/03/08 19:28:03",
-          "editTime": "2021/03/08 19:28:09"
+          "editTime": "2021/04/09 23:23:09"
         },
         "extension": ""
       },
@@ -12358,15 +12362,138 @@
         "name": "Kinetyx",
         "path": "/ROOT/COMPANIES/MILITARY/KINETYX",
         "isUp": true,
+        "data": "css\n┌────────────────────────────┐\n│Active Period.:95-Present   │\n│Field.........:Armaments    │\n│Open Stocks?..:No           │\n│Base..........:[!1 Kosh]    │\n│Net Worth.....:$215 Billion │\n└────────────────────────────┘\n\n\n    Kinetyx is a [!2 Neo-Urran] state-owned weapons manufacturer incorporated in 95PW.  Their domain of expertise covers many types of [!3 craft weaponry], from [!4 Ballistic Cannons], to [!5 PDC], to ammunition and missiles.  Kinetyx sells exclusively to the Neo-Urran military, being an asset of the state.  They have produced the armament and munitions equipping the [!6 Kayan], [!7 Armalai] and [!8 Karmine] models of combat spacecraft.\n\n    Being based on [!1 Kosh] allows Kinetyx to employ skilled technicians and engineers.  Due to the industrial culture of the planet, the cost of simpler parts are considerably lower than they would be on other less-developed planets.  Said parts can be bought from specialised companies.  Specialists from these companies are usually employed when special insight is needed.\n\n    Kinetyx was created by the Urran government in 95 in order to produce the guns and missiles of the [!6 Kayan-Model] combat craft.  In the following years, the company had developed a real expertise with cannons and missiles for spacecraft, which have been put to use in the Post-Armalai Fleet modernisation program.  Kinetyx currently has a partnership with [!9 Ganoder], which produce the computer systems for the [!10 C61 guided shell] and the missiles of the Kayan class.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KOSH",
+          "/ROOT/NATIONS/NEO_URRA/MAIN",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/PD",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL/KAYAN",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/ARMALAI",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL/KARMINE",
+          "/ROOT/COMPANIES/COMPUTERS/GANODER"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/03 21:32:50",
+          "editTime": "2021/04/07 03:47:20"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Fighter-Class Spacecraft",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER",
+        "isUp": true,
+        "data": "css\n    [!1] +Kayan",
+        "links": [
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER/KAYAN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/06 18:49:15",
+          "editTime": "2021/04/06 20:34:54"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Kayan Fighter",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER/KAYAN",
+        "isUp": true,
         "data": "[Unwritten]",
         "links": [],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
-          "madeTime": "2021/04/03 21:32:50",
-          "editTime": "2021/04/03 21:32:53"
+          "madeTime": "2021/04/06 20:35:04",
+          "editTime": "2021/04/06 20:35:10"
         },
         "extension": ""
+      },
+      {
+        "name": "Capitol Ships",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL",
+        "isUp": true,
+        "data": "css\n    [!1] +Karmine Capitol Ship",
+        "links": [
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL/KARMINE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/07 03:04:44",
+          "editTime": "2021/04/07 03:19:45"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Karmine Capitol Ship",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL/KARMINE",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/07 03:20:32",
+          "editTime": "2021/04/07 03:20:41"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Ganoder Computer Company",
+        "path": "/ROOT/COMPANIES/COMPUTERS/GANODER",
+        "isUp": true,
+        "data": "css\n┌────────────────────────────────┐\n│Active Period.:84-Present       │\n│Field.........:Computer science │\n│Open Stocks?..:No               │\n│Base..........:[!1 Kosh]        │\n│Net Worth.....:$48 Billion      │\n└────────────────────────────────┘\n\n\n    Ganoder is a [!2 Neo Urran] computer manufacturer based on Kosh.  Since the [!3 Battle of Armalai], the company has mostly specialised in military hardware and software but is also producing computers for civilian use.\n\n    By being on Kosh, Ganoder has been able to participate in the Urran [!4 Post-Armalai Fleet Modernisation Program].  This program was like giving bread to the company, which was awarded the production of the computer systems in the [!5 Kayan], [!6 Armalai] and [!7 Karmine] classes of ships, along with the guidance system of the [!8 C61 shell].\n\n    The company was founded by Erwin Ganoder in 84 PW and was, at the time, a small engineering bureau.  In 95 PW, they were given an envelope of 15 million Kars (equivalent to 3 million dollars [!9 ITC]) to design a factory for the production of embedded systems for the [!4 Kayan class] ship.  Later, he was given a second package of 10 billion Kars (2 billion dollars [!9 ITC]) to build and operate it.  The transformation was successful, and in 102, the company won the bid for building the computers of the new [!6 Armalai] and [!7 Karmine] classes of combat ship, along with a deal with [!10 Kinetyx] for the guidance system of the C61.  In 105, the company had launched its first line of civilian computers, the G1, which was a commercial success accross the Urran empire.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KOSH",
+          "/ROOT/NATIONS/NEO_URRA/MAIN",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
+          "/ROOT/NATIONS/NEO_URRA/MODERNIZATION_PROGRAM",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL/KAYAN",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/ARMALAI",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CAPITOL/KARMINE",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61/MAIN",
+          "/ROOT/MARKET/CURRENCY/GCP",
+          "/ROOT/COMPANIES/MILITARY/KINETYX"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/09 01:19:40",
+          "editTime": "2021/04/09 04:04:36"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Post-Armalai Modernization Program",
+        "path": "/ROOT/NATIONS/NEO_URRA/MODERNIZATION_PROGRAM",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/09 04:01:58",
+          "editTime": "2021/04/09 04:02:45"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Coefficient Node Matrix",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI/CNM",
+        "isUp": true,
+        "data": "css\n    A Coefficient Node Matrix (CNM) is a type of algorithm/data model which can effectively self-generate.  It is used in domains where traditional expert software development produces unreliable results or isn’t deemed cost effective.  Coefficient Node Matrixes, when used to make problem-solving AI, are called \"Generated Intelligences\".\n\n    This is why the technology is so useful; when a problem is too big or too complex for a human to design a solution to, a node matrix can mutate itself into a solution for the problem instead.  The largest biggest users of these matrices are search engines, speech or software designed to recognise speech, images, handwritten text or other patterns and the autopilots of various vehicles because of the complexity of these kinds of algorithm.    \n\n    In more brief terms, an initial, empty matrix acts as a blank template from which a specific algorithm can evolve.  Though this evolution, one can generate a novel solution to a particular problem without human design.  This matrix can be understood as a network of variables, the “nodes” linked together in layers by mathematical functions called “lines”.  Since CNMs are similar in function to biological brains, \"nodes\" and \"lines\" are sometimes called \"neurons\" and \"axons\" respectively.\u0000css\n    The input data is fed into the neurons of the first layer, then each subsequent layer transforms the input data by multiplying it with parameters and adding biases before sending it to the next. the output can then be read in the neurons of the last layer.  The last layer is the output of the matrix, and is what outputs generated material, commands to hardware, or the answer to the question asked of the CNM.  These networks are generally very resource-intensive due to the sheer amount of calculations required between neurons.  These processes are almost exclusively sped up using special chips, where the nodes and paths are physically on the circuitry, requiring much less computing power than simulating each component on a processor.\n\n    This whole matrix can be seen as a singular, huge mathematical function, with thousands of parameters which transform the input layer into the output layers.  But in order to solve a problem, the CNM must first be trained.  In order to train a CNM, you require a data set which contains a collection of parameters to be fed into the CNM, as well as the answer key for each group of parameters.  Ex: if you wanted to train a CNM to differentiate between images of space ships and airplanes, you data set should contain many images of both spaceships and airplanes, with each image being tagged with the answer as to whether it's a ship or a plane.  The larger and more diverse your data set, the more accurate and versatile your network will be at the end of training.\u0000css\n    The parameters to be input into these networks can mainly be found in two ways, Supervised Learning or Unsupervised Learning.\n    In Supervised Learning, we feed the matrix with example data; for each example, the weights and biases of the matrix are tweaked in order to make it provide a more correct answer.  The network can then be tested with new examples to see if the tweaks made the system more accurate.  If so, the changes are kept, and the process repeats.  This specific process of Supervised Learning is called \"Mutation\".\n\n    Unsupervised Learning is a lot like Supervised Learning, but instead of one instance of a CNM network, you have several in a group called a \"set\".  In every iteration of the set, some number of the most fit (as in the best) CNM configurations are kept while the rest are culled.  The vacant slots are then filled with mutations of the remaining configurations.  This cycle is repeated until the fitness of the strongest matrix is above a certain threshold.  Unsupervised Learning tends to give greater yields than Supervised Learning, but requires orders of magnitude more processing power.\n\n    If a large collection of example data is unavailable, the matrix can be set up with a genetic algorithm made by humans.  The data scientist generates several matrices with random coefficients and then makes them compete on the problem.  The best performing matrices are then mutated (weights and biases in the nodes are randomly adjusted) and the removed matrices are replaced by new matrices stemming from the surviving ones.  After each generation, the matrices will have become more efficient at solving the problem.",
+        "links": [],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/04/09 23:24:16",
+          "editTime": "2021/04/09 23:25:58"
+        },
+        "extension": "TEXT"
       }
     ],
     "owners": [],
