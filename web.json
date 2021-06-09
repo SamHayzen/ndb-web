@@ -1253,7 +1253,7 @@
         "path": "/ROOT/TRAVEL/VEHICLES/OTHER/POWERARMOR/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   Power Armor, originally developed by the [!1 Itascan military] for the [!2 Itascan World War], is a vehicle that envelops its driver as a suit of armor would. \n\n   Power Armor plating typically consists of Carbon Steel, Maraging Steel, or even [!3 Wiron] for stronger suits. Suits of Power Armor can weigh up to a metric ton. Suits of Power Armor, needing power, have either massive battery banks or compact generators on the back or shoulder. Suits that are not intended for combat may have their power sources on their chests.\n\n   Power Armor spacesuits, due to their lack of powered limbs, are not technically Power Armor. Though, they are still considered such due to the wider range of sensors, and having a very high resilience for a space suit.\n\n   The most popular application of Power Armor throughout time has been combat. Power Armor has proven to be almost indispensable in battle, with its most recent use in large-scale warfare being the [!4 Urran invasion] of [!5 Tyventia]. \n\n\n   There are three common variants of Power Armor: F,B, and Q. Each variant is meant for a certain body type, a user is incapable of properly equipping a suit of Power Armor if it does not match their body type. \n\n   F-Type, standing for \"Front\" or \"Forward\", has front-facing knees. This armor can accommodate users with front-facing knees. These users include, but are not limited to Itascans, Tuines, and Galleates.\n\n   B-Type, standing for \"Back\" or \"Backward\", has front-facing knees. This armor can accommodate users with a rear-facing lower knee, with or without a front-facing upper knee. These users include, but are not limited to La'Foyans and Tyvants.\n\n   Q-Type, standing for \"Quad\" or \"Quadrupedal\", has four legs. This armor can accommodate quadrupedal users, with or without opposable digits. These users include, but are not limited to Deorians.",
+        "data": "css\n   Power Armor, originally developed by the [!1 Itascan Military] for the [!2 Itascan World War], is a vehicle that envelops its driver as a suit of armor would. \n\n   Power Armor plating typically consists of Carbon Steel, Maraging Steel, or even [!3 Wiron] for stronger suits.  Suits of Power Armor can weigh up to a metric ton.  Suits of Power Armor, needing power, have either massive battery banks or compact generators on the back or shoulder.  Suits that are not intended for combat may have their power sources on their chests.\n\n   Power Armor spacesuits, due to their lack of powered limbs, are not technically Power Armor.  Though, they are still considered such due to the wider range of sensors, and having a very high resilience for a space suit.\n\n   The most popular application of Power Armor throughout time has been combat. Power Armor has proven to be almost indispensable in battle, with its most recent use in large-scale warfare being the [!4 Urran invasion] of [!5 Tyventia]. \n\n\n   There are two common variants of Power Armor: F-Type and B-Type. Each variant is meant for a certain body type, a user is incapable of properly equipping a suit of Power Armor if it does not match their body type. \n\n   F-Type, standing for \"Front\" or \"Forward\", has front-facing primary leg joints.  This armor can accommodate plantigrade users with front-facing knees.  These users include, but are not limited to Itascans, Tuines, and Galleats.\n\n   B-Type, standing for \"Back\" or \"Backward\", has back-facing primary leg joints.  This armor can accommodate digitigrade users with a rear-facing lower knee, with or without a front-facing upper knee.  These users include, but are not limited to La`Foyans and Tyvants.",
         "links": [
           "/ROOT/NATIONS/ITASCUS/MILITARY",
           "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR",
@@ -1265,7 +1265,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/10/30 17:05:49"
+          "editTime": "2021/05/20 00:16:32"
         },
         "extension": ""
       },
@@ -4155,25 +4155,18 @@
         "name": "Space Industries",
         "path": "/ROOT/COMPANIES/SPACE",
         "isUp": true,
-        "data": "css\n  [!1]  >Multinational\n  [!2]  >Armalite\n  [!3]  >Deorian\n  [!4]  >Gallean\n  [!5]  >Ghillymedic\n  [!6]  >Itascan\n  [!7]  >La'Foyan\n  [!8]  >Neo Urran\n  [!9]  >New Tyventian\n  [!10] >Tuine\n  [!11] >Other",
+        "data": "css\n    [!1] +Exospace\n    [!2] +Celesse Shipyards [Stub]\n    [!3] +Urran Life Support Systems Company [Stub]\n    [!4] +Minor Space Industry Companies",
         "links": [
-          "/ROOT/COMPANIES/SPACE/INTERNATIONAL",
-          "/ROOT/COMPANIES/SPACE/ARMALITE",
-          "/ROOT/COMPANIES/SPACE/DEORIAN",
-          "/ROOT/COMPANIES/SPACE/GALLEAN",
-          "/ROOT/COMPANIES/SPACE/GHILLYMEDIC",
-          "/ROOT/COMPANIES/SPACE/ITASCAN",
-          "/ROOT/COMPANIES/SPACE/LA'FOYAN",
-          "/ROOT/COMPANIES/SPACE/NEO_URRAN",
-          "/ROOT/COMPANIES/SPACE/NEW_TYVENTIAN",
-          "/ROOT/COMPANIES/SPACE/TUINE",
-          "/ROOT/COMPANIES/SPACE/OTHER"
+          "/ROOT/COMPANIES/SPACE/EXOSPACE",
+          "/ROOT/COMPANIES/SPACE/CELESSE_SHIPYARDS",
+          "/ROOT/COMPANIES/SPACE/ULSSC",
+          "/ROOT/COMPANIES/SPACE/MINOR"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/04/17 21:45:47",
-          "editTime": "2019/10/30 21:18:31"
+          "editTime": "2021/06/05 22:44:18"
         },
         "extension": ""
       },
@@ -6591,7 +6584,7 @@
         "name": "Map of The Silver Stream",
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/MAP",
         "isUp": true,
-        "data": "css\n┌───────────────────────────────────────────────────────┐\n│.     :           .         :             %            │\n│              :                 :     .                │\n│  .    DØ                °   .                M.   %   │\n│      :      .      °                .     :           │\n│                    .                           :      │\n│           %    :        B:           %      *       . │\n│   J:                   . N°                     %     │\n│                   :       .        O* :  %            │\n│            .                                   H°     │\n│                 A°     :      :    E°               : │\n│           *                                 :         │\n│        .        :      .    :    .    %         %     │\n│                      .                                │\n│            :             I*      :          .         │\n│              :                                 :   :  │\n│       %    .      :     .   :     °      %            │\n│  .                   :                            .   │\n│       .          .         °   .    :         *       │\n│  :                      .                .            │\n│       C°         :          :    :                K.  │\n│.  :      *    G.        :              L°  :    .     │\n│                    °        .      :  .               │\n│ .       .    :        %         :          *    .    °│\n└───────────────────────────────────────────────────────┘\u0000css\nKey:\n   Distance:\n       1 Tile = 1.12 Light Years\n\n    Astral Body Types:\n       . - Dwarf Star System\n       ° - Prime Star System\n       : - Dwarf Binary System\n       % - Prime Binary System\n       Ø - Red Giant Star\n       * - Blue Main Star\n\nSystems:\n   A - [!1 Simia]\n   B - [!2 Arcturus]\n   C - [!3 Vera'Nus]\n   D - [!4 Nihilos]\n   E - [!5 Sol]\n   F - [!6 Alopex]\n   G - [!7 Terrene]\n   H - [!8 Myotis]\n   I - [!9 Selenia]\n   J - [!10 Teralyn]\n   K - [!11 Tyventia Prime]\n   L - [!12 Celesse]\n   M - [!13 Alces]\n   N - [!14 Gavia]\n   O - [!15 Eralux]",
+        "data": "css\n┌───────────────────────────────────────────────────────┐\n│.     :           .         :             %            │\n│              :                 :     .                │\n│  .    DØ                °   .                B.   %   │\n│      :      .      °                .     :           │\n│                    .                           :      │\n│           %    :        M:           %      *       . │\n│   J:                   . N°                     %     │\n│                   :       .        O* :  %            │\n│            .                                   H°     │\n│                 A°     :      :    E°               : │\n│           *                                 :         │\n│        .        :      .    :    .    %         %     │\n│                      .                                │\n│            :             I*      :          .         │\n│              :                                 :   :  │\n│       %    .      :     .   :     °      %            │\n│  .                   :                            .   │\n│       .          .         °   .    :         *       │\n│  :                      .                .            │\n│       C°         :          :    :                K.  │\n│.  :      *    G.        :              L°  :    .     │\n│                    °        .      :  .               │\n│ .       .    :        %         :          *    .    °│\n└───────────────────────────────────────────────────────┘\u0000css\nKey:\n   Distance:\n       1 Tile = 1.12 Light Years\n\n    Astral Body Types:\n       . - Dwarf Star System\n       ° - Prime Star System\n       : - Dwarf Binary System\n       % - Prime Binary System\n       Ø - Red Giant Star\n       * - Blue Main Star\n\nSystems:\n   A - [!1 Simia]\n   B - [!2 Arcturus]\n   C - [!3 Vera'Nus]\n   D - [!4 Nihilos]\n   E - [!5 Sol]\n   F - [!6 Alopex]\n   G - [!7 Terrene]\n   H - [!8 Myotis]\n   I - [!9 Selenia]\n   J - [!10 Teralyn]\n   K - [!11 Tyventia Prime]\n   L - [!12 Celesse]\n   M - [!13 Alces]\n   N - [!14 Gavia]\n   O - [!15 Eralux]",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA",
           "/ROOT/LOCATIONS/SILVER_STREAM/ARCTURUS",
@@ -6613,7 +6606,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/05 01:59:04",
-          "editTime": "2020/02/04 10:21:17"
+          "editTime": "2021/05/16 01:41:25"
         },
         "extension": "DOUB"
       },
@@ -8228,7 +8221,7 @@
         "isUp": true,
         "data": "css\n    [!1] +Exospace",
         "links": [
-          "/ROOT/COMPANIES/SPACE/DEORIAN/EXOSPACE"
+          ""
         ],
         "meta": {
           "author": "<@220352318510596096>",
@@ -8240,7 +8233,7 @@
       },
       {
         "name": "Exospace",
-        "path": "/ROOT/COMPANIES/SPACE/DEORIAN/EXOSPACE",
+        "path": "",
         "isUp": true,
         "data": "css\n┌──────────────────────────────┐\n│Active Period.: 34-Present    │\n│Field.........: Ship-building │\n│Open Stocks?..: No            │\n│Base..........: [!1 Deoria]   │\n│Net Worth.....: $298 Billion  │\n└──────────────────────────────┘\n\n\n    Exospace is a brand making luxurious spaceships for the elites of the [!2 GCP].  Owning an Exospace Yacht is a social symbol of success on many worlds, and has become a life-goal for some people.\n\n    Their catalog is divided into three lines of ships:\n        The E-1X series, holding their smallest ships, able to support one or two people on board, they are the cheapest models provided by the company\n        The E-2X series, for intermediately-sized ships, designed to support up to ten passengers.\n        and The E-3X series, for the most oversized luxury shows, costing up to $3,000,000,000.\n\n    The Headquarters of the company is on the [!3 Molokai Station], a giant shipyard coloured in red and black (which are the colours of the brand).\n    \n    When Exospace was first established, their marketing was geared towards showcasing the newest facets of space technology, trying to sell their products to consumers interested in the cutting edge of space travel technology.\n\n    In the mid 50s, Exospace changed their marketing scheme from \"being a trendy brand proposing the newest gadgets\", to a company producing only the finest, most spectacular spacecraft one can find the GCP.  The company uses its age, \"Since 34 P.W.\", to strengthen its reputation of excellence, practicality, and quality.",
         "links": [
@@ -8400,7 +8393,7 @@
         "isUp": true,
         "data": "css\n┌─────────────────────────────────┐\n│Construction Period: 28 - 56     │\n│Activity Period....: 56 - Present│\n│Function...........: Construction│\n│Mass...............: ~28,980 Mg  │ \n│Orbit Height.......: 700 - 722km │\n│Orbital Period.....: 291 minutes │\n│Orbital Decay Rate.: 32 m/Month  │ \n│Cabin Pressure.....: 0.72 Atm    │\n│# Of Gravity Rings.: 4           │\n│Gravity Level(s)...: 1.04G       │ \n│# Of Docking Ports.: 12          │\n│Callsign...........:             │\n│ [DE. MOLOKAI - STATION - 0042]  │\n│Owner Entity.......: Exospace    │\n│Standing Population: 133         │\n│Max Population.....: 142         │\n│Majority Race......: Deorian     │\n│Allegiance.........: Deoria      │\n└─────────────────────────────────┘  \n\n    Molokai station is the Headquarters and the main construction yard of the [!1 Exospace] company.  The station is made for two tasks: constructing ships and harboring the higher management the Exospace company.  The station's body is easily recognizable by its red & black paint scheme.  The traffic of the space station can be divided into three categories, constructed ships leaving the station, transfer of personnel, and supply shipments.\n\n    The station itself has four distinct sections: the Core, the Docking Bay, the Shipyard, and the Rings. \n    \"The Rings\" is a collection of four [!2 Gravity Rings] stacked on each others' axes.  Each ring is 100 meters in diameter and 9 meters in width.  Each ring in the array rotates opposite of its neighbor(s) for stability.  The rings hold living spaces, recreational spaces, and office spaces.  Each ring is tuned to produce 1.04 Gs.\u0000css\n    The Docking Bay is 32-meter long cylinder at 4-meters in diameter and is connected at either end to the Rings and the Core.  It has eight [!3 Type-A Docking Ports] for transport ships and four [!4 Type-C Docking Ports] for cargo.   \n    The Core is the the center hub of the space station, and contains the stations nuclear generator, life support systems, and storage. \n    The last section of the station is the Shipyard.  The Shipyard is a large, cylindrical, scaffold-esque tube which is connected to The Core at one end and open at the other.  The scaffold is 330 meters long and 60 meters in diameter.  The shipyard is made up of two sections: the manufacturing section and the assembly section.  The manufacturing section is used to physically construct spaceship parts, and the assembly section is where those parts are assembled into spacecraft.  Notably, this structure has four [!5 manipulator arms] used in ship construction.\n    In total, the station is 472 meters long and has a diameter of 60 meters (diameter discounting the gravity rings).  The Molokai Station is capable of building ships up to 200 meters long.\n    \n    Life on the station is dictated by the quality standards of Exospace, the living standards are high but, but work standards set by the organization are strict, and have been reported to be unusually stressful to both higher managers and construction workers.",
         "links": [
-          "/ROOT/COMPANIES/SPACE/DEORIAN/EXOSPACE",
+          "",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/MODULES/ACCOMODATION/GRAVITY_RING",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/MODULES/PORTS/DOCKING_PORTS/TYPE-A",
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/MODULES/PORTS/DOCKING_PORTS/TYPE-C",
@@ -12268,15 +12261,16 @@
         "name": "Corvette Class Ships",
         "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE",
         "isUp": true,
-        "data": "css\n    [!1] +Armalai Model",
+        "data": "css\n    [!1] +Armalai\n    [!2] +Kayan",
         "links": [
-          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/ARMALAI"
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/ARMALAI",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/KAYAN"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/04/03 20:12:56",
-          "editTime": "2021/04/03 20:13:40"
+          "editTime": "2021/06/05 20:36:28"
         },
         "extension": ""
       },
@@ -12298,15 +12292,16 @@
         "name": "Ballistic Vehicle Weaponry",
         "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC",
         "isUp": true,
-        "data": "css\n    [!1] >C61 Ballistic Weaponry",
+        "data": "css\n    [!1] >C61 Ballistic Weaponry\n    [!2] +Antaria Turret",
         "links": [
-          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61"
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/C61",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/ANTARIA"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/04/03 20:16:07",
-          "editTime": "2021/04/03 20:16:49"
+          "editTime": "2021/06/05 20:42:00"
         },
         "extension": ""
       },
@@ -12392,31 +12387,44 @@
         "name": "Fighter-Class Spacecraft",
         "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER",
         "isUp": true,
-        "data": "css\n    [!1] +Kayan",
+        "data": "css\n    [!1] +Nero",
         "links": [
-          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER/KAYAN"
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER/NERO"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/04/06 18:49:15",
-          "editTime": "2021/04/06 20:34:54"
+          "editTime": "2021/06/05 20:34:40"
         },
         "extension": ""
       },
       {
-        "name": "Kayan Fighter",
-        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER/KAYAN",
+        "name": "Kayan Corvette",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/KAYAN",
         "isUp": true,
-        "data": "[Unwritten]",
-        "links": [],
+        "data": "css\n┌───────────────────────────────────────────┐\n│Use Period...: 93-Present                  │ \n│Class........: Corvette                    │ \n│Market Price.: $209,525,000                │\n│Mass.........: 5100 Tons                   │\n│Δ-V(Atm|Vac).: N/A|14Km/s                  │\n│Seats|Crew...: 6|2-6                       │\n│Engine(Fuel).: Ichor Lattice(Mercury)      │\n│Power Source.: Ichor Reactor               │\n│RCS..........: MMH + N2O4                  │\n│SAS..........: Full                        │\n│Main Computer: [!1 G-ACU]                  │\n│Storage......: 23m^3                       │\n└───────────────────────────────────────────┘\n\n    With a length of 23 meters, the Kayan-Class Corvette (also called the Kayan-Model Corvette) is sized similarly to numerous [!2 GCP] fighters, but has a higher level of autonomy, firepower and survivability.  Two variants of the kayan exist, called Type-A and Type-B. the type A was the first to be produced and can be found in both the neo urran and new tyventian navies, it features two cannons, the type B started production in 103 and replaced one cannon with a laser.  Both types feature two [!3 Antaria turrets], fitted with 100mm cannons on the Type A but with one of them being equipped with a 10MW laser on the Type B.  These turrets are complemented by eight 1.3x1.3x4.5m VLS missile tubes. \n\n    Its compact package is made possible by the use of mercury-based thrusters, which combine a relatively-high ISP of 5000s with a high thrust and a compact fuel.  The two mercury thrusters are positioned orthogonally from one another, allowing for unpredictable evasive maneuvers.  The main thruster can output 150MN of thrust (a 3G burn) while the smaller ventral thruster outputs 75 MN of thrust (1.5G burn).\u0000css\n    Life aboard a Kayan is organised in three rotating shifts of 8h. The crew is divided in three pairs of one pilot and one mechanic who perform their work shifts at the same time and sleep at the same time in the two dormitories.  This allows for the continuous operation of the ship and saves volume and weight that would've been taken up by additional cabins, since the two-bed rooms are only occupied by a third of the crew at a time.  The pair system allows for better performance and crew bonding, since the crew members get used to working with their partner.  In case of a crisis (a combat situation, for example), the off-duty and sleeping pairs can be called on in order to help.  And at the end of each shift, the captain (which is one of the pilots) meets the pair ending and the pair starting a shift in order to maintain situational awareness and give orders.\n\n    The ship's defense is divided in several layers in order to maximize survivability; the farthest threats (up to a few hundred light milliseconds away) are dealt with by the laser when equipped, which is sufficiently cooled to function continuously at 10MW.  When targets are a few dozen kilometers from the ship, the 20 self defense missiles become an option, and can be used to destroy other missiles and projectiles or be used as a swarm, overwhelming an enemy’s point defense grid and crippling the ship.  When the range drops below 20 km, the cannon becomes a powerful tool and can be used either offensively or defensively.  The kayan uses two reactive armor pods which can explode into a cloud of debris in order to destroy one or more projectiles which would have slipped through the defensive grid.  It can also divert missiles and radar readings using chaff and flares.\u0000css\n    All of the fleet’s point defense assets and information are synchronized in a network in order to increase situational awareness and cover blind spots. The kayan’s radars also have the ability to form an interferometry network in order to increase the range of detection and resolution of the enemy positions.\n\n    The kayan’s passive armor follows an all-or-nothing philosophy: \n        - The whole ship is protected by two layers of Titanium armor -- the outermost layer has a height of 5 cm and is coated in a radar absorbing paint.  Under this first layer, and separated from it by a void of 25 cm, lies a second layer of titanium armor, 45 cm high and made as reflective as possible.  This second layer is designed to stop projectiles from penetrating any part of the ship, but more importantly, to protect against lasers with a sub-X-ray particle energy.\n\n        - Under the first layer of armor, the most vital parts of the ship (command and information center, ammunition magazine(s), energy generation, engine and warp drive) benefit from a second layer of defense -- a pair of two 35-cm thick layers of reflective titanium armor, separated by the ship`s mercury tanks, protect these parts against more energetic projectiles.  They are complemented on the sides by the two 50KL mercury tanks which, thanks to the high density of their content, can act as a layer of liquid armor.\u0000css\n    The ship can fulfill a diverse set of missions: \n        - Combat, Escort, Harassment and Patrol missions: these are the main applications for the Kayan-Class Corvette.  A group of Kayans can form a pack and take down enemy ships larger than themselves with their missiles.  Its turreted laser, self defense missiles, and cannon are also very effective against smaller targets, allowing it to destroy enemy fighters and missiles, effectively adding itself to the point defense grid of a larger ship.  The ship`s autonomy, along with the rotating crew of six, allows the Kayan to function continuously and perform guard or anti-piracy missions alone.\n\n        - Reconnaissance missions: the Kayan can use its powerful sensor suite, autonomy, small cross section, and stealth oriented-design to detect and report enemy activities.  \n\n        - Finally, Strategic Deterrence missions: the corvette can use its warp drive and large VLS tubes to deliver up to eight nuclear-tipped missiles far into enemy territory. \n\n\n    The corvette represents the backbone of the [!4 Neo Urran] Fleet where it numbers in the thousands to hundreds of thousands.  The ship is the product of the Imperial Urran Naval doctrine of relying on a large number of small, mobile, and expendable spacecrafts in order to overwhelm an enemy defenses, and denying them any target of significant size.  Type-A kayans can also be found in New Tyventia, but due to celesse centered-production for models of the Kayan, the New Tyventian state only has a few hundred Kayans, and need to cannibalise some of them for spare parts.  The main combat action of the kayan class was during [!5 The battle of Armalai], where they were, along with the nero fighter, at the core of the Urran task force.  But despite an impressive performance from the class, the Urran fleet was outnumbered and outgunned by the full might of the gcp which had been given the Urran battle plan through Itascus.\u0000css\n    The ship entered its design phase in 93, and was supposed to be a heavier ship to complement the nero fighters and take on bigger ships in packs.  It entered production in 97, and by 102, a few dozen thousand had been produced.  After the [!5 Battle of Armalai], Larger Urran ships were produced and the role of the Kayan shifted more toward point defense and recon.\n\n    The Kayan Corvette is assembled in orbit of Kosh and [!6 planet Kayan], where the hull, which has been casted in two parts (front and aft), is outfitted with the interior walls and components.  Then, the two parts are cold-welded together.  Once the hull has been found to be airtight, the turrets are mounted and tested.  The subsystems of the craft are then tested. the ship receives a unique identification number made of six base36 characters (0-9 and A-Z, ex: \"KZ3E4F\") and are assigned to a crew which has the right to name it.  The parts for the Kayan are mostly sourced from the [!7 Celesse system], in order to mitigate the risk of enemy raids on production facilities.  The biggest contractors work in close cooperation with the state and are [!8 Celesse Shipyards], [!9 Kinetyx], [!1 Ganoder], [!10 Urran Life Support Systems Company] and [!11 Vella Optics].  This centralisation has also prevented New Tyventia from building new kayan class ships.\u0000css\n    Changelog(by year): \n        103 - The Kayan Type-B model entered production, where the ventral cannon of the Kayan had been replaced with a 10MW laser, and a third Ichor reactor has been added, replacing the magazine below the turret.  Due to these changes, the Kayan Type-B cost the equivalent of 1.045 Billion Kars ($209 Million ITC) while the Kayan Type-A only cost 880 million ($176 million ITC).  Today, the Kayan Type-B is the most prevalent form of the craft, while the Type-A is mostly restricted to larger battlegroups.\n\n        104 - The titanium armor on all Neo-Urran Kayans was replaced by an equivalent volume of graphene-reinforced titanium-aluminium alloy.  The resulting armor is stronger but only has 80% of the original volumic mass. \n\n        The outermost layer of titanium was replaced by a layer of copper of the same weight, coated in graphene sheets of approximately 1m^2 each, produced by the deposition of a carbon-rich vapor on a copper substrate.  While reducing the resistance of the ship to kinetic impacts, it also greatly enhances its resistance to lasers. Due to the extremely high thermal conductivity of graphene, the heat is drawn away from the impact point and mitigates local vaporization of the armor. The heat is then transferred from the graphene layer to the copper layer due to the high conductivity of copper. The result is a layer of armor which only fails when the whole block of copper reaches 2200C, which is the temperature of disintegration of the covalent bonds in graphene.\n\n\n\nThe following information is valid for a Year 103 Type-B Kayan.\u0000css\n\nComponent breakdown (Front to Back):\n\nComponent Name                                   Manufacturer   Mass      Widest Part Length \nHull                                             [!8 CS]        2500000kg    10m      23.8m\n├2x 50 000L Mercury Tanks                        CS             680000Kg     ~~~~     ~~~~\n├Command and Information Center                  CS             ~~~~         ~~~~     ~~~~\n│├Gyroscope                                      CS             273000kg     ~~~~     ~~~~\n│├Mainframe                                      [!1 Ganoder]   200kg        ~~~~     ~~~~\n│├2MB.s-1 Quantum Link                           Ganoder        2000kg       ~~~~     ~~~~\n│├Environnement Control and Life Support System  [!10 ULSSC]    ~~~~         ~~~~     ~~~~\n││├4x 2500L 250bar Compressed Air Tank           ULSSC          2000kg       ~~~~     ~~~~\n││├2x CO2 Scrubber                               ULSSC          220kg        ~~~~     ~~~~\n││├2x Electrolytic Oxygen Generator              ULSSC          320kg        ~~~~     ~~~~\n││└Thermostat                                    Ganoder        20kg         ~~~~     ~~~~\n│├Warp Drive (25m bubble)                        CS             100000kg     ~~~~     ~~~~\n│├3x Ichor Reactors                              CS             121000kg     ~~~~     ~~~~\n│├17500L Ichor Tank                              CS             130000kg     ~~~~     ~~~~\n│└4x Mono Axis Rotating Control Stations         CS             1200kg       ~~~~     ~~~~\n├Main Mercury Lattice Engine                     CS             2800kg       ~~~~     ~~~~\n│└Thruster Nozzle                                CS             140kg        ~~~~     ~~~~\n├Vertical Mercury Lattice Engine                 CS             1200kg       ~~~~     ~~~~\n│└Thruster Nozzle                                CS             120kg        ~~~~     ~~~~\u0000css\n├Kinetyx Turret                                  Kinetyx        12100kg      7.18m    3.5m\n│├100mm Cannon                                   Kinetyx        4000kg       ~~~~     ~~~~\n│├Ammunition Magazine                            CS             120000kg     ~~~~     ~~~~\n│├Autoloader                                     Kinetyx        1200kg       ~~~~     ~~~~\n│├Turreted Doppler Radar                         Vella Optics   70kg         0.70m    0.50m\n│├Turreted Phased Array Radar                    Vella Optics   40kg         0.70m    1.38m\n│└Turreted Camera                                Vella Optics   10kg         ~~~~     ~~~~\n├Laser Turret                                    Kinetyx        12100kg      4.5m     3.50m\n│├10 MW X-ray Laser                              Vella Optics   700kg        ~~~~     ~~~~\n││├Stimulated X-ray Emitter                      Vella Optics   125kg        ~~~~     ~~~~\n││├Optical Switch                                Vella Optics   20kg         ~~~~     ~~~~\n││└High Res Camera                               Vella Optics   20kg         ~~~~     ~~~~\n│├Turreted Doppler Radar                         Vella Optics   70kg         0.70m    0.50m\n│├Turreted Phased Array Radar                    Vella Optics   40kg         0.70m    1.38m\n│└Turreted Camera                                Vella Optics   10kg         ~~~~     ~~~~\u0000css\n├Living Quarters                                 CS             ~~~~         ~~~~     ~~~~\n│├2x Dormitory                                   CS             ~~~~         ~~~~     ~~~~\n││├3x Bunk Bed                                   (Various)      120kg        ~~~~     ~~~~\n││└3x Personal Storage Space                     (Various)      1000kg       ~~~~     ~~~~\n│├General Living Area                            CS             ~~~~         ~~~~     ~~~~\n││├[!12 Kitchenette]                             CS             700kg        ~~~~     ~~~~\n││├Mess                                          CS             ~~~~         ~~~~     ~~~~\n││└Crew Customisable Space                       CS             ~~~~         ~~~~     ~~~~\n│├10KL Water Storage Tank                        CS             10000kg      ~~~~     ~~~~\n│└Food Storage Room                              CS             2160kg       ~~~~     ~~~~\n├8x Vertical Launch System                       Kinetyx        56000kg      1.30m    5.00m\n├5x RCS                                          CS             115kg        0.53m    1.16m\n│├43000L Monomethylhydrazine Tank                CS             37600kg      ~~~~     ~~~~\n│└57000L Nitrogen Tetroxide Tank                 CS             82200kg      ~~~~     ~~~~\n├2x Reactive Armor Pod                           Kinetyx        750kg        1.25m    0.32m\n├3x Camera                                       Vella Optics   45kg         0.33m    0.5m\n├Doppler Radar Dome                              Vella Optics   3000kg       1.20m    0.8m\u0000css\n├Cooling System                                  CS             1200kg       ~~~~     ~~~~\n│├Radiator                                       CS             6000kg       6.00m    3.00m\n│└2x Heat Pump                                   CS             80kg         ~~~~     ~~~~\n├10x Point Defense Missile Hardpoint             Kinetyx        40kg         0.18m    1.53m\n├3x Spin Gravity Cable Hardpoint                 Kinetyx        40kg         0.18m    0.2m\n└2x Type C Docking Port                          CS             180kg        1.00m    0.23m\n                                                                                        \n  Total                                          Urran state    5100000kg    10m      23.8m\u0000css\n^      Pitch/Yaw Turn Time VS Angle Of Rotation with 12000000W of power\n├                                                                        +\n├                                                                   +++++\n├                                                             ++++++\n├                                                        +++++\n├                                                    ++++\n├                                               +++++\n├                                          +++++\n├                                      ++++\n├                                 +++++\n├                             ++++\n├                         ++++\n├                      +++\n├                  ++++\n├               +++\n├            +++\n├         +++\n├      +++\n├    ++\n├  ++\n├ +\n├+\n└┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴>\nx axis : 0.0 - 360.0 degrees\ny axis : 0.0 - 43.01 seconds\nx unit : 5.0 degrees | y unit : 2.15 second(s)\n\n\n^        Roll Turn Time VS Angle Of Rotation with 12000000W of power\n├                                                                        +\n├                                                                 +++++++\n├                                                          +++++++\n├                                                    ++++++\n├                                             +++++++\n├                                       ++++++\n├                                 ++++++\n├                            +++++\n├                       +++++\n├                  +++++\n├              ++++\n├          ++++\n├      ++++\n├    ++\n├ +++\n├+\n└┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴┴>\nx axis : 0.0 - 360.01 degrees\ny axis : 0.0 - 15.03 seconds\nx unit : 5.0 degrees | y unit : 1.0 second(s)",
+        "links": [
+          "/ROOT/COMPANIES/COMPUTERS/GANODER",
+          "/ROOT/NATIONS/GCP",
+          "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/ANTARIA",
+          "/ROOT/NATIONS/NEO_URRA",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE",
+          "/ROOT/COMPANIES/SPACE/CELESSE_SHIPYARDS",
+          "/ROOT/COMPANIES/MILITARY/KINETYX",
+          "/ROOT/COMPANIES/SPACE/ULSSC",
+          "/ROOT/COMPANIES/GENERAL_MANUFACTURING/VELLA_OPTICS",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/MODULES/ACCOMODATION/KITCHENETTE"
+        ],
         "meta": {
-          "author": "<@220352318510596096>",
+          "author": "<@!329216363447058434>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/04/06 20:35:04",
-          "editTime": "2021/04/06 20:35:10"
+          "editTime": "2021/06/05 23:03:59"
         },
-        "extension": ""
+        "extension": "TEXT"
       },
       {
         "name": "Capitol Ships",
@@ -12718,12 +12726,109 @@
         "path": "/ROOT/CULTURE/RELIGION/THEISTIC/GEARTHMEIAISM/BELIEFS/SCIENCE",
         "isUp": true,
         "data": "css\n    The discovery of [!1 Qi Energy]'s role in biology sent a shockwave through Gearthmeiaism and, in the eyes of believers, confirmed their beliefs in the Great Warmth; given that a body's Qi energy (also called the \"Chellum\") is its main source of heat, Qi’s properties match up with it near completely, and Qi’s prevalence within beings also confirmed, in their eyes, that their life was given by the Warm One, forged within the heat.  One's Chellum is also seen as that soul since one's soul, in Gearthmeiaism, was made from the Great Warmth and it should return to it. \n\n    Before Qi discovery, science and religion were ambivalent to one another other on Gallea, not truly combined or separate.  After Qi discovery is when the science & religion of Gallea almost entirely intertwined with each other.  Furthering Science (more specifically, their understanding of the world), in the eyes of Gearthmeiaism, was now the way to truly connect with the Warm One and use the power mandated to them by Gearthmeia as they see fit.  Many scientists are revered by Gallean culture almost like prophets, poking at what the Warm One hath created for them, to understand how it works as they were destined to.  The clergy of Gearthmeiaism interprets the data from scientists almost immediately after new findings arise. \n\n    The understanding of Qi Energy intertwined religion and science on Gallea, and now believing in Gearthmeia and helping the church is synonymous with furthering science and helping research.  The religious affair of science is a unique one, and holds very high value within Gallean culture.",
+        "links": [
+          "/ROOT/TECHNOLOGY/ENERGY/TYPES/QI"
+        ],
+        "meta": {
+          "author": "<@!301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/05/13 22:38:46",
+          "editTime": "2021/05/13 22:39:08"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Church Politics",
+        "path": "/ROOT/CULTURE/RELIGION/THEISTIC/GEARTHMEIAISM/CHURCH_POLITICS",
+        "isUp": true,
+        "data": "css\n    There are currently 4 primary sub-factions within the church; the Conservatives, which take up 46% of church membership; the Sustainability Front, which is 40%; the True Path, which is 11%; and Followers of the Warm One’s Embrace, which is ~3%.  These four factions have are the result of a recent push among believers to question if the church is on the right path for the future.  This new movement has been partially spurred on by the religious integration of science, which allowed for the ideas of rationalism and secularism to become more widespread. \n\n    The Conservatives believe that the church is on the right path as it is now.  The church, to them, is fine as it is, and does not need to be modified.  Ritual sacrifices aren’t too burdensome, and not so small as to disrespect the sacrifice of volcano gods and the Warm One. \n    \n    The Sustainability Front argues that the sacrifices and obligations of the church are too burdensome, ultimately unneeded, and isn't a requirement for a soul to be embraced by the Great Warmth.  This faction believes less in the mystical side of Gearthmeian culture, taking a more realist approach.  However, they still believe in socialist values and maintaining of the current Gearthmeian [!1 lifestyle], however the ritual sacrifices are needless burdens, are unsustainable, and, if uncorrected, will draw too many away from the faith.\u0000css\n    The True Path faction believes that, while Kermak was right for his time, in the era of space commercialism, it is the best path for the culture to become more capitalist (and less socialist).  It is an individual's fault if they do not fulfil the gift of warmth.  They also believe that Gearthmeia would have wanted us to use his gift without needing to be repaid, allowing Galleans to reach their full potential.  They believe fundamentally changing the faith is necessary, and is the true path that Gearthmeiaism must take for the future. \n    \n    Warm One’s Embrace is by far the most objectively radical faction of the four; they believe that Galleans must sacrifice other Galleans to the Volcano gods in order to be embraced in the Great Warmth.  It is only proper to sacrifice everything to the Warm One.  The members of this faction range from monks with zero possessions in a commune that sacrifices members, to radical terrorists that believe all Galleans must die through heat.  Proclaiming alliegence to this faction can lead to someone being put on a list of potential security threats by the [!2 Gallean Government].",
+        "links": [],
+        "meta": {
+          "author": "<@!301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/05/13 22:44:06",
+          "editTime": "2021/05/13 22:45:24"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Nero Fighter",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FIGHTER/NERO",
+        "isUp": true,
+        "data": "[Unwritten]",
         "links": [],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
-          "madeTime": "2021/05/13 22:38:46",
-          "editTime": "2021/05/13 22:39:08"
+          "madeTime": "2021/06/05 20:34:46",
+          "editTime": "2021/06/05 20:34:50"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Antaria-Class Turret",
+        "path": "/ROOT/COMBAT/VEHICLE_WEAPONS/BALLISTIC/ANTARIA",
+        "isUp": true,
+        "data": "css\n┌─────────────────────────────────────┐\n│Use Period........: 95-Present       │\n│Weight............: 12,100Kg         │\n│Caliber...........: 100mm*600mm      │\n│Shots/15 seconds..: 50               │\n│Dispersion at 1km.: ±5m(.286deg)     │\n│Accuracy Rating...: 5                │\n│Muzzle Energy.....: 180MJ            │\n│Damage Rating.....: 3                │\n│Damage Type.......: Ballistic        │\n│Manufacturer......: Celesse Shipyards│\n└─────────────────────────────────────┘\n\n    The Antaria is a turret equipped on the [!1 Kayan-Class Corvette].  It has an elevation speed of 70 degrees per second and a traverse speed of 120 degrees per second.  The turret's chassis is protected by half a meter of titanium armor and rotated by a 100kw motor.  The cannon's elevation is controlled by an additional 50kw motor in the hull of the turret.  The mounted weapon can elevate from -15 to 85 degrees, which allows for overlapping cones of fire.  Two versions of the turret exist: the Antaria B and the Antaria L.  The Antaria B is equipped with a 100mm Electrothermal Chemical Cannon (abbreviated as an \"ETC Cannon\") while the Antaria L is equipped with a 10MW laser.  \n\n    The Antaria B can fire two types of rounds at a time due to a duplicate-feeding mechanism -- the rounds come from the magazine on two separate belts, and are then fed into the cannon at the demand of the operator, which can seamlessly alternate the between the two sources.  This unique capacity allows for high rates of fire or the ability to use the turret both as a ciws and as an offensive weapon.\u0000css\n    The Antaria L`s laser is mounted on the same place as the cannon would be on the Antaria B, but the belts are replaced by electric cables, and an additional, supplementary [!2 Ichor Reactor] is often installed in the place of the magazine.  This shared form factor allows for simpler logistics and more flexibility in manufacturing, with the two forms of the Antaria having the ability to be produced with the same tooling and factories.\n\n    The rounds in the Electrothermal Chemical Cannon are electrically-ignited using a plasma cartridge.  This method of ignition allows for the use of more energetically-dense propellants (cyclotrimethylenetrinitramine, for example, in the case of the [!1 Kayan]) which can achieve exit velocities of up to 3.2km/s, and improve the predictability of the detonation of the propellant inside the barrel.  The ETC Cannon system also improves the survivability of the ship by preventing internal magazine explosions; if the magazine is hit during combat, an explosion can not detonate the shells because their propellant requires the electrical stimulation of the plasma cartridge in order to explode.\n\n    The most used ammunition for the Antaria on the Kayan is a fragmentation shell, containing 416 2-cm tungsten balls; and a high-explosive filler, detonating after a delay magnetically transmitted to the shell on barrel exit.  This shell, used for CIWS and anti-fighter purposes, is complemented by an APDS (Armor Piercing Discarding Sabot) for harder targets.\n\n    The Antaria turret is named after the capital city of the planet [!3 Kayan], [!4 Antaria].",
+        "links": [
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/CORVETTE/KAYAN",
+          "/ROOT/TECHNOLOGY/ENERGY/GENERATION/QI/ICHOR",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/ANTARIA"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/06/05 20:42:55",
+          "editTime": "2021/06/05 23:22:34"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Exospace",
+        "path": "/ROOT/COMPANIES/SPACE/EXOSPACE",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────┐\n│Active Period.: 34-Present    │\n│Field.........: Ship-building │\n│Open Stocks?..: No            │\n│Base..........: [!1 Deoria]   │\n│Net Worth.....: $298 Billion  │\n└──────────────────────────────┘\n\n\n    Exospace is a brand making luxurious spaceships for the elites of the [!2 GCP].  Owning an Exospace Yacht is a social symbol of success on many worlds, and has become a life-goal for some people.\n\n    Their catalog is divided into three lines of ships:\n        The E-1X series, holding their smallest ships, able to support one or two people on board, they are the cheapest models provided by the company\n        The E-2X series, for intermediately-sized ships, designed to support up to ten passengers.\n        and The E-3X series, for the most oversized luxury shows, costing up to $3,000,000,000.\n\n    The Headquarters of the company is on the [!3 Molokai Station], a giant shipyard coloured in red and black (which are the colours of the brand).\n    \n    When Exospace was first established, their marketing was geared towards showcasing the newest facets of space technology, trying to sell their products to consumers interested in the cutting edge of space travel technology.\n\n    In the mid 50s, Exospace changed their marketing scheme from \"being a trendy brand proposing the newest gadgets\", to a company producing only the finest, most spectacular spacecraft one can find the GCP.  The company uses its age, \"Since 34 P.W.\", to strengthen its reputation of excellence, practicality, and quality.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
+          "/ROOT/NATIONS/GCP",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MOLOKAI"
+        ],
+        "meta": {
+          "author": "<@!329216363447058434>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/06/05 22:36:38",
+          "editTime": "2021/06/05 22:37:59"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Urran Life Support Systems Company",
+        "path": "/ROOT/COMPANIES/SPACE/ULSSC",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/06/05 22:43:24",
+          "editTime": "2021/06/05 22:43:34"
+        },
+        "extension": ""
+      },
+      {
+        "name": "General Manufacturing Companies",
+        "path": "/ROOT/COMPANIES/GENERAL_MANUFACTURING",
+        "isUp": true,
+        "data": "css\n    [!1] +Vella Optics [Unwritten]",
+        "links": [
+          "/ROOT/COMPANIES/GENERAL_MANUFACTURING/VELLA_OPTICS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/06/05 22:48:47",
+          "editTime": "2021/06/05 22:49:24"
         },
         "extension": ""
       }
