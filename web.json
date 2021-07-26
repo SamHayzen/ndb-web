@@ -6245,24 +6245,22 @@
         "name": "National Cultures",
         "path": "/ROOT/CULTURE/NATIONAL",
         "isUp": true,
-        "data": "css\n   [!1]  >Armalite Culture\n   [!2]  >Tuine Culture\n   [!3]  >Deorian Culture\n   [!4]  >Gallean Culture\n   [!5]  >Ghillymedic Culture\n   [!6]  >Itascan Culture\n   [!7]  >La'Foyan Culture\n   [!8]  >Neo Urran Culture\n   [!9]  >New Tyventian Culture\n   [!10] >Solar Union Culture",
+        "data": "css\n   [!1]  >Tuine Culture\n   [!2]  >Deorian Culture\n   [!3]  >Gallean Culture\n   [!4]  >Ghillymedic Culture\n   [!5]  >Itascan Culture\n   [!6]  >Greater La'Foyan Culture\n   [!7]  >Greater Tyventian Culture\n   [!8] >Solar Union Culture",
         "links": [
-          "/ROOT/CULTURE/NATIONAL/ARMALITE",
           "/ROOT/CULTURE/NATIONAL/TUINE",
           "/ROOT/CULTURE/NATIONAL/DEORIAN",
           "/ROOT/CULTURE/NATIONAL/GALLEAN",
           "/ROOT/CULTURE/NATIONAL/GHILLYMEDIC",
           "/ROOT/CULTURE/NATIONAL/ITASCAN",
           "/ROOT/CULTURE/NATIONAL/LAFOYAN",
-          "/ROOT/CULTURE/NATIONAL/NEO_URRAN",
-          "/ROOT/CULTURE/NATIONAL/NEW_TYVENTIAN",
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN",
           "/ROOT/CULTURE/NATIONAL/SOLAR_UNION"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/09/01 15:29:00",
-          "editTime": "2019/09/01 15:38:54"
+          "editTime": "2021/07/26 22:08:41"
         },
         "extension": ""
       },
@@ -6760,7 +6758,7 @@
       },
       {
         "name": "National Armalite Culture",
-        "path": "/ROOT/CULTURE/NATIONAL/ARMALITE",
+        "path": "/ROOT/CULTURE/NATIONAL/LAFOYAN/ARMALITE",
         "isUp": true,
         "data": "Void",
         "links": [],
@@ -12921,6 +12919,71 @@
           "editTime": "2021/07/18 23:36:56"
         },
         "extension": "TEXT"
+      },
+      {
+        "name": "Greater La'foyan culture",
+        "path": "/ROOT/CULTURE/NATIONAL/LAFOYAN",
+        "isUp": true,
+        "data": "css\n    [!1] >Terrestrial La'foyan Culture\n    [!2] >Armalite Culture",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/LAFOYAN/TERRESTRIAL",
+          "/ROOT/CULTURE/NATIONAL/LAFOYAN/ARMALITE"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/07/26 22:09:11",
+          "editTime": "2021/07/26 22:09:46"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Greater Tyventian Culture",
+        "path": "/ROOT/CULTURE/NATIONAL/TYVENTIAN",
+        "isUp": true,
+        "data": "css\n    [!1] >New Tyventian Culture\n    [!2] >Neo Urran Culture\n    ----\n    [!3] >Food",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/NEW_TYVENTIAN",
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/NEO_URRAN",
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/07/26 22:10:08",
+          "editTime": "2021/07/26 22:11:46"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Tyventian Food",
+        "path": "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD",
+        "isUp": true,
+        "data": "css\n    [!1] +Tyventian Noodles",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/NOODLES"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/07/26 22:12:07",
+          "editTime": "2021/07/26 22:12:49"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Tyventian Noodles",
+        "path": "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/NOODLES",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────────────┐\n│Planet of Origin.: Kayan              │\n│Time Period......: Prehistoric-Present│\n│Ingredients......: Noodles, water,    │\n│vegetables, eggs, meat, sauces, spices│\n│Preparation Needs: Heat               │\n└──────────────────────────────────────┘\n\n    Tyventian noodle soup is a family of traditional noodle soup dishes originating from [!1 Kayan].  Traditionally, most Tyventian noodle soups are spicy and slightly sweet, while the noodles themselves are chewy and toothsome, deeply-flavored from having been cooked in broth.  Tyventian noodles are popular throughout New Tyventia and Neo Urra, alongside several ethnic enclaves within other nations.\n\n    Noodles are a staple food for the majority of the [!2 Tyvant] population, especially for the working class, who find noodle soup to be easy to prepare and applicable to any palette.  This dish is usually consumed in the evening as dinner: the broth, if made from scratch, is started on in the morning, simmers throughout the day, and is ready for use in a noodle soup recipe by dusk.  The usual accompaniment for Tyventian noodle soups is a green salad, most popularly Tyventian Mint Salad.\n\n    To prepare this dish, vegetables, pieces of meat, boiled eggs, herbs, spices, sauces, et cetera, are added to a simmering broth, followed by the noodles some time after.  Once everything has cooked, the dish is ready to be served.\n\n    Historical evidence shows that noodle soup has been consumed on Kayan ever since grains were first milled into flour.  As time went by, the soup began to increase in complexity, with new seasonings and flavors being added as trade caused ingredients to be diffused across Kayan.  Now, modern Tyventian Noodle Soup has hundreds of different variants, each made to cater to a specific palette.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/07/26 22:13:01",
+          "editTime": "2021/07/26 22:13:49"
+        },
+        "extension": ""
       }
     ],
     "owners": [],
