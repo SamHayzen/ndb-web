@@ -9,7 +9,12 @@
 		<script src="./highlight.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 		<script>
-			var domain = "https://samhayzen.github.io/ndb-web/";
+			const defaultDomain = "https://samhayzen.github.io/ndb-web/"
+			var domain = defaultDomain;
+			domain = window.location.ancestorOrigins[0];
+			alert (domain);
+			if(typeof domain !== 'string') domain = defaultDomain;
+			if(domain.length < 6) domain = defaultDomain;
 			var pushDate = "4/5/2021";
 			var web;
 			$.ajax({
