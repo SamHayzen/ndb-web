@@ -13,6 +13,7 @@
 			var domain = defaultDomain;
 			domain = window.location.ancestorOrigins[0];
 			alert (domain);
+			console.log(window.location.ancestorOrigins);
 			if(typeof domain !== 'string') domain = defaultDomain;
 			if(domain.length < 6) domain = defaultDomain;
 			alert (domain);
