@@ -11,18 +11,12 @@
 		<script>
 			const defaultDomain = "https://samhayzen.github.io/ndb-web/"
 			var domain = defaultDomain;
-			domain = window.location.ancestorOrigins[0];
-			alert (domain);
-			console.log(window.location.ancestorOrigins);
-			if(typeof domain !== 'string') domain = defaultDomain;
-			if(domain.length < 6) domain = defaultDomain;
-			alert (domain);
 			var pushDate = "4/8/2021";
 			var web;
 			$.ajax({
 			  type: "GET",
 			  async: false,
-			  url: defaultDomain+"web.json", // Using our resources.json file to serve results
+			  url: domain+"web.json", // Using our resources.json file to serve results
 			  success: function(result) {
 				console.log(result);
 				web = result;
