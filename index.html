@@ -15,12 +15,13 @@
 			alert (domain);
 			if(typeof domain !== 'string') domain = defaultDomain;
 			if(domain.length < 6) domain = defaultDomain;
-			var pushDate = "4/6/2021";
+			alert (domain);
+			var pushDate = "4/7/2021";
 			var web;
 			$.ajax({
 			  type: "GET",
 			  async: false,
-			  url: domain+"web.json", // Using our resources.json file to serve results
+			  url: defaultDomain+"web.json", // Using our resources.json file to serve results
 			  success: function(result) {
 				console.log(result);
 				web = result;
