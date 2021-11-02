@@ -237,11 +237,11 @@
         "name": "Races",
         "path": "/ROOT/BIOLOGY/RACES",
         "backpath": "/MAIN",
-        "data": "css\n   [!1] >Deorians\n   [!2] >Galleates\n   [!3] >Itascans\n   [!4] ~La'foyans\n   [!5] >Tuines\n   [!6] >Tyvants\n   [!7] +Foreign Races",
+        "data": "css\n   [!1] ~Deorians\n   [!2] >Galleates\n   [!3] >Itascans\n   [!4] ~La'foyans\n   [!5] >Tuines\n   [!6] >Tyvants\n   [!7] +Foreign Races",
         "links": [
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
           "/ROOT/BIOLOGY/RACES/GALLEATE",
-          "/ROOT/BIOLOGY/RACES/ITASCAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
           "/ROOT/BIOLOGY/VIVOTYPES/FEIRAUS/HUMANOID/LAFOYAN",
           "/ROOT/BIOLOGY/RACES/TUINE",
           "/ROOT/BIOLOGY/RACES/TYVANT",
@@ -251,7 +251,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/06/20 21:56:59"
+          "editTime": "2021/10/29 01:46:56"
         },
         "extension": ""
       },
@@ -259,19 +259,20 @@
         "name": "Deorian",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
         "backpath": "/MAIN",
-        "data": "css\n    [!1] +Deorian Race\n    [!2] +Deorian Deorians\n    [!3] +Ceiraz Deorians [Unwritten]\n    [!4] +Ghillymedic Deorians\n    [!5] >Servuses",
+        "data": "css\n    [!1] +Deorian Race\n    [!2] +Ricefieldic Deorians\n    [!3] +Ceiraz Deorians [Unwritten]\n    [!4] +Ghillymedic Deorians\n    [!5] +Furstian Deorians\n    [!6] >Servuses",
         "links": [
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_DEORIAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/RICEFIELD_DEORIAN",
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/CEIRAZ_DEORIAN",
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/GHILLYMEDIC_DEORIAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/FURSTIAN_DEORIAN",
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/11/01 17:28:33"
+          "editTime": "2021/10/28 23:43:14"
         },
         "extension": ""
       },
@@ -294,8 +295,8 @@
         "extension": "TEXT"
       },
       {
-        "name": "Deorian Deorian",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_DEORIAN",
+        "name": "Ricefieldic Deorians",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/RICEFIELD_DEORIAN",
         "backpath": "/MAIN",
         "data": "css\nBOT<The Internet>:\n   Deorians who are native to the home planet [!1 Deoria] are 190cm (6.2 feet) tall on average. Native Deorians are known to be rather muscular, and tend to come in vibrant, yet complimentary, colors.\nDeorians have a reputation for being intelligent and taking control. These opinions are likely due to the nation's advancements in genetic engineering, and its current place as the leader of the [!2 Galactic Confederation of Planets].",
         "links": [
@@ -306,7 +307,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/01/07 04:02:31"
+          "editTime": "2021/10/28 23:42:03"
         },
         "extension": ""
       },
@@ -430,15 +431,18 @@
         "name": "Galleate",
         "path": "/ROOT/BIOLOGY/RACES/GALLEATE/GALLEATE_GENERAL",
         "backpath": "/MAIN",
-        "data": "css\n   Galleates are a small, but efficient people, primarily existing on only a few planets. Galleates are tall, but decently bulky, with a layer of fat under their skin for their naturally cold climates. Galleates come in exclusively faded colors, with grey skin and white head hair. Their eyes are shades of navy blue or purple. Galleates typically have a raised upper lip, being a distinguishing feature.",
-        "links": [],
+        "data": "css\n┌────────────────────────────────┐\n│Group Name.........:Reuth       │\n│Youngling Name.....:Cualt       │\n│Status.............:Safe        │\n│Vivotype...........:Gaerus      │\n│Archetype..........:Humanoid    │\n│Domestication......:N/A         │\n│Intelligence Class.:Sapient     │\n│Lifespan...........:36±8 Yrs    │\n│Time to Maturity...:7.5±2.5 Yrs │\n│# Physical Sexes...:2           │\n│Sexual Polymorphism:Low         │\n│Procreation Method.:Interactive │\n│Diet/Resource Input:Omnivorous  │\n│Respiratory Gas....:Oxygen      │\n│Weight.............:455±20Kg    │\n│Height.............:198±21cm    │\n│Thermal Range......:274±50k     │\n│Blood Volume.......:11L         │\n│Min Conscious Blood:9L          │\n│Top Speed..........:2.8±0.2m/s  │\n└────────────────────────────────┘\n\n    Galleates are relatively smaller in number compared to many other species within the [!1 Silver Stream].  They are efficient, tall, and bulky with a thick fur coat and fat under their skin that has made them extremely adept in surviving within cold climates such as that of [!2 Gallea].  Their arms are noticeably longer than their legs, with hands made up of 4 digits.  At the tip of each finger is a claw; once used for digging through hard ice, these claws may be utilized as formidable weapons.  Their head is round and their eyes face forward flatly.  A decently sized snout protrudes from it, ending with an almost flat nose.  This snout curves slightly down into the muzzle.  The concave orientable ears of the Galleate can, at full height, be as tall as ~80% of the face's height.  Typically, these ears are pressed down flat on the tops of their heads for better heat retention, but they are able to perk up to their full height for higher audio fidelity.\u0000css\n    Protruding from the midlength of the side of the skull, Galleates bear a pair of boney horns; Galleate horns are large and curly, and the shape of these horns curve outwards from the head in a slight spiral downwards, the inner curve closely follows the fur coat, with their tips ending near around the same height as the muzzle, just below the horns' origins. \n\n    The coloration of Galleates almost exclusively consists of mute colors, with bold colors accounting for very rare mutations; their skin itself is grey.  Their horns are perhaps the most colorful portion of their body, as as an adolescent, they are a muted turquoise, and as one matures, the bases of the horns grow more purple, forming a unique gradient.  Their eyes can come in shades of navy blue and purple.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN"
+        ],
         "meta": {
-          "author": "<@220352318510596096>",
+          "author": "<@!301493561353043968>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
+          "editTime": "2021/10/29 00:21:08"
         },
-        "extension": ""
+        "extension": "TEXT"
       },
       {
         "name": "Galleate Galleate",
@@ -488,14 +492,14 @@
       },
       {
         "name": "Itascan",
-        "path": "/ROOT/BIOLOGY/RACES/ITASCAN",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
         "backpath": "/MAIN",
         "data": "css\n [!1] +Itascan Race\n [!2] +Itascan Itascans\n [!3] +Eriian Itascans\n [!4] +Native Urran Itascans",
         "links": [
-          "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_GENERAL",
-          "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_ITASCAN",
-          "/ROOT/BIOLOGY/RACES/ITASCAN/ERIIAN_ITASCAN",
-          "/ROOT/BIOLOGY/RACES/ITASCAN/URRAN_ITASCAN"
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_ITASCAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ERIIAN_ITASCAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/URRAN_ITASCAN"
         ],
         "meta": {
           "author": "<@220352318510596096>",
@@ -507,7 +511,7 @@
       },
       {
         "name": "Itascan",
-        "path": "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_GENERAL",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_GENERAL",
         "backpath": "/MAIN",
         "data": "css\n   Itascans, originating from the watery planet of [!1] Itascus, first moon of [!2] Skoth, are a proud race spanning many planets and planetary states.\n\n   Itascans are hairless (Save for head hair) bipeds with front-facing knees. They are of an average build and boast notably thick eyebrows. Despite being close to median size, Itascans are commonly regarded as somewhat short by some groups in popular culture.\n   Itascans are adapted to a cool, humid environment.",
         "links": [
@@ -524,7 +528,7 @@
       },
       {
         "name": "Itascan Itascan",
-        "path": "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_ITASCAN",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_ITASCAN",
         "backpath": "/MAIN",
         "data": "css\n   Ethnic Itascans are typically 180cm (5.9 feet) tall. Itascans born from their homeworld tend to have pinkish/tanish skin, blue eyes, and light hair.\n\n   Common, if sterotypical, social traits among Itascan citzens include Militancy, Social Conservatism, and a \"headfirst\" mindset.",
         "links": [],
@@ -538,7 +542,7 @@
       },
       {
         "name": "Eriian Itascan",
-        "path": "/ROOT/BIOLOGY/RACES/ITASCAN/ERIIAN_ITASCAN",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ERIIAN_ITASCAN",
         "backpath": "/MAIN",
         "data": "css\n   Itascans native to the planet of [!1 Erii], second moon of [!2 Skoth], are 185cm (6.0 feet) tall on average. Itascans from Erii usually have notibly pale skin and thin figures.\nEriians have a reputation for acting \"uninvested\" in situations, always having a cool head. Normally, this gives people an impression that Eriians are \"airheads\", though it's usually quite the opposite, due to Erii's robust and subsidized educational system.",
         "links": [
@@ -555,7 +559,7 @@
       },
       {
         "name": "Urran Itascan",
-        "path": "/ROOT/BIOLOGY/RACES/ITASCAN/URRAN_ITASCAN",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/URRAN_ITASCAN",
         "backpath": "/MAIN",
         "data": "css\nItascans coming from the planet [!1 Urra], fourth moon of [!2 Skoth], have a median height of 190cm (6.1 feet) tall. They have notibly darker skin than their lunar neighbors, appearing to be a light bronze. Their hair is typically dark, being a brown or even black on average.\n\n   The [!3 Urran province], and its residents, have gained a reputation from their checkered past. Even though acts of violence and conquest were primarily only taken by [!4 their governer], the average populous of the galaxy perceives them as violent, agressive, or unfriendly.",
         "links": [
@@ -1302,7 +1306,7 @@
         "path": "/ROOT/NATIONS/GCP/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   The GCP is the largest governing body known to the GCP, unifying eight planetary nations.\n   Member nations have shared military coordination, space travel infrastructure, and governmental guidelines.\n   Twice a year, every seven months (1/01 and 7/01), the leaders of each member nation come together to hold a summit on the [!1 Nexus]. In this meeting, each representative/leader has a chance to discuss the conditions in their state, ideas and proposals for unified action, and plans for future endeavors. \n   The current head organizer of the GCP is [!2 Deoria], which has never been elected out of head office.\n\n   Currently, it is illegal for any two member nations to go to war with one another. If this rule is broken, the offending nations(s) is given a universal trade embargo, and possible military action from the rest of the GCP.\n\n   The GCP was originally formed in 17 under the name \"Galactic United Nations\" (GUN). The founder nations were Deoria, Gallea, Itascus, Erii, and Bius Tu.\n   Ghilly joined the GUN in 27 after they separated from the Deorian Empire\n   Uudil joined the GUN in 38 when the planet met the minimum population requirement of one million citizens.\n   The Solar Union joined the GUN in 42 upon being formed by the union of Erii and Uudil\n   Ganeimede joined the GUN in 47 after a rebellion from Gallea\n   Ghillymede joined the GUN in 49 upon being formed by the union of Ghilly and Ganeimede\n   The Tyventian Empire joined the GUN in 79 and left in 92 when they were forcibly dissolved\n   Armalai and La'Foy joined in 81 when they were first encountered by the GUN\n   The Urran Empire joined the GUN in 92 and remained a member until 109. But Urra only observed GUN meetings until 102\n   After the battle of Armalai in 109, the GUN was reformed into the GCP, with unified military coordination and greater international infrastructure.",
+        "data": "css\n   The GCP is the largest governing body known to the GCP, unifying eight planetary nations.\n   Member nations have shared military coordination, space travel infrastructure, and governmental guidelines.\n   Twice a year, every seven months (1/01 and 7/01), the leaders of each member nation come together to hold a summit on the [!1 Nexus]. In this meeting, each representative/leader has a chance to discuss the conditions in their state, ideas and proposals for unified action, and plans for future endeavors. \n   The current head organizer of the GCP is [!2 Deoria], which has never been elected out of head office.\n\n   Currently, it is illegal for any two member nations to go to war with one another. If this rule is broken, the offending nations(s) is given a universal trade embargo, and possible military action from the rest of the GCP.\n\n   The GCP was originally formed in 17 under the name \"Galactic United Nations\" (GUN). The founder nations were Deoria, Gallea, Itascus, Erii, and Bius Tu.\n   Ghilly joined the GUN in 27 after they separated from the Deorian Empire\n   Uudil joined the GUN in 38 when the planet met the minimum population requirement of one million citizens.\n   The Solar Union joined the GUN in 42 upon being formed by the union of Erii and Uudil\n   Ganeimede joined the GUN in 47 after a rebellion from Gallea\n   Ghillymede joined the GUN in 49 upon being formed by the union of Ghilly and Ganeimede\n   The Tyventian Empire joined the GUN in 79 and left in 92 when they were forcibly dissolved\n   Armalai and La'Foy joined in 81 when they were first encountered by the GUN\n   The Urran Empire joined the GUN in 92 and remained a member until 109. But Urra only observed GUN meetings until 102\n   After the battle of Armalai in 102, the GUN was reformed into the GCP, with unified military coordination and greater international infrastructure.",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/NEXUS",
           "/ROOT/NATIONS/DEORIA/MAIN"
@@ -1311,7 +1315,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/11/01 00:38:39"
+          "editTime": "2021/07/27 14:34:21"
         },
         "extension": ""
       },
@@ -1761,7 +1765,7 @@
         "backpath": "",
         "data": "css\n     Sol is a medium-small, yellow, main-sequence star. Sol is the homestar of the [!1 Itascan] people. It's also houses the states [!2 The Solar Union] and [!3 Itascus].",
         "links": [
-          "/ROOT/BIOLOGY/RACES/ITASCAN",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
           "/ROOT/NATIONS/SOLAR_UNION",
           "/ROOT/NATIONS/ITASCUS"
         ],
@@ -2396,7 +2400,7 @@
         "backpath": "",
         "data": "css\n┌──────────────────────────┐\n│Radius.........: 4,823km  │\n│Atm. Rating....: B+       │\n│Atm. Height....: 121km    │\n│Atm. Pressure..: 2.23atm  │\n│Surf. Gravity..: 0.78G    │\n│Hydrosphere....: Water,83%│\n│Precipitation..: 121cm/y  │\n│Obliquity......: 23.2°    │\n│Average Temp...: 289°k    │\n│Rotation Period: 1.5 Days │\n│Orbital Period.: 1.5 Days │\n│Population.....: 3.9B     │\n│Majority Race..: Itascan  │\n│Allegiance.....: Itascus  │\n└──────────────────────────┘\n\n    Itascus (\"it-ass-cuss\") is the blue marble mother of the [!1 Itascan species], and holds a living population of almost 4 Billion people.  Itascus is a lunar world, coated with oceans populated by a few specs and swaths of land, scattered along the surface like dust in the wind.  Since Itascus's fauna is of the [!2 Itaus] vivotype, the plant life covering the planet's land masses is light green in color, contrasting well with the world's light blue oceans.\n    Unlike most other lunar worlds, Itascus still has a very active geology.\n     \n    From a distance, the planet has a blue sheen around it due to its tall atmosphere.  From the surface, the sky appears to be a light cyan-blue, with deep red sunrises and sunsets.  The Itascan atmosphere is even thick enough that nighttime views of the cosmos appear slightly hazed. \n\n    Due to its proximity to its orbital parent, Itascus is tidally locked to [!3 Skoth], meaning that one side of Itascus is always facing the gas giant. On this side, the temperature is lower than the average for the planet, the middle most part of it being in a state of eternal winter.  Sometimes, this part of the ocean can become cold enough that its surface freezes over, creating a \"third ice cap\" on Itascus.  The area in which this temporal icecap manifests is known as \"Umbrea\".\u0000css\n    Itascus' [!4 Time Table String] is \"N-10:00T ZT 1Y/12L/18D/20T/40d\".  The point on Itascus's surface which always faces Skoth marks the [!5 Longitudinal Origin] in the [!5 STP System] for this planet.\n\n    Itascus has three primary landmasses over its surface, each of which being an [!6 Itascan Governmental Province].  These are the Ferika Continent/[!7 Capital Province], the Aphoterra Continent/[!8 Far Province], and the Kullmia Continent/[!9 Kullmi Province].\n    Ferika is located 90° east of the Umbrea ice cap, and takes up 14% of the surface of the planet.  Throughout Ferika are many mountain ranges, with various plains, valleys, and deserts strewn between them.  Along the east coast of Ferika is an extensive, deep geological fault line.  Tectonic shift along this fault line over millions of years has caused the southern half of Ferika to be long and strait-like, almost reaching Itascus' South Pole.\n    Cutting through the northern half of Ferika is the Nerona River.  Fed by hundreds of smaller streams and creeks throughout the northern half of the continent.  The Nerona River is large enough that it's easily visible from space, being a distinct part of the continent's outline.\u0000css\n    Aphoterra and Kullmia are opposite of Ferika, 90° to the West of the Umbrea ice cap.  These two continents are adjacent to one another, with Aphoterra being due north of Kullmia.  On the east-most side of the pair of continents is the Aphokull Land Bridge, which is 322km long and 108km wide.\n    Apoterra's edges are made up of plateaus, plains, and sheer coastal cliffs.  More inland, on the west side of Apoterra, are great plains on shallow, treeless soil, thought to be caused by the movement of long-gone glaciers.  On the Eastern half of Apoterra's inland is home to hilly woods and thick forests covering medium-height mountain ranges.  Apoterra exists over 9% for the planet's total surface.\n    The Kullmian continent is much more rugged than its northern neighbor.  On the eastern and western faces of Kullmia are extensive mountain ranges, spanning from the northern to southern shores.  In the middle of these mountains is the vast Kullmian Desert, which sees virtually no rainfall throughout the year.  Kullmia takes up 11% of the planet's surface by area.\n    The ocean area separating these continents, called the Aphoterra Bay or Kullmian Bay (name varies by location), divides them by 429 kilometers at its thinnest and 728 kilometers at its widest.\n     \n    A common sight on Itascus is [!10 airships], being a popular mode of travel both between and within cities. Many skyscrapers in densely populated areas have [!10 skydocks] for airships on their higher stories. For urban travel, it's not uncommon to see civilians riding and driving [!11 cars].",
         "links": [
-          "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_GENERAL",
           "/ROOT/BIOLOGY/VIVOTYPES/ITAUS",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/MAIN",
           "/ROOT/CALENDAR/TIME_SYSTEMS/LOCAL",
@@ -4001,17 +4005,18 @@
         "name": "Rifles",
         "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES",
         "isUp": true,
-        "data": "css\n [!1] +Main\n [!2] +.22 Long Rifle\n [!3] +.64 Anti-Material Rifle",
+        "data": "css\n    [!1] +Main\n    [!2] +.22 Long Rifle\n    [!3] +.64 Anti-Material Rifle\n    [!4] +.338 Nui Banken",
         "links": [
           "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/MAIN",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/22LR",
-          "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/64AMR"
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/64AMR",
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/NBK"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/03/16 10:57:30",
-          "editTime": "2019/10/06 01:51:01"
+          "editTime": "2021/11/02 22:47:11"
         },
         "extension": ""
       },
@@ -5589,9 +5594,10 @@
         "name": "Battles and Conflicts",
         "path": "/ROOT/CALENDAR/CONFLICTS",
         "isUp": true,
-        "data": "css\n [!1] >World Wars\n [!2] >Terrestrial Conflicts\n [!3] >Celestial Conflicts",
+        "data": "css\n    [!1] >World Wars\n    [!2] >Civil Wars\n    [!3] >Terrestrial Conflicts\n    [!4] >Celestial Conflicts",
         "links": [
           "/ROOT/CALENDAR/CONFLICTS/WORLD_WARS",
+          "/ROOT/CALENDAR/CONFLICTS/CIVIL_WARS",
           "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL",
           "/ROOT/CALENDAR/CONFLICTS/CELESTIAL"
         ],
@@ -5599,7 +5605,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/08/14 17:29:15",
-          "editTime": "2019/08/14 17:38:56"
+          "editTime": "2021/07/26 22:30:30"
         },
         "extension": ""
       },
@@ -8028,15 +8034,17 @@
         "name": "Terrestrial Conflicts",
         "path": "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL",
         "isUp": true,
-        "data": "css\n    [!1] +Urran Invasion [Unwritten]",
+        "data": "css\n    [!1] +Urran Invasion [Unwritten]\n    [!2] >Urro-Tyventian Skirmishes",
         "links": [
-          "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRAN_INVASION"
+          "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRAN_INVASION",
+          "",
+          "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRO-TYVENTIAN_SKIRMISHES"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/30 17:07:31",
-          "editTime": "2019/10/30 17:10:43"
+          "editTime": "2021/11/02 21:36:53"
         },
         "extension": ""
       },
@@ -8351,7 +8359,7 @@
         "isUp": true,
         "data": "css\n    The Itascan Space Agency (ISA) is a branch of the Itascan government dedicated to the exploration of space and proliferation of space infrastructure.  Created in the year -22, before the unification of Itascus, the ISA had been one of the most productive entities in astronautical research of all time.  The ISA was the first entity to put an [!1 Itascan] in orbit and the first to send probes out of the [!2 Skoth] system.\n\n    In 0 P.W., the ISA's research and development team made one of the most important discoveries of all time: The [!3 Warp drive], opening the stars to the Itascan people, and subsequently the delivering this ability to the rest of the galaxy.\n    \n    The ISA has been an important party in colonization within the [!4 Sol] system.  In the year -23, the agency landed the first permanent colonists on the surface of [!5 Erii], and supported the colony until it became self-sufficient.  From the years 1 to 9, the ISA turned its efforts towards terraforming [!6 Urra], and in the year 9, they planted the planet's first permanent colonists.  Finally, the ISA sent colonists to the planet [!7 Uudil].  But, the Uudilian colony was abandoned once all eight of the original colonists died from complications\n\n    The ISA, up until 23 P.W., was the cutting edge of space travel in the Itascan nation.  But, since then, the organization has taken a backseat to private space-industry organizations.  Now, the prime functions of the ISA are constructing the [!8 Itascan Fleet] and maintaining the [!9 Excelsior] space station.",
         "links": [
-          "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_GENERAL",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/MAIN",
           "/ROOT/TECHNOLOGY/SPACE/WARP_DRIVE/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL",
@@ -8587,7 +8595,7 @@
         "data": "css\n┌──────────────────────────┐\n│Radius.........: 4,243km  │\n│Atm. Rating....: A-       │\n│Atm. Height....: 142km    │\n│Atm. Pressure..: 2.36atm  │\n│Surf. Gravity..: 0.62G    │\n│Hydrosphere....: Water,15%│\n│Precipitation..: 94cm/y   │\n│Obliquity......: 1.2°     │\n│Average Temp...: 289K     │\n│Rotation Period: 2.26 Days│\n│Orbital Period.: 28 Days  │\n│Population.....: 1.2B     │\n│Majority Race..: Itascan  │\n│Allegiance.....: Itascus  │\n└──────────────────────────┘\n\n    Urra is the large, outermost moon of the Skoth system, colonized in the year 9 by the [!1 Itascan State].  Known since the dawn of the [!2 Itascan race], the moon has always had a important place in Itascan mythology, being associated with war and power.  In the years 10 to 12, the planet was terraformed via Seed Shell Bombardment, covering the planet with green flora. \n\n    The red surface is mainly composed of mountains, valleys, and gigantic continental plateaus.  Surprisingly, Ice is found on the highest mountain caps of the moon, despite with the relative warmth of the planet.\n\n    Towns and places established after the year 62 have been constructed and placed underground.  This is for two reasons: allowing for the exposed land to be used for farmland, and making Urran homes and buildings more difficult to invade.  The population in these newer areas, which make up almost a third of the developed areas on the planet, have their houses underground.  There are even entire small towns on Urra constructed completely below ground, with only a handful of (fortified) entrances.\u0000css\n    Even though Urra's industrial sector is small, the Urran industrial complex's has been skyrocketing since the completion of [!4 the planet's mass relay], the cheaper access to space, and the abundance of valuable resources attracting international companies.\n\n    Urra's [!5 Time Table String] is heavily based off that of [!6 Itascus], and is \"N-20:00T ZT 1Y/12L/12D/40T/40d\".  All of Urra is under jurisdiction of the [!7 Urran Provincial Government].",
         "links": [
           "/ROOT/NATIONS/ITASCUS/MAIN",
-          "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_GENERAL",
           "/ROOT/BIOLOGY/VIVOTYPES/ITAUS",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/URRA/MASS_RELAY",
           "/ROOT/CALENDAR/TIME_SYSTEMS/LOCAL",
@@ -9037,7 +9045,7 @@
         "name": "Itascan Platoons",
         "path": "/ROOT/NATIONS/ITASCUS/MILITARY/STRUCTURE/PLATOONS",
         "isUp": true,
-        "data": "css\n    Itascan armed forces, of all branches, are divided into collections of soldiers called Platoons.  A Platoon contains anywhere from 10 to 1000 members of the Itascan armed forces.  Each Platoon is lead by a type of soldier called an Officer, who takes orders from their higher ups and commands the members of the Platoon accordingly.  A Platoon is expected to be semi-autonomous; it's expected to ration its own food, keep its equipment clean, and otherwise maintain itself.\n    \n    Itascan Platoons are marked by unique four-character labels called \"Platoon Tags\".  The first character of a Platoon tag is a letter, A-Z, which denotes which division of the Itascan military the Platoon is in.  The next three characters are (base 10) numeric digits to differentiate the Platoon from others.  For example, a Platoon in the Infantry may be labeled \"I516\".\n    \n    Some letter indicators for divisions are:\n        A - Terrestrial Artillery\n        B - Space Artillery\n        C - Ground Vehicle Operators (Calvary) \n        D - Air/Space Bomber\n        F - Aircraft Carrier Crew\n        E - General Engineering\n        I - Core Infantry\n        J - Juggernauts -- Super-Heavy Infantry\n        L - General Logistics\n        M - Air/Space Carrier Crew\n        N - Core Navy\n        R - Reconnaissance\n        S - Air/Space Fighter Pilots\n        T - [!1 ICTU]\n        X - Droppod Troopers\n        Z - Light Assault Infantry",
+        "data": "css\n    Itascan armed forces, of all branches, are divided into collections of soldiers called Platoons.  A Platoon contains anywhere from 10 to 1000 members of the Itascan armed forces.  Each Platoon is lead by a type of soldier called an Officer, who takes orders from their higher ups and commands the members of the Platoon accordingly.  A Platoon is expected to be semi-autonomous; it's expected to ration its own food, keep its equipment clean, and otherwise maintain itself.\n    \n    Itascan Platoons are marked by unique four-character labels called \"Platoon Tags\".  The first character of a Platoon tag is a letter, A-Z, which denotes which division of the Itascan military the Platoon is in.  The next three characters are (base 10) numeric digits to differentiate the Platoon from others.  For example, a Platoon in the Infantry may be labeled \"I516\".\n    \n    Some letter indicators for divisions are:\n        A - Terrestrial Artillery\n        B - Space Artillery\n        C - Ground Vehicle Operators (Calvary) \n        D - Air/Space Bomber\n        E - General Engineering\n        F - Aircraft Carrier Crew\n        I - Core Infantry\n        J - Juggernauts -- Super-Heavy Infantry\n        L - General Logistics\n        M - Air/Space Carrier Crew\n        N - Core Navy\n        R - Reconnaissance\n        S - Air/Space Fighter Pilots\n        T - [!1 ICTU]\n        X - Droppod Troopers\n        Z - Light Assault Infantry",
         "links": [
           "/ROOT/NATIONS/ITASCUS/MILITARY/ICTU"
         ],
@@ -9045,7 +9053,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/11/29 08:50:51",
-          "editTime": "2019/11/29 08:51:08"
+          "editTime": "2021/07/27 14:27:42"
         },
         "extension": ""
       },
@@ -10640,29 +10648,29 @@
         "name": "Daerus Rodenoids",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID",
         "isUp": true,
-        "data": "css\n    [!1] +Isfetra",
+        "data": "css\n    [!1] +Isfžr",
         "links": [
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFETRA"
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFZR"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/03/07 23:26:54",
-          "editTime": "2020/03/07 23:27:21"
+          "editTime": "2021/10/06 18:46:44"
         },
         "extension": ""
       },
       {
         "name": "Deorian Savage Isfetra",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFETRA",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFZR",
         "isUp": true,
-        "data": "css\n┌──────────────────────────────────┐\n│Group Name.........:Blade         │\n│Youngling Name.....:Knife         │\n│Status.............:Safe          │\n│Vivotype...........:Daerus        │\n│Archetype..........:Rodenoid      │\n│Domestication......:Undomesticated│\n│Intelligence Class.:Conscious     │\n│Lifespan...........:2.0±0.3 Years │\n│Time to Maturity...:0.3±0.07 Years│\n│# Physical Sexes...:2             │\n│Sexual Polymorphism:Very Low      │\n│Procreation Method.:Interactive   │\n│Diet/Resource Input:Herbivorous   │\n│Respiratory Gas....:Oxygen        │\n│Weight.............:10±2kg        │\n│Height.............:27±3cm        │\n│Thermal Range......:297±13°k      │\n│Blood Volume.......:1±.1L         │\n│Min Conscious Blood:.6±.1L        │\n│Top Speed..........:5m/s          │\n└──────────────────────────────────┘\n\n    The Deorian Savage Isfe (plural: Isfetra) is a motive life form native to Deoria.   The Isfe bears a short fur coat that becomes thicker in the cold seasons.  The fur is typically a shade of grey, brown, red, and rarely, black and white.  The base color is also usually accompanied by spots or stripes of another fur color.  The Isfetra have a nubby tail consisting mainly of flesh and bone with a thin fur coat.  The Isfetra almost always have brown or black eyes, but some rare cases include Isfetra with red or orange eyes.\n\n    The Deorian Savage Isfe is a mammalian creature that originates from Deoria.  They dig burrows in the ground as homes.  The Isfetra's diet typically includes grasses and grubs.  The Isfetra are very defensive and will attack other creatures if they feel threatened by them by pouncing on them and using their teeth to puncture and tear their targets skin.  The Isfetra's burrows are guarded by older, stronger Isfetra.\u0000css\n    Male Isfetra are found to have larger teeth than females as they are normally found guarding the outside of the burrows, while females have larger claws for digging to assist in enlarging the burrow.  On average, males are a kilogram heavier than females due to increased muscle mass.\n\n    The Isfetra are sometimes found burrowing near crop fields and consuming farmers' produce.  Modern farmers typically respond to this by spraying their crops with various pesticides.  One notorious pesticide is highly toxic to the Isfetra and only mildly dangerous towards Deorians.  This pesticide can be removed from the wheat by thoroughly soaking it in water for a few hours.\n    The Isfe is a major part of Deorian cuisines.  It is typically smoked and served with a sauce of its fat drippings.",
+        "data": "css\n┌──────────────────────────────────┐\n│Group Name.........:Blade         │\n│Youngling Name.....:Knife         │\n│Status.............:Safe          │\n│Vivotype...........:Daerus        │\n│Archetype..........:Rodenoid      │\n│Domestication......:Undomesticated│\n│Intelligence Class.:Conscious     │\n│Lifespan...........:2.0±0.3 Years │\n│Time to Maturity...:0.3±0.07 Years│\n│# Physical Sexes...:2             │\n│Sexual Polymorphism:Very Low      │\n│Procreation Method.:Interactive   │\n│Diet/Resource Input:Herbivorous   │\n│Respiratory Gas....:Oxygen        │\n│Weight.............:10±2kg        │\n│Height.............:27±3cm        │\n│Thermal Range......:297±13°k      │\n│Blood Volume.......:1±.1L         │\n│Min Conscious Blood:.6±.1L        │\n│Top Speed..........:5m/s          │\n└──────────────────────────────────┘\n\n    The Deorian Savage Isf (plural: Isfžr) is a motive life form native to Deoria.   The Isf bears a short fur coat that becomes thicker in the cold seasons.  The fur is typically a shade of grey, brown, red, and rarely, black and white.  The base color is also usually accompanied by spots or stripes of another fur color.  The Isfžr have a nubby tail consisting mainly of flesh and bone with a thin fur coat.  The Isfžr almost always have brown or black eyes, but some rare cases include Isfžr with red or orange eyes.\n\n    The Deorian Savage Isf is a mammalian creature that originates from Deoria.  They dig burrows in the ground as homes.  The Isfžr`s diet typically includes grasses and grubs.  The Isfžr are very defensive and will attack other creatures if they feel threatened by them by pouncing on them and using their teeth to puncture and tear their targets skin.  The Isfžr`s burrows are guarded by older, stronger Isfžr.\u0000css\n    Male Isfžr are found to have larger teeth than females as they are normally found guarding the outside of the burrows, while females have larger claws for digging to assist in enlarging the burrow.  On average, males are a kilogram heavier than females due to increased muscle mass.\n\n    The Isfžr are sometimes found burrowing near crop fields and consuming farmers' produce.  Modern farmers typically respond to this by spraying their crops with various pesticides.  One notorious pesticide is highly toxic to the Isfžr and only mildly dangerous towards Deorians.  This pesticide can be removed from the wheat by thoroughly soaking it in water for a few hours.\n    The Isf is a major part of Deorian cuisines.  It is typically smoked and served with a sauce of its fat drippings.",
         "links": [],
         "meta": {
           "author": "<@!366044218742800385>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/03/07 23:27:27",
-          "editTime": "2020/03/07 23:28:19"
+          "editTime": "2021/10/06 18:47:10"
         },
         "extension": "TEXT"
       },
@@ -10823,16 +10831,17 @@
         "name": "National Itascan Culture",
         "path": "/ROOT/CULTURE/NATIONAL/ITASCAN",
         "isUp": true,
-        "data": "css\n    [!1] +Itascan Work & Meal Schedule\n    [!2] +Spoofball",
+        "data": "css\n    [!1] +Itascan Work & Meal Schedule\n    [!2] +Spoofball\n    [!3] +Food",
         "links": [
           "/ROOT/CULTURE/NATIONAL/ITASCAN/DAILY_SCHEDULE",
-          "/ROOT/CULTURE/NATIONAL/ITASCAN/SPOOFBALL"
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/SPOOFBALL",
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/07/11 19:52:08",
-          "editTime": "2021/02/07 19:01:54"
+          "editTime": "2021/10/29 01:26:42"
         },
         "extension": ""
       },
@@ -11407,7 +11416,7 @@
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
           "/ROOT/MEDICINE/AFFLICTIONS/PHYSICAL/IMBCG",
-          "/ROOT/BIOLOGY/RACES/ITASCAN/ITASCAN_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN/ITASCAN_GENERAL",
           "/ROOT/CULTURE/LANGUAGE/UNIL/MAIN",
           "/ROOT/TECHNOLOGY/SPACE/WARP_DRIVE",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/OLD_NATIONS",
@@ -11521,36 +11530,36 @@
         "name": "Humanoids",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID",
         "isUp": true,
-        "data": "css\n    [!1] >Deorian Humans\n    [!2] +Niprabe",
+        "data": "css\n    [!1] >Deorian Humans\n    [!2] +Nifrav",
         "links": [
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIPABRE"
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIFRAV"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/11/30 23:12:29",
-          "editTime": "2020/11/30 23:13:05"
+          "editTime": "2021/10/06 18:44:42"
         },
         "extension": ""
       },
       {
-        "name": "Niprabe",
-        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIPABRE",
+        "name": "Ni̤fra̤v",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIFRAV",
         "isUp": true,
-        "data": "css\n┌──────────────────────────────────┐\n│Group Name.........:Tribe         │\n│Youngling Name.....:Calf          │\n│Status.............:Safe          │ \n│Vivotype...........:Daerus        │ \n│Archetype..........:Humanoid      │\n│Domestication......:Undomesticated│\n│Intelligence Class.:General       │\n│Lifespan...........:16±3.2 Years  │\n│Time to Maturity...:4.2±0.5 Years │\n│# Physical Sexes...:2             │\n│Sexual Polymorphism:Low           │ \n│Procreation Method.:Interactive   │ \n│Diet/Resource Input:Herbivorous   │\n│Respiratory Gas....:Oxygen        │\n│Weight.............:47±4Kg        │\n│Height.............:149±6cm       │\n│Thermal Range......:295±3K        │ \n│Blood Volume.......:4+(0 to 1)L   │ \n│Min Conscious Blood:3L            │\n│Top Speed..........:21±2m/s       │\n└──────────────────────────────────┘\n\n    The Deorian Tribal Deer, called the \"Niprabe\" in [!1 Deorian], or just the \"Deer\", is a common life form found natively on [!2 Deoria].  It is a herbivorous mammal that partially resembles a [!3 Ceiraz Deorian] in appearance and structure, with the addition of long, silky, wool which it grows out completely before cold seasons approach their area of habitation (as opposed to a [!3 Ceiraz Deorian]’s thicker, poofier coat of fur), allowing it to stay warm in the mountains and forest highlands from which it originated.  The wool begins to shed upon the end of the cold season, and is usually completely gone by mid-Spring.\u0000css\n    Even though the Niprabe normally sprints quadrupedally (on all fours) to maneuver quickly, the Tribal Deer also has the interesting ability to slowly waddle on its hind legs whilst being able to grab objects with its front appendages (making them act as primitive arms).  The creature is genetically similar to the sapient Deorian races, and similarly displays intriguing levels of intelligence, even sometimes found manipulating items with its \"hands\" and utilizing them as tools or giving them to other creatures, even Deorians, as gifts.  A few common examples of this would be the usage of sticks as weapons to fend off predators and the occasional occurrence of a Tribal Deer plucking wild berries from bushes and handing them to nearby Deorians.\n\n    The Deorian Niprabe displays a high level of sociability in general, and they are typically seen in large groups of around ten to fifty, resembling tribes.  When two tribes of Deer meet in nature, they typically merge into one larger tribe if there are no major barriers between them.  These tribes of Niprabe live together in a seemingly-unmoving section of a forest, performing their daily activities together, such as gathering edible vegetation, defending themselves and eachother from predators or hostiles (such as the [!4 Deorian Savage Isfetra], which sometimes compete with the Tribal Deer for territory), mating, and sometimes even more complex activities such as trading food and items with one other (and sometimes even with local Deorians).\u0000css\n    It is believed that Deer tribes, over time, develop their own simple, distinct “languages” composed of a collection of sounds ranging from grunts to screeches to barks.  The simplest of these languages are only utilized for informing other Deer of the locations of things such as food, other animals, and danger, along with communicating pain, hunger, lust, anger, fear, etc., but more developed Niprabe languages may even be used for communicating more complex ideas such as ideas and non-primal feelings, and can thus be used more conversationally.  No two Niprabe from different tribes can understand one another, except through more primitive forms of communication, such as body language and similarly-primal signs.  They cannot vocalize human speech, but some Deorian researchers have made attempts to record, learn, and master major Tribal Deer languages, spoken by the largest of Deer tribes which occupy vast forested territories.\n    Most of Tribal Deer territories are protected by local law and cannot be deforested, hunted in, or otherwise disrupted.  Many researchers believe that if we could learn how Tribal Deer language is created and evolves, we could understand more about the definite origins of Deorian speech. Deorian Tribal Deer, despite lacking the capability to speak human languages, can learn and understand human sign language (to an extent).  On a side note, Tribal Deer can also laugh; this trait is normally exhibited when a Deer is doing something entertaining, being tickled, or told an amusing story (a story simple enough to be understood; they typically enjoy short stories about Niprabe interacting with local wildlife.  Stories lasting more than a few sentences are typically lost on them.  Researchers have noted that Niprabe seem to have a \"very peculiar\" sense of humor, judging by what makes them laugh).\u0000css\n    Typically, male Deer are built slightly larger and stronger than female Deer. Male Deer also tend to bear more colorful wool than females, as it is a method for members of the species to attract mates, similar to some species of birds.  A male’s coat can be some shade of crimson, gold, cream, or silver, but is often a combination of said colors, occasionally with the addition of other common colors such as brown. Females, on the other hand, bear coats of muted grey, brown, cream, and/or black, and are consequently harder to spot amidst the trees of an especially dark forest (when compared to their male counterparts).  Interestingly, despite the males being physically stronger than the females, the sexes behaviorally diverge very little, as though there was no difference whatsoever.  However, this trait is cultural, in the sense that it depends on the tribe from which the subjects originated; in some Tribal Deer cultures, male and female activities are homogenous, while in others, gender roles take on more specialized common activities.\n\n    It is believed that the Deorian Niprabe and Deorian Human both evolved from a recent common ancestor, which may explain the numerous similarities between the two species, though some prefer to claim the similarities as a coincidence.  Regardless of any recent common ancestor, the Niprabe’s origins have been narrowed down to the forested mountain regions somewhere around the homeland of the [!3 Ceiraz Deorians], further providing evidence for the relationship between the Tribal Deer and common Deorian.  The Deer, as a species, appear to have migrated from forest to forest over a long period of time until they eventually settled and populated a large number of forests around Deoria, forming numerous, distinct tribes as they did.\u0000css\n    As mentioned previously, whenever the territory of two tribes meet, the tribes typically merge into a singular, larger tribe.  Due to this, many smaller forests with large populations of Tribal Deer tend to house one large, unitary tribe as opposed to multiple smaller, scattered ones.  These large, unified tribes speak what is considered a “creole” of all the languages used by each federated tribe.  Many linguists have been making attempts to record and learn these creoles, and there has been enough progress to allow some basic communication between the Deorian field researchers and the inhabitants of aforementioned large tribes, though most of the tribes’ creoles are still unknown.\n    Deorian Niprabe appear many times in classical and even ancient Deorian writings and literature.  They have been recorded to have been historical allies to the Deorian species, doing deeds from providing protection and excess food to lost travellers to assisting Deorian farmers in harvesting their crops in exchange for a small portion of the farmer’s yield.  [!5 Pacemists] classify the Niprabe as “human”, and thus are not permitted to hunt and/or eat them.  Indeed, the Deorian government has passed several laws and regulations to protect the Deorian Tribal Deer and their habitats, including a ban against hunting the creature and regulations and guidelines for harvesting wool from Tribal Deer.  One section of the guidelines recommends the harvester should always repay the Niprabe they shear with food, or other reward in return for their wool.  Otherwise, the Niprabe is likely to feel mistreated and make itself problematic in protest.",
+        "data": "css\n┌──────────────────────────────────┐\n│Group Name.........:Tribe         │\n│Youngling Name.....:Calf          │\n│Status.............:Safe          │ \n│Vivotype...........:Daerus        │ \n│Archetype..........:Humanoid      │\n│Domestication......:Undomesticated│\n│Intelligence Class.:General       │\n│Lifespan...........:16±3.2 Years  │\n│Time to Maturity...:4.2±0.5 Years │\n│# Physical Sexes...:2             │\n│Sexual Polymorphism:Low           │ \n│Procreation Method.:Interactive   │ \n│Diet/Resource Input:Herbivorous   │\n│Respiratory Gas....:Oxygen        │\n│Weight.............:47±4Kg        │\n│Height.............:149±6cm       │\n│Thermal Range......:295±3K        │ \n│Blood Volume.......:4+(0 to 1)L   │ \n│Min Conscious Blood:3L            │\n│Top Speed..........:21±2m/s       │\n└──────────────────────────────────┘\n\n    The Deorian Tribal Deer, called the \"Ni̤fra̤v\" in [!1 Deorian], or just the \"Deer\", is a common life form found natively on [!2 Deoria].  It is a herbivorous mammal that partially resembles a [!3 Ceiraz Deorian] in appearance and structure, with the addition of long, silky, wool which it grows out completely before cold seasons approach their area of habitation (as opposed to a [!3 Ceiraz Deorian]’s thicker, poofier coat of fur), allowing it to stay warm in the mountains and forest highlands from which it originated.  The wool begins to shed upon the end of the cold season, and is usually completely gone by mid-Spring.\u0000css\n    Even though the Ni̤fra̤v normally sprints quadrupedally (on all fours) to maneuver quickly, the Tribal Deer also has the interesting ability to slowly waddle on its hind legs whilst being able to grab objects with its front appendages (making them act as primitive arms).  The creature is genetically similar to the sapient Deorian races, and similarly displays intriguing levels of intelligence, even sometimes found manipulating items with its \"hands\" and utilizing them as tools or giving them to other creatures, even Deorians, as gifts.  A few common examples of this would be the usage of sticks as weapons to fend off predators and the occasional occurrence of a Tribal Deer plucking wild berries from bushes and handing them to nearby Deorians.\n\n    The Deorian Ni̤fra̤v displays a high level of sociability in general, and they are typically seen in large groups of around ten to fifty, resembling tribes.  When two tribes of Deer meet in nature, they typically merge into one larger tribe if there are no major barriers between them.  These tribes of Ni̤fra̤v live together in a seemingly-unmoving section of a forest, performing their daily activities together, such as gathering edible vegetation, defending themselves and eachother from predators or hostiles (such as the [!4 Deorian Savage Isf], which sometimes compete with the Tribal Deer for territory), mating, and sometimes even more complex activities such as trading food and items with one other (and sometimes even with local Deorians).",
         "links": [
           "/ROOT/CULTURE/LANGUAGE/DEORIAN/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/CEIRAZ_DEORIAN",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFETRA",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFZR",
           "/ROOT/CULTURE/RELIGION/NONTHEISTIC/PACEMISM/MAIN"
         ],
         "meta": {
           "author": "<@!366044218742800385>",
-          "editor": "<@220352318510596096>",
+          "editor": "<@366044218742800385>",
           "madeTime": "2020/11/30 23:13:24",
-          "editTime": "2020/12/02 18:10:30"
+          "editTime": "2021/10/31 01:11:48"
         },
         "extension": "TEXT"
       },
@@ -11753,18 +11762,18 @@
         "name": "Deorian Wheat",
         "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/VOTOID/FIE",
         "isUp": true,
-        "data": "css\n┌─────────────────────────────────┐\n│Group Name.........: Field, Sheaf│\n│Youngling Name.....: Sprout      │\n│Status.............: Safe        │\n│Vivotype...........: Daerus      │\n│Archetype..........: Votoid      │\n│Domestication......: Domesticated│\n│Intelligence Class.: Responsive  │\n│Lifespan...........: 1.35±0.2 yrs│\n│Time to Maturity...: 1.25±0.1 yrs│\n│# Physical Sexes...: 1           │\n│Sexual Polymorphism: N/A         │\n│Procreation Method.: Passive     │\n│Diet/Resource Input: Photovorous │\n│Respiratory Gas....: C02         │\n│Weight.............: 0.4±0.2kg   │\n│Height.............: 115±18cm    │\n│Thermal Range......: 295±22K     │\n│Blood Volume.......: N/A         │\n│Min Conscious Blood: N/A         │\n│Top Speed..........: N/A         │\n└─────────────────────────────────┘\n\n    Deorian wheat, called \"Fìe\" in [!1 Deorian], is a tall, grain-bearing grass plant that grows natively on [!2 Deoria].  Its grains make up many staple foods on Deoria and Deorian worlds, and the plant is farmed on massive scales on such planets.  When in its developmental stages, the wheat appears a bright emerald color.  Once the wheat has blossomed and ripened, it is usually a lighter, more muted shade of green.  The grains, when crushed into flour or meal, make for a light green powder which has numerous applications, primarily in cooking food.\n\n    Deorian wheat is the domesticated form of a type of wild grain that would’ve grown out in the vast Deorian grasslands in ancient times.  There is considerable historical evidence that shows that grain in general has been harvested since long before the beginning of written history, perhaps even having served as nutrition for an ancestor of the Deorian species as a whole.  It is believed that Deorian wheat was first cultivated by an ancient civilization that occupied an area that is now a part of [!2 Milland].\u0000css\n    The grain was originally ground into a coarse meal which would have either been boiled down with water into a thick porridge -- potentially sweetened with pieces of fruit or berries -- or simply mixed with water to form a lean dough, rolled out to be thin, and baked in the residual heat of a recently-used clay oven to make an unleavened flatbread.  This flatbread would’ve likely been consumed alongside a roasted fowl or [!3 Isfe], or, alternatively, toasted a little more until hard and dry and used as a travel food.\n    \n    It is theorized that yeast (or yeast-like cultures of microbe) was first cultivated by accident using Deorian wheat, potentially when an individual left uncooked porridge to sit during a warm season.  Regardless of origin, the discovery of yeast was revolutionary for ancient Deorian cuisine; soon, bread was almost always baked with the addition of a yeast culture by most advanced agrarian civilizations.  As time progressed, the usage of Fìe flour/meal became more and more widespread and diverse, soon being used for all sorts of culinary applications, from historical breads and porridges, to gravies and sauces to pastries.\n    \n    Apart from being used in food, Fìe is also used as feed for many domesticated animals.\n\n    Evidently, wild [!3 Isfetra] are drawn to this plant's grains, and have frequently posed a problem for Deorian wheat farmers, who often manage to discover burrows near or in their fields.  To combat this problem, farmers would’ve traditionally \"hired\" [!4 Niprabe] to help keep watch over their fields while they weren’t around. In modern times, the preferred solution is to simply coat the crops in pesticide which are highly effective at deterring Isfetra, but are mostly harmless to Deorians, Niprabe, and most common farm animals.  The pesticide can be washed off after harvesting by simply soaking the harvested grains in water for a few hours.  This is typically done before the grain is sold or used.",
+        "data": "css\n\n┌─────────────────────────────────┐\n│Group Name.........: Field, Sheaf│\n│Youngling Name.....: Sprout      │\n│Status.............: Safe        │\n│Vivotype...........: Daerus      │\n│Archetype..........: Votoid      │\n│Domestication......: Domesticated│\n│Intelligence Class.: Responsive  │\n│Lifespan...........: 1.35±0.2 yrs│\n│Time to Maturity...: 1.25±0.1 yrs│\n│# Physical Sexes...: 1           │\n│Sexual Polymorphism: N/A         │\n│Procreation Method.: Passive     │\n│Diet/Resource Input: Photovorous │\n│Respiratory Gas....: C02         │\n│Weight.............: 0.4±0.2kg   │\n│Height.............: 115±18cm    │\n│Thermal Range......: 295±22K     │\n│Blood Volume.......: N/A         │\n│Min Conscious Blood: N/A         │\n│Top Speed..........: N/A         │\n└─────────────────────────────────┘\n\n    Deorian wheat, called \"Fïs\" in [!1 Deorian], is a tall, grain-bearing grass plant that grows natively on [!2 Deoria].  Its grains make up many staple foods on Deoria and Deorian worlds, and the plant is farmed on massive scales on such planets.  When in its developmental stages, the wheat appears a bright emerald color.  Once the wheat has blossomed and ripened, it is usually a lighter, more muted shade of green.  The grains, when crushed into flour or meal, make for a light green powder which has numerous applications, primarily in cooking food.\n\n    Deorian wheat is the domesticated form of a type of wild grain that would’ve grown out in the vast Deorian grasslands in ancient times.  There is considerable historical evidence that shows that grain in general has been harvested since long before the beginning of written history, perhaps even having served as nutrition for an ancestor of the Deorian species as a whole.  It is believed that Deorian wheat was first cultivated by an ancient civilization that occupied an area that is now a part of [!2 Milland].\u0000css\n\n    The grain was originally ground into a coarse meal which would have either been boiled down with water into a thick porridge -- potentially sweetened with pieces of fruit or berries -- or simply mixed with water to form a lean dough, rolled out to be thin, and baked in the residual heat of a recently-used clay oven to make an unleavened flatbread.  This flatbread would’ve likely been consumed alongside a roasted fowl or [!3 Isf], or, alternatively, toasted a little more until hard and dry and used as a travel food.\n    \n    It is theorized that yeast (or yeast-like cultures of microbe) was first cultivated by accident using Deorian wheat, potentially when an individual left uncooked porridge to sit during a warm season.  Regardless of origin, the discovery of yeast was revolutionary for ancient Deorian cuisine; soon, bread was almost always baked with the addition of a yeast culture by most advanced agrarian civilizations.  As time progressed, the usage of Fi̤s flour/meal became more and more widespread and diverse, soon being used for all sorts of culinary applications, from historical breads and porridges, to gravies and sauces to pastries.\n    \n    Apart from being used in food, Fïs is also used as feed for many domesticated animals.\n\n    Evidently, wild [!3 Isfžr] are drawn to this plant's grains, and have frequently posed a problem for Deorian wheat farmers, who often manage to discover burrows near or in their fields.  To combat this problem, farmers would’ve traditionally \"hired\" [!4 Ni̤fra̤v] to help keep watch over their fields while they weren’t around. In modern times, the preferred solution is to simply coat the crops in pesticide which are highly effective at deterring Isfžr, but are mostly harmless to Deorians, Ni̤fra̤v, and most common farm animals.  The pesticide can be washed off after harvesting by simply soaking the harvested grains in water for a few hours.  This is typically done before the grain is sold or used.",
         "links": [
           "/ROOT/CULTURE/LANGUAGE/DEORIAN",
           "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFETRA",
-          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIPABRE"
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/RODENOID/ISFZR",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/NIFRAV"
         ],
         "meta": {
           "author": "<@!366044218742800385>",
-          "editor": "<@220352318510596096>",
+          "editor": "<@366044218742800385>",
           "madeTime": "2021/02/15 08:25:20",
-          "editTime": "2021/02/15 08:30:53"
+          "editTime": "2021/10/23 03:33:00"
         },
         "extension": "TEXT"
       },
@@ -12167,7 +12176,7 @@
         "name": "Kayan",
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
         "isUp": true,
-        "data": "css\n┌──────────────────────────┐\n│Radius.........: 4,271km  │\n│Atm. Rating....: A        │\n│Atm. Height....: 151km    │\n│Atm. Pressure..: 0.9 atm  │\n│Surf. Gravity..: 0.71G    │\n│Hydrosphere....: Water,78%│\n│Precipitation..: 325cm/y  │\n│Obliquity......: 1.15°    │\n│Average Temp...: 312K     │\n│Rotation Period: 23Hrs    │\n│Orbital Period.: 0.78Yr   │\n│Population.....: 12.4B    │\n│Majority Race..: Tyvent   │\n│Allegiance.....: Neo-Urra │\n└──────────────────────────┘\n\n    Kayan, formerly \"Nastimye\", is a hot and humid planet in the Celesse system.  As the Homeworld of the [!1 Tyvant race], it had been colonised and civilized since ancient times, and was the capital world of [!2 Tyventia] until this status was transferred to [!3 Quaen] in 82.  The Planet does not experience differing seasons due to its very low Obliquity.  The planet’s land mass is divided into six major continents which represent 19% of the surface area of the planet.  An additional 3% of the surface consists of small islands and scattered landmasses, meaning a total 22% of the planet`s surface is land, with the other 78% being water.\n    \n    Due to the absence of seasons and weak marine currents, the temperature across the planet is mostly constant, which the average temperature of any point on the surface being almost entirely determined by its latitude; most of the landmasses near the equator are desert or savannah, while extreme (near-polar) latitudes are tundras and ice deserts.  One peculiarity of the planet is its coastlines -- while most its coasts are irregular, some other parts form a warped yet quasi-perfect arc.  Simulations of the continental drift have led to the theory that all of the landmasses of kayan were arranged in an almost-perfect circle two supercontinents ago.\u0000css\n    The planet is densely-populated due to being a homeworld for the [!1 Tyvant species], and is at the center of the trade routes in the Tyventian sector.  It was for this very reason that after the loss of Urra, the Neo Urran empire has chosen Nastimye as its new capital, this was at this time that The name was changed, in order to help the transition, from its old tyventian identity to its new Neo Urran one.     The planet has a thriving mining industry due to abundant concentrations of iron oxide, titanium, gold, aphta, aluminium and other ores in a geological layer dating from approximately 620 million year ago, which is present almost everywhere on the planet.\n\n    Under Tyventan rule, Nastimye was the capital of the very-centralised Tyventian empire, and as such hosted a vibrant economy.  The heavy concentration of useful materials in the planet's soil helped fuel the expansion of the empire, which, was the largest single nation in the [!4 Silver Stream] by territory (number of planets).  After the invasion of 82, the planet was the economic barycenter of the [!5 Urran Empire] due to the amount of infrastructure already in place.  After 5 years of recession caused by the annexation, the planetary economy restarted its growth.  And finally, after the battle of Armalai and the empire's loss of [!6 Planetary Urra], the planet became the capital of an empire again and large efforts have been undertaken to get the administrative infrastructures of the planet to work as a capitol again.",
+        "data": "css\n┌──────────────────────────┐\n│Radius.........: 4,271km  │\n│Atm. Rating....: A        │\n│Atm. Height....: 151km    │\n│Atm. Pressure..: 0.9 atm  │\n│Surf. Gravity..: 0.71G    │\n│Hydrosphere....: Water,78%│\n│Precipitation..: 325cm/y  │\n│Obliquity......: 1.15°    │\n│Average Temp...: 312K     │\n│Rotation Period: 23Hrs    │\n│Orbital Period.: 0.78Yr   │\n│Population.....: 12.4B    │\n│Majority Race..: Tyvent   │\n│Allegiance.....: Neo-Urra │\n└──────────────────────────┘\n\n    Kayan, formerly \"Nastimye\", is a hot and humid planet in the Celesse system.  As the Homeworld of the [!1 Tyvant race], it had been colonised and civilized since ancient times, and was the capital world of [!2 Tyventia] until this status was transferred to [!3 Quaen] in 82.  The Planet does not experience differing seasons due to its very low Obliquity.  The planet’s land mass is divided into six major continents which represent 19% of the surface area of the planet.  An additional 3% of the surface consists of small islands and scattered landmasses, meaning a total 22% of the planet`s surface is land, with the other 78% being water.\n    \n    Due to the absence of seasons and weak marine currents, the temperature across the planet is mostly constant, which the average temperature of any point on the surface being almost entirely determined by its latitude; most of the landmasses near the equator are desert or savannah, while extreme (near-polar) latitudes are tundras and ice deserts.  One peculiarity of the planet is its coastlines -- while most its coasts are irregular, some other parts form a warped yet quasi-perfect arc.  Simulations of the continental drift have led to the theory that all of the landmasses of kayan were arranged in an almost-perfect circle two supercontinents ago.\u0000css\n    The planet is densely-populated due to being a homeworld for the [!1 Tyvant species], and is at the center of the trade routes in the Tyventian sector.  It was for this very reason that after the loss of Urra, the Neo Urran empire has chosen Nastimye as its new capital, this was at this time that The name was changed, in order to help the transition, from its old tyventian identity to its new Neo Urran one.     The planet has a thriving mining industry due to abundant concentrations of iron oxide, titanium, gold, aphta, aluminium and other ores in a geological layer dating from approximately 620 million year ago, which is present almost everywhere on the planet.\n\n    Under Tyventan rule, Nastimye was the capital of the very-centralised Tyventian empire, and as such hosted a vibrant economy.  The heavy concentration of useful materials in the planet's soil helped fuel the expansion of the empire, which, was the largest single nation in the [!4 Silver Stream] by territory (number of planets).  After the invasion of 82, the planet was the economic barycenter of the [!5 Urran Empire] due to the amount of infrastructure already in place.  After 5 years of recession caused by the annexation, the planetary economy restarted its growth.  And finally, after the Battle of Armalai and the empire's loss of [!6 Planetary Urra], the planet became the capital of an empire again and large efforts have been undertaken to get the administrative infrastructures of the planet to work as a capitol again.",
         "links": [
           "/ROOT/BIOLOGY/RACES/TYVANT/TYVANT_GENERAL",
           "/ROOT/NATIONS/TYVENTIA/MAIN",
@@ -12180,7 +12189,7 @@
           "author": "<@!329216363447058434>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/04/02 21:08:42",
-          "editTime": "2021/04/02 21:24:11"
+          "editTime": "2021/10/06 20:03:06"
         },
         "extension": "TEXT"
       },
@@ -12888,16 +12897,17 @@
         "name": "Gallean Government Programs",
         "path": "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS",
         "isUp": true,
-        "data": "css\n    [!1] +Gallean Social Uplift Program [Unwritten]\n    [!2] +Gallean Reconstruction Program [Discontinued",
+        "data": "css\n    [!1] +Gallean Social Uplift Program [Unwritten]\n    [!2] +Gallean Reconstruction Program [Discontinued]\n    [!3] +Gallean Transit Authority [Unwritten]",
         "links": [
           "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GSUP",
-          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GRP"
+          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GRP",
+          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GTA"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/07/18 23:29:58",
-          "editTime": "2021/07/18 23:32:17"
+          "editTime": "2021/10/29 00:28:16"
         },
         "extension": ""
       },
@@ -12961,7 +12971,8 @@
         "isUp": true,
         "data": "css\n    [!1] +Tyventian Noodles",
         "links": [
-          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/NOODLES"
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/NOODLES",
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/TYVENTIAN_NOODLE_SOUP"
         ],
         "meta": {
           "author": "<@220352318510596096>",
@@ -12975,13 +12986,240 @@
         "name": "Tyventian Noodles",
         "path": "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/NOODLES",
         "isUp": true,
-        "data": "css\n┌──────────────────────────────────────┐\n│Planet of Origin.: Kayan              │\n│Time Period......: Prehistoric-Present│\n│Ingredients......: Noodles, water,    │\n│vegetables, eggs, meat, sauces, spices│\n│Preparation Needs: Heat               │\n└──────────────────────────────────────┘\n\n    Tyventian noodle soup is a family of traditional noodle soup dishes originating from [!1 Kayan].  Traditionally, most Tyventian noodle soups are spicy and slightly sweet, while the noodles themselves are chewy and toothsome, deeply-flavored from having been cooked in broth.  Tyventian noodles are popular throughout New Tyventia and Neo Urra, alongside several ethnic enclaves within other nations.\n\n    Noodles are a staple food for the majority of the [!2 Tyvant] population, especially for the working class, who find noodle soup to be easy to prepare and applicable to any palette.  This dish is usually consumed in the evening as dinner: the broth, if made from scratch, is started on in the morning, simmers throughout the day, and is ready for use in a noodle soup recipe by dusk.  The usual accompaniment for Tyventian noodle soups is a green salad, most popularly Tyventian Mint Salad.\n\n    To prepare this dish, vegetables, pieces of meat, boiled eggs, herbs, spices, sauces, et cetera, are added to a simmering broth, followed by the noodles some time after.  Once everything has cooked, the dish is ready to be served.\n\n    Historical evidence shows that noodle soup has been consumed on Kayan ever since grains were first milled into flour.  As time went by, the soup began to increase in complexity, with new seasonings and flavors being added as trade caused ingredients to be diffused across Kayan.  Now, modern Tyventian Noodle Soup has hundreds of different variants, each made to cater to a specific palette.",
+        "data": "css\n┌──────────────────────────────────────┐\n│Planet of Origin.: Kayan              │\n│Time Period......: Prehistoric-Present│\n│Ingredients......: Noodles, water,    │\n│                   vegetables, eggs,  │\n│                   meat, sauces,      │\n│                   spices             │\n│Preparation Needs: Heat               │\n└──────────────────────────────────────┘\n\n    Tyventian noodle soup is a family of traditional noodle soup dishes originating from [!1 Kayan].  Customarily, most Tyventian noodle soups are spicy and slightly sweet, while the noodles themselves are chewy and toothsome, deeply-flavored from having been cooked in broth.  Tyventian noodles are popular throughout New Tyventia and Neo Urra, alongside several ethnic enclaves within other nations.\n\n    Noodles are a staple food for the majority of the [!2 Tyvant] population, especially for the working class, who find noodle soup to be easy to prepare and applicable to any palette.  This dish is usually consumed in the evening as dinner: the broth, if made from scratch, is started on in the morning, simmers throughout the day, and is ready for use in a noodle soup recipe by dusk.  The usual accompaniment for Tyventian noodle soups is a green salad, most popularly Tyventian Mint Salad.\n\n    To prepare this dish, vegetables, pieces of meat, boiled eggs, herbs, spices, sauces, et cetera, are added to a simmering broth, followed by the noodles some time after.  Once everything has cooked, the dish is ready to be served.\n\n    Historical evidence shows that noodle soup has been consumed on Kayan ever since grains were first milled into flour.  As time went by, the soup began to increase in complexity, with new seasonings and flavors being added as trade caused ingredients to be diffused across Kayan.  Now, modern Tyventian Noodle Soup has hundreds of different variants, each made to cater to a specific palette.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
+          "/ROOT/BIOLOGY/RACES/TYVANT/TYVANT_GENERAL"
+        ],
+        "meta": {
+          "author": "<@!366044218742800385>",
+          "editor": "<@366044218742800385>",
+          "madeTime": "2021/07/26 22:13:01",
+          "editTime": "2021/10/23 03:11:05"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/CALENDAR/CONFLICTS/CIVIL_WARS",
+        "isUp": true,
+        "data": "[Unwritten]",
         "links": [],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
-          "madeTime": "2021/07/26 22:13:01",
-          "editTime": "2021/07/26 22:13:49"
+          "madeTime": "2021/07/26 22:31:14",
+          "editTime": "2021/07/26 22:31:14"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Furstian Deorians",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/FURSTIAN",
+        "isUp": true,
+        "data": "css\n┌───────────────────────────────────┐\n│Group Name.........:Party/Gathering│\n│Youngling Name.....:Bet/Youngling  │\n│Status.............:Safe           │\n│Vivotype...........:Daerus         │\n│Archetype..........:Humanoid       │\n│Domestication......:N/A            │\n│Intelligence Class.:Sapient        │\n│Lifespan...........:27±10.4 Yrs    │\n│Time to Maturity...:8±1.2 Yrs      │\n│# Physical Sexes...:2              │\n│Sexual Polymorphism:Moderate       │\n│Procreation Method.:Interactive    │\n│Diet/Resource Input:Biovorous      │\n│Respiratory Gas....:Oxygen         │\n│Weight.............:80±10Kg        │\n│Height.............:160±10cm       │\n│Thermal Range......:292±19K        │\n│Blood Volume.......:6.3L           │\n│Min Conscious Blood:4.3L           │\n│Top Speed..........:2±0.3m/s       │\n└───────────────────────────────────┘\n\n    The Furstians are a sapient race, apparently originating from the craggy mountain ranges of the [!1 Deorian continent of Milland].  The species bears a B-type body, with digitigrade legs and well-furred bodies.  Furstian fur covers most of the body lightly and quite evenly, but grows out longer and thicker on the top of the head and around the groin.  The color of this fur can range from a variety of shades, most typically brown, black, white, gray, red, and/or cream, depending on the genetic makeup of the subject.  Furstians have four clove digits per each of their two hands along with four cloves on each foot.  Trailing from their backs are long, thick tails which are used primarily for balance when standing upright and for other various activities, such as communal huddling, cuddling, and unarmed combat.  Upon their heads, Furstians also bear two long, pointy, concave, front-facing, orientable ears, alongside a pair of boney antlers.\u0000css\n    Within their mouths, Furstian males have an iconic pair of long, sharp, lengthy canine teeth (though those of a female are just a bit smaller and slightly less prominent).  The noses and jaws of a Furstian protrude a noticeable distance from the rest of the face, forming a sort of muzzle.  Furstian sclerae are brown while their triangular irises may be of a variety of colors, depending on genetics.\n\n    It is observed that Furstian leg muscles are quite well-defined and naturally well-toned, though a seamless explanation as to why is currently lacking, with the best theory claiming the need for leg strength in mountaineering.  Despite this, their top movement speed is still a bit lower than that of other bipedal species, as their legs are rather clumsy by nature; as previously stated, Furstians rely on their tails for bipedal support to some extent.  Some may cite a paradox pertaining to how Furstians supposedly have muscular frames for mountain climbing despite having slightly undexterous legs, which should theoretically discourage the traversal of rough terrain.  In reality, however, Furstians have been noted to naturally excel decently in mountaineering, in spite of their klutzy legs.\n\n    Furstians are apparently biologically hardwired to be more sociable and amiable creatures.  Due to this, Furstians tend to grow to become excellent at efficient communication, and have a reputation for being very eloquent in delivering ideas and are just as good at receiving them.\u0000css\n\n    There has been much debate in the past over whether Furstians should be considered a race of [!2 Deorian] or as its own species.  Genetically speaking, Furstians do share more than 99% of their DNA with [!3 Ricefieldic Deorians], though the physical and psychological differences cannot so easily be ignored.  It is believed that Furstians are from an offshoot of a common ancestor shared with Ricefieldic Deorians, which somehow crossed into the far-fletched regions of Polensend and isolated their communities from other Deorians for a few eons, resulting in the creation of a unique branch.  As of now, the general consensus mandates that Furstians are, indeed, their own species, but are to be referred to as “Furstian Deorians” for semantic and political reasons.\n\n    Despite this, Furstian Deorians can crossbreed with other Deorians and create offspring, called \"Zgorians\".  However, Zgorians are infertile due to Furstians and Deorians having different numbers of chromosomes.  Their expected lifespan is also reduced by about 3 years.\n\n    An interesting fact to note: caffeine (a stimulant/pesticide present primarily in a particular family of roots originating from [!4 Itascus]) has aphrodisiac-like and intoxicating effects on the Furstian species, effects somewhat similar to those caused by [!5 Ceiraz] \"aphroteasiac\", but significantly amplified to the point of even causing dangerous and/or risky behavior.  If too much is ingested, the individual will begin to experience a euphoric high accompanied by mild delusions and the exhibition of extraordinarily inappropriate behaviors.  If a critical amount is metabolized, the subject may go into cardiac arrest and die.  Due to this, the production, sale, and consumption of any food or drink containing a non-negligible amount of caffeine among Furstians is well-regulated.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
+          "",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/RICEFIELD_DEORIAN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/CEIRAZ_DEORIAN"
+        ],
+        "meta": {
+          "author": "<@!366044218742800385>",
+          "editor": "<@366044218742800385>",
+          "madeTime": "2021/10/28 23:43:48",
+          "editTime": "2021/10/30 23:44:08"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Gallean Social Uplift Program",
+        "path": "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GSUP",
+        "isUp": true,
+        "data": "css\n    The Gallean Social Uplift Program, or GSUP, is a strategic social welfare program operated by the [!1 Gallean government].  Its priority is the rapid development of under-developed regions on the planet of [!2 Gallea].  It took on the responsibilities of the [!3 Gallean Reconstruction Program] in the year -20 P.W. when it was reinstated and reformed into the GSUP.  The goal of the program is to create a globally balanced but regionally specialized economic situation on Gallea. \n\n    Every 2 [!2 Gallean years], the GSUP compiles a list of the most underdeveloped, poverty-stricken, unemployed, and unhealthy cities, towns, or even regions; this list is known as the Necessary Uplift Priority (NUP).  The GSUP then does a long process of calculating the costs of uplifting those locations.  After expenses have been calculated and plans drawn, the most severe areas on the NUP will get the necessary funding allocated and uplift will be initiated; this is done in a process of greenlighting the uplift of the most severe region, then greenlighting the next most severe until the necessary funds for the next most severely needed uplift on the NUP is too much for the project's funds.  The leftover funds that were deemed too little to fund a new uplift would be allocated as needed to the current uplifts.\n\n    Uplifting, as defined by the GSUP charter, is the socio-economic improvement of a poor region/location to where the average per capita wealth is above $20,000 [!4 ITC] a year.  Uplifting occurs in phases: the 1st phase is infrastructure, the 2nd is public transport, the 3rd is strategic stimulus. \n\n    In the 1st phase, infrastructure for transport, water, electricity, gas, etc., is repaired, then expanded within the region.  Thanks to the successes of the GRP, this phase is normally very complete and is still a part of the GSUP to ensure that nothing is missed.\u0000css\n    In the 2nd phase, comprehensive networks of public transport, from buses to monorails to even subways are planned and developed.  Local, interregional, and global routes are then connected with the transport system.  The entirety of the system is free for Galleans to use and has been shown to improve the ability for Galleans to commute while reducing costs.  After GSUP has created these transport options, the responsibility of maintaining and operating them is transferred to the [!5 Gallean Transit Authority], with whom they will be upkept and expanded with time. \n\n    In the 3rd phase, strategic stimulus, local companies and corporations alike receive incentives to set up shop in the region being focused on, or to expand their pre-existing operations.  The exact industries focused on depend on the region itself: some regions may have a strong tradition of film, for example, and as such the GSUP will focus on the local film industry.  If, instead, the area is perhaps rich in minerals, mining companies get the priority.  The intention is not to create balanced local economies, but specialized ones, each depending on another regional economy to create a sense of unity throughout the planet. \n\n    Not every uplift will follow these phases exactly, and most differ in at least one way, depending on the individual needs of a region or township.",
+        "links": [
+          "/ROOT/NATIONS/GALLEA",
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN",
+          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GRP",
+          "/ROOT/MARKET/CURRENCY/GCP",
+          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GTA"
+        ],
+        "meta": {
+          "author": "<@!301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/10/29 00:31:19",
+          "editTime": "2021/10/29 00:32:44"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Tyventian Meatball Soup",
+        "path": "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/TYVENTIAN_NOODLE_SOUP",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────────────────┐\n│Type of Food.......: Tyventian Noodle Soup│\n│Time Period........: 50-Present           │\n│Special Ingredients: Meatballs, fries     │\n│Preparation Needs..: Heat                 │\n│Unit Price.........: $3-$8                │\n│Servings per Unit..: 1-2                  │\n│Unit Package.......: Can                  │\n│Serving Mass.......: 400-700g             │\n│Serving Calories...: 300-500 Calories     │\n│Nutrient Sources...: Fat, Protein, Carbs  │\n│Consumption Setting: Causal, Recreation,  │\n│                     Home, Street         │\n│Producer...........: Various              │\n└──────────────────────────────────────────┘\n\n    [!1 Tyventian noodle soup] has been consumed on [!2 Kayan] since the planet’s ancient times, but more recent interactions with extraterrestrial civilizations have brought about a plethora of modern variations on the traditional dish.  During the 50’s, [!3 Itascan] xeno-cuisine researchers arrived on [!1 Kayan] to study and record the culinary cultures present on the planet.  Returning to [!4 Itascus], they brought back the ancient recipe, and it was shared amongst various cooks, corporations, and food scientists around the globe.  Despite the prominence of seafood on Itascus, however, the classic snails and other Tyventian seafood options were not very palatable to most, and the process of de-snailing the shells was rather foreign to many younger Itascans, especially to those who lived far inland or in mountainous regions.  Thus, the snails were commonly replaced in Itascan culinary settings; one of the most common replacements for the snails other than native mollusks is Itascan meatballs with [!5 Tyventian] seasoning, and the dish is almost always accompanied with fries at most restaurants.\u0000css\n    Tyventian meatball noodle soup, alongside the other Itascanized variations of the traditional dish, is a landmark of Itascan-Tyentian cultural exchanges.  Many Itascan-Tyventian enclaves on Itascus use the dish as an icon of their dual-heritage.\n\n    While the dish is consumed by all social classes, its canned form (minus the fries, which cannot be effectively canned with the soup) was made to appeal to the working class, serving as a quick and easy-to-prepare meal for those who have little time to prepare the soup the traditional way, or for those who lack the money to purchase all the ingredients necessary to make the dish in its entirety.  The soup is also typically seen being sold by Tyventian street food vendors in Tyventian enclaves.\n\n    Native Tyventians have relatively mixed opinions on the meatball variation of their cultural dish: some enjoy the strong, rich taste of the Itascan-style meatballs and the addition of fries to the plating, while others see it as a bastardization of their beloved culinary traditions. \n\n    When preparing the meatball variation of Tyventian noodle soup, small meatballs (which may be made of any kind of meat, most popularly fish, shellfish, or livestock) are added to the broth as it simmers instead of snails or chunks of shellfish being added nearing the end of the cooking time.  The meatballs add a stronger meaty flavor to the broth and the noodles.  As previously mentioned, fries are also usually served with the noodles, commonly seen simply being piled on top of the bowl.  Many are fond of soaking the fries in the soup, which makes the fries taste a little sweet and spicy.",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/NOODLES",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
+          "/ROOT/NATIONS/ITASCUS",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/NATIONS/NEW_TYVENTIA"
+        ],
+        "meta": {
+          "author": "<@!366044218742800385>",
+          "editor": "<@366044218742800385>",
+          "madeTime": "2021/10/29 01:02:43",
+          "editTime": "2021/10/31 01:09:22"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Itascan Food",
+        "path": "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD",
+        "isUp": true,
+        "data": "css\n    [!1] ~Tyventian Noodle Soup",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/TYVENTIAN_NOODLE_SOUP"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/10/29 01:26:52",
+          "editTime": "2021/10/29 01:27:10"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Itaus Vivotype",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS",
+        "isUp": true,
+        "data": "css\n   [!1] +Humanoid\n   [!2] +Arboid",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/ARBOID"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/10/29 01:45:59",
+          "editTime": "2021/10/29 01:47:59"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Itaus Humanoids",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID",
+        "isUp": true,
+        "data": "css\n    [!1] +Itascan Human",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/10/29 01:48:09",
+          "editTime": "2021/10/29 01:49:27"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Itaus Arboids",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/ARBOID",
+        "isUp": true,
+        "data": "css\n   [!1] +Pageenda Pepay",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/ARBOID/PAGEENDA_PEPAY"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/10/29 01:50:36",
+          "editTime": "2021/10/29 01:51:58"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Pageenda Pepay Plant",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/ARBOID/PAGEENDA_PEPAY",
+        "isUp": true,
+        "data": "css\n┌─────────────────────────────────────┐\n│Group Name.........:Forest/Bunch     │\n│Youngling Name.....:Sapling          │\n│Status.............:Safe             │\n│Vivotype...........:Itaus            │\n│Archetype..........:Arboid           │\n│Domestication......:Domesticated     │\n│Intelligence Class.:None             │\n│Lifespan...........:2±1 Yrs          │\n│Time to Maturity...:0.32±0.03 Yrs    │\n│# Physical Sexes...:3                │\n│Sexual Polymorphism:None             │\n│Procreation Method.:Interactive      │\n│Diet/Resource Input:Photovorous      │\n│Respiratory Gas....:Oxygen           │\n│Weight.............:401±44kg         │\n│Height.............:3±0.3m           │\n│Thermal Range......:292±10k          │\n│Blood Volume.......:N/A              │\n│Min Conscious Blood:N/A              │\n│Top Speed..........:N/A              │\n└─────────────────────────────────────┘\n\n    The Pageenda Pepay is a short and thin tree standing at around 3m tall populating the coastlines and islands of [!1 Itascus].  The trunk of the Pageenda Pepay tree is notably barren of any leaves or plumage, with a strange “platform” of branches forming just underneath the fruit.  It has a dozen simple mucronate leaves on its top, originating from the centre of the trunk; this is believed to have the purpose of being exposed to as much sunlight as possible and to channel water to its base.  The Pageenda fruit is large, heavy, and yellow, and when cracked open, has an orange-ish flesh with dozens of small, marble-sized seeds spread out across the entire plant.  The plant’s outer skin has two distinct phases: a soft and hard phase.  The hard phase spans from the germination to maturity of the fruit, after which the skin softens and becomes easier to crack or puncture.  The fruit is noticeably tasteless; however, its smell has been defined as very fragrant, and thus has been utilized by Itascan soapmakers for centuries.  The fruit itself weighs 2.5 to 3.5 kg.\u0000css\n    The history of the Pageenda Pepay dates back to prehistoric times, before the evolution of the modern [!2 Itascan species] as we know it.  During that time, the Pageenda family contained hundreds of different Pageenda species.  However, an unknown bottleneck in about -100,000,000 P.W. caused nearly all of them to go extinct, with the exception of two species.  One is the Pageenda Pepay, and the other is the Pageenda Magna.  Many of the defining features of the Pageenda Pepay originated from this bottleneck, wherein the need to specialize to a specific niche became necessary for the continued survival of the species.  It is believed that an endangered third Pageenda species existed until 17 P.W. but died out due to the environmental effects of the [!3 Itascan World War]; it is unknown if this is true, however, or if it was simply a different misclassified plant species that had not been previously discovered.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
+          "/ROOT/NATIONS/ITASCUS/HISTORY/WORLD_WAR"
+        ],
+        "meta": {
+          "author": "<@!308561420616728576>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/10/29 01:52:07",
+          "editTime": "2021/10/29 01:52:48"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Urro-Tyventian Skirmishes",
+        "path": "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRO-TYVENTIAN_SKIRMISHES",
+        "isUp": true,
+        "data": "css\n    [!1] +Battle of Grevaore\n    [!2] +Battle of the Salted Gates [Unwritten]",
+        "links": [
+          "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRO-TYVENTIAN_SKIRMISHES/GREVAORE",
+          "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRO-TYVENTIAN_SKIRMISHES/SALTED_GATES"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/11/02 21:37:29",
+          "editTime": "2021/11/02 21:55:14"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRO-TYVENTIAN_SKIRMISHES/GREVAORE",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────┐\n│Date Started: 18/1/103        │\n│Date Ended..: 18/1/103        │\n│Planet/Body.: [!1 Uterku]     │\n│Play Field..: Terrestrial     │\n│Belligerents:                 │\n│ UCM - ~5,000 Mineworkers     │\n│       and other UCM members  │\n│ UE  - ~6,000 Soldiers        │\n│       42 light vehicles.     │\n│Losses:                       │\n│ UCM - 594 Wounded            │\n│       123 Killed             │\n│       ~950 Arrested          │\n│ UE  - ~800 Wounded           │\n│       24 Killed              │\n│Outcome.....: UE Victory,     │\n│ Mining operations at Grevaore│\n│ continue to supply the Urran │\n│ Empire, UCM begins to        │\n│ decline.                     │\n└──────────────────────────────┘\n\n    The Battle of Grevaore was one in a series of clashes between Urran security forces and striking communities on the contested world of [!1 Uterku] amidst the instability in the Urran Empire’s territories following [!2 The Battle of Armalai] and Karmine Jacobs’ disappearance.  Keen not to repeat their disaster at the hands of Union of Communal Mineworkers members at the [!3 Battle of the Salted Gates], the Urrans rushed in anti-riot infantry and light vehicles from several garrisons when the miners of the town of Grevaore downed tools and pledged their allegiance to the UCM.  The UCM also deployed thousands of its own members to the area in support of the strikers, thus setting up another violent confrontation between the two sides.\u0000css\n    During the battle, the UCM deployed their typical style of primitive mass assaults against Urran lines, using improvised weapons and throwing whatever they could get their hands on.  However, these tactics proved less effective than the UCM had expected them to be at Grevaore, because this time, they did not outnumber their opponents to the point where they could be overwhelmed.  Periodically, the Urrans opened up their lines for Uttan vehicles to rush through and fire on strikers using either lethal or non-lethal ammunition, although vehicles were forced to retreat back behind Urran lines quickly, lest they were disabled or overrun.  These two factors quickly gave the Urrans the upper hand, and subsequently led to victory around 10 hours after the UCM’s first charge.  Many UCM strikers retreated completely, while a few dozen locals made a fatal last stand in the town.  During the night following the battle, all the residents of Grevaore the Urrans could locate were arrested and hundreds of security personnel occupied the town to guarantee the loyalty of replacement miners.\n\n    This battle was one of the more significant conflicts of the union strikes, as this was the first major defeat for the UCM.  The severe reprisals arguably prevented as many communities from joining the UCM, who otherwise would have supported them.  Indeed, the rate of communities joining the movement slowed down after the battle, although this certainly did not mark the end of bloody confrontations between the UCM and Urran forces.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/TYVENTIA_PRIME/UTERKU/MAIN",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
+          "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRO-TYVENTIAN_SKIRMISHES/SALTED_GATES"
+        ],
+        "meta": {
+          "author": "<@!521032462797897746>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/11/02 21:38:56",
+          "editTime": "2021/11/02 22:00:56"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "The Battle of the Salted Gates",
+        "path": "/ROOT/CALENDAR/CONFLICTS/TERRESTRIAL/URRO-TYVENTIAN_SKIRMISHES/SALTED_GATES",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/11/02 21:42:09",
+          "editTime": "2021/11/02 21:42:16"
+        },
+        "extension": ""
+      },
+      {
+        "name": ".338 Nui Banken",
+        "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/NBK",
+        "isUp": true,
+        "data": "css\n┌───────────────────────────┐\n│Use Period......:82-Present│\n│Weight..........:3.5Kg     │\n│Ammunition......:.338 ACR  │\n│Clip Capacity...:14 Rounds │\n│Shots/3 seconds.:2         │\n│Loading Type....:Semi-Auto │\n│Reload Time.....:9s        │\n│Accuracy Rating.:9         │\n│Precision Rating:4         │\n│AP Rating.......:5         │\n│Damage Type.....:Ballistic │\n│Manufacturer....:Arcuiro   │\n└───────────────────────────┘\n\n    The Nui Banken (NBK) was invented by the Armalai Defense Company (Arcuiro) in 82 P.W. It was created during a push to make Armalai`s military less reliant on foreign weapons imports. Specifically, the Nui Banken was made to fill in the role of a long-range rifle.  The rifle is a Semi-Automatic Sniper System (SASS) bullpup rifle, chambered in .338 ACR.\n\n    With a high-caliber round for long-range engagements, and medium railing on the top receiver for attachments, such as military-grade [!1 scopes], the BNK proves to be reliable and accurate from 200-1000 meters.  Its slow rate of fire is compensated for with high bullet speed.  The NBK`s reciever is made of forged steel, and its body is made out of a high-grade polymer.  The weapon costs $1,100 per unit to produce, and can be bought brand-new or on the civilian aftermarket for around $1,200 to $1,600 dollars [!2 ITC].",
+        "links": [
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/MODS/SCOPES",
+          "/ROOT/MARKET/CURRENCY/GCP"
+        ],
+        "meta": {
+          "author": "<@!412725000060141568>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/11/02 22:47:24",
+          "editTime": "2021/11/02 22:48:57"
         },
         "extension": ""
       }
