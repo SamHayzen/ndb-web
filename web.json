@@ -4025,7 +4025,7 @@
         "name": ".22 LongRifle",
         "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/22LR",
         "isUp": true,
-        "data": "css\n┌────────────────────────────┐\n│Use Period......:-32-Present│\n│Weight..........:2.6Kg      │\n│Rounds..........:.22        │\n│Clip Capacity...:5 rounds   │\n│Shots/5 seconds.:1          │\n│Loading Type....:Bolt-Action│\n│Reload Time.....:6s         │\n│Accuracy Rating.:6          │ \n│Precision Rating:3          │ \n│AP Rating.......:4          │ \n│Damage Type.....:Ballistic  │ \n│Manufacturer....:Various    │\n└────────────────────────────┘\n\n    The .22 LR is a common rifle used in hunting and similar activities across the [!1 GCP].  The .22 LR (‘LR' standing for ‘long rifle') is a long weapon, being about 80cm from muzzle to stock.  This gun is long enough that it's commonly carried by a strap along the back.  Atop the barrel is a Small Rail Mount, added with scopes or viewfinders in mind.  This weapon has a common sale price of around $275 across the GCP.\n\n    The .22 LR is a very basic type of firearm invented on [!2 Itascus] for small-game hunting.  Even to this day, it's primary use is still that of hunting on fauna-rich worlds.",
+        "data": "css\n┌────────────────────────────┐\n│Use Period......:-32-Present│\n│Weight..........:2.6Kg      │\n│Rounds..........:.22        │\n│Clip Capacity...:5 rounds   │\n│Shots/5 seconds.:1          │\n│Loading Type....:Bolt-Action│\n│Reload Time.....:6s         │\n│Accuracy Rating.:6          │ \n│Precision Rating:3          │ \n│AP Rating.......:4          │ \n│Damage Type.....:Ballistic  │ \n│Manufacturer....:Various    │\n└────────────────────────────┘\n\n    The .22 LR is a common rifle used in hunting and similar activities across the [!1 GCP].  The .22 LR (‘LR‘ standing for ‘long rifle‘) is a long weapon, being about 80cm from muzzle to stock.  This gun is long enough that it‘s commonly carried by a strap along the back.  Atop the barrel is a Small Rail Mount, added with scopes or viewfinders in mind.  This weapon has a common sale price of around $475 across the GCP.\n\n    The .22 LR is a very basic type of firearm invented on [!2 Itascus] for small-game hunting.  Even to this day, it‘s primary use is still that of hunting on fauna-rich worlds.",
         "links": [
           "/ROOT/NATIONS/GCP/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS"
@@ -4034,7 +4034,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/03/16 13:00:55",
-          "editTime": "2019/10/06 02:10:41"
+          "editTime": "2021/12/07 19:48:42"
         },
         "extension": ""
       },
@@ -10067,9 +10067,9 @@
           "author": "<@652028898111913985>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/12/29 09:56:20",
-          "editTime": "2020/02/12 02:17:52"
+          "editTime": "2021/12/13 19:11:17"
         },
-        "extension": "DOUB"
+        "extension": "TEXT"
       },
       {
         "name": "The Apocalypse Collision Incident",
@@ -12078,15 +12078,17 @@
         "name": "Artificial Intelligence",
         "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI",
         "isUp": true,
-        "data": "css\n    [!1] +Coefficient Node Matrixes",
+        "data": "css\n    [!1] +Coefficient Node Matrixes\n    [!2] >Talhov Brains\n    [!3] >Expert Systems [Unwritten]",
         "links": [
-          "/ROOT/TECHNOLOGY/COMPUTERS/AI/CNM"
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/CNM",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/EXPERT_SYSTEMS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/03/08 19:28:03",
-          "editTime": "2021/04/09 23:23:09"
+          "editTime": "2021/12/13 19:45:21"
         },
         "extension": ""
       },
@@ -13280,6 +13282,108 @@
           "editTime": "2021/12/07 01:25:26"
         },
         "extension": "TEXT"
+      },
+      {
+        "name": "Talhov Brains",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV",
+        "isUp": true,
+        "data": "css\n    [!1] +Info\n    [!2] +Talhov Brain AIs\n    ----\n    [!3] +Talhov Framework\n    [!4] +Chatter Nodule\n    [!5] +PWAS Nodule\n    [!6] +Vision Nodule",
+        "links": [
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/MAIN",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/AIS",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/FRAMEWORK",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/CHATTER",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/PWAS",
+          "",
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/VISION"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 19:45:39",
+          "editTime": "2021/12/13 22:02:47"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Talhov Brains",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/MAIN",
+        "isUp": true,
+        "data": "css\n    A Talhov Brain, also known by some as a \"Chesk Brain\", is a type of self-teaching Artificial Intelligence built on a [!1 Talhov Framework].  Talhov Brains are most often used for autonomous movement of robotic systems, visual and audio recognition, and general-purpose human-oriented intelligence.  A Talhov Brain is the most plastic and general-purpose artificial intelligence known to the [!2 GCP], but conversely, it is also incredibly spontanous and unreliable.  While Talhov Brains are commonly used for human-like intelligences, they typically underperform biological humans in social settings, and are seen as unintelligent.  However, the speed at which Talhov Brains solve problems (whether the solution is correct or not) is typically considerably faster than that of most humans.  Socially-oriented Talhov Brains are known to have simple emotions, identical to most human emotions and moods (due to the AIs having been trained on real-world people).\n    \n    Talhov Brains are most commonly used for small autonomous robots, personal companions, and chatbots.  However, they are rarely used for automating devices or systems, especially not heavy machinery with little margin for error -- Talhov Brains, being built on the Talhov Framework, are notably spontanous and curious, meaning they will experiment and \"play\" with any hardware they are at the helm of, which can be very risky if the AI is placed in a position of responsibility or operation of dangerous hardware, such as industrial machinery, weaponry, or motor vehicles and spacecraft.\u0000css\n    This system was developed in the year 92 by a [!3 Tuine] scientist named Chesk Talhov, a computer hardware engineer with paranoid schizophrenia.  Chesk had set out using random number generation and artificial intelligence in an attempt to talk directly to God.  In order to collect the massive amount of data on spoken language he needed, he created the website [!4 BT.CHATTERBOX], which was a website where people could connect and \"Talk to an AI\" over voice or text.  The website became very popular across the galactic internet, gaining hundreds of thousands of unique visitors.  The site remained up for a period of one [!5 galactic year], over which the AI became noticably more humanlike in is conversational abilities and speech recognition (though still distinctly unhuman).  During this time, Chesk was still refining the Talhov Framework, off of which all Talhov Brains are built.  He also released many small, online games, also made to gather data to train AI.  After this period, the Chatter service went offline, with the front page of the website only showing a note thanking all of the site's users for their continued support.\u0000css\n    After Chatterbox went offline, Chesk Talhov had all the data he needed, and created a Nodule for his framework that talked and thought like a low-intelligence human.  Talhov released this framework, and the nodule, for free online, and it was quickly adopted by many programmers and hacker groups.  Within weeks, hundreds of thousands of instances of Talhov Brains were being used by hundreds of unconnected hacker groups to commit cyber crimes.  The majority of these crimes were in the form of automated scams, costing an estimated total of $1,400,000,000 in losses in the year 93.  Due to the unprecidented nature and scale of the scams, state governments assumed it was done by a previously-unknown organized crime syndicate.  The scam software was traced back to Chesk Talhov, and he was arrested by [!3 Tuine] state police within 10 days of posting the Talhov Framework.  He was cleared of his suspicion of committing the above crimes, but he remained in custody of the state, where he still is to this day.  Many suspect that he is currently secretively working for the Tuine state government.  However, this theory unconfirmed and unsubstantiated.",
+        "links": [
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/FRAMEWORK",
+          "/ROOT/NATIONS/GCP",
+          "/ROOT/NATIONS/BIUS_TU",
+          "BT.CHATTERBOX",
+          "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 19:57:46",
+          "editTime": "2021/12/13 22:08:30"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Talhov Framework",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/FRAMEWORK",
+        "isUp": true,
+        "data": "css\n    The Talhov Framework is an AI Framework based of [!1 CNM] technology.  AIs built with the Talhov Framework are self-learning, curious intelligences with human-like problem solving.  The Talhov Framework was invented in the year 93 by Chesk Talhov.  The Talhov Framework achieves its self-learning capabilities through constantly reprogramming itself in a manner similar to how organic neuron bundles in biological brains do.  Due to the manner of their creation, Talhov Framework AIs have \"emotions\" or \"moods\", which assist with decision making.  Due to being trained on mostly human-generated and human-oriented data, these emotions mirror human ones, including joy, anger, sadness, and even fear.  Though, many insist these emotions are surface-level and ungenuine.\n    \n    Talhov Framework AIs are very \"Curious\", and have a sufficient understanding of cause and effect, commonly trying new outputs and observing how they effect the environment around them.  This trait of curiously helps the AI quickly learn and absorb new information.  Talhov Frameworks are sold and distubuted in configurations called \"images\".  An image is a perfect copy of a framework, and can be put onto different machines -- essentially clones of the AI.  Each image contains every memory, tendency, and skill of a Talhov Brain.\u0000css\n    The framework is made to be modular, allowing for the integration of pre-made modules called \"Nodules\".  Nodules allow for support for things like human language conversation, understandings of physics, image recognition, and so on.  In order for a nodule to be added to a Talhov Framework, it must be \"Integrated\", which is a complicated process that requires a lot of time and/or processing power, in which the neurons of the system are randomly cut, reconnected, and checked until they are bruteforced into a connection with the neurons of the nodule.  Due to the random nature of integration, the process is destructive -- integration often has unintended effects on unrelated logic in the framework.  To get around this, most distributors make thousands of images of the framework before integration and performing integration on each.  After integrating each image individually, the image that exhibits the fewest unintended issues is chosen and distributed.",
+        "links": [
+          "/ROOT/TECHNOLOGY/COMPUTERS/AI/CNM"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 22:08:55",
+          "editTime": "2021/12/13 22:12:18"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Chatter Nodule",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/CHATTER",
+        "isUp": true,
+        "data": "css\n    The Chatter Nodule is a Talhov Framework module made by Chesk Talhov using data collected from the [!1 Chatterbox website].  The Chatter Nodule allows Talhov Framework AIs to speak in [! Unil] in a human-like manner.\n    There are also variants made by 3rd parties which are slightly altered from the Chatter Nodule that allow the AI to speak other languages.  Despite this, the more reliable method of getting a Talhov Brain to speak a new language has been teaching it other languages manually, essentially reprogramming the Chatter Nodule through learning.",
+        "links": [
+          "BT.CHATTERBOX"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 22:10:37",
+          "editTime": "2021/12/13 22:12:07"
+        },
+        "extension": ""
+      },
+      {
+        "name": "PWAS Nodule",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/PWAS",
+        "isUp": true,
+        "data": "css\n    The PWAS Nodule is a Talhov Framework module which allowes Talhov Brain AIs to have an inherent understanding of physics and have an internal physical worldmodel, both of which can be used in decision making.  \"PWAS\" stands for \"Physical Worldmodel Awareness System\", and was invented by graduate students at the Ceiraz Academy of Engineers on [! Deoria].  This nodule is essential for AIs within autonomous real-world robots, and is best used with a Vision Nodule and tactile sensory components.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 22:11:43",
+          "editTime": "2021/12/13 22:11:54"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Vision Nodule",
+        "path": "/ROOT/TECHNOLOGY/COMPUTERS/AI/TALHOV/VISION",
+        "isUp": true,
+        "data": "css\n    The Vision Nodule is a nodule made by Chesk Talhov to allow Talhov Brains to convert raw visual data into meaningful information in a process known as \"image recognition\".  With this nodule, an AI can take raw visual data, like from a camera, an determine what objects are in the frame, as well as information like how far they are.  Having a nodule such as this to easily digest visual data is very useful for autonomous systems, especially when used in robots in combination with a PWAS nodule.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 22:12:26",
+          "editTime": "2021/12/13 22:13:22"
+        },
+        "extension": ""
       }
     ],
     "owners": [],
@@ -14668,6 +14772,46 @@
           "editor": "<@220352318510596096>",
           "madeTime": "2021/02/22 03:20:38",
           "editTime": "2021/02/22 03:20:38"
+        },
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "path": "BT.CHATTERBOX",
+    "isUp": true,
+    "address": "00.00",
+    "defPage": "/MAIN",
+    "er2Page": "/ER2",
+    "owners": [
+      null
+    ],
+    "pages": [
+      {
+        "name": "Chatterbox",
+        "path": "/MAIN",
+        "isUp": true,
+        "data": "css\nChatterbox is offline for good.\nAll thanks to all you chatters out there in the galactic community, we have everything we needed.\nThank you all for your time and support.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 19:47:16",
+          "editTime": "2021/12/13 19:48:40"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ER2",
+        "isUp": true,
+        "data": "css\nError 2! The page you requested does not exist.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2021/12/13 19:47:16",
+          "editTime": "2021/12/13 19:47:16"
         },
         "extension": ""
       }
