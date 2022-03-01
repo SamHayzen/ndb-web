@@ -1898,9 +1898,9 @@
 				console.log(holdURL);
 				var holdLink = urlParams.get('link');
 				var holdDom = urlParams.get('dom');
-				if((holdLink !== "" && holdLink !== undefined) || (holdDom !== "" && holdDom !== undefined)){
-					if(holdDom !== "" && holdDom !== undefined) linkDomain = holdDom;
-					if(holdLink !== "" && holdLink !== undefined){
+				if((holdLink !== "" && typeof holdLink == 'string') || (holdDom !== "" && typeof holdDom == 'string')){
+					if(holdDom !== "" && typeof holdDom == 'string') linkDomain = holdDom;
+					if(holdLink !== "" && typeof holdLink == 'string'){
 						runCommand(holdLink);
 						console.log(holdLink);
 					}
