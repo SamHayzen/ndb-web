@@ -182,13 +182,12 @@
 						}
 					});
 				});
-				console.log("lol0");
+				
 				$("#linkButton").on("click",function(){
 					copy(linkDomain+"?link="+encodeURIComponent("cd "+thisUser.sitestr+":"+thisUser.pagestr));
 					reply("Link has been copied to your machine's clipboard and is ready to be pasted elsewhere.");
 					
 				});
-				console.log("lol1");
 				
 				function reply(text){
 					$("#webOutput").html($("#webOutput").html()+text.replace("```css","").replace("```","")+"\n\n");
@@ -1898,7 +1897,6 @@
 				$("#entryNum").html(getNumWikiEntries()+$("#entryNum").html()); //display num entries
 				var holdURL = window.location.href;
 				console.log(holdURL);
-				/*
 				var holdLink = urlParams.get('link');
 				var holdDom = urlParams.get('dom');
 				if((holdLink !== "" && typeof holdLink == 'string') || (holdDom !== "" && typeof holdDom == 'string')){
@@ -1909,16 +1907,14 @@
 						//runCommand(holdLink);
 						//console.log(holdLink);
 					}
+				}else if(holdURL.indexOf("?")!==-1){
+					holdURL = atob(holdURL.split("?")[1]);
+					runCommand(holdURL);
+					console.log(holdURL);
 				}else{
-					if(holdURL.indexOf("?")!==-1){
-						holdURL = atob(holdURL.split("?")[1]);
-						runCommand(holdURL);
-						console.log(holdURL);
-					}else{
-						runCommand("");
-					}
+					runCommand("");
 				}
-				*/
+				
 			});
 		</script>
 		<script>hljs.initHighlightingOnLoad();</script>
