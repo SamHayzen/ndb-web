@@ -11,6 +11,7 @@
 		<script>
 			const defaultDomain = "https://samhayzen.github.io/ndb-web/"
 			var domain = defaultDomain;
+			var linkDomain = domain;
 			var pushDate = "2/8/2022";
 			var web;
 			$.ajax({
@@ -22,6 +23,8 @@
 				web = result;
 			  }
 			});
+			const urlParams = new URLSearchParams(window.location.search);
+			
 		</script>
 		<style>
 			body {
@@ -180,8 +183,9 @@
 					});
 				});
 				$("#linkButton").on("click",function(){
-					copy(domain+"?"+btoa("cd "+thisUser.sitestr+":"+thisUser.pagestr));
+					copy(linkDomain+"?link="+encodeURIComponent(("cd "+thisUser.sitestr+":"+thisUser.pagestr));
 					reply("Link has been copied to your machine's clipboard and is ready to be pasted elsewhere.");
+					
 				});
 				
 				function reply(text){
@@ -1892,12 +1896,22 @@
 				$("#entryNum").html(getNumWikiEntries()+$("#entryNum").html()); //display num entries
 				var holdURL = window.location.href;
 				console.log(holdURL);
-				if(holdURL.indexOf("?")!==-1){
-					holdURL = atob(holdURL.split("?")[1]);
-					runCommand(holdURL);
-					console.log(holdURL);
+				var holdLink = urlParams.get('link');
+				var holdDom = urlParams.get('dom');
+				if((holdLink !== "" && holdLink !== undefined) || (holdDom !== "" && holdDom !== undefined)){
+					if(holdDom !== "" && holdDom !== undefined) linkDomain = holdDom;
+					if(holdLink !== "" && holdLink !== undefined){
+						runCommand(holdLink);
+						console.log(holdLink);
+					}
 				}else{
-					runCommand("");
+					if(holdURL.indexOf("?")!==-1){
+						holdURL = atob(holdURL.split("?")[1]);
+						runCommand(holdURL);
+						console.log(holdURL);
+					}else{
+						runCommand("");
+					}
 				}
 			});
 		</script>
