@@ -1,4 +1,3 @@
-
 <html>
 	<head>
 		<title> Wiki Web Interface </title>
@@ -1900,6 +1899,8 @@
 				var holdLink = urlParams.get('link');
 				var holdDom = urlParams.get('dom');
 				if((holdLink !== "" && typeof holdLink == 'string') || (holdDom !== "" && typeof holdDom == 'string')){
+					console.log(holdLink);
+					console.log(holdDom);
 					if(holdDom !== "" && typeof holdDom == 'string') linkDomain = holdDom;
 					if(holdLink !== "" && typeof holdLink == 'string'){
 						runCommand(holdLink);
