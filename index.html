@@ -1899,21 +1899,22 @@
 				console.log(holdURL);
 				var holdLink = urlParams.get('link');
 				var holdDom = urlParams.get('dom');
+				
+				var nextCommand = "";
 				if((holdLink !== "" && typeof holdLink == 'string') || (holdDom !== "" && typeof holdDom == 'string')){
 					console.log(holdLink);
 					console.log(holdDom);
 					if(holdDom !== "" && typeof holdDom == 'string') linkDomain = holdDom;
 					if(holdLink !== "" && typeof holdLink == 'string'){
-						//runCommand(holdLink);
-						//console.log(holdLink);
+						nextCommand = holdLink;
+						console.log(holdLink);
 					}
 				}else if(holdURL.indexOf("?")!==-1){
 					holdURL = atob(holdURL.split("?")[1]);
-					runCommand(holdURL);
+					nextCommand = holdURL;
 					console.log(holdURL);
-				}else{
-					runCommand("");
 				}
+				runCommand(nextCommand);
 				
 			});
 		</script>
