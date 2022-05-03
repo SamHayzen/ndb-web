@@ -237,10 +237,11 @@
         "name": "Races",
         "path": "/ROOT/BIOLOGY/RACES",
         "backpath": "/MAIN",
-        "data": "css\n   [!1] ~Deorians\n   [!2] >Galleates\n   [!3] >Itascans\n   [!4] ~La'foyans\n   [!5] >Tuines\n   [!6] ~Tyvants\n   [!7] +Foreign Races",
+        "data": "css\n    [!1] +Definition of Human\n    [!2] ~Deorians\n    [!3] >Galleates\n    [!4] >Itascans\n    [!5] ~La'foyans\n    [!6] >Tuines\n    [!7] ~Tyvants\n    [!8] +Foreign Races",
         "links": [
+          "/ROOT/BIOLOGY/RACES/DEFINITION",
           "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN",
-          "/ROOT/BIOLOGY/RACES/GALLEATE",
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN",
           "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
           "/ROOT/BIOLOGY/VIVOTYPES/FEIRAUS/HUMANOID/LAFOYAN",
           "/ROOT/BIOLOGY/RACES/TUINE",
@@ -251,7 +252,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2022/02/01 00:39:00"
+          "editTime": "2022/05/02 22:27:36"
         },
         "extension": ""
       },
@@ -411,43 +412,45 @@
       },
       {
         "name": "Galleate",
-        "path": "/ROOT/BIOLOGY/RACES/GALLEATE",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN",
         "backpath": "/MAIN",
-        "data": "css\n [!1] +Galleate Race\n [!2] +Galleate Galleate\n [!3] +Uudillian Galleate\n [!4] +Ghillymedic Galleate",
+        "data": "css\n    [!1] +Galleate Race\n    [!2] +Galleate Galleate\n    [!3] +Uudillian Galleate\n    [!4] +Ghillymedic Galleate\n    ----\n    [!5] +Evolutionary History",
         "links": [
-          "/ROOT/BIOLOGY/RACES/GALLEATE/GALLEATE_GENERAL",
-          "/ROOT/BIOLOGY/RACES/GALLEATE/GALLEATE_GALLEATE",
-          "/ROOT/BIOLOGY/RACES/GALLEATE/UUDILLIAN_GALLEATE",
-          "/ROOT/BIOLOGY/RACES/GALLEATE/GHILLYMEDIC_GALLEATE"
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/GALLEATE_GENERAL",
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/GALLEATE_GALLEATE",
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/UUDILLIAN_GALLEATE",
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/GHILLYMEDIC_GALLEATE",
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/EVOLUTION"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/10/23 08:02:35"
+          "editTime": "2022/05/03 00:16:14"
         },
         "extension": ""
       },
       {
         "name": "Galleate",
-        "path": "/ROOT/BIOLOGY/RACES/GALLEATE/GALLEATE_GENERAL",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/GALLEATE_GENERAL",
         "backpath": "/MAIN",
-        "data": "css\n┌────────────────────────────────┐\n│Group Name.........:Reuth       │\n│Youngling Name.....:Cualt       │\n│Status.............:Safe        │\n│Vivotype...........:Gaerus      │\n│Archetype..........:Humanoid    │\n│Domestication......:N/A         │\n│Intelligence Class.:Sapient     │\n│Lifespan...........:36±8 Yrs    │\n│Time to Maturity...:7.5±2.5 Yrs │\n│# Physical Sexes...:2           │\n│Sexual Polymorphism:Low         │\n│Procreation Method.:Interactive │\n│Diet/Resource Input:Omnivorous  │\n│Respiratory Gas....:Oxygen      │\n│Weight.............:455±20Kg    │\n│Height.............:198±21cm    │\n│Thermal Range......:274±50k     │\n│Blood Volume.......:11L         │\n│Min Conscious Blood:9L          │\n│Top Speed..........:2.8±0.2m/s  │\n└────────────────────────────────┘\n\n    Galleates are relatively smaller in number compared to many other species within the [!1 Silver Stream].  They are efficient, tall, and bulky with a thick fur coat and fat under their skin that has made them extremely adept in surviving within cold climates such as that of [!2 Gallea].  Their arms are noticeably longer than their legs, with hands made up of 4 digits.  At the tip of each finger is a claw; once used for digging through hard ice, these claws may be utilized as formidable weapons.  Their head is round and their eyes face forward flatly.  A decently sized snout protrudes from it, ending with an almost flat nose.  This snout curves slightly down into the muzzle.  The concave orientable ears of the Galleate can, at full height, be as tall as ~80% of the face's height.  Typically, these ears are pressed down flat on the tops of their heads for better heat retention, but they are able to perk up to their full height for higher audio fidelity.\u0000css\n    Protruding from the midlength of the side of the skull, Galleates bear a pair of boney horns; Galleate horns are large and curly, and the shape of these horns curve outwards from the head in a slight spiral downwards, the inner curve closely follows the fur coat, with their tips ending near around the same height as the muzzle, just below the horns' origins. \n\n    The coloration of Galleates almost exclusively consists of mute colors, with bold colors accounting for very rare mutations; their skin itself is grey.  Their horns are perhaps the most colorful portion of their body, as as an adolescent, they are a muted turquoise, and as one matures, the bases of the horns grow more purple, forming a unique gradient.  Their eyes can come in shades of navy blue and purple.",
+        "data": "css\n┌────────────────────────────────┐\n│Group Name.........: Reuth      │\n│Youngling Name.....: Cualt      │\n│Status.............: Safe       │\n│Vivotype...........: Gaerus     │\n│Archetype..........: Humanoid   │\n│Domestication......: N/A        │\n│Intelligence Class.: Sapient    │\n│Lifespan...........: 36±8 Yrs   │\n│Time to Maturity...: 7.5±2.5 Yrs│\n│# Physical Sexes...: 2          │\n│Sexual Polymorphism: Moderate   │\n│Procreation Method.: Interactive│\n│Diet/Resource Input: Omnivorous │\n│Respiratory Gas....: Oxygen     │\n│Weight.............: 455±20Kg   │\n│Height.............: 198±21cm   │\n│Thermal Range......: 274±50k    │\n│Blood Volume.......: 11L        │\n│Min Conscious Blood: 9L         │\n│Top Speed..........: 2.8±0.2m/s │\n└────────────────────────────────┘\n\n    Galleates are  smaller in number compared to many other species within the [!1 Silver Stream].  They are efficient, tall, and bulky, with a thick fur coat and fat under their skin that has made them extremely adept in surviving cold environments, such as that of [!2 Gallea].  Their arms are noticeably longer than their legs, with hands made up of 4 digits.  At the tip of each finger is a claw; once used for digging through hard ice, these claws may be utilized as formidable weapons.  Their heads Are round, and their eyes face forward flatly.  A 14-to-19-centimeter-long snout protrudes from it, ending with an almost flat nose.  This snout curves slightly down into the muzzle.  The concave orientable ears of the Galleat can, at full height, be as tall as 13 to 20 centimeters.  Typically, these ears are lightly curled and pressed down flat on the tops of their heads for better heat retention, but they are able to perk up to their full height for higher audio fidelity.\u0000css\n    Protruding from the midlength of the side of the skull, Galleates bear a pair of boney horns; Galleat horns are large and curled, and the shape of these horns curve outwards from the head in a slight spiral downwards, the inner curve closely follows the fur coat, with their tips ending near around the same height as the muzzle, just below the horns' origins. The bone around the base of the horn is thicker and reinforced to take force laterally and vertically.  Galleat horns are found on both males and females\n\n    The coloration of Galleates almost exclusively consists of mute colors, with bold colors accounting for very rare mutations.  The underlying skin itself is grey.  Their horns are perhaps the most colorful portion of their body; as as an adolescent, they are a muted turquoise, and as one matures, the bases of the horns grow more purple, forming a unique gradient. This change in color can mainly be attributed to the blood vessels growing into the base of the horn.  Their eyes come in shades of navy blue and purple.  The function of the Galleat horns is initially believed be as a defensive structure against predators, which overtime became a tool for Galleates to compete over territory, resources, and mating partners.  Their use in modern contexts can be found in [! Horns in Galleat Society].\n\n    Galleat blood is fairly darker than most other human species, due to very large amounts of Hemoglobin-analogous metalloprotiens, resulting in a dark purple color.  It is theorized this adaption was made out of a need to extract as much oxygen as possible from [!2 Gallea's] atmosphere, especially within Gallea's numerous mountain ranges.\u0000css\n    The differences between male and female Galleats are not extremely various, but still noticable.  A female specimen's horns are generally thinner, with smoother textures.  Structural traits in female Galleats not present in their male counterparts include more abdominal fat, and structural adaptions to deal with Cualt-raising, Cualt-birth and conception such as developed breasts and wider hips.  Hands of female Galleates are also larger by a small amount, with more concave claws.  During pregnancy, the Female Galleat will grow a longer coat and slowly lose pre-pregnancy fat, in a near 1:1 trade-off with the womb's growing volume. The end result can be barely noticable or even entirely imperceivable until after birth.  The cause of this change, or lack thereof, is the fat abdominally breaking down and being transfered to the fetus.  It's widely accepted that this is to give the cualt full protection from the enviroment of Gallea at birth.   Post-pregnancy the female Galleat retains their longer coat, and their frame is permanently thinner than it was prior.  By eating a regular diet, their fat distribution will eventually return to natural amounts.\n    \n    Adult galleates should consume ~15,600 kcals a day to maintain a healthy body weight.  This large caloric intake is thought to be the driving factor in Galleat populations being stunted.  The large amount of calories needed is also thought to have driven the smaller litter counts and the loss of the specimen's second pair of breasts.  Galleates do not consume this full amount daily and instead feast once or twice a week.  Galleat diet tends to favor fish, salted or smoked meats, dairy, and varied bitter greens.  The preferred flavor palleate of a Galleat tends to favor salted, dried, or smoked flavors, with bitter tastes as accents.  A notable exception is very sweet dairy and pastry products, which Galleates tend to be fond of as a contrast to their hardier meals.",
         "links": [
-          "/ROOT/LOCATIONS/SILVER_STREAM/MAIN",
-          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN"
+          "/ROOT/LOCATIONS/SILVER_STREAM",
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN",
+          "/ROOT/CULTURE/NATIONAL/GALLEAN/HORNS"
         ],
         "meta": {
           "author": "<@!301493561353043968>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2021/10/29 00:21:08"
+          "editTime": "2022/05/02 23:48:21"
         },
         "extension": "TEXT"
       },
       {
         "name": "Galleate Galleate",
-        "path": "/ROOT/BIOLOGY/RACES/GALLEATE/GALLEATE_GALLEATE",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/GALLEATE_GALLEATE",
         "backpath": "/MAIN",
         "data": "css\n   Ethnic Galleates are, on average, 175cm (5.7 feet) tall. Native Galleates have dark grey skin and snow white hair.\nNative Galleates have a reputation of being very authoritarian, but their also seen as having a strong sense of unity and class.",
         "links": [],
@@ -461,7 +464,7 @@
       },
       {
         "name": "Uudillian Galleate",
-        "path": "/ROOT/BIOLOGY/RACES/GALLEATE/UUDILLIAN_GALLEATE",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/UUDILLIAN_GALLEATE",
         "backpath": "/MAIN",
         "data": "css\n   Galleates from the planet [!1 Uudil] have a typical height of 180cm (5.9 feet) tall. Uudillian Galleates commonly have moderatly grey skin, with a few of them even having grey hair, instead of white.\nUudillians have a small reputation for being good craftsmen and hard laborers.",
         "links": [
@@ -477,7 +480,7 @@
       },
       {
         "name": "Ghillymedic Galleate",
-        "path": "/ROOT/BIOLOGY/RACES/GALLEATE/GHILLYMEDIC_GALLEATE",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/GHILLYMEDIC_GALLEATE",
         "backpath": "/MAIN",
         "data": "css\n   Ghillymedic Galleats are normally 175cm (5.7 feet) tall. These Galleats have much paler skin than their non-lunar kin, but have a wider variety of hair colors. Ghillymedics are of much lighter build, but are also much more agile. This is attributed to the lower gravity of the [1!] lunar state.\nGhillymedics are seen as small, and to some even insignifigant, due to the nation's mininscule size. Ghillymedic individuals are commonly very self-driven, but they tend to occasionally overestimate their abilities.",
         "links": [
@@ -1834,17 +1837,21 @@
         "extension": ""
       },
       {
-        "name": "Untitled",
+        "name": "Deoria",
         "path": "/ROOT/NATIONS/DEORIA",
         "isUp": true,
         "backpath": "",
-        "data": "Void",
-        "links": [],
+        "data": "css\n    [!1] +Main [Unwritten]\n    [!2] +Government Structure [Unwritten]\n    [!3] >Government Systems and Programs",
+        "links": [
+          "/ROOT/NATIONS/DEORIA/MAIN",
+          "/ROOT/NATIONS/DEORIA/GOVERNMENT_STRUCTURE",
+          "/ROOT/NATIONS/DEORIA/GOVERNMENT_SYSTEMS"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "Pre 1/5/2019"
+          "editTime": "2022/05/02 23:59:47"
         },
         "extension": ""
       },
@@ -2169,20 +2176,21 @@
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS",
         "isUp": true,
         "backpath": "",
-        "data": "css\n   [!1] +Info\n   [!2] +Aphoterra Continent [Stub]\n   ----\n   [!3] >Planetary Culture\n   [!4] +Old Nations of Itascus\n   ----\n   [!5] +Itascus City\n   ----\n   [!6] +Excelsior",
+        "data": "css\n   [!1] +Info\n   [!2] +Aphoterra Continent [Stub]\n   ----\n   [!3] >Planetary Culture\n   [!4] +Old Nations of Itascus\n   ----\n   [!5] +Itascus City\n   [!6] +Coxville [Stub]\n   ----\n   [!7] +Excelsior",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/APHOTERRA",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/CULTURE",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/OLD_NATIONS",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/ITASCUS_CITY",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/COXVILLE",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/EXCELSIOR"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2020/07/19 18:13:26"
+          "editTime": "2022/04/27 14:53:02"
         },
         "extension": ""
       },
@@ -3229,15 +3237,17 @@
         "path": "/ROOT/NATIONS/ITASCUS/GOVERNMENT_PROGRAMS/IASO",
         "isUp": true,
         "backpath": "",
-        "data": "css\n     The Itascan Armed Services Organization is a non-profit started in late 105. The IASO is run by veterans of multiple branches of the Itascan military, and was intended to help veterans become active in their community by assisting them with getting jobs, housing, and transportation. The IASO reaches out to local businesses and helps staff the businesses with veterans that have skill sets that compliment the position they will fill, and, unlike private staffing companies, the IASO does not charge the businesses for staffing services. \n\n     The IASO also contacts local mass transit agencies to provide passes for veterans that cannot afford them for a reduced fee, and Veteran Passes are to be for veterans only. The IASO also works with local real estate agencies to assist veterans in negotiating a reduced price for their new homes. \n\n     At the time of its creation, the IASO received 5 million Itascan Coins from the Itascan government. However, they were advised that they should consider hosting public events such as barbecues, bingo nights, or movie nights to raise funds of their own, as they will not be issued another grant from the government. The IASO has offices in most every major city, and many large towns on Itascus. The IASO also has an office aboard the [!1 Excelsior.] IASO accepts donations from the general public. Those who submit a donation of $20 of more will receive a handwritten letter from a veteran thanking the donor for their generosity. \n\n     The IASO prints a monthly magazine for those that have bought the monthly donation package, “The Itascan Serviceman”, as it's called, includes war stories, tips from veterans, battlefield breakdowns, a centerfold with upcoming events at their local IASO office, and the latest in (publicly available) military technology, among other war-related media. The organization follows typical Itascan Conservative values. Their motto is: “By the veterans, For the veterans.”",
+        "data": "css\n     The Itascan Armed Services Organization is a non-profit started in late 101 PW.  The IASO is run by veterans of multiple branches of the Itascan military, and was intended to help veterans become active in their community by assisting them with getting jobs, housing, and transportation.  The IASO reaches out to local businesses and helps staff the businesses with veterans that have skill sets which compliment the position they intend to fill fill.  Unlike private staffing companies, the IASO does not charge the businesses for staffing services. \n\n     The IASO also contacts local mass transit agencies to provide passes for veterans who cannot afford them for a reduced fee, distributing Veteran Passes intended for veterans only.  The IASO also works with local real estate agencies to assist veterans in negotiating reduced pricing for housing\n\n     At the time of its creation, the IASO received 5 million [!1 ITC] from the Itascan government.  However, they were advised that they should consider hosting public events (i.e. barbecues, sports, or movie nights) to raise funds of their own, as they would not be issued another grant from the government.  The IASO has offices in almost every major city, and many large towns on [!2 Itascus].  The IASO also has an office aboard the [!3 Excelsior.] IASO accepts donations from the general public.  Those who submit a donation of $20 [! ITC] or more will receive a handwritten letter from a veteran, thanking the donor for their generosity. \n\n     The IASO prints a monthly magazine for those that have bought the monthly donation package, “The Itascan Serviceman”, as it's called, includes war stories, tips from veterans, battlefield breakdowns, a centerfold with upcoming events at their local IASO office, and the latest in (publicly available) military technology, among other war-related media. The organization follows typical Itascan Conservative values. Their motto is: “By the veterans, For the veterans.”",
         "links": [
+          "/ROOT/MARKET/CURRENCY/GCP",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/EXCELSIOR"
         ],
         "meta": {
           "author": "<@!333050075951661058>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/01/05 01:14:00"
+          "editTime": "2022/04/12 20:36:15"
         },
         "extension": ""
       },
@@ -3533,19 +3543,20 @@
         "path": "/ROOT/COMPANIES/MILITARY",
         "isUp": true,
         "backpath": "",
-        "data": "css\n    [!1] +Atlas Corp.\n    [!2] +Itascan Dynamics [Unwritten]\n    [!3] +Outerweapon Conglomerate\n    [!4] +Kinetyx\n    [!5] >Minor",
+        "data": "css\n    [!1] +Atlas Corp.\n    [!2] +Heralius Weapon Foundry Co. [Unwritten]\n    [!3] +Itascan Dynamics [Unwritten]\n    [!4] +Kinetyx\n    [!5] +Outerweapon Conglomerate\n    [!6] >Minor",
         "links": [
           "/ROOT/COMPANIES/MILITARY/ATLAS",
           "/ROOT/COMPANIES/MILITARY/ITASCAN_DYNAMICS",
-          "/ROOT/COMPANIES/MILITARY/OUTERWEAPON",
+          "/ROOT/COMPANIES/MILITARY/HWF",
           "/ROOT/COMPANIES/MILITARY/KINETYX",
+          "/ROOT/COMPANIES/MILITARY/OUTERWEAPON",
           "/ROOT/COMPANIES/MILITARY/MINOR"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/02/13 13:52:22",
-          "editTime": "2021/04/07 03:46:55"
+          "editTime": "2022/05/02 23:15:35"
         },
         "extension": ""
       },
@@ -3826,7 +3837,7 @@
         "name": "Docking",
         "path": "/ROOT/TRAVEL/SPACE/DOCKING",
         "isUp": true,
-        "data": "css\n     Docking is the act of joining two craft together while in flight. Docking is achieved through specific components called docking ports. When two crafts are docked, they are able to transfer resources like power and fuel, and sometimes even crew. Docking port types are usually non-androgynous, meaning that they have positive (extending) and negative (receiving) variants which connect to one another. Space stations and larger craft tend to have an abundance of negative ports, while other ships have positive docking ports for compatibility. When two spacecraft are docked, each is able to read the other's [!1 Callsign] if the ports are connected to a computer system.\n\n     Berthing is the act if joining to craft together permanently or semi-permanently. Berthing ports are much stronger than docking ports, but are considerably more difficult to decouple. Berthing ports have all the functions of docking ports (resource transfer, crew transfer, etc.). When berthing ports are connected, they are deadlocked, and meant to be welded together from the inside. Berthing ports are androgynous and are used in the construction of space stations or larger craft. Newer berthing ports' interiors have panels that can be removed to bridge the two craft/modules, but older or cheaper ports simply have a section of wall marked to be cut and removed.",
+        "data": "css\n     Docking is the act of joining two craft together while in flight.  Docking is achieved through specific exterior components called docking ports.  When two crafts are docked, they are able to transfer resources like power and fuel, and sometimes even crew or cargo.  Docking port types are usually non-androgynous, meaning that they have positive (extending) and negative (receiving) variants which can only connect to their opposites.  Space stations and larger craft tend to have an abundance of negative ports, while other ships have positive docking ports for compatibility.  When two spacecraft are docked, each is able to read the other's [!1 Callsign] and other information about one another, given the ports are connected to a computer system.\n\n     Berthing is the act of joining two craft together permanently or semi-permanently.  Berthing ports are much stronger than docking ports, and are considerably more difficult to decouple.  Berthing ports have all the functions of docking ports (resource transfer, crew transfer, etc.).  When berthing ports are connected, they are deadlocked, and meant to be fused or welded together from both the inside and out.  Berthing ports are androgynous and are used in the construction of space stations or larger craft.  Newer berthing ports' interiors consist of removable panels to bridge the two crafts/modules, but older or cheaper ports simply have a section of wall marked to be cut out and removed after berthing.",
         "links": [
           "/ROOT/TRAVEL/SPACE/CALLSIGNS"
         ],
@@ -3834,7 +3845,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/03/10 21:51:38",
-          "editTime": "2019/04/17 21:16:40"
+          "editTime": "2022/04/12 20:40:29"
         },
         "extension": ""
       },
@@ -4034,18 +4045,19 @@
         "name": "Rifles",
         "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES",
         "isUp": true,
-        "data": "css\n    [!1] +Main\n    [!2] +.22 Long Rifle\n    [!3] +.64 Anti-Material Rifle\n    [!4] +.338 Nui Banken",
+        "data": "css\n    [!1] +Main\n    [!2] +.22 Long Rifle\n    [!3] +.64 Anti-Material Rifle\n    [!4] +.338 Nui Banken\n    [!5] +Foundry Materiel Rifle - 93",
         "links": [
           "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/MAIN",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/22LR",
           "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/64AMR",
-          "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/NBK"
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/NBK",
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/FMR93"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/03/16 10:57:30",
-          "editTime": "2021/11/02 22:47:11"
+          "editTime": "2022/05/02 23:19:21"
         },
         "extension": ""
       },
@@ -4603,13 +4615,13 @@
         "name": "Walrus Model Spacecraft",
         "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/FREIGHTER/WALRUS",
         "isUp": true,
-        "data": "css\n┌───────────────────────────┐\n│Use Period...: 43-Present  │\n│Class........: Freighter   │\n│Market Price.: $10,250,000 │\n│Mass.........: 32 Tons     │\n│Δ-V(Atm|Vac).: N/A|32Km/s  │\n│Seats|Crew...: 3|1-6       │\n│Engine(Fuel).: NTR(L. H2)  │\n│Power Source.: PuPo Reactor│\n│RCS..........: Hydrazine   │\n│SAS..........: Full        │\n│Main Computer: [!1 ACU-GPC]│\n│Storage......: 82m^3       │ \n└───────────────────────────┘\n\n     The Walrus is the first freighter craft designed in the [!2 Sol System]. Specifically, the craft was designed by the fledgling [!3 Eriian] government in the year 42. As the concept of interplanetary civilization developed in the Sol System, so did a need for interplanetary trade on Erii. The cargo volume of the [!3 Pelican], ~28m^3, had been a bottleneck in shipping resources from, and valuables to [!4 Itascus]. This lead to the design of the Walrus, which, by admission of its designer, being \"more or less just a long Pelican\". Due to the expected weight of added cargo, the Walrus's design has omitted hardware related to takeoff, atmospheric flight, or landing. While this reduces the craft's dry mass, it renders it incapable of landing on the surface of a planet. The Walrus is used primarily for transportation of cargo between [!5 Space Stations].\n\n     Due to its nomadic appeal, never needing (or being able to) make home on a planet, Walrus-model ships have spread across the [!6 GCP],  following the proverbial trade winds. Though, Walruses are still constructed foremost on the stations [!7 Excelsior] and [!8 Skypier]. \n\n     Since the Walrus was designed to go through lengthy periods of rushing through empty space with relatively large crews, it was designed with a [!9 Kitchenette Module].\u0000css\nComponent breakdown (Top to bottom):\n Component Name                         Manufacturer Mass   Diameter Height  \n [!10 Type A Docking Port]              (Various)    50kg     80cm    20cm    \n 3-Seat compact cockpit                 [!11 ISA]    3200kg   3.5m    2.8m   \n Lavatory                               [!12 IAC]    320kg    3.5m    60cm\n [!13 Kitchenette Module]               (Various)    1200kg   3.5m    2.2m\n Interior Air-Tight Divider Hatch       (Various)    120kg    (1m*2m rect.)\n Large Cargo Bay                        (Various)    1300kg   3.5m    8.2m\n ├Exterior Pressure Valve               (Various)    5kg      2cm     4cm\n ├Interior [!14 Cargo Rails]            (Various)    120kg    ~~~~    ~~~~\n └Exterior [!15 Type-C Docking Port]    (Various)    75kg     1.3m    20cm\n Inline Service Bay                     (Various)    200kg    3.5m    35cm\n ├10L Waste Storage Tank                (Various)    40kg     ~~~~    ~~~~\n ├Tri-Planar Reaction Wheels            [!16 IHMC]   160kg    ~~~~    ~~~~\n ├Life Support Cabinet                  ISA          40kg     ~~~~    ~~~~\n │├CO2 Scrubber                         ISA          70kg     ~~~~    ~~~~\n │├[!17 ArC] System (uses radiators)    (Various)    55kg     ~~~~    ~~~~\n │├[!18 MoTran] Life Support Controller [!19 Datec]  1kg      ~~~~    ~~~~\n │└Dehumidifyer                         (Various)    20kg     ~~~~    ~~~~\n └4x 50L Lqd. Oxygen Tank               ISA          320kg    ~~~~    ~~~~\n Liquid Hydrogen Tank                   (Various)    8400kg   3.5m    3.0m (8,400kg wet, 400kg dry)\n 2-Cell [!20 Spacecraft RTG]            (Various)    3200kg   3.5m    75cm\n └Radial Thermal Radiators              IHMC         120kg    ~~~~    75cm\n Steel Engine Scaffold                  (Various)    75kg     3.5m    20cm\n └[!21 Nuclear Thermal Engine]          ISA          125kg    60cm    1.2m\n\n  Total                                 ISA         19091kg   3.5m    19.5m\u0000css\nChangelog(by year):\n     48 - The F-Type seats in the cockpits were changed to universal seats for better compatability.\n     64 - Some steel components were selectively replaced with aluminum components to reduce the craft mass from 19521kg to 18971kg.\n     72 - Elastic coating was introduced to the interiors of the crew spaces to ward off the effects of [!22 Warp Decay].\n     83 - Elastic coating was added to the interior of the cargo bay.\n     100 - To celebrate the turn of the century, the craft's color scheme had been changed for some models produced on Excelsior. This new color scheme recolored the exterior of the craft Titanium White. The long cargo hold was also colored a bright orange.",
+        "data": "css\n┌───────────────────────────┐\n│Use Period...: 43-Present  │\n│Class........: Freighter   │\n│Market Price.: $10,250,000 │\n│Mass.........: 32 Tons     │\n│Δ-V(Atm|Vac).: N/A|32Km/s  │\n│Seats|Crew...: 3|1-6       │\n│Engine(Fuel).: NTR(L. H2)  │\n│Power Source.: PuPo Reactor│\n│RCS..........: Hydrazine   │\n│SAS..........: Full        │\n│Main Computer: [!1 ACU-GPC]│\n│Storage......: 82m^3       │ \n└───────────────────────────┘\n\n     The Walrus is the first freighter craft designed in the [!2 Sol System].  Specifically, the craft was designed by the fledgling [!3 Eriian] government in the year 42.  As the concept of interplanetary civilization developed in the Sol System, so did a need for interplanetary trade on Erii.  The cargo volume of the [!3 Pelican], ~28m^3, had been a bottleneck in shipping resources from, and valuables to [!4 Itascus].  This lead to the design of the Walrus, by admission of its designer, becoming \"more or less just a long Pelican\".  Due to the expected weight of added cargo, the Walrus's design has omitted hardware related to takeoff, atmospheric flight, or landing.  While this reduces the craft's dry mass, it renders it incapable of landing on the surface of a planet.  The Walrus is used primarily for transportation of cargo between [!5 Space Stations].\n\n     Due to its nomadic appeal, never needing (or being able to) make home on a planet, Walrus-model ships have spread across the [!6 GCP],  following the proverbial trade winds.  Though, Walruses are still constructed foremost on the stations [!7 Excelsior] and [!8 Skypier]. \n\n     Since the Walrus was designed to go through lengthy periods of rushing through empty space with relatively large crews, it was designed with a [!9 Kitchenette Module].\u0000css\nComponent breakdown (Top to bottom):\n Component Name                         Manufacturer Mass   Diameter Height  \n [!10 Type A Docking Port]              (Various)    50kg     80cm    20cm    \n 3-Seat compact cockpit                 [!11 ISA]    3200kg   3.5m    2.8m   \n Lavatory                               [!12 IAC]    320kg    3.5m    60cm\n [!13 Kitchenette Module]               (Various)    1200kg   3.5m    2.2m\n Interior Air-Tight Divider Hatch       (Various)    120kg    (1m*2m rect.)\n Large Cargo Bay                        (Various)    1300kg   3.5m    8.2m\n ├Exterior Pressure Valve               (Various)    5kg      2cm     4cm\n ├Interior [!14 Cargo Rails]            (Various)    120kg    ~~~~    ~~~~\n └Exterior [!15 Type-C Docking Port]    (Various)    75kg     1.3m    20cm\n Inline Service Bay                     (Various)    200kg    3.5m    35cm\n ├10L Waste Storage Tank                (Various)    40kg     ~~~~    ~~~~\n ├Tri-Planar Reaction Wheels            [!16 IHMC]   160kg    ~~~~    ~~~~\n ├Life Support Cabinet                  ISA          40kg     ~~~~    ~~~~\n │├CO2 Scrubber                         ISA          70kg     ~~~~    ~~~~\n │├[!17 ArC] System (uses radiators)    (Various)    55kg     ~~~~    ~~~~\n │├[!18 MoTran] Life Support Controller [!19 Datec]  1kg      ~~~~    ~~~~\n │└Dehumidifyer                         (Various)    20kg     ~~~~    ~~~~\n └4x 50L Lqd. Oxygen Tank               ISA          320kg    ~~~~    ~~~~\n Liquid Hydrogen Tank                   (Various)    8400kg   3.5m    3.0m (8,400kg wet, 400kg dry)\n 2-Cell [!20 Spacecraft RTG]            (Various)    3200kg   3.5m    75cm\n └Radial Thermal Radiators              IHMC         120kg    ~~~~    75cm\n Steel Engine Scaffold                  (Various)    75kg     3.5m    20cm\n └[!21 Nuclear Thermal Engine]          ISA          125kg    60cm    1.2m\n\n  Total                                 ISA         19091kg   3.5m    19.5m\u0000css\nChangelog(by year):\n     48 - The F-Type seats in the cockpits were changed to universal seats for better compatability.\n     64 - Some steel components were selectively replaced with aluminum components to reduce the craft mass from 19521kg to 18971kg.\n     72 - Elastic coating was introduced to the interiors of the crew spaces to ward off the effects of [!22 Warp Decay].\n     83 - Elastic coating was added to the interior of the cargo bay.\n     100 - To celebrate the turn of the century, the craft`s color scheme had been changed for some models produced on Excelsior.  This new color scheme recolored the exterior of the craft Titanium White.  The long cargo hold was also colored a bright orange.",
         "links": [],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/05/15 13:10:17",
-          "editTime": "2019/06/04 18:31:22"
+          "editTime": "2022/04/12 20:44:22"
         },
         "extension": "TEXT"
       },
@@ -4822,7 +4834,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/05/20 13:05:13",
-          "editTime": "2019/05/22 13:39:45"
+          "editTime": "2022/05/02 23:10:16"
         },
         "extension": "SRCH"
       },
@@ -5608,16 +5620,17 @@
         "name": "Gallea",
         "path": "/ROOT/NATIONS/GALLEA/HISTORY",
         "isUp": true,
-        "data": "css\n [!1] +National History Summary\n [!2] +Gallean World War",
+        "data": "css\n    [!1] +National History Summary\n    [!2] +Gallean World War\n    [!3] >History of Royalty",
         "links": [
           "/ROOT/NATIONS/GALLEA/HISTORY/SUMMARY",
-          "/ROOT/NATIONS/GALLEA/HISTORY/WORLD_WAR"
+          "/ROOT/NATIONS/GALLEA/HISTORY/WORLD_WAR",
+          "/ROOT/NATIONS/GALLEA/HISTORY/ROYALTY"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/08/14 17:24:30",
-          "editTime": "2019/09/08 23:42:06"
+          "editTime": "2022/05/02 21:47:33"
         },
         "extension": ""
       },
@@ -6321,7 +6334,7 @@
         "name": "Tuine Views on Species Relations",
         "path": "/ROOT/CULTURE/NATIONAL/TUINE/RACE_RELATIONS",
         "isUp": true,
-        "data": "css\n    Like most social stances, the average Tuine's opinion on race/species relations is correlated with their age.\n\n    Older Tuines, born before the year 44, view other human species as fundamentally different, and hardly even able to be integrated with. For a reminder, this is the generation that lived through the [!1 Tuine Civil War]. Many believe subscribe to the ideas of [!2 Human-Prefectionism], believing non-[!3 F-type] humans, or even just any non-Tuines to \n\n    Mid-age Tuines born after the 40s, growing up in the era of trade and transport with other worlds, have a more relaxed view of alien races compared to their parents. Many still see them as different, for one reason or another, as the values of Human-Perfectionism still linger in this generation. Though, through interacting with other species, the more-extreme views of the past generation were worn down, convincing many that F-Type and B-Type species aren't so different.\n\n    Younger Tuines, born after the year 86, have grown up in the coming age of the [!4 Galactic Confederation of Planets], where interstellar transport and communications are easier and cheaper than ever. Many of them have even grown up around humans of other species', and may even scoff at their elders' ideas of species supremacy.",
+        "data": "css\n    Like most social stances, the average Tuine's opinion on race/species relations is correlated with their age.\n\n    Tuines born before the year 44 view other human species as fundamentally different, and hardly even able to be integrated with.  For a reminder, this is the generation that lived through the [!1 Tuine Civil War].   Many subscribed to the ideas of [!2 Human-Prefectionism], believing non-[!3 F-type] humans, or even just any non-Tuines to be fundamentally bestial or subhuman.\n\n    Tuines born after the 40s, growing up in the era of trade and transport with other worlds, had a more relaxed view of alien races compared to their parents.  Many still saw them as different, for one reason or another, as the values of Human-Perfectionism still lingered in this generation.  Though, through interacting with other species, the more-extreme views of the past generation were worn down, convincing many that F-Type and B-Type species weren't so different.\n\n    More modern Tuines, born after the year 86, have grown up in the coming age of the [!4 Galactic Confederation of Planets], where interstellar transport and communications are easier and cheaper than ever.  Many of them have even grown up around people of other species', and even scoff at their elders' ideas of species supremacy.",
         "links": [
           "/ROOT/CALENDAR/CONFLICTS/WORLD_WARS/TUINE",
           "/ROOT/CULTURE/RELIGION/POLITICAL/GENETIC/HUMAN_PERFECTIONALISM",
@@ -6332,7 +6345,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/09/01 20:05:31",
-          "editTime": "2019/10/29 02:53:26"
+          "editTime": "2022/04/12 20:24:24"
         },
         "extension": ""
       },
@@ -9109,7 +9122,7 @@
         "name": "Itascan Military Phonetic Alphabet",
         "path": "/ROOT/TECHNOLOGY/COMMUNICATIONS/CODES/ITMPA",
         "isUp": true,
-        "data": "css\n    The Itascan Military Phonetic Alphabet is a method of mapping each letter of the [!1 Unil] alphabet to a spoken word.  It was designed by the [!2 Itascan] infantry in the pre-warp era to reduce errors in audio-based communications.  Since use of Unil became widespread across the [!3 GCP], the ITMPA is used on many planets throughout [!4 Asmodea]\n    \n    The mapping is as follows:\n\n    A - Alpha\n    B - Beta\n    C - Chiller\n    D - Delta\n    E - Erii\n    F - Ferris\n    G - Gravity\n    H - Harry\n    I - Indigo\n    J - Jeremy\n    K - Killjoy\n    L - Luna\n    M - Manic\n    N - Newbie\n    O - Orange\n    P - Province\n    Q - Quota\n    R - Rapture\n    S - Skoth\n    T - Terra\n    U - Urra\n    V - Violet\n    W - Wolfram\n    X - Xenon\n    Y - Yellow\n    Z - Zip",
+        "data": "css\n    The Itascan Military Phonetic Alphabet is a method of mapping each letter of the [!1 Unil] alphabet to a spoken word.  It was designed by the [!2 Itascan] infantry in the pre-warp era to reduce errors in audio-based communications.  Since use of Unil became widespread across the [!3 GCP], the ITMPA is used on many planets throughout [!4 Asmodea].\n    \n    The mapping is as follows:\n\n    A - Alpha\n    B - Beta\n    C - Chellum\n    D - Delta\n    E - Erii\n    F - Ferris\n    G - Gold\n    H - Harry\n    I - Indigo\n    J - Jeremy\n    K - Killjoy\n    L - Luna\n    M - Manic\n    N - Newbie\n    O - Orange\n    P - Province\n    Q - Quota\n    R - Rapture\n    S - Skoth\n    T - Terra\n    U - Urra\n    V - Violet\n    W - Wolfram\n    X - Xenon\n    Y - Yellow\n    Z - Zip",
         "links": [
           "/ROOT/CULTURE/LANGUAGE/UNIL/MAIN",
           "/ROOT/NATIONS/ITASCUS",
@@ -9120,7 +9133,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/11/29 22:46:44",
-          "editTime": "2021/04/26 16:25:12"
+          "editTime": "2022/04/12 20:46:33"
         },
         "extension": ""
       },
@@ -10813,7 +10826,7 @@
         "name": "Faciocentricity",
         "path": "/ROOT/BIOLOGY/BIOPSYCHOLOGY/FACIOCENTRISM",
         "isUp": true,
-        "data": "css\n    Many cognizant species, and all known species of [!1 Human], bear a biopsychological trait known as Faciocentricity.  Speciments of Faciocentric species are observed to inherently, subconsciously recognize and remember facial features of other members of their species (or sometimes even members of other species).\n\n    Specifically, faces in Faciocentric species can be used for emotional expression, nonverbal communication, and even personal identification.",
+        "data": "css\n    Many cognizant species, and all known species of [!1 Human], bear a biopsychological trait known as Faciocentricity.  Specimens of Faciocentric species are observed to inherently, subconsciously recognize and remember facial features of other members of their species (or sometimes even members of other species).\n\n    Specifically, faces in Faciocentric species can be used for emotional expression, nonverbal communication, and even personal identification.",
         "links": [
           "/ROOT/BIOLOGY/RACES"
         ],
@@ -10821,7 +10834,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2020/06/20 22:58:11",
-          "editTime": "2020/06/20 23:10:21"
+          "editTime": "2022/04/12 20:16:17"
         },
         "extension": ""
       },
@@ -12880,16 +12893,17 @@
         "name": "Gallean Culture",
         "path": "/ROOT/CULTURE/NATIONAL/GALLEAN",
         "isUp": true,
-        "data": "css\n    [!1] +Clans [Unwritten]\n    [!2] +Naming Convention",
+        "data": "css\n    [!1] +Clans [Unwritten]\n    [!2] +Naming Convention\n    [!3] +Horns in Galleate Societies [Unwritten]",
         "links": [
           "/ROOT/CULTURE/NATIONAL/GALLEAN/CLANS",
-          "/ROOT/CULTURE/NATIONAL/GALLEAN/NAMES"
+          "/ROOT/CULTURE/NATIONAL/GALLEAN/NAMES",
+          "/ROOT/CULTURE/NATIONAL/GALLEAN/HORNS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/06/19 04:15:30",
-          "editTime": "2021/06/19 04:16:11"
+          "editTime": "2022/05/02 23:53:49"
         },
         "extension": ""
       },
@@ -12933,17 +12947,18 @@
         "name": "Gallean Government Programs",
         "path": "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS",
         "isUp": true,
-        "data": "css\n    [!1] +Gallean Social Uplift Program [Unwritten]\n    [!2] +Gallean Reconstruction Program [Discontinued]\n    [!3] +Gallean Transit Authority [Unwritten]",
+        "data": "css\n    [!1] +Gallean Social Uplift Program\n    [!2] +Gallean Reconstruction Program [Discontinued]\n    [!3] +Gallean Transit Authority [Unwritten]\n    [!4] +Gallean Bureau of Internal Threats [Unwritten]",
         "links": [
           "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GSUP",
           "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GRP",
-          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GTA"
+          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GTA",
+          "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GBIT"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/07/18 23:29:58",
-          "editTime": "2021/10/29 00:28:16"
+          "editTime": "2022/05/02 21:35:31"
         },
         "extension": ""
       },
@@ -13114,15 +13129,17 @@
         "name": "Itascan Food",
         "path": "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD",
         "isUp": true,
-        "data": "css\n    [!1] ~Tyventian Noodle Soup",
+        "data": "css\n    [!1] ~Tyventian Noodle Soup\n    [!2] +Omelet\n    [!3] +Bodge",
         "links": [
-          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/TYVENTIAN_NOODLE_SOUP"
+          "/ROOT/CULTURE/NATIONAL/TYVENTIAN/FOOD/TYVENTIAN_NOODLE_SOUP",
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD/OMELET",
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD/BODGE"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/10/29 01:26:52",
-          "editTime": "2021/10/29 01:27:10"
+          "editTime": "2022/05/03 00:07:52"
         },
         "extension": ""
       },
@@ -13282,15 +13299,17 @@
         "name": "Salvatorism",
         "path": "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM",
         "isUp": true,
-        "data": "css\n    [!1] +Info",
+        "data": "css\n    [!1] +Overview\n    [!2] +Innovillion/Gail\n    [!3] +Yvest [Unwritten]",
         "links": [
-          "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM/MAIN"
+          "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM/MAIN",
+          "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM/INNOVILLION-GAIL",
+          "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM/YVEST"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/12/07 01:22:27",
-          "editTime": "2021/12/07 01:23:34"
+          "editTime": "2022/05/03 00:42:48"
         },
         "extension": ""
       },
@@ -13740,6 +13759,268 @@
           "editTime": "2022/02/04 22:31:22"
         },
         "extension": "TEXT"
+      },
+      {
+        "name": "Coxville Itascus",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/COXVILLE",
+        "isUp": true,
+        "data": "css\n[This article is a Stub, you can help by expanding it]\n\n    Coxville is a large city on the west coast of the Ferikan continent on Itascus.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/04/27 14:53:21",
+          "editTime": "2022/04/27 14:54:42"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Gallean Buereau of Internal Threats",
+        "path": "/ROOT/NATIONS/GALLEA/GOVERNMENT_PROGRAMS/GBIT",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 21:35:47",
+          "editTime": "2022/05/02 21:36:06"
+        },
+        "extension": ""
+      },
+      {
+        "name": "History of Gallean Royalty",
+        "path": "/ROOT/NATIONS/GALLEA/HISTORY/ROYALTY",
+        "isUp": true,
+        "data": "css\n    [!1] +Gallean Royalty Post-World-War\n    [!2] +Night of Melted Crowns [Unwritten]",
+        "links": [
+          "/ROOT/NATIONS/GALLEA/HISTORY/ROYALTY/POST-WAR",
+          "/ROOT/NATIONS/GALLEA/HISTORY/ROYALTY/NIGHT_OF_MELTED_CROWNS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 21:48:11",
+          "editTime": "2022/05/02 21:48:49"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Broad History of Gallean Royalty Post-War",
+        "path": "/ROOT/NATIONS/GALLEA/HISTORY/ROYALTY/POST-WAR",
+        "isUp": true,
+        "data": "css\nBackground & Pre-War Societal Shifts:\n    Gallean Royalty’s image sharply declined leading up to and during the [!1 Gallean World War].  While a few monarchies, principalities, and duchies governed in an enlightened and empathetic way, the majority were still ruled in a vastly absolutist manner.  The culture that had supported these hierarchies was steadily degrading; with the spread of [!2 Gearthmeiaism] among the servant and artisan classes, the 'divine right' of the rulers was diminishing. \n\n    The degrading social stability broke out into a few peaceful and violent revolutions, where multiple monarchies were overthrown and replaced by new governments following more socialist and collectivist ideals.  Ultimately, the [!1 Gallean World War] can be attributed to the surviving monarchies trying to maintain their status quo, anxious of societal upheaval destroying them, and the Revolutionary movements wishing to rid Gallea of its poisonous hierarchical past. \n\n    One part of the changing world that proved beneficial to these waning monarchies was Nationalism. Nationalism sprung up as a reactionary movement to the more Global, pan-Gallean ideals associated with the many flavors of Socialism.  While it was not inherently incompatible with [!2 Gearthmeiaism], it was in conflict with a few of its tenants.  There were a few Gearthmeist break-away sects that more attuned themselves with nationalism, but they were not as common as those which merely preferred to coexist.  Monarchies were able to weaponize nationalism to protect their rulerships, painting revolutionaries as trying to dilute and destroy their culture and history.   Nationalism would ever-further drive the divide between the monarchal and socialist ideologies, pushing any hopes of compromise into the dark.\u0000css\nPost-War:\n\n    After the war’s devastating impact, many monarchies were reduced to ashes, with numerous casualties of royalty.  Those who survived were forced to flee into hiding or be tried.  The Crown Trials in -46, are criticized in modern days for biased judges and juries, resulting in many royal bloodlines being put to death.\n\n    As the new Global government found its footing, from -46 to -40, many displaced royals were able to find metaphorical holes in the wall to hide in and form new lives.  Thanks to recent (at the time) books by descendants of these royals, it has been revealed that a secret society had formed between these survivors around -38.  The Royal Preservation Society (R.P.S.) would pool the resources and assets of the royals in hiding, providing fake documentation & identification, and even covering up incidents of royals exposing their cover.  R.P.S. was mostly outside of the Government’s notice, and only further faded into the obscurity as public opinions had shifted from toppling monarchs to a focus on issues with the current government. \n\n    While it would maintain a majority of the remaining royal population, R.P.S. would splinter over time.  One notable split off was the Rightful Rule faction in -2, their core ideology being that Royals should retake control of Gallea.  This faction achieved some success in local positions and a few attained military positions by 12.  Their less than subtle ideological ideals got them on the radar of the [!3 Gallean Bureau of Internal Threats] (\"GBIT\").  Subsequently, the Rightful Rule’s cells were crushed in simultaneous raids on the [!4 Night of the Melted Crowns].  It is speculated that a few members managed to escape and have reformed the Rightful Rule faction, but these rumors are thus far unsubstantiated.\u0000css\n     From the year 12 P.W. to the current day, most members of Royalty have stayed low as perceptions tempered and the generations moved on.  It is only recently that these bloodlines have come forward to lukewarm acceptance.  Most royals have integrated into modern Gallean society, following Gearthmeiaism and supporting the state.\n\n    The R.P.S. itself now publicly funds historic preservation initiatives to protect what still survives of royal blood.  Its membership has opened up to the general public as of 101, with those inside the society publicizing many internal documents.  The result was a historian resurgence across Gallea, and more historical focus has begun on documentation of the world pre-revolution.",
+        "links": [],
+        "meta": {
+          "author": "<@301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 21:50:24",
+          "editTime": "2022/05/02 21:53:07"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Definition of Human",
+        "path": "/ROOT/BIOLOGY/RACES/DEFINITION",
+        "isUp": true,
+        "data": "css\n    In [!1 Unil], a \"Human\" is any living, organic creature capable of sapient thought and speaking or understanding a spoken or written language.\n\n    Prior to the year 46 P.W., the word \"Human\", in Unil, had only referred to [!2 Itascan Humans].  This was problematic, as terms such as \"Inhumane\", \"Humanity\", and \"Human Rights\" would only implicitly apply to Itascans, as opposed to all species of Human.\n\n    When Unil was standardized in 46, the term \"Human\" was expanded to include all sapient life forms known to the [!3 GCP].",
+        "links": [
+          "/ROOT/CULTURE/LANGUAGE/UNIL/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
+          "/ROOT/NATIONS/GCP"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 22:28:09",
+          "editTime": "2022/05/02 23:11:17"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Heralius Weapon Foundry Co.",
+        "path": "/ROOT/COMPANIES/MILITARY/HWF",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 23:15:39",
+          "editTime": "2022/05/02 23:15:44"
+        },
+        "extension": ""
+      },
+      {
+        "name": "The Foundry Materiel Rifle - 93",
+        "path": "/ROOT/COMBAT/PERSONAL_WEAPONS/BALLISTIC/RIFLES/FMR93",
+        "isUp": true,
+        "data": "css\n┌──────────────────────────────┐\n│Use Period......: 93-Present  │\n│Weight..........: 5.2Kg       │\n│Ammunition......: 15.3mm FMJ  │\n│Clip Capacity...: 5 Rounds    │\n│Shots/3 seconds.: 1           │\n│Loading Type....: semi-auto   │\n│Reload Time.....: 9s          │\n│Accuracy Rating.: 7           │\n│Precision Rating: 3           │\n│AP Rating.......: 8           │\n│Damage Type.....: Ballistic   │\n│Manufacturer....: [!1 HWF Co.]│\n└──────────────────────────────┘\n\n    The Foundry Materiel Rifle - 93 or FMR-93 is the latest anti-materiel rifle produced by the [!1 Heralius Weapon Foundry Co.].  A 1524mm-long weapon, the FMR-93 comes factory-new with a bipod, muzzle flash diffuser, full stock, and a telescopic sight.  The weapon is designed for Gallean use and as such only had 3 finger holes in the grip.  The weapon`s self-loading mechanism is gas-operated. \n\n    The rifle normally uses 15.3mm FMJ rounds, notable special ammo in current use includes DuR (Depleted Uranium), Subsonic, High velocity, and High-Explosive.  All of which are produced exclusively by the [!2 Gallean Military].  The FMR-93 sells at $8,200 from HWF directly. \n\n    The FMR-93 is the main anti-material rifle used by the Gallean Military and is the latest in a long line of FMR rifles dating back to the days of the [!3 Gallean World War]. \n\nSpecial Information:\n    Designed to meet [!4 Gallean]-versus-Gallean requirements, one well-placed shot can kill or maim any known species of [!5 human].\n    The rifle has an effective range of 8 kilometers.",
+        "links": [
+          "/ROOT/COMPANIES/MILITARY/HWF",
+          "/ROOT/NATIONS/GALLEA/MILITARY/MAIN",
+          "/ROOT/NATIONS/GALLEA/HISTORY/WORLD_WAR/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN",
+          "/ROOT/BIOLOGY/RACES/DEFINITION"
+        ],
+        "meta": {
+          "author": "<@301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 23:19:47",
+          "editTime": "2022/05/02 23:20:44"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Gaerus Vivotype",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS",
+        "isUp": true,
+        "data": "css\n    [!1] >Humanoid",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 23:41:38",
+          "editTime": "2022/05/02 23:42:04"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Gaerus Humanoids",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID",
+        "isUp": true,
+        "data": "css\n    [!1] >Galleate Human",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 23:42:15",
+          "editTime": "2022/05/03 00:11:54"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Horns in Galleate Societies",
+        "path": "/ROOT/CULTURE/NATIONAL/GALLEAN/HORNS",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/02 23:52:57",
+          "editTime": "2022/05/02 23:53:06"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Government Systems and Programs",
+        "path": "/ROOT/NATIONS/DEORIA/GOVERNMENT_SYSTEMS",
+        "isUp": true,
+        "data": "css\n   [!1] +The Senatorial Guard [Stub]",
+        "links": [
+          "/ROOT/NATIONS/DEORIA/GOVERNMENT_SYSTEMS/SENATORIAL_GUARD"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/03 00:00:17",
+          "editTime": "2022/05/03 00:00:46"
+        },
+        "extension": ""
+      },
+      {
+        "name": "The Deorian Senatorial Guard",
+        "path": "/ROOT/NATIONS/DEORIA/GOVERNMENT_SYSTEMS/SENATORIAL_GUARD",
+        "isUp": true,
+        "data": "css\n   The Deorian Senatorial Guard is a Deorian government organization tasked with the protection of Deorian government officials and foreign envoys, a job which had been previously tasked to state or municipal police and militia forces. It was founded in the year 87, following [!1 a non-lethal attack] on the current [!2 Deorian oversenator], Oversenator Painted Forest, by a group of Deorian-born [!3 Itascan] nationalists.",
+        "links": [
+          "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD/OMELET",
+          "/ROOT/NATIONS/DEORIA/GOVERNMENT_STRUCTURE",
+          "/ROOT/NATIONS/ITASCUS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/03 00:00:57",
+          "editTime": "2022/05/03 00:02:52"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Omelet",
+        "path": "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD/OMELET",
+        "isUp": true,
+        "data": "css\n┌────────────────────────────────┐\n│Planet of Origin.: [!1 Itascus] │\n│Time Period......: -140-Present │\n│Ingredients......: Eggs, milk,  │\n│                   cheese, meat,│\n│                   vegetables,  │\n│                   butter/lard  │\n│Preparation Needs: Heat, Skillet│\n│                   or Pan       │\n└────────────────────────────────┘\n\n    An omelet, specifically the Ferikan omelet, is a savory egg-based dish originating from the Greater Coxville region of [!1 Ferika, Itascus], typically consumed as breakfast fare but also popular for other mealtimes and as street food.  Omelets conventionally consist of beaten eggs which are seasoned and cooked flat on a greased skillet until almost cooked, after which, fillings, almost always including at least cheese, are placed upon the egg and the egg is folded over, forming the omelet; the egg should be made to remain creamy in the center of the omelet and soft on the exterior.  The dish has many variations, the aforementioned merely being the most common and simple configuration of the dish.  Modern omelets are evidently descended from several egg dishes introduced by the people of [!1 Kullmia] to Ferika in Itascus’ Late Middle Ages.\u0000css\n    Eggs have been eaten on Itascus by many civilizations for several millennia, but the modern iteration of omelets has only been around for a few centuries.  The earliest written record of omelets as currently known can be found in an untitled cookbook which belonged to a cook who served the Duchy of Coxville’s royal family back in the -140s in which she describes “fried eggs like a concise journal with pages of cheese”, accompanied by a vague recipe for the aforementioned “egg-books”.Earlier records of omelets describe only prototypes of the modern dish, each usually missing some component or step of the process used today or utilizing completely different methods altogether.  One notable sister dish of the omelet is the torte, also known as the Kullmian pancake or “dol” in West Kullmian (which is actually a loanword from [!2 Unil]; the native word has been lost) which is prepared by mixing eggs with the fillings and then cooking them all together into a pancake, which is sometimes either folded over or rolled up once complete.  Tortes are commonly served with vinegar mixed with spices as a dipping sauce and are more often than not seen being served as street food throughout Kullmia and within Kullmian enclaves.\u0000css\n    In the year 87 P.W., while Oversenator Painted Forest was giving a short speech at a charity event in the town of Eastern Fields, Ricefield, [!3 Deoria], a small group of Deorian-born [!4 Itascan] nationalists emerged from the crowd and attacked the oversenator with a barrage of cold, cheese-stuffed omelets before fleeing back into the bewildered congregation.  There was one injury and one casualty reported: one event attendee stumbled and fell when a nationalist rushed past him, hitting his head on the pavement and obtaining a concussion, while another, albeit elderly, attendee thought that the president had been assassinated and suffered a cardiac arrest.  The perpetrators were quickly caught and tried for the endangerment of a government official and for being the indirect cause of the aforementioned injury and death.  The court ruled guilty on all charges except for that of manslaughter and the group was sentenced to 4 [!5 Silver Years] in prison.  As a result of the incident, many have begun to associate cheese omelets with Itascan nationalism, and the slang term “omelet-slinger” has arisen in [!2 Unil] as a term for a speciesist, especially one who is speciesist specifically against [!6 Deorians].  Additionally, the incident sparked the formation of [! The Senatorial Guard], which would assume the role of ensuring the protection of Deorian government officials and visiting foreign officials, a task which was previously only handled by local and/or state authorities.\n\n    The etymology of “omelet” was rather difficult to pin down, primarily due to the bias of various linguists.  The current most accepted origin of the word is that it came from a now-dead Kullmian language isolate, which may also possibly explain why the other languages of Kullmia lack a modern word for the dish.  Alternatively, some suggest that the word is, in fact, native to Ferika, perhaps from Old Central Ferikan, “cumarad”, meaning “eggs”.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/CULTURE/LANGUAGE/UNIL/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SIMIA/DEORIA/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
+          "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/DEORIAN_GENERAL",
+          "/ROOT/NATIONS/DEORIA/GOVERNMENT_SYSTEMS/SENATORIAL_GUARD"
+        ],
+        "meta": {
+          "author": "<@366044218742800385>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/03 00:08:14",
+          "editTime": "2022/05/03 00:09:51"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Evolutionary History",
+        "path": "/ROOT/BIOLOGY/VIVOTYPES/GAERUS/HUMANOID/GALLEATE_HUMAN/EVOLUTION",
+        "isUp": true,
+        "data": "css\n    The Galleate species is a varied mix of multiple ancestors, eventually combining and evolving to form the Modern Galleate in all its variations.  This article is meant to provide a basic overview of the recent evolutionary history within the last 100 million years, and will have some generalizations and summarizations that may overlook many of the minutiae.\n\n    The most distant ancestor of the modern Galleate, which still bore some resemblance, is the pack hunting/grazing omnivore, Vagari-Galleaten.  The Vagari traveled in nomadic packs.  Due to the sparse biosphere of [!1 Gallea], their diet was made up of any biomass they could find.  Their social connections were primarily familial in nature, with a Social Hierarchy based on age.  Their posture was quadrupedal, with no discernable bias between their front or back appendages.  One of their key strengths was endurance, not specializing in speed or raw strength, allowing them to trail another animal for long distances or survive from one patch of vegetation to the next.  Their protection from the freezing cold of Gallea was provided by blubber and a thick coat of fur.\u0000css\n    The subsequent important link in the chain of ancestors was Fodiendi-Galleaten.  The social structures grew complex as more than one family of Fodiendi would form herds.  With this increased population, the need for temporary burrows arose.  The front legs of the Vagari had grown larger, and the claws at the paws had become larger and more emphasized, specializing into arms.  These claws were efficient at carving burrows, especially when work was done in a team.  The claws also proved useful in hunting.  In conjunction with retaining the endurance of the Vagari, the Fodiendi were capable hunters; the extra bulk had shifted the body's center of mass forward with a more extended spine, widened shoulder area, and longer forearms.  These changes coincided with a hybrid posture; Fodiendi would balance on their hind legs while digging, but for the most part stayed quadrupedal. \n\n    The now closest ancestor species to the modern Galleate was the Tribrectus-Galleaten.  Commonly nicknamed the ‘Early Galleat’; these most strongly resemble the modern Galleates out of all previously discussed specimens.  This species had begun using tools, and their social structures were almost tribal or clan-like.  Due to their use of tools, the physical buildup of the Fodiendi in the fore section decreased in the Tribrectus but was still fairly noticeable with long arms and wider shoulders.  One very important development was the bi-pedal posture, while not as straight as a modern Galleate, the Tribrectus’ bi-pedal stance allowed its forearms and claws to evolve into nimble manipulators.  Comprised of 4 digits -- three main digits, and an opposable thumb -- the hands allowed for precision.  The claws once used extensively for digging had grown duller and less prominent, which made them more general-purpose.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN"
+        ],
+        "meta": {
+          "author": "<@301493561353043968>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/03 00:16:57",
+          "editTime": "2022/05/03 00:24:21"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Bodges",
+        "path": "/ROOT/CULTURE/NATIONAL/ITASCAN/FOOD/BODGE",
+        "isUp": true,
+        "data": "css\n┌─────────────────────────────────┐\n│Planet of Origin.: Itascus       │\n│Time Period......: -50s-Present  │\n│Ingredients......: Flour, Eggs,  │\n│                   Sugar, Butter,│\n│                   Yeast, Oil or │\n│                   Lard          │\n│Preparation Needs: Proofing, Heat│\n└─────────────────────────────────┘\n\n    A boadge, sometimes spelled as “boage” or “boge”, is a type of sweet, rich, yeast-leavened fritter originating from [!1 Ferika, Itascus].  Traditionally, boadges were only prepared and consumed during certain holidays and festivals, but have also commonly been eaten for breakfast, dessert, and with coffee within many cultures on Itascus since around the year -10 P.W..  Boadges are popular across the [!2 Silver Stream], and are considered quintessential café fare.  A person who specializes in making boadges, or similar fried pastries, is referred to as a “boadger” (or “boadgeress”), and a venue that primarily produces boadges is called a “boadgery”.\n\n    Prior to Itascus’ age of global industrialization, boadges were solely eaten in celebration of certain Ferikan holidays, such as [!3 Innovillion/Gail] and [!4 Yvest], especially by those of the upper class.  When the mass-production of food and foodstuffs became widespread, and Itascan cultures further diffused across Itascus, boadges gradually started becoming increasingly common outside of celebratory contexts, though they are still consumed in far greater quantities during holidays.\u0000css\n\n    Simple boadges consist of just five ingredients: flour, eggs, sugar, butter, and a yeast leavener, which is conventionally sourdough starter, but often substituted with baker’s yeast.  The flour, eggs, sugar, and yeast are mixed together to form a dough, after which butter is slowly incorporated by flattening the dough out, spreading a layer of butter upon the dough’s surface, and folding the dough over itself, then continuously laminating the dough until multiple layers of butter have been formed.  The dough is allowed to rest and rise before it is divided into the cook’s preferred shapes and fried in hot cooking oil or lard until golden brown and cooked through.  Once cooked, they are often finished with a layer of glaze or sugar.  The end result is a soft, very sweet fritter with distinct layers as a result of the butter on the inside.\n\n    The earliest references to boadges date back to just before Itascus’ era of widespread industrialization, and are referred to as “butter fritters” or “sugar fritters” in many documents.  The term “boadge” arose much later and is of a somewhat enigmatic origin.  Some Unil linguists suggest that it is a comical contraction between the words “boat” and “barge”, alluding to how the fritters float in the cooking grease.  Others argue that it is a corruption of the word “bulge”, citing the East Ferikan street cant’s pronunciation of the word.  Notwithstanding, the modern formal spelling of the word was likely influenced by the spellings of words like “boat” and “road”.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM",
+          "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM/INNOVILLION-GAIL",
+          "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM/YVEST"
+        ],
+        "meta": {
+          "author": "<@366044218742800385>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/03 00:36:32",
+          "editTime": "2022/05/03 00:47:32"
+        },
+        "extension": "TEXT"
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/CULTURE/RELIGION/THEISTIC/SALVATORISM/INNOVILLION-GAIL",
+        "isUp": true,
+        "data": "[Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2022/05/03 00:43:22",
+          "editTime": "2022/05/03 00:43:22"
+        },
+        "extension": ""
       }
     ],
     "owners": [],
