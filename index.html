@@ -11,7 +11,7 @@
 			const defaultDomain = "https://samhayzen.github.io/ndb-web/"
 			var domain = defaultDomain;
 			var linkDomain = domain;
-			var pushDate = "11/2/2022";
+			var pushDate = "2/24/2023";
 			//console.log(encodeURIComponent("https://echodolls.com/lore/"));
 			var web;
 			$.ajax({
@@ -246,7 +246,13 @@
 							return num+"th";
 					}
 				}
-
+				var pad = function(num,cnt,chr) {
+					var strNum = num.toString();
+					while(strNum.length < cnt) {
+						strNum = chr + strNum;
+					}
+					return strNum;
+				};
 				var logOut = function(text){
 					console.log(text);
 				};
@@ -1350,12 +1356,12 @@
 														var dayNum = i+q*5+1;
 														var holdEvents = getEventsOfDay([dayNum,thisUser.webvars.calendar.month,thisUser.webvars.calendar.year]);
 														if(dayNum == thisUser.webvars.calendar.day){
-																say = say+"["+dayNum.pad(2,'0')+"]";
+																say = say+"["+pad(dayNum,2,'0')+"]";
 														}else{
 															if(holdEvents.length>0){
-																say = say+"-"+dayNum.pad(2,'0')+"-";
+																say = say+"-"+pad(dayNum,2,'0')+"-";
 															}else{
-																say = say+" "+dayNum.pad(2,'0')+" ";
+																say = say+" "+pad(dayNum,2,'0')+" ";
 															}
 														}
 													}
