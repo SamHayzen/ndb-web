@@ -4902,7 +4902,13 @@
         "path": "/ROOT/TRAVEL/TERRESTRIAL/MASS_TRANSIT/RAIL/SKYRAIL",
         "isUp": true,
         "data": "css\n    The Skyrail is a type of transit system used as public transportation within large cities.  A Skyrail system is a fleet of autonomus and/or manually-driven railcars.  These railcars hang vertically from pairs of rails at least six meters off of the ground.  The rails these cars connect to span vast networks that cover entire inner cities.  The railcars can move up to 50 kilometers per hour (13 meters per second), and combined with their low risk of traffic delays, it makes them a prime choice for commuters desiring to get to somewhere in their city very quickly.\n\n    There are two common types of railcars in Skyrail systems, Personal Cars and Commuter Cars.\n    Personal Cars can be summoned at terminals by individuals, and commonly only have four seats.  Upon boarding a Personal Car, its passenger(s) interact with a computer onboard to select a Skyrail terminal in their city that they would like to be delivered to.  Personal Cars commonly directly cost money, or an intermediate currency made specifically for the system (ex: Skyrail tokens).  This is to offset the cost of maintaining the system.  Personal Cars, which are smaller, are connected to their rails above by one connector.\n    Commuter Cars are much larger boxcars, and can seat anywhere between sixteen to fourty people.  Commuter Cars usually follow schedules and routes, as opposed to going to a specified location on request.  This makes them more like city busses than a taxi service.  These cars, which are larger than others, are connected to their rails by (at least) two connectors.\n\n    Unlike [!1 trains], Skyrail cabs are able to easily start or stop on command as well as change rails for turning. This gives them the manuverability of a [!2 city bus] while avoiding the traffic of city streets.\u0000css\n    The physical rail networks usually hang over inner city roads and streets.  Because of this, Skyrail rail networks tend to match road networks within a city (though less-traveled roads are typically omitted).  Rails tend to hang over the exact middle of roads (or in the middle of lanes, if there are multiple rails over the same road).  The rails themselves are suspended by supports connected to the ground, or to the sides of structurally-sound buildings.  Skyrail terminals are elevated metal platforms resembling wide catwalks, or small plazas built into the sides of buildings.  Depending on the terminal's size, it may have benches for waiting passengers, restrooms, or other ammenities.  If a terminal is intended to be a node for Personal Cars, it will have a machine of some sort to accept payment (or Skyrail tokens) and summon a Skyrail cab.\n\n    Skyrail was first designed in the year 61 by the [!3 Trametro] company, which has maintained the system's design, applications, and implementations ever since.  The first Skyrail system with implemented in [!4 Liveston City] on [!5 planet Osirja], which quickly became a popular mode of transport.",
-        "links": [],
+        "links": [
+          "/ROOT/TRAVEL/TERRESTRIAL/MASS_TRANSIT/RAIL/TRAIN",
+          "/ROOT/TRAVEL/TERRESTRIAL/MASS_TRANSIT/MOTOR",
+          "/ROOT/COMPANIES/TRANSPORT/TUINE/TRAMETRO",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SELENIA/OSIRJA/LIVESTON",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SELENIA/OSIRJA/MAIN"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
@@ -6999,7 +7005,7 @@
         "name": "Classifications of People",
         "path": "/ROOT/NATIONS/ARMALAI/LAW/PEOPLE_CLASSIFICATION",
         "isUp": true,
-        "data": "css\nBy Age:\n    According to Armalai's legal code, human(oid)s under the age of two local years (1.68 [!1 galactic years] are considered Infants.  Infants are treated specially in most places on [!2 Armalai], with more laws concerning safety applying to them.  Though, by definition, laws protecting citizens' intellectual rights do not apply to infants.\n\n    Humanoids under the age of twelve local years (10.08 galactic years) are considered to be Minors.  Humanoids at or over that age are considered Majors.  Though, legal Majority is not to be confused with legal Adulthood, which are the same in most other juristictions.\n\n    Humanoids over the age of sixteen local years (13.45 galactic years) are classified as a legal Adult on Armalai.  Being a legal Adult on Armalai grants a citizen more legal freedoms than being a Major.",
+        "data": "css\nBy Age:\n    According to Armalai`s legal code, human(oid)s under the age of Two(2) [!1 Silver Years] are considered Infants.  Infants are treated specially in most places on [!2 Armalai], with more laws concerning safety applying to them.  Though, by definition, laws protecting citizens` intellectual rights do not apply to infants.\n\n    Humanoids under the age of Six(6) Silver Years are considered to be Minors.  Humanoids at or over that age are considered Majors.  Though, legal Majority is not to be confused with legal Adulthood, which are the same in most other juristictions.\n\n    Humanoids over the age of Seven(7) silver years are classified as a legal Adult on Armalai.  Being a legal Adult on Armalai grants a citizen more legal freedoms than just being a Major.",
         "links": [
           "/ROOT/CALENDAR/TIME_SYSTEMS/GALACTIC",
           "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/MAIN"
@@ -7008,7 +7014,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/21 16:09:01",
-          "editTime": "2019/10/21 16:27:13"
+          "editTime": "2023/05/09 20:19:54"
         },
         "extension": ""
       },
@@ -7193,17 +7199,18 @@
         "name": "Products and Common Consumables",
         "path": "/ROOT/MARKET/PRODUCTS",
         "isUp": true,
-        "data": "css\n   [Todo - add more kinds of products]\n   [!1] >Computers\n   [!2] >Substances and Medicine\n   [!3] ~Personal Weaponry",
+        "data": "css\n   [Todo - add more kinds of products]\n   [!1] >Computer Products\n   [!2] >Substances and Medicine\n   [!3] ~Personal Weaponry\n   [!4] >Foodstuffs Products",
         "links": [
           "/ROOT/MARKET/PRODUCTS/COMPUTERS",
           "/ROOT/MARKET/PRODUCTS/SUBSTANCES",
-          "/ROOT/COMBAT/PERSONAL_WEAPONS"
+          "/ROOT/COMBAT/PERSONAL_WEAPONS",
+          "/ROOT/MARKET/PRODUCTS/FOOD"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/23 12:42:52",
-          "editTime": "2020/07/11 00:55:35"
+          "editTime": "2023/05/09 20:03:22"
         },
         "extension": ""
       },
@@ -7575,7 +7582,7 @@
         "name": "Qi Memory",
         "path": "/ROOT/TECHNOLOGY/COMPUTERS/COMPONENTS/MEMORY/QI",
         "isUp": true,
-        "data": "css\n    Qi Memory is a type od computer memory that uses Qi energy [!1 and microstructured Qi crystals] as a medium for storing Random Access Memory or Read Only Memory.\n    \n    Qi RAM can be very small, as 32 Kibibytes of memory can be microstructured into a chip only one by two centimeters in size.  Though this smaller size comes with the downside that Qi RAM can only be accessed at a frequency of up to about 130 Kilohurtz.  Physically, Qi RAM works by changing the polarity of the crystal microstructures making up each bit, which can be interpreted as \"ones\" and \"zeroes\".  When in use, Qi RAM takes less energy than Electric RAM to operate.  When not in use, a module of Qi RAM can be given a small amount of energy to keep the cell of memory non-volatile (meaning that it will not succumb to data rot).   \n    \n    Qi ROM chips are much smaller than Qi ROMS.  For example, an electric ROM chip holding 32 Kibibytes can fit in a crystal wafer about the size of a human thumbnail.  The read speed of Qi ROMs can be up to 200 Kilohurtz.\n    \n    Due to Qi Memory's smaller size and lower cost but slower speed, it is best used in a computer's [!2 main memory] or in small devices that don't require fast memory.",
+        "data": "css\n    Qi Memory is a type of computer memory that uses Qi energy [!1 and microstructured Qi crystals] as a medium for storing Random Access Memory or Read Only Memory.\n    \n    Qi RAM can be very small, as 32 Kibibytes of memory can be microstructured into a chip only one by two centimeters in size.  Though this smaller size comes with the downside that Qi RAM can only be accessed at a frequency of up to about 130 Kilohurtz.  Physically, Qi RAM works by changing the polarity of the crystal microstructures making up each bit, which can be interpreted as \"ones\" and \"zeroes\".  When in use, Qi RAM takes less energy than Electric RAM to operate.  When not in use, a module of Qi RAM can be given a small amount of energy to keep the cell of memory non-volatile (meaning that it will not succumb to data rot).   \n    \n    Qi ROM chips are much smaller than Qi ROMS.  For example, an electric ROM chip holding 32 Kibibytes can fit in a crystal wafer about the size of a human thumbnail.  The read speed of Qi ROMs can be up to 200 Kilohurtz.\n    \n    Due to Qi Memory's smaller form factor and lower cost but slower speed, it is best used in a computer's [!2 main memory] or in small devices that don't require fast memory.",
         "links": [
           "/ROOT/TECHNOLOGY/MATERIALS/MICROSTRUCTURES/MAIN",
           "/ROOT/TECHNOLOGY/COMPUTERS/STRUCTURE/PARALLEL"
@@ -7584,7 +7591,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/27 04:56:52",
-          "editTime": "2019/11/05 00:12:26"
+          "editTime": "2023/05/10 16:45:59"
         },
         "extension": ""
       },
@@ -8267,13 +8274,15 @@
         "name": "Commonwealth Transportation Program",
         "path": "/ROOT/NATIONS/GCP/BRANCHES/CTP",
         "isUp": true,
-        "data": "css\n    The Commonwealth Transportation Program is a GCP program dedicated to subsidizing transportation between GCP planets.",
-        "links": [],
+        "data": "css\n    The Commonwealth Transportation Program is a GCP program dedicated to subsidizing transportation between GCP planets.  It is also the organization responsible for determining the paths of [!1 Warp Circuits].",
+        "links": [
+          "/ROOT/TRAVEL/SPACE/CIRCUITS/GENERAL"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/31 20:46:38",
-          "editTime": "2019/10/31 20:48:00"
+          "editTime": "2023/05/09 20:23:37"
         },
         "extension": ""
       },
@@ -10330,8 +10339,7 @@
           "/ROOT/NATIONS/ITASCUS",
           "/ROOT/CALENDAR/EVENTS/HISTORIC/WARP_PIONEER_VOYAGE",
           "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ERII/MAIN",
-          "",
-          "/ROOT/PEOPLE/EXPLORERS/KANE_FELT"
+          "/ROOT/PEOPLE/EXPLORERS/ITASCAN/KANE_FELT"
         ],
         "meta": {
           "author": "<@220352318510596096>",
@@ -13713,7 +13721,7 @@
         "name": "Karminism",
         "path": "/ROOT/CULTURE/RELIGION/POLITICAL/ECONOMIC/KARMINISM",
         "isUp": true,
-        "data": "css\n    Karminism a left wing ideology implemented by [!1 Karmine Jacobs] in the [!2 Urran Empire].  It is a social contract between the government and the governed where in exchange for the unwavering loyalty of the citizen to the state, the state makes sure that the citizen lives in comfortable conditions.\n\n    One of the most prevalent effects of Karminism in The Urran Empire and Neo Urra is a basic income policy which takes up a significant amount of the government’s budget and makes sure that the citizens most basic needs like housing, food and clothing are met.  The citizen, in exchange must work for [!3 four silver years] for the government, either in the armed forces or in public works projects\n\n    While today Neo Urra is poorer by capita than the rest of the [!4 GCP], defenders of Karminism argue that it is because of the quasi-total blockade enforced on the Urran Empire since its inception by most members of the GCP, which impeded economic growth until the economy adapted and focused in internal trade.",
+        "data": "css\n    Karminism a collectivist ideology implemented by [!1 Karmine Jacobs] in the [!2 Urran Empire].  It is a social contract between the government and the governed where in exchange for the unwavering loyalty of the citizen to the state, the state makes sure that the citizen lives in comfortable conditions.\n\n    One of the most prevalent effects of Karminism in The Urran Empire and Neo Urra is a basic income policy which takes up a significant amount of the government’s budget and makes sure that the citizens most basic needs like housing, food and clothing are met.  The citizen, in exchange must work for [!3 four silver years] for the government, either in the armed forces or in public works projects\n\n    While today Neo Urra is poorer by capita than the rest of the [!4 GCP], defenders of Karminism argue that it is because of the quasi-total blockade enforced on the Urran Empire since its inception by most members of the GCP, which impeded economic growth until the economy adapted and focused in internal trade.",
         "links": [
           "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS",
           "/ROOT/NATIONS/NEO_URRA",
@@ -13724,7 +13732,7 @@
           "author": "<@!329216363447058434>",
           "editor": "<@220352318510596096>",
           "madeTime": "2022/02/04 21:56:09",
-          "editTime": "2022/02/04 22:16:04"
+          "editTime": "2023/05/10 17:00:30"
         },
         "extension": ""
       },
@@ -14553,15 +14561,15 @@
         "name": "Itascan Explorers",
         "path": "/ROOT/PEOPLE/EXPLORERS/ITASCAN",
         "isUp": true,
-        "data": "css\n    [!1] +Arnold Betsa",
+        "data": "css\n    [!1] +Arnold Betsa\n    [!2] +Kane Felt",
         "links": [
-          "/ROOT/PEOPLE/EXPLORERS/ITASCAN/ARNOLD_BETSA"
+          "/ROOT/PEOPLE/EXPLORERS/ITASCAN/KANE_FELT"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2022/11/02 02:49:55",
-          "editTime": "2022/11/02 02:50:20"
+          "editTime": "2023/05/10 16:49:55"
         },
         "extension": ""
       },
@@ -15151,7 +15159,7 @@
         "extension": ""
       },
       {
-        "name": "Untitled",
+        "name": "Ainu Ceima",
         "path": "/ROOT/PEOPLE/INTERNET/ZUATONG/AINU_CEIMA",
         "isUp": true,
         "data": "css\n┌─────────────────────────────────────┐\n│Full Name......: Ainu Ceima          │\n│Relevant Titles: N/A                 │\n│Time of Birth..: -893                │\n│Place of Birth.: [!1 Lightfire City],│\n│                 [!2 Armalai]        │\n│Place of Living: [!3 Skydune City],  │\n│                 Armalai             │\n│Time of Death..: TBD                 │\n│Species........: [!4 La`Foyan]       │\n│Ethnicity......: Shurui              │\n│Occupation(s)..: Musician, SoftPirate│\n│Languages......: [!5 Nunwei],        │\n│                 [!6 Unil]           │\n│Top Net Worth..: Unknown             │\n│Notable Assets.: Unknown             │\n│Associates.....: [!7 The Echodolls]  │\n│                 [!8 Zuatong] Staff  │\n└─────────────────────────────────────┘\n    \n    Ainu Ceima is a Shurui-[!4 La`foyan] [!9 Armalite National] living in [!3 Skydune City].  She`s known for being the lead musician in [!7 The Echodolls] and being a part of [!8 Zuatong] before it was [!8 Federally shut down].\n    \n    She served six months in prison fom 22/4/107 to 22/10/107 due to her aforementioned involvement with Zuatong.  To her benefit, during her trial, she was able to enter into a plea deal in which she avoided longer jail time and doged any major felony charges which would`ve prevented her from securing her current residence in the Artists` Campus of [!3 Skydune City].",
@@ -15160,7 +15168,40 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2023/05/09 19:41:56",
-          "editTime": "2023/05/09 19:42:42"
+          "editTime": "2023/05/09 19:43:07"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Microgravity Dining Area",
+        "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/MODULES/ACCOMODATION/DINING",
+        "isUp": true,
+        "data": "css\n    Dining in microgravity can be a challenge, especially with consumer-market food which can't be reasonably-expected to be tailored to zero-G consumption.\n\n    The two main accommodations are strong cabin ventilation and magnetized dining tables.\n    Eating in space can summon torrents of crumbs, droplets, and other particulates that are known to be very problematic in space; since these particles aren't drawn to the ground, they are likely to find their way into sensitive machinery, damaging it.  To solve this, the air in these dining areas is constantly run through large filters to catch these particles.  The area itself is also usually kept at a slightly lower pressure than the rest of the ship to discourage these particles from escaping.\n    Utensils and cutlery made for space are magnetized, allowing them to adhere to the similarly-magnetized tops of dining tables, allowing space travelers to set their utensils down as they would on the ground.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/09 19:48:34",
+          "editTime": "2023/05/09 19:57:05"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Kane Felt",
+        "path": "/ROOT/PEOPLE/EXPLORERS/ITASCAN/KANE_FELT",
+        "isUp": true,
+        "data": "css\n    [This article is a stub, you can help by writing it.]\n    \n    Kane was a male [!1 Itascan] astronaut, born in [!2 Ferika].\n\n    Kane Felt was one of the first two people to travel beyond their home star.  This was during the [!3 Warp Pioneer Voyage].  The planet [!4 Matina] was named after his then-dead mother on said voyage.",
+        "links": [
+          "/ROOT/BIOLOGY/VIVOTYPES/ITAUS/HUMANOID/ITASCAN_HUMAN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/CALENDAR/EVENTS/HISTORIC/WARP_PIONEER_VOYAGE",
+          "/ROOT/LOCATIONS/SILVER_STREAM/ERALUX/MATINA/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/10 16:50:46",
+          "editTime": "2023/05/10 16:56:57"
         },
         "extension": ""
       }
