@@ -1455,7 +1455,7 @@
         "path": "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n     A spacecraft is any vehicle capable of operating in, and/or traversing through space. The first known use of spacecraft in the [!1 GCP] is by [!2 LEECA] in the year -49. It was an experimental flight sending a probe into a suborbital trajectory over the planet of [!3 La'Foy].",
+        "data": "css\n    [This article is a Stub, you can help by writing it]\n\n    A spacecraft is any vehicle capable of operating in, and/or traversing through space.",
         "links": [
           "/ROOT/NATIONS/GCP/MAIN",
           "/ROOT/COMPANIES/SPACE/LAFOY/LEECA",
@@ -1465,7 +1465,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/05/22 13:48:25"
+          "editTime": "2023/05/23 22:10:36"
         },
         "extension": ""
       },
@@ -3086,16 +3086,18 @@
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU",
         "isUp": true,
         "backpath": "",
-        "data": "css\n [!1] +Info\n ----\n [!2] >Gazer Station",
+        "data": "css\n    [!1] +Info\n    [!2] +Nyeshim\n    [!3] +Peyja\n    ----\n    [!2] >Gazer Station",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/NYESHIM",
+          "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/PEYJA",
           "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/GAZER"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2019/08/14 21:43:55"
+          "editTime": "2023/05/23 17:43:32"
         },
         "extension": ""
       },
@@ -3539,8 +3541,9 @@
         "path": "/ROOT/COMPANIES/MILITARY",
         "isUp": true,
         "backpath": "",
-        "data": "css\n    [!1] +Atlas Corp.\n    [!2] +Heralius Weapon Foundry Co. [Unwritten]\n    [!3] +Itascan Dynamics [Unwritten]\n    [!4] +Kinetyx\n    [!5] +Outerweapon Conglomerate\n    [!6] >Minor",
+        "data": "css\n    [!1] >Defense Contractors\n    [!2] +Atlas Corp.\n    [!3] +Heralius Weapon Foundry Co. [Unwritten]\n    [!4] +Itascan Dynamics [Unwritten]\n    [!5] +Kinetyx\n    [!6] +Outerweapon Conglomerate\n    [!7] >Minor",
         "links": [
+          "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS",
           "/ROOT/COMPANIES/MILITARY/ATLAS",
           "/ROOT/COMPANIES/MILITARY/ITASCAN_DYNAMICS",
           "/ROOT/COMPANIES/MILITARY/HWF",
@@ -3552,7 +3555,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/02/13 13:52:22",
-          "editTime": "2022/05/02 23:15:35"
+          "editTime": "2023/05/23 18:28:29"
         },
         "extension": ""
       },
@@ -3849,16 +3852,17 @@
         "name": "Callsigns",
         "path": "/ROOT/TRAVEL/SPACE/CALLSIGNS",
         "isUp": true,
-        "data": "css\n     Every GCP-standard ship broadcasts a string known as a \"Callsign\". A callsign contains a ship's nationality, its name, its model, and its unique 16-bit ID number separated by dashes. In a callsign, the Name component is the only one that's modifiable by an end-user; the ID and model name come pre-programmed in most all craft on the market. The ID is expressed in a 4-digit hexadecimal number.\n\n     For example, imagine there is a [!1 Harrier-class] spacecraft from [!2 Itascus] with the name \"StarRider\" and a unique ID of 0x4DB7. Its broadcasted callsign would read \"IT. StarRider - Harrier - 4DB7\".\n\n     Any object that does not broadcast a callsign can legally be assumed to be debris.",
+        "data": "css\n     Every GCP-standard ship broadcasts a string known as a \"Callsign\".  A callsign contains a ship's nationality, its name, its model, and its unique 16-bit ID number separated by dashes.  In a callsign, the Name component is the only one that should be modifiable by an end-user; the ID and model name come pre-programmed in most all crafts on the market.  The ID is expressed in a 4-digit hexadecimal number.\n\n     For example, imagine there is a [!1 Harrier-model] spacecraft from [!2 Itascus] with the name \"Starrider\" and a unique ID of 0x4DB7.  Its broadcasted callsign would read \"IT. Starrider-Harrier-4DB7\".  In instances where ships are not of a standard model (i.e. \"one of a kind\"), it's suitable to use its [!3 class] in place of its model.\n\n     Any object that does not broadcast a callsign can legally be assumed to be debris in most jurisdictions.`",
         "links": [
           "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/TRANSIT/HARRIER",
-          "/ROOT/NATIONS/ITASCUS"
+          "/ROOT/NATIONS/ITASCUS",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/03/14 20:00:43",
-          "editTime": "2019/03/14 20:23:36"
+          "editTime": "2023/05/23 22:07:23"
         },
         "extension": ""
       },
@@ -5581,16 +5585,17 @@
         "name": "International Holidays and Events",
         "path": "/ROOT/CALENDAR/EVENTS/INTERNATIONAL",
         "isUp": true,
-        "data": "css\n   [!1] +New Years [Unwritten]\n   [!2] +First Contact [Undocumented]",
+        "data": "css\n   [!1] +New Years [Unwritten]\n   [!2] +First Contact [Undocumented]\n   [!3] +International Labor Tourneys [Stub]",
         "links": [
           "/ROOT/CALENDAR/EVENTS/INTERNATIONAL/NEWYEARS",
-          "/ROOT/CALENDAR/EVENTS/INTERNATIONAL/FIRST_CONTACT"
+          "/ROOT/CALENDAR/EVENTS/INTERNATIONAL/FIRST_CONTACT",
+          "/ROOT/CALENDAR/EVENTS/INTERNATIONAL/LABOR_TOURNEYS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/08/14 17:18:20",
-          "editTime": "2020/02/04 10:33:45"
+          "editTime": "2023/05/23 20:23:55"
         },
         "extension": ""
       },
@@ -6395,7 +6400,7 @@
         "name": "The Itascan Presidents",
         "path": "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT",
         "isUp": true,
-        "data": "css\n    [!1]  ~Info\n    [!2]  +(13 to 21) Kyle Stanley [Unwritten]\n    [!3]  +(22 to 29) Lewis Jacobs [Stub]\n    [!4]  +(30 to 41) [Unnamed]\n    [!5]  +(42 to 53) Harry Lee [Unwritten]\n    [!6]  +(54 to 61) [Unnamed]\n    [!7]  +(62 to 77) [Unnamed]\n    [!8]  +(78 to 86) Abdul Xern [Unwritten]\n    [!9]  +(87 to 94) [Unnamed]\n    [!10] +(95 to 109) Billy Anderson [Undocumented]",
+        "data": "css\n    [!1]  ~Info [Unwritten]\n    [!2]  +(13 to 21) Kyle Stanley [Unwritten]\n    [!3]  +(22 to 29) Lewis Jacobs [Stub]\n    [!4]  +(30 to 41) [Unnamed]\n    [!5]  +(42 to 53) Harry Lee [Unwritten]\n    [!6]  +(54 to 61) [Unnamed]\n    [!7]  +(62 to 77) [Unnamed]\n    [!8]  +(78 to 85) Abdul Xern [Unwritten]\n    [!9]  +(86 to 94) Michael Dredge [Undocumented]\n    [!10] +(95 to 109) Billy Anderson [Undocumented]",
         "links": [
           "/ROOT/NATIONS/ITASCUS/LEADERSHIP/PRESIDENT",
           "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/KYLE_STANLEY",
@@ -6405,14 +6410,14 @@
           "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/6",
           "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/7",
           "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/ABDUL_XERN",
-          "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/9",
+          "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/MICHAEL_DREDGE",
           "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/BILLY_ANDERSON"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/09/05 10:01:04",
-          "editTime": "2020/09/20 17:46:47"
+          "editTime": "2023/05/23 20:05:58"
         },
         "extension": ""
       },
@@ -15281,16 +15286,101 @@
         "extension": "TEXT"
       },
       {
-        "name": "Untitled",
+        "name": "The Battle of Armalai\n    [This article is a stub, you can help by writing it]\n\n    The Battle of Armalai took place in orbit of [!1 Armalai] on 8/12/102.  The beligerents consisted of the Urran Empire and Itascan Fleet fighting against the combined forces of all other Silver Stream nations.  The Urran Empire had launched the attack in order to occupy the moon, and work as a strong springboard for invading the rest of the Silver Stream.  During the battle, the Itascan forces betrayed Urra, as had been planet.\n\n    The result was a massive loss for the Urran side, one which eventually resulted in the Urran Civil War.",
         "path": "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
         "isUp": true,
         "data": "[Unwritten]",
-        "links": [],
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/MAIN"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2023/05/11 16:18:18",
-          "editTime": "2023/05/11 16:18:18"
+          "editTime": "2023/05/11 16:23:48"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Nyeshim City",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/NYESHIM",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub, you can help by writing it]\n\n    Nyeshim is the bureaucratic captiol of Bius Tu.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/23 17:44:02",
+          "editTime": "2023/05/23 17:45:45"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Peyja City",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/PEYJA",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub, you can help by writing it]\n\n    Peyja is a large city on Bius Tu, notable for being the manufacturing capitol of Bius Tu, and for being the birthplace of [!1 Karmine Jacobs].",
+        "links": [
+          "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/23 17:47:01",
+          "editTime": "2023/05/23 17:49:02"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Defense Contractor Companies",
+        "path": "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS",
+        "isUp": true,
+        "data": "css\n    [!1] +Randy's House Escort Services\n    [!2] ~The Order of Paladins",
+        "links": [
+          "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS/RHES",
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/23 18:29:26",
+          "editTime": "2023/05/23 18:30:40"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Randy's House Escort Services",
+        "path": "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS/RHES",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub, you can help by expanding it]\n\n    Randy's House Escort Services, commonly abbreviated as \"RHES\", is a Defense Contractor Company founded in the year 67.  RHES commonly works in coordination with the [!1 Order of Paladins].  In the year 95, the company moved their headquarters from [!2 Itascus] to [!3 Kayan].",
+        "links": [
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/23 18:31:16",
+          "editTime": "2023/05/23 18:37:32"
+        },
+        "extension": ""
+      },
+      {
+        "name": "International Labor Tourneys",
+        "path": "/ROOT/CALENDAR/EVENTS/INTERNATIONAL/LABOR_TOURNEYS",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub, you can help by writing it]\n\n    The Labor Tourneys is an international, multi-faceted competition held biannually on [!1 Armalai].  All nations in the [!2 Silver Stream] are invited to compete.  The tourneys contain many competitions in, physical ability, sporting ability, and ability to perform various professional labors.  Each competition results in three winners, awarded an Iridium Medal for 1st Place, a Gold Medal for 2nd, and a Silver Medal for 3rd.\n\n    While entrants are forbidden from making use of any mechanical enhancements other than those required for their labors, use of some performance-enhancing substances are permitted starting in 70 PW.  This is to \"even the odds\", as some [!3 species of human] are considerably better at some tasks than others.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM",
+          "/ROOT/BIOLOGY/RACES/DEFINITION"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/23 20:24:55",
+          "editTime": "2023/05/23 21:20:28"
         },
         "extension": ""
       }
