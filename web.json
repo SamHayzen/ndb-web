@@ -188,7 +188,7 @@
         "name": "Root",
         "path": "/ROOT",
         "backpath": "/MAIN",
-        "data": "css\n   [!1]  >Biology\n   [!2]  >Calendar & History\n   [!3]  >Combat & Weaponry\n   [!4]  >Corporations\n   [!5]  >Culture\n   [!6]  >Economics, Manufacturing & Consumer Products\n   [!7]  >Internet\n   [!8]  >Locations\n   [!9]  >Nations\n   [!10] >People\n   [!11] >Science & Technology\n   [!12] >Travel & Vehicles",
+        "data": "css\n   [!1]  >Biology\n   [!2]  >Calendar & History\n   [!3]  >Combat & Weaponry\n   [!4]  >Corporations\n   [!5]  >Culture\n   [!6]  >Economics, Manufacturing & Consumer Products\n   [!7]  >Internet\n   [!8]  >Locations\n   [!9]  >Nations\n   [!10] >People\n   [!11] >Science & Technology\n   [!12] >Travel & Vehicles\n   ----\n   [!13] ~Search",
         "links": [
           "/ROOT/BIOLOGY",
           "/ROOT/CALENDAR",
@@ -201,13 +201,14 @@
           "/ROOT/NATIONS",
           "/ROOT/PEOPLE",
           "/ROOT/TECHNOLOGY",
-          "/ROOT/TRAVEL"
+          "/ROOT/TRAVEL",
+          "/SEARCH"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2022/02/01 01:33:36"
+          "editTime": "2023/05/27 19:45:37"
         },
         "extension": ""
       },
@@ -3126,7 +3127,7 @@
         "path": "/ROOT/NATIONS/NEO_URRA/MAIN",
         "isUp": true,
         "backpath": "",
-        "data": "css\n┌────────────────────────────────────┐\n│Official Name..: The Urran Empire   │\n│Population.....: ~23 Billion        │\n│Leader(s)......: [!1 Celtai Tavekim]│\n│# of Planets...: 11                 │\n│# of Provinces.: 5                  │\n│Capital Planet.: [!2 Kayan]         │\n│Capital City...: [!3 Antaria]       │\n│Demonym........: Neo Urran          │\n│Government Type: Autocracy          │\n│Parent.........: None               │\n└────────────────────────────────────┘\n\n    Neo Urra (Officially the Urran Empire) is an autocracy created in 102 P.W. in the aftermath of the [!4 Battle of Armalai] alongside [!5 New Tyventia].  It is situated in the prograde external nadir corner of the [!6 Silver Stream]. \n\n    The economic heart of the nation lies within the home system of the [!7 Tyvant Race] -- [!8 Celesse]. Three planets in the system are colonised: \n        [!2 Kayan] (formerly Nastimye) is the second planet from Cellesse and has a population of 12 Billion.  It is the homeworld of the Tyvant race and the capital of Neo Urra since 102 P.W. after the loss of [!9 Planetary Urra].\n        [!10 Kosh] is the third planet from Celesse.  It was the first planet to be colonised by the Tyvant race since it met the requirements for sustaining [!11 Tyvus life].\n        [!12 Vella] is the moon of Kayan and was the second celestial body colonised by the Tyvant Race in pre-warp times.  The moon counts 5 Billion citizens, and has been Paraterraformed by the gradual development of geodesic domes and pressurized colonies covering much of the surface.  It is the research barycenter of Neo Urra.\u0000css\n    The nation also controls four developing colonies and four frontier worlds.  It is currently trying to colonise the planet of [!13 Netamil] in order to bolster its claim on the strategic system of [!14 Liascus] which holds large, easily-accessible deposits of mercury in its inner asteroid belt and is part of the most common transit [!15 circuit] between [!5 New Tyvantia] and the [!15 GCP]. \n\n    The Neo Urran economy has been under embargo since the creation of the country as it has inherited from the gcp trade embargo inflicted to the Urran Empire after [!16 Karmine Jacob’s] takeover of most of the nation of Tyventia. As a result, it is completely centered inward with the exception of the contraband of ships, weapons and goods.\n\n    For its currency, Neo Urra inherited the Imperial Urran Kar which is approximately worth 0.2 [!17 Itascan Coins] as it was defined in 82.  Because of the [!14 GCP] embargo placed on the nation, this ratio is no longer enforced by the Urran bank and, since the trade volumes are extremely low, the exchange rate remains theoretical.\n\n    Because of its geopolitically isolated situation in the silver stream (Gallea being the only nation Neo Urra maintains warm relations with), the empire is extremely militaristic and fields a first-class voidnavy.  While having some lateness in Computer Science and Ichor manipulation technology, Neo Urra can compensate for it with an edge in laser technology, ship design and lowered cost of manufacturing.\n\n    The state lay claims on all of the territory and claims of the former Urran Empire, its effectively-controlled territory, New Tyventia, [!18 Armalai], Urra and the [!14 Liascus system].",
+        "data": "css\n┌────────────────────────────────────┐\n│Official Name..: The Urran Empire   │\n│Population.....: ~23 Billion        │\n│Leader(s)......: [!1 Celtai Tavekim]│\n│# of Planets...: 11                 │\n│# of Provinces.: 5                  │\n│Capital Planet.: [!2 Kayan]         │\n│Capital City...: [!3 Antaria]       │\n│Demonym........: Neo Urran          │\n│Government Type: Autocracy          │\n│Parent.........: None               │\n└────────────────────────────────────┘\n\n    Neo Urra (Officially the Urran Empire) is an autocracy created in 102 P.W. in the aftermath of the [!4 Battle of Armalai] alongside [!5 New Tyventia].  It is situated in the prograde external nadir corner of the [!6 Silver Stream]. \n\n    The economic heart of the nation lies within the home system of the [!7 Tyvant Race] -- [!8 Celesse]. Three planets in the system are colonised: \n        [!2 Kayan] (formerly Nastimye) is the second planet from Cellesse and has a population of 12 Billion.  It is the homeworld of the Tyvant race and the capital of Neo Urra since 102 P.W. after the loss of [!9 Planetary Urra].\n        [!10 Kosh] is the third planet from Celesse.  It was the first planet to be colonised by the Tyvant race since it met the requirements for sustaining [!11 Tyvus life].\n        [!12 Vella] is the moon of Kayan and was the second celestial body colonised by the Tyvant Race in pre-warp times.  The moon counts 5 Billion citizens, and has been Paraterraformed by the gradual development of geodesic domes and pressurized colonies covering much of the surface.  It is the research barycenter of Neo Urra.\u0000css\n    The nation also controls four developing colonies and four frontier worlds.  It is currently trying to colonise the planet of [!13 Netamil] in order to bolster its claim on the strategic system of [!14 Liascus] which holds large, easily-accessible deposits of mercury in its inner asteroid belt and is part of the most common transit [!15 circuit] between [!5 New Tyvantia] and the [!15 GCP]. \n\n    The Neo Urran economy has been under embargo since the creation of the country as it has inherited from the gcp trade embargo inflicted to the Urran Empire after [!16 Karmine Jacob’s] takeover of most of the nation of Tyventia. As a result, it is completely centered inward with the exception of the contraband of ships, weapons and goods.\n\n    For its currency, Neo Urra inherited the Imperial Urran Kar which is approximately worth 0.2 [!17 Itascan Coins] as it was defined in 92.  Because of the [!14 GCP] embargo placed on the nation, this ratio is no longer enforced by the Urran bank and, since the trade volumes are extremely low, the exchange rate remains theoretical.\n\n    Because of its geopolitically isolated situation in the silver stream (Gallea being the only nation Neo Urra maintains warm relations with), the empire is extremely militaristic and fields a first-class voidnavy.  While having some lateness in Computer Science and Ichor manipulation technology, Neo Urra can compensate for it with an edge in laser technology, ship design and lowered cost of manufacturing.\n\n    The state lay claims on all of the territory and claims of the former Urran Empire, its effectively-controlled territory, New Tyventia, [!18 Armalai], [!9 Planetary Urra] and the [!14 Liascus system].",
         "links": [
           "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/CELTAI_TAVEKIM",
           "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN",
@@ -3136,6 +3137,7 @@
           "/ROOT/LOCATIONS/SILVER_STREAM/MAIN",
           "/ROOT/BIOLOGY/VIVOTYPES/TYVUS/HUMANOID/HUMANS/TYVANT_GENERAL",
           "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/URRA/MAIN",
           "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KOSH",
           "/ROOT/BIOLOGY/VIVOTYPES/TYVUS",
           "/ROOT/LOCATIONS/SILVER_STREAM/CELESSE/KAYAN/VELLA",
@@ -3151,7 +3153,7 @@
           "author": "<@!329216363447058434>",
           "editor": "<@220352318510596096>",
           "madeTime": "Pre 1/5/2019",
-          "editTime": "2022/02/04 21:35:38"
+          "editTime": "2023/05/27 18:42:57"
         },
         "extension": "TEXT"
       },
@@ -5655,7 +5657,7 @@
         "name": "World Wars",
         "path": "/ROOT/CALENDAR/CONFLICTS/WORLD_WARS",
         "isUp": true,
-        "data": "css\n [!1] +Main [Unwritten]\n [!2] ~Gallean World War\n [!3] ~Itascan World War [Undocumented]\n [!4] ~Tuine World War [Unwritten]",
+        "data": "css\n    [!1] +Main [Unwritten]\n    [!2] ~Gallean World War\n    [!3] ~Itascan World War\n    [!4] ~Tuine World War [Unwritten]",
         "links": [
           "/ROOT/CALENDAR/CONFLICTS/WORLD_WARS/MAIN",
           "/ROOT/NATIONS/GALLEA/HISTORY/WORLD_WAR",
@@ -5666,7 +5668,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/08/14 17:42:06",
-          "editTime": "2019/09/08 23:44:36"
+          "editTime": "2023/05/27 19:37:56"
         },
         "extension": ""
       },
@@ -6980,15 +6982,17 @@
         "name": "Celestial Conflicts",
         "path": "/ROOT/CALENDAR/CONFLICTS/CELESTIAL",
         "isUp": true,
-        "data": "css\n  [!1] +The Battle of Armalai",
+        "data": "css\n    [!1] +The Battle of Armalai\n    [!2] >The Urran Invasion\n    [!3] ~The Urran Civil War",
         "links": [
-          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI"
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION",
+          "/ROOT/CALENDAR/CONFLICTS/CIVIL_WARS/URRAN"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/18 13:37:36",
-          "editTime": "2019/10/18 13:38:28"
+          "editTime": "2023/05/27 20:01:51"
         },
         "extension": ""
       },
@@ -8230,7 +8234,7 @@
         "name": "Urran Mass Relay",
         "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/URRA/MASS_RELAY",
         "isUp": true,
-        "data": "css\n    The Urran Mass Relay, sometimes called the \"Urran planetary railgun\", is a 5000-ton structure built in the year 72 P.W. by the [!1 Urran Provincial government] for the purpose of lowering the shipping cost of industrial and agricultural products of the moon.  The cannon itself is made of graphene and can launch three 25-ton payloads per hour.  To reduce the load on the local power grid, the railgun is outfitted with its own power plant.\n\n    The containers (projectiles) fired from the mass relay are magnetic and very structurally-sound.  They are bullet-shaped, vacuum-sealed objects that are one meter in diameter and up to four meters in height.  Before the payload is launched, a spacecraft is positioned in orbit in a position where it can rendezvous with the payload and \"catch\" it before it reenters the atmosphere.  The Mass Relay is not rated as safe for human transport, or for transport of any delicate goods.\n\n    The railgun was commissioned by the Urran government after an intense campaign of lobbying from [!2 Catalyst], which desired a cheaper way to send its alloys into orbit.\n    With the completion of the structure, the cost of getting a kg of material into space was greatly reduced, allowing the development and growth of numerous new industries on the planet.",
+        "data": "css\n    The Urran Mass Relays, sometimes called the \"Urran Planetary Railguns\", is a set of three 5000-ton structures built in the year 91 P.W. by the [!1 Urran Provincial government] under order of [!2 Karmine Jacobs] for the purpose of lowering the shipping cost of industrial and agricultural products from the planet.  The cannons themselves are made of graphene and can launch three 25-ton payloads per hour.  To reduce the load on the local power grid, each railgun is outfitted with its own power plant.\n\n    The containers (projectiles) fired from the mass relays are magnetic and very structurally-sound.  They are bullet-shaped, vacuum-sealed objects that are one meter in diameter and up to four meters in height.  Before the payload is launched, a spacecraft is positioned in orbit in a position where it can rendezvous with the payload and \"catch\" it before it reenters the atmosphere.  The Mass Relay is not rated as safe for human transport, or for transport of any delicate goods.\n\n    The railgun was commissioned by the Urran planetarygovernment after an intense campaign of lobbying from [!3 Catalyst], which desired a cheaper way to send its alloys into orbit.\n    With the completion of the structure, the cost of getting a kilogram of material into space was greatly reduced, allowing the development and growth of numerous new industries on the planet.",
         "links": [
           "/ROOT/NATIONS/ITASCUS/PROVINCES/URRA",
           "/ROOT/COMPANIES/MATERIALS/METALLURGY/CATALYST"
@@ -8239,7 +8243,7 @@
           "author": "<@329216363447058434>",
           "editor": "<@220352318510596096>",
           "madeTime": "2019/10/30 20:05:42",
-          "editTime": "2019/10/30 20:11:46"
+          "editTime": "2023/05/27 19:22:35"
         },
         "extension": ""
       },
@@ -12171,15 +12175,69 @@
         "name": "Karmine Jacobs",
         "path": "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS",
         "isUp": true,
-        "data": "css\n    [This article is unwritten.  You can help by writing it.]",
-        "links": [],
+        "data": "css\n┌──────────────────────────────────────┐\n│Full Name......: Karmine Jacobs       │\n│Relevant Titles: Emperor, Governor    │\n│Time of Birth..: 28/8/74              │\n│Place of Birth.: [!1 Peyja City],     │\n│                 [!2 Bius Tu]         │\n│Place of Living: Unknown              │\n│Time of Death..: Unknown/TBD          │\n│Species........: [!3 Tuine]           │\n│Ethnicity......: Tuine                │\n│Occupation(s)..: Corporate Ambassador,│\n│                 Defense Contractor,  │\n│                 Envoy, Governor,     │\n│                 Emperor              │\n│Languages......: [!4 Tuine],          │\n│                 [!5 Unil],           │\n│                 [!6 Gallean],        │\n│                 [!7 Tyvansil]        │\n│Associates.....: [!8 Michael Dredge]  │\n└──────────────────────────────────────┘\n\n    Karmine Jacobs was the Emperor of the [!9 Urran Empire] from the years 92 to 102 PW.  Prior to that, he was the governor of [!10 Planetary Urra], an [!11 Itascan] diplomat to [!27 Bius Tu] and a [!12 Defense Contractor] with [!13 Randy`s House Escort Services] before that.\n    Karmine was described by political officials and those around him as quick-witted, ambitious, highly-personable, and remarkably intelligent, while also crazed, irrational, and unpredictable.\n\n    Karmine Jacobs, being a [!3 Tuine], was born in [!1 Peyja] on [!2 Bius Tu] into a middle-class family in the year 74.  His mother was Tuine, while his adopted father was Itascan, from whom he adopted his last name \"Jacobs\", while his first name was common for Tuines at the time.\n    His upbringing was rather uneventful, achieving highly in his adolescent classes.  Thoughout his youth, he made it his goal to achieve numerous academic scholarships, which eventually earned him enrollment in the prestigious Peyja Institute of Socio-Economics.\u0000css\n    After graduating college in 82, Karmine moved to [!14 Heralius] City on [!15 Gallea], persuing a career as a corporate ambassador for the [!16 Nexus Hosting Corporation].  While he reportedly exhibited remarkable professional performance, he stopped coming in to work one day without warning in 83, with his home being found empty.\n    In 104, this house was purchased by the municipal government, torn down, and replaced with a small public area containing a steel monument to the [!17 Battle of Armalai]\n    \n    Two weeks after his disappearance on [!15 Gallea], he had called into the Nexus Head Office to inform them that he was resigning, effective immediately, and is now working on [!18 Itascus] as a [!12 defense contractor].  Jacobs worked at [!13 Randy`s House Escort Service], allegedly working his way up through the ranks, eventually making an important contact with its founder.\n    \n    Through currently-classified means, Karmine made contact with then-[!19 Itascan-President] [!20 Michael Dredge] in 86 PW.  President Dredge took a liking to Karmine; while the exact extent of their relationship is unknown, they were alleged to meet frequently.  It`s suspected, though never confirmed, that President Dredge was communing with Karmine to make use of his services as a [!12 Defense Contractor] while he held a high position within RHES.\n    \n    Around this time, Karmine commissioned the creation of an [!21 amalgamate-class] mobile space station, staffed by [!22 Servuses] he had proportedly rescued from poor conditions though his work.  The craft was named The Liveston after [!23 Liveston City] on [!24 Osirja].  Its [!25 callsign] was  \"IT.Liveston-Station-05B3\", the craft was [!26 warp-capable], and had two medium gravity rings, on which lived the crew.\u0000css\n    In late 86, Karmine was granted [!11 Itascan] Citizenship after an expedited screening period, and promptly bought a homestead on [!10 Planetary Urra] (which is an Itascan territory).  While he spent the majority of his time on Itascus at this time, his Urran home was his legal place of residence.\n    Early 87, he was assigned as an [!11 Itascan] envoy to [!27 Bius Tu], taking leave from his position at RHES to fulfill his diplomatic duties.  Over the next two years, he worked to reach diplomatic agreements between the nations of Itascus and Bius Tu until he was rather suddenly removed from his position and recalled to [!18 Itascus].\n    \n    As the Urran election cycle was coming into full swing, Karmine officially declared he was running for Governor, campaigning as a seasoned Itascan diplomat under the endorsement of President Dredge.  He won the election with a 58% majority, and was inaugurated as governor in the year 90.\n    \n    While Karmine`s overall political career would come to have an overwhelmingly-negative effect on the [!28 Silver Stream], his actions and policy as governor of Urra were broadly well-received.\n    Notably, he moved to create the [!29 Urran Mass Relays], which, while presenting a massive up-front cost to taxpayers, made back its development cost though logistical efficiency savings within three years of the project`s completion.  He also instituted subsidies for companies to move their facilities underground, and greatly increased the strength of the Urran fleet, which was foreboding of his future plans.\n    Karmine`s administration commissioned a massive, warp-capable, spherical freighter 1,300 meters in diameter named The Luna ([!25 callsign] \"IT.Luna-Freighter-743C\"), tasked with ferrying shipments back and forth between Urra and [!30 Excelsior].  This served to better connect Urran goods to the [!31 Homeworld Circuit], boosting trade even further.\u0000css\n    In secret, Karmine had his military scientists draft the [!32 Urran Superweapon], a device claiming to be a laser beam of sorts capable of decimaing whole planets.  The device didn`t work, of course; instead, its devistating power would be achieved by covertly placing arrays of nuclear charges at the target before firing the \"beam\" at the bombs, triggering their detonation.\n\n    In the year 92, two years into his governance, Planetary Urra was placed under martial law as [!33 The Urran Revelation] came to fruition, wherein Urra declared independence from Itascus, and Karmine Jacobs decimated the manufacturing capitol of the [!34 Tyventian Empire], planet [!35 Ortis], with a [!32 \"previously-unknown weapon of mass destruction\"].\n    Moving in his fleet, he threatened the rest of Tyventian Empire with the same fate as Ortis if they did not obey him.  This kicked off the [!36 Urran-Tyventian Invasion], at the end of which Karmine took his place as Emperor of the combined Urran and Tyventian space, now called the [!37 Urran Empire].\n\n    Karmine aimed to make himself appreciated yet feared by the Tyventian people.  He achieved this in part by implimenting [!38 Karminism], an idological economic system revolving around heavy government control and rewarding service to the state.\n\n    Breaking from convention, his official title was \"Emperor Karmine\", as opposed to \"Emperor Jacobs\".  Notably, the use of \"Karmine\" as a first name on [!27 Bius Tu] dropped considerably throughout the course of his leadership.\u0000css\n    Karmine carried himself in a way to make his rule appear highly-capable, yet irascible and crazed.  Karmine made an effort to improve his [!39 Tyvansil] to speak to his subjects in their native language.\n    In the year 98, the Urran Empire was invited to take part in the [!40 International Labor Tourneys] for the first time since the invasion as a show of good faith from the rest of the nations of the [!28 Silver Stream].  However, Karmine personally commissioned a group of purpose-made robots as entrants, granting each robot legal citizenship of his empire for good measure.  These robot entrants were rejected as they did not meet the qualifications for the competition.  Karmine denounced the tourneys as descriminatory, and held empire-wide labor tourneys of his own, in which his robot competitors won accross the board.\n    \n    Around this time, The Luna was refitted with [!41 Energy Weaponry] and overcharged [!42 QMRP] shielding technology, allowing it to fill a protective combat role.  Karmine made this a symbol of his strength, and eagerly made it his military flagship, but still using the Liveston as a personal craft.  Meanwhile, Karmine was getting cocky with the use of his [!32 Urran Superweapon], using it to annihilate small asteroids as a show of his strength.  However, this achieved the opposite effect -- as other nations looked on, they realized that the effects of the weapon were not as described, making them skeptical as to if it were real.\u0000css\n    With ambitions of galactic conquest, and conspiring with the nation of [!11 Itascus], Karmine Jacobs planned [!17 The Battle of Armalai].  Jacobs planned to occupy [!43 Armalai] due to its relatively-weak forces and cultural importance to the Silver Stream, making it a heavy morale drain to surrounding nations if it were to fall.\n    However, the then-Itascan-president [!44 Billy Anderson] was much less receptive to Karmine`s ambitions than his predecessor, President Dredge.  Anderson betrayed Emperor Karmine and informed Armalai, and subsequently the rest of the Silver Stream of his plot.\n\n    On the day of the battle, Urran and Itascan forces warped into [!43 Armalai`s] SOI, with Karmine himself aboard the Luna, demanding Armalai surrender to his forces or sufferr his superweapon.\n    However, the rest of the Silver Stream had been informed of the illegitimacy of the Urran weapon by Itascus.  Karmine`s demands were met by the combined forces of [!45 Deoria], [!46 Gallea], [!27 Bius Tu], [!47 Armalai], [!48 La`foy], [!49 Ghillymedic Union], and [!50 Solar Union], with the Itascan forces ordered to betray and attack the Urran fleet shortly after the beginning of the engagement.\n    As the Luna recived fatal damage, a small craft fled from its rear docking bay, immediately [!26 warping] away from the conflict.  According to the crew of the Luna captured after its boarding, the craft was an escape pod containing Karmine and one of his devoted [!22 Servus] assistants.\n    He landed at the government spaceport in the Urran capitol a month after the battle, rushing to his official residence and collecting some various objects and belongings while explaining little to anyone who talked to him.  He then took control of a [!26 warp-capable] [!51 transit-class] craft from the government spaceport with his assistant never to be seen again.\u0000css\n    Karmine`s abscence led the already-fragile Urran Empire to enter the [!52 Urran Civil War], a period of instability resulting in the empire fracturing into the smaller nations of [!9 Neo Urra] and [!53 New Tyventia], with Planetary Urra falling back into Itascus` Jurisdiction.\n    \n    Karmine`s status and whereabouts are unknown, with no confirmed sightings since 102.  Many suspect he is living out the rest of his days in a rural area on [!2 Bius Tu], if he is still alive at all.",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/PEYJA",
+          "/ROOT/LOCATIONS/SILVER_STREAM/MYOTIS/BIUS_TU/MAIN",
+          "/ROOT/BIOLOGY/RACES/TUINE/TUINE_GENERAL",
+          "/ROOT/CULTURE/LANGUAGE/TUINE/MAIN",
+          "/ROOT/CULTURE/LANGUAGE/UNIL/MAIN",
+          "/ROOT/CULTURE/LANGUAGE/GALLEAN/MAIN",
+          "/ROOT/CULTURE/LANGUAGE/TYVANSIL/MAIN",
+          "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/MICHAEL_DREDGE",
+          "/ROOT/NATIONS/NEO_URRA/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/URRA/MAIN",
+          "/ROOT/NATIONS/ITASCUS/MAIN",
+          "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS/MAIN",
+          "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS/RHES",
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/HERALIUS",
+          "/ROOT/LOCATIONS/SILVER_STREAM/GAVIA/GALLEA/MAIN",
+          "/ROOT/COMPANIES/COMPUTERS/NEXUS",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/MAIN",
+          "/ROOT/NATIONS/ITASCUS/LEADERSHIP/PRESIDENT",
+          "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/MICHAEL_DREDGE",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/AMALGAMATE/MAIN",
+          "/ROOT/BIOLOGY/VIVOTYPES/DAERUS/HUMANOID/DEORIAN_HUMAN/SERVUSES/SERVUS_GENERAL",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SELENIA/OSIRJA/LIVESTON",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SELENIA/OSIRJA/MAIN",
+          "/ROOT/TRAVEL/SPACE/CALLSIGNS",
+          "/ROOT/TECHNOLOGY/SPACE/WARP_DRIVE/MAIN",
+          "/ROOT/NATIONS/BIUS_TU/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/URRA/MASS_RELAY",
+          "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/EXCELSIOR",
+          "/ROOT/TRAVEL/SPACE/CIRCUITS/HOMEWORLD",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/URRAN_SUPERWEAPON",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/URRAN_REVELATION",
+          "/ROOT/NATIONS/TYVENTIA",
+          "/ROOT/LOCATIONS/SILVER_STREAM/TYVENTIA_PRIME/ORTIS/MAIN",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/MAIN",
+          "/ROOT/NATIONS/NEO_URRA/MAIN",
+          "/ROOT/CULTURE/RELIGION/POLITICAL/ECONOMIC/KARMINISM",
+          "/ROOT/CULTURE/LANGUAGE/TYVANSIL/MAIN",
+          "/ROOT/CALENDAR/EVENTS/INTERNATIONAL/LABOR_TOURNEYS",
+          "/ROOT/COMBAT/PERSONAL_WEAPONS/ENERGY/MAIN",
+          "/ROOT/TECHNOLOGY/PHYSICS/KINETICS/APPLICATION/QMRP",
+          "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/MAIN",
+          "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/BILLY_ANDERSON",
+          "/ROOT/NATIONS/DEORIA/MAIN",
+          "/ROOT/NATIONS/GALLEA/MAIN",
+          "/ROOT/NATIONS/ARMALAI/MAIN",
+          "/ROOT/NATIONS/LAFOY/MAIN",
+          "/ROOT/NATIONS/GHILLYMEDE/MAIN",
+          "/ROOT/NATIONS/SOLAR_UNION/MAIN",
+          "/ROOT/TRAVEL/VEHICLES/SPACECRAFT/CLASSES/TRANSIT/MAIN",
+          "/ROOT/CALENDAR/CONFLICTS/CIVIL_WARS/URRAN",
+          "/ROOT/NATIONS/NEW_TYVENTIA/MAIN"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/03/24 02:06:57",
-          "editTime": "2021/04/02 17:42:46"
+          "editTime": "2023/05/27 20:11:27"
         },
-        "extension": ""
+        "extension": "TEXT"
       },
       {
         "name": "Kayan",
@@ -12292,7 +12350,7 @@
         "name": "Urran Broadcasting Corporation",
         "path": "/ROOT/COMPANIES/MEDIA/UBC",
         "isUp": true,
-        "data": "css\n┌─────────────────────────────┐\n│Active Period.: 82-Present   │\n│Field.........: Media        │\n│Open Stocks?..: No           │\n│Base..........: [!1 Neo-Urra]│\n│Net Worth.....: $12 Billion  │\n└─────────────────────────────┘\n\n    The Urran Broadcasting Corporation (UBC) is a media group founded in 82, weeks after the coup of [!2 Karmine Jacobs]. At this time, it was the main tool used by the regime to distribute its propaganda.  The group currently own several radio stations and two television channels.  These television channels are Urra One, available across the broader [!3 GCP] for free; and Urra Two (previously \"Urra Four\"), a channel available across [!1 Neo-Urran] worlds.  On Urra Two, roughly 1/3 of daily content is for and about the planet where it is aired, while the rest is broader national, or galactic news.  While being intentionally made available to the rest of the GCP, UBC programming is banned in many jurisdictions, including [!4 Deoria], [!5 Bius Tu], and [!6 Gallea].\n    \n    An Urra Two station was present on Itascan-Controlled Planetary Urra at two different instances.  Each time, the station was destroyed by civilian activists, with the first being the wood-frame Urra Two station being burnt down in 102, and the second being knocked down by a civilian bulldozer truck in 106.  In both of these instances, there were no fatalities, and the civilian activists were not prosecuted beyond disorderly conduct charges.\u0000css\n    During the [!2 Jacob] years, the title of CEO of the UBC was a very prestigious one, due to the importance of propaganda in the [!1 Urran Empire], and most CEOs of the group either had been or were going to be Urran Ministers of Information.\n\n    The group peaked in 102, just before the [!7 battle of Armalai], being the only TV group in the Empire and owning five channels.  But, after the disappearance of [!2 Karmine Jacobs] and the secession of [!8 New Tyventia], the UBC had entered a slow decline, only drawing a significant audience in [!1 Neo Urra] and even there having lost the monopoly. Two years after the Battle, The UBC has announced the end of their second, third and fifth television channels because of their dwindling audience.\n    The group is allegedly in deep financial trouble according to internal sources, due to the lack of revenue from its channels and the high production value of their content, which was previously subsidised by the government.  The company also has a public relation problem, often being seen as the “voice of the dictatorship” and it is rumored that a rebranding may be on the way.",
+        "data": "css\n┌─────────────────────────────┐\n│Active Period.: 92-Present   │\n│Field.........: Media        │\n│Open Stocks?..: No           │\n│Base..........: [!1 Neo-Urra]│\n│Net Worth.....: $12 Billion  │\n└─────────────────────────────┘\n\n    The Urran Broadcasting Corporation (UBC) is a media group founded in 92, weeks after the coup of [!2 Karmine Jacobs]. At this time, it was the main tool used by the regime to distribute its propaganda.  The group currently own several radio stations and two television channels.  These television channels are Urra One, available across the broader [!3 GCP] for free; and Urra Two (previously \"Urra Four\"), a channel available across [!1 Neo-Urran] worlds.  On Urra Two, roughly 1/3 of daily content is for and about the planet where it is aired, while the rest is broader national, or galactic news.  While being intentionally made available to the rest of the GCP, UBC programming is banned in many jurisdictions, including [!4 Deoria], [!5 Bius Tu], and [!6 Gallea].\n    \n    An Urra Two station was present on Itascan-Controlled Planetary Urra at two different instances.  Each time, the station was destroyed by civilian activists, with the first being the wood-frame Urra Two station being burnt down in 102, and the second being knocked down by a civilian bulldozer truck in 106.  In both of these instances, there were no fatalities, and the civilian activists were not prosecuted beyond disorderly conduct charges.\u0000css\n    During the [!2 Jacob] years, the title of CEO of the UBC was a very prestigious one, due to the importance of propaganda in the [!1 Urran Empire], and most CEOs of the group either had been or were going to be Urran Ministers of Information.\n\n    The group peaked in 102, just before the [!7 battle of Armalai], being the only TV group in the Empire and owning five channels.  But, after the disappearance of [!2 Karmine Jacobs] and the secession of [!8 New Tyventia], the UBC had entered a slow decline, only drawing a significant audience in [!1 Neo Urra] and even there having lost the monopoly. Two years after the Battle, The UBC has announced the end of their second, third and fifth television channels because of their dwindling audience.\n    The group is allegedly in deep financial trouble according to internal sources, due to the lack of revenue from its channels and the high production value of their content, which was previously subsidised by the government.  The company also has a public relation problem, often being seen as the “voice of the dictatorship” and it is rumored that a rebranding may be on the way.",
         "links": [
           "/ROOT/NATIONS/NEO_URRA",
           "/ROOT/PEOPLE/POLITICIANS/NEO_URRAN/LEADERS/KARMINE_JACOBS",
@@ -12307,7 +12365,7 @@
           "author": "<@!329216363447058434>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/04/03 19:27:28",
-          "editTime": "2021/04/03 19:29:02"
+          "editTime": "2023/05/27 18:20:53"
         },
         "extension": "TEXT"
       },
@@ -13048,16 +13106,18 @@
         "extension": ""
       },
       {
-        "name": "Untitled",
+        "name": "Civil Wars",
         "path": "/ROOT/CALENDAR/CONFLICTS/CIVIL_WARS",
         "isUp": true,
-        "data": "[Unwritten]",
-        "links": [],
+        "data": "css\n    [!1] +Urran Civil War",
+        "links": [
+          "/ROOT/CALENDAR/CONFLICTS/CIVIL_WARS/URRAN"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2021/07/26 22:31:14",
-          "editTime": "2021/07/26 22:31:14"
+          "editTime": "2023/05/27 20:04:48"
         },
         "extension": ""
       },
@@ -13558,13 +13618,15 @@
         "name": "Tyvansil Language",
         "path": "/ROOT/CULTURE/LANGUAGE/TYVANSIL",
         "isUp": true,
-        "data": "[Unwritten]",
-        "links": [],
+        "data": "css\n    [!1] +Main [Unwritten]",
+        "links": [
+          "/ROOT/CULTURE/LANGUAGE/TYVANSIL/MAIN"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2022/02/01 00:32:20",
-          "editTime": "2022/02/04 20:30:37"
+          "editTime": "2023/05/27 18:27:41"
         },
         "extension": ""
       },
@@ -15297,10 +15359,10 @@
         "extension": "TEXT"
       },
       {
-        "name": "The Battle of Armalai\n    [This article is a stub, you can help by writing it]\n\n    The Battle of Armalai took place in orbit of [!1 Armalai] on 8/12/102.  The beligerents consisted of the Urran Empire and Itascan Fleet fighting against the combined forces of all other Silver Stream nations.  The Urran Empire had launched the attack in order to occupy the moon, and work as a strong springboard for invading the rest of the Silver Stream.  During the battle, the Itascan forces betrayed Urra, as had been planet.\n\n    The result was a massive loss for the Urran side, one which eventually resulted in the Urran Civil War.",
+        "name": "The Battle of Armalai",
         "path": "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/BATTLE_OF_ARMALAI",
         "isUp": true,
-        "data": "[Unwritten]",
+        "data": "css\n    [This article is a stub, you can help by writing it]\n\n    The Battle of Armalai took place in orbit of [!1 Armalai] on 8/12/102.  The beligerents consisted of the Urran Empire and Itascan Fleet fighting against the combined forces of all other Silver Stream nations.  The Urran Empire had launched the attack in order to occupy the moon, and work as a strong springboard for invading the rest of the Silver Stream.  During the battle, the Itascan forces betrayed Urra, as had been planet.\n\n    The result was a massive loss for the Urran side, one which eventually resulted in the Urran Civil War.",
         "links": [
           "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/MAIN"
         ],
@@ -15308,7 +15370,7 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2023/05/11 16:18:18",
-          "editTime": "2023/05/11 16:23:48"
+          "editTime": "2023/05/27 19:11:43"
         },
         "extension": ""
       },
@@ -15346,16 +15408,17 @@
         "name": "Defense Contractor Companies",
         "path": "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS",
         "isUp": true,
-        "data": "css\n    [!1] +Randy's House Escort Services\n    [!2] ~The Order of Paladins",
+        "data": "css\n    [!1] +Main\n    ----\n    [!2] +Randy's House Escort Services\n    [!3] ~The Order of Paladins",
         "links": [
+          "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS/MAIN",
           "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS/RHES",
-          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS/MAIN"
+          "/ROOT/CULTURE/RELIGION/NONTHEISTIC/DISTERRESTRIALISM/ORDERS/PALADINS"
         ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2023/05/23 18:29:26",
-          "editTime": "2023/05/23 18:30:40"
+          "editTime": "2023/05/27 19:03:11"
         },
         "extension": ""
       },
@@ -15396,7 +15459,7 @@
         "extension": ""
       },
       {
-        "name": "Untitled",
+        "name": "La'foyan Provinces",
         "path": "/ROOT/NATIONS/LAFOY/PROVINCES",
         "isUp": true,
         "data": "css\n    [Unwritten]",
@@ -15405,7 +15468,195 @@
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
           "madeTime": "2023/05/27 14:23:52",
-          "editTime": "2023/05/27 14:23:52"
+          "editTime": "2023/05/27 14:24:12"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Urran Invasion",
+        "path": "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION",
+        "isUp": true,
+        "data": "css\n    [!1] +Main [Stub]\n    [!2] +The Urran Revelation [Stub]\n    [!3] +The Urran Superweapon [Stub]",
+        "links": [
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/MAIN",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/URRAN_REVELATION",
+          "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/URRAN_SUPERWEAPON"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 15:24:53",
+          "editTime": "2023/05/27 15:26:08"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Urran Invasion",
+        "path": "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/MAIN",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub, you can help by writing it]\n    \n    The Urran Invasion was a military campaign in which the Urran Forces, led by Karmine Jacobs, invaded and occupied the Tyventian Empire, creating the Urran Empire.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 15:27:35",
+          "editTime": "2023/05/27 15:28:47"
+        },
+        "extension": ""
+      },
+      {
+        "name": "The Urran Revelation",
+        "path": "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/URRAN_REVELATION",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub, you can help by writing it]\n\n    The Urran Revelation was the event wherein Karmine Jacobs revealed his true intentions for bolstering Planetary Urra's military and industry before succeeding Urra from the Itascan nation and starting the Urran Invasion.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 15:29:06",
+          "editTime": "2023/05/27 15:30:57"
+        },
+        "extension": ""
+      },
+      {
+        "name": "The Urran Superweapon",
+        "path": "/ROOT/CALENDAR/CONFLICTS/CELESTIAL/URRAN_INVASION/URRAN_SUPERWEAPON",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub, you can help by writing it]\n\n    The Urran Superweapon, also referred to the \"Urran Annihilator\", was a fake laser superweapon allegedly capable of devastating entire planets.  While the \"weapon\" was used a few times, its actual effect was achieved through covert placement of high-yield \"clean\" nuclear weapons at the target before the beam was fired.\n\n    In pop culture, referring to something as an \"Urran Annihilator\" means that it is something that appears threatening while actually being not as powerful as it proports to be.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 15:31:32",
+          "editTime": "2023/05/27 15:40:27"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Tyvansil",
+        "path": "/ROOT/CULTURE/LANGUAGE/TYVANSIL/MAIN",
+        "isUp": true,
+        "data": "css\n    [This article is unwritten; you can help by writing it]\n\n    Tyvansil is the majority language spoken on Tyventian worlds.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 18:28:19",
+          "editTime": "2023/05/27 18:29:16"
+        },
+        "extension": ""
+      },
+      {
+        "name": "President Billy Anderson",
+        "path": "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/BILLY_ANDERSON",
+        "isUp": true,
+        "data": "css\n    [This article is unwritten; you can help by writing it]\n\n    Billy Anderson was the president of the Itascan State between the years 95 to 109.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 18:29:59",
+          "editTime": "2023/05/27 18:31:39"
+        },
+        "extension": ""
+      },
+      {
+        "name": "President Michael Dredge",
+        "path": "/ROOT/PEOPLE/POLITICIANS/ITASCAN/OFFICIALS/NATIONAL/PRESIDENT/MICHAEL_DREDGE",
+        "isUp": true,
+        "data": "css\n    [This article is unwritten; you can help by writing it]\n\n    Michael Dredge was the Itascan president from the years 86 to 94, and was notably an associate of Karmine Jacobs.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 18:32:02",
+          "editTime": "2023/05/27 18:36:53"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Defense Contractors",
+        "path": "/ROOT/COMPANIES/MILITARY/DEFENSE_CONTRACTORS/MAIN",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub; you can help by expanding it]\n\n    Defense Contractors are hired personnel hired through Defense Contracting Companies tasked with various high-risk armed assignments.  Most commonly, they're hired as security details for high-value assets, or as teams hired to retrieve stolen property.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 19:04:18",
+          "editTime": "2023/05/27 19:08:46"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Excelsior",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/SOL/SKOTH/ITASCUS/EXCELSIOR",
+        "isUp": true,
+        "data": "css\n    [This article is a stub, you can help by expanding it]\n\n    Excelsior (Station code: [XLCR]) is a massive space station in low orbit of Itascus.  It has a standing population of over 1,000, and acts as Itascus's primary astroport, shepherding the majority of space traffic to the world.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 19:23:48",
+          "editTime": "2023/05/27 19:27:53"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Ortis",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/TYVENTIA_PRIME/ORTIS",
+        "isUp": true,
+        "data": "css\n    [!1] +Info",
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/TYVENTIA_PRIME/ORTIS/MAIN"
+        ],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 19:34:03",
+          "editTime": "2023/05/27 19:34:15"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Ortis",
+        "path": "/ROOT/LOCATIONS/SILVER_STREAM/TYVENTIA_PRIME/ORTIS/MAIN",
+        "isUp": true,
+        "data": "css\n    [This article is a Stub; you can help by writing it]\n\n    Ortis is the manufacturing capitol of the Tyventian Empire (now Neo-Urra).",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 19:34:21",
+          "editTime": "2023/05/27 19:36:05"
+        },
+        "extension": ""
+      },
+      {
+        "name": "The Urran Civil War",
+        "path": "/ROOT/CALENDAR/CONFLICTS/CIVIL_WARS/URRAN",
+        "isUp": true,
+        "data": "css\n    [This article is a stub; you can help by writing it]\n\n    The Urran Civil War took place in the Urran Empire, resulting in the creation of the nations of Neo Urra and New Tyventia.",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 20:04:57",
+          "editTime": "2023/05/27 20:05:43"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/NATIONS/NEW_TYVENTIA/MAIN",
+        "isUp": true,
+        "data": "css\n    [This article is Unwritten; you can help by writing it]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 20:11:59",
+          "editTime": "2023/05/27 20:11:59"
         },
         "extension": ""
       }
