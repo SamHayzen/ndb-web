@@ -1927,6 +1927,7 @@
           "/ROOT/NATIONS/LAFOY/MAIN",
           "/ROOT/NATIONS/LAFOY/GOVERNMENT",
           "/ROOT/NATIONS/LAFOY/LEADERSHIP",
+          "/ROOT/NATIONS/LAFOY/PROVINCES",
           "/ROOT/NATIONS/LAFOY/PROGRAMS",
           "/ROOT/NATIONS/LAFOY/MILITARY",
           "/ROOT/NATIONS/LAFOY/HISTORY",
@@ -15172,7 +15173,17 @@
         "path": "/ROOT/PEOPLE/INTERNET/ZUATONG/AINU_CEIMA",
         "isUp": true,
         "data": "css\n┌─────────────────────────────────────┐\n│Full Name......: Ainu Ceima          │\n│Relevant Titles: N/A                 │\n│Time of Birth..: -893                │\n│Place of Birth.: [!1 Lightfire City],│\n│                 [!2 Armalai]        │\n│Place of Living: [!3 Skydune City],  │\n│                 Armalai             │\n│Time of Death..: TBD                 │\n│Species........: [!4 La`Foyan]       │\n│Ethnicity......: Shurui              │\n│Occupation(s)..: Musician, SoftPirate│\n│Languages......: [!5 Nunwei],        │\n│                 [!6 Unil]           │\n│Top Net Worth..: Unknown             │\n│Notable Assets.: Unknown             │\n│Associates.....: [!7 The Echodolls]  │\n│                 [!8 Zuatong] Staff  │\n└─────────────────────────────────────┘\n    \n    Ainu Ceima is a Shurui-[!4 La`foyan] [!9 Armalite National] living in [!3 Skydune City].  She`s known for being the lead musician in [!7 The Echodolls] and being a part of [!8 Zuatong] before it was [!8 Federally shut down].\n    \n    She served six months in prison fom 22/4/107 to 22/10/107 due to her aforementioned involvement with Zuatong.  To her benefit, during her trial, she was able to enter into a plea deal in which she avoided longer jail time and doged any major felony charges which would`ve prevented her from securing her current residence in the Artists` Campus of [!3 Skydune City].",
-        "links": [],
+        "links": [
+          "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/LIGHTFIRE",
+          "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/MAIN",
+          "/ROOT/LOCATIONS/SILVER_STREAM/VERANUS/LAFOY/ARMALAI/SKYDUNE_CITY",
+          "/ROOT/BIOLOGY/VIVOTYPES/FEIRAUS/HUMANOID/LAFOYAN/LAFOYAN_GENERAL",
+          "/ROOT/CULTURE/LANGUAGE/NUNWEI/MAIN",
+          "/ROOT/CULTURE/LANGUAGE/UNIL/MAIN",
+          "/ROOT/CULTURE/MUSIC/PRODUCERS/BANDS/ECHODOLLS/MAIN",
+          "/ROOT/INTERNET/WEBSITES/MEDIA/ZUATONG",
+          "/ROOT/NATIONS/ARMALAI/MAIN"
+        ],
         "meta": {
           "author": "<@220352318510596096>",
           "editor": "<@220352318510596096>",
@@ -15381,6 +15392,20 @@
           "editor": "<@220352318510596096>",
           "madeTime": "2023/05/23 20:24:55",
           "editTime": "2023/05/23 21:20:28"
+        },
+        "extension": ""
+      },
+      {
+        "name": "Untitled",
+        "path": "/ROOT/NATIONS/LAFOY/PROVINCES",
+        "isUp": true,
+        "data": "css\n    [Unwritten]",
+        "links": [],
+        "meta": {
+          "author": "<@220352318510596096>",
+          "editor": "<@220352318510596096>",
+          "madeTime": "2023/05/27 14:23:52",
+          "editTime": "2023/05/27 14:23:52"
         },
         "extension": ""
       }
